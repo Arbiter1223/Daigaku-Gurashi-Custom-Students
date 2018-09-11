@@ -1,4 +1,7 @@
 # Koukou-Gurashi-Custom-Students
+
+<img src ="http://www.thinwithin.org/wp-content/uploads/2015/06/saw-horse-6.jpg">
+
 Welcome to the Koukou Gurashi Custom Student file host!
 
 Here, you can view all of the custom student files currently in the database as well as preview pictures for them.
