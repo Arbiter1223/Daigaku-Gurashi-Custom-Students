@@ -5,4 +5,4 @@ Here, you can view all of the custom student files currently in the database as 
 
 Just like the game, this is a major work in progress, so bear that in mind for the moment as you browse through the students. Thank you, and enjoy your new classmates!
 
-###-Arbiter1223
+##-Arbiter1223
