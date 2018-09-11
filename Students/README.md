@@ -14,4 +14,4 @@ Uploader:
 
 Version: V0.XX
 
-Download Link: <a href="">StudentFileName.student</a>
+Download Link: <a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/Jennyafur%20(A%20cheerful%20blonde%20neko%20girl).md">StudentFileName.student</a>
