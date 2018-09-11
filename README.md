@@ -13,7 +13,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 ### -Arbiter1223
 
 --------
-#### -+=<|Click on a student to view their information. You can download their respective .student file from there.|>=+-
+#### ---Click on a student to view their information. You can download their respective .student file from there.---
 
 //TODO Resize images
 
