@@ -1,6 +1,6 @@
 # Arisa (Arisu's older, nicer sister)
 
-<img src = "">
+<img src = "https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Arisa%20(Arisu's%20older%2C%20nicer%20sister).png">
 
 Name: Arisa
 
@@ -10,4 +10,4 @@ Uploader: Arbiter1223
 
 Version: V0.27
 
-Download Link: <a href="">Arisa (Arisu's older, nicer sister) - Arbiter1223, V0.27.student</a>
+Download Link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Arisa%20(Arisu's%20older%2C%20nicer%20sister)%20-%20Arbiter1223%2C%20V0.27.student">Arisa (Arisu's older, nicer sister) - Arbiter1223, V0.27.student</a>
