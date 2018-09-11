@@ -12,6 +12,6 @@ Uploader(s): Arbiter1223
 
 Version: V0.27
 
-File Download(?): (downloadLinkHere)
+File Download(?): (downloadLinkHere/fileLinkHere)
 
 Misc. Information(?): Kaen is a girl with a very dark past. Because of this, she's become a very cold-hearted bully. (More information, blah blah blah, etc...)
