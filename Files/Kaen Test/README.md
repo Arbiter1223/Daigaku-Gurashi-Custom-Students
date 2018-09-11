@@ -1,4 +1,4 @@
-# Student information here (not sure if this is how I want to do it, but if so...)
+# --Student information here (not sure if this is how I want to do it, but if so...)--
 
 //TODO Center picture?
 
