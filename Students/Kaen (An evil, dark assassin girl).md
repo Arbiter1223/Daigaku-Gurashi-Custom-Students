@@ -2,7 +2,7 @@
 
 //TODO Center picture?
 
-<img src = "">
+<img src = "https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Kaen%20(An%20evil%2C%20dark%20assassin%20girl).png">
 
 Name: Kaen
 
