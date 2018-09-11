@@ -1,4 +1,4 @@
-# Koukou-Gurashi-Custom-Students
+# -+=<|Koukou Gurashi Custom Student Database|>=+-
 
 <img src ="http://www.thinwithin.org/wp-content/uploads/2015/06/saw-horse-6.jpg">
 
@@ -14,5 +14,10 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 --------
 #### -+=<|Click on a student to view their information. You can download their respective .student file from there.|>=+-
+
+//TODO Resize images
+
+//TODO Possibly add names and descriptions to the images
+
 <a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/Arisa%20(Arisu's%20older%2C%20nicer%20sister).md"><img src = "https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Arisa%20(Arisu's%20older%2C%20nicer%20sister).png"></a>
 <a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/Jennyafur%20(A%20cheerful%20blonde%20neko%20girl).md"><img src = "https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Jennyafur%20(A%20cheerful%20blonde%20neko%20girl).png"></a>
