@@ -1,4 +1,4 @@
-# Put custom students here
+# Put custom student .md files here
 
 <img src ="http://ohioinvestorloans.com/wp-content/uploads/2015/10/saw-horse-hard-hats.jpg">
 
@@ -14,7 +14,4 @@ Uploader:
 
 Version: V0.XX
 
-Download Link: 
-
-<a href=""><img src = ""></a>
-
+Download Link: <a href="">.student</a>
