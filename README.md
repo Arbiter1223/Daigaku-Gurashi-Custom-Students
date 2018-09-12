@@ -15,10 +15,6 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 --------
 #### ---Click on a student to view their information. You can download their respective .student file from there.---
 
-//TODO Resize images
-
-//TODO Possibly add names and descriptions to the images
-
 <a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/Orangu%20(A%20very%20sweet%2C%20orange%20catgirl).md"><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Orangu%20(A%20very%20sweet%2C%20orange%20catgirl).png" height="504" width="168"></a>
 <a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/Arisa%20(Arisu's%20older%2C%20nicer%20sister).md"><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Arisa%20(Arisu's%20older%2C%20nicer%20sister).png" height="504" width="168"></a>
 <a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/RedPanda%20(An%20innocent%2C%20cheerful%20girl).md"><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/RedPanda%20(An%20innocent%2C%20cheerful%20girl).png" height="504" width="168"></a>
@@ -29,3 +25,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 <a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/Kaen%20(An%20evil%2C%20dark%20assassin%20girl).md"><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Kaen%20(An%20evil%2C%20dark%20assassin%20girl).png" height="504" width="168"></a>
 <a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/Zane%20(A%20no-nonsense%20kind%20of%20guy).md"><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Zane%20(A%20no-nonsense%20kind%20of%20guy).png" height="504" width="168"></a>
 <a href=""><img src="" height="504" width="168"></a>
+
+//TODO Resize images
+
+//TODO Possibly add names and descriptions to the images
