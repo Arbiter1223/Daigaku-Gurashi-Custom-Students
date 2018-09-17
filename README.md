@@ -17,7 +17,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 #### ---Click on a student to view their information. You can download their respective .student file from there.---
 
 <a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/Paizuri%20(A%20masochistic%20tsundere%20kuudere%20yandere%20futanari).md"><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Paizuri%20(A%20masochistic%20tsundere%20kuudere%20yandere%20futanari).png" height="504" width="168"></a>
-<a href=""><img src="" height="504" width="168"></a>
+<a href="https://github.com/Arbiter1223/Koukou-Gurashi-Custom-Students/blob/master/Students/Nei%20(A%20flirty%20futanari).md"><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Nei%20(A%20flirty%20futanari).png" height="504" width="168"></a>
 <a href=""><img src="" height="504" width="168"></a>
 
 <a href=""><img src="" height="504" width="168"></a>
