@@ -6,7 +6,7 @@ Name: Mirana
 
 Description: Princess of the Moon
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

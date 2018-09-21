@@ -6,7 +6,7 @@ Name: Kamiko
 
 Description: A lazy Arisu cosplayer.
 
-Uploaders: Syberian Orange and Arbiter1223
+Authors: Syberian Orange and Arbiter1223
 
 Version: V0.27
 

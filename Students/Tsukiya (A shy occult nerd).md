@@ -6,7 +6,7 @@ Name: Tsukiya
 
 Description: A shy occult nerd
 
-Uploader: Midnight_Kitsune
+Author: Midnight_Kitsune
 
 Version: V0.27
 

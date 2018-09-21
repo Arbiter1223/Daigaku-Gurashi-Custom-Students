@@ -6,7 +6,7 @@ Name: Kairi
 
 Description: A perverted, athletic futa
 
-Uploader: RainB
+Author: RainB
 
 Version: V0.27
 

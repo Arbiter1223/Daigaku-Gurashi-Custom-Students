@@ -6,7 +6,7 @@ Name: Shizuko
 
 Description: A very confident, forward girl
 
-Uploader: Heroic_Moron
+Author: Heroic_Moron
 
 Version: V0.27
 

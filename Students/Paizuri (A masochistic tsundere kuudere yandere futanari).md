@@ -6,7 +6,7 @@ Name: Paizuri
 
 Description: A masochistic tsundere kuudere yandere futanari
 
-Uploader: YamiToastDev
+Author: YamiToastDev
 
 Version: V0.27
 

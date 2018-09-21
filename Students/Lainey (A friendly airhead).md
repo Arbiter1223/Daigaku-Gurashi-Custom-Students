@@ -6,7 +6,7 @@ Name: Lainey
 
 Description: A friendly airhead
 
-Uploader: Hatsune
+Author: Hatsune
 
 Version: V0.27
 

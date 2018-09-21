@@ -6,7 +6,7 @@ Name: Akane
 
 Description: An extremely bitchy and perverted futa
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

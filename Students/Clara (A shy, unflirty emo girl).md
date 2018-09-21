@@ -6,7 +6,7 @@ Name: Clara
 
 Description: A shy, unflirty emo girl
 
-Uploader: Cookie Boi
+Author: Cookie Boi
 
 Version: V0.27
 

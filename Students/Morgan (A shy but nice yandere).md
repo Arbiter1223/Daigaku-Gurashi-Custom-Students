@@ -6,7 +6,7 @@ Name: Morgan
 
 Description: A shy but nice yandere
 
-Uploader: Nightara
+Author: Nightara
 
 Version: V0.27
 

@@ -6,7 +6,7 @@ Name: Hotaru
 
 Description: July's festive girlfriend
 
-Uploader: Syberian Orange
+Author: Syberian Orange
 
 Version: V0.27
 

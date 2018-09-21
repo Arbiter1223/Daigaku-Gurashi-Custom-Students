@@ -6,7 +6,7 @@ Name: Callie
 
 Description: A dirty-minded guy
 
-Uploader: BurntWaffles
+Author: BurntWaffles
 
 Version: V0.27
 

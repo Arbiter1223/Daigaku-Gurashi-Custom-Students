@@ -6,7 +6,7 @@ Name: Miyoko
 
 Description: A sporty bully
 
-Uploader: Bubger Kirg
+Author: Bubger Kirg
 
 Version: V0.27
 

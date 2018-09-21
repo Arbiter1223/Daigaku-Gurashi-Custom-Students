@@ -6,7 +6,7 @@ Name: Ayumi
 
 Description: A super dank mage
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

@@ -6,7 +6,7 @@ Name: Nijiiro
 
 Description: A shy tsundere futa
 
-Uploader: Ryujime
+Author: Ryujime
 
 Version: V0.27
 

@@ -6,7 +6,7 @@ Name: Takarra
 
 Description: A shy, sporty, anime girl
 
-Uploader: RainB
+Author: RainB
 
 Version: V0.27
 

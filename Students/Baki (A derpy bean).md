@@ -6,7 +6,7 @@ Name: Baki
 
 Description: A derpy bean
 
-Uploader: BenPupKao
+Author: BenPupKao
 
 Version: V0.27
 

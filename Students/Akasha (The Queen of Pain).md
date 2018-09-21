@@ -6,7 +6,7 @@ Name: Akasha
 
 Description: The Queen of Pain
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

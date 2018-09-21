@@ -6,7 +6,7 @@ Name: Baitlyn
 
 Description: A very shy weeb gamer
 
-Uploader: Baitlyn
+Author: Baitlyn
 
 Version: V0.27
 

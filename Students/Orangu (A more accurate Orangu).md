@@ -6,7 +6,7 @@ Name: Orangu
 
 Description: A more accurate Orangu
 
-Uploader: Syberian Orange
+Author: Syberian Orange
 
 Version: V0.27
 

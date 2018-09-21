@@ -6,7 +6,7 @@ Name: Yoshihiro
 
 Description: A perverted bully
 
-Uploader: Bubger Kirg
+Author: Bubger Kirg
 
 Version: V0.27
 

@@ -6,7 +6,7 @@ Name: Eruko
 
 Description: A horny but bitchy pervert
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

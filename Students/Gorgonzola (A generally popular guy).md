@@ -6,7 +6,7 @@ Name: Gorgonzola
 
 Description: A generally popular guy
 
-Uploader: Nutmeg
+Author: Nutmeg
 
 Version: V0.27
 

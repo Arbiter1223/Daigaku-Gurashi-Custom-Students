@@ -6,7 +6,7 @@ Name: YamiToast
 
 Description: The creator himself
 
-Uploader: Syberian Orange
+Author: Syberian Orange
 
 Version: V0.27
 

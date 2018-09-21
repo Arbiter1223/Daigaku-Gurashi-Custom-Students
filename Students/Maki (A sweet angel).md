@@ -6,7 +6,7 @@ Name: Maki
 
 Description: A sweet angel
 
-Uploader: Pxsteller
+Author: Pxsteller
 
 Version: V0.27
 

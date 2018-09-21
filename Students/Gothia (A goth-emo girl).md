@@ -6,7 +6,7 @@ Name: Gothia
 
 Description: A goth-emo girl
 
-Uploader: Azumi
+Author: Azumi
 
 Version: V0.27
 

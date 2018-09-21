@@ -6,7 +6,7 @@ Name: Kira
 
 Description: Syberian Orange irl
 
-Uploader: Syberian Orange
+Author: Syberian Orange
 
 Version: V0.27
 

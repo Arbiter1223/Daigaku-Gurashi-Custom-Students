@@ -6,7 +6,7 @@ Name: Traxex
 
 Description: The Drow Ranger
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

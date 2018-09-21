@@ -6,7 +6,7 @@ Name: Yoshie
 
 Description: Shiro's girlfriend from Toast's stream
 
-Uploader: Toast
+Author: Toast
 
 Version: V0.27
 

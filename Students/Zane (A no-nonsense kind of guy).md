@@ -6,7 +6,7 @@ Name: Zane
 
 Description: A no-nonsense kind of guy. Zane isn't usually a bully, but he won't let people push him around.
 
-Uploader: Arbiter1223
+Author: Arbiter1223
 
 Version: V0.27
 

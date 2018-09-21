@@ -6,7 +6,7 @@ Name: Yamada
 
 Description: A mean tsuntsun
 
-Uploader: marvinjean9
+Author: marvinjean9
 
 Version: V0.27
 

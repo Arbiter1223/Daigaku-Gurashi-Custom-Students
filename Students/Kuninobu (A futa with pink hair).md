@@ -6,7 +6,7 @@ Name: Kuninobu
 
 Description: A futa with pink hair
 
-Uploader: AjTheYandere
+Author: AjTheYandere
 
 Version: V0.27
 

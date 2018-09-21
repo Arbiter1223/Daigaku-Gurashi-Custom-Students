@@ -6,7 +6,7 @@ Name: Momoko
 
 Description: An anime-loving cat girl
 
-Uploader: undercover fox
+Author: undercover fox
 
 Version: V0.27
 

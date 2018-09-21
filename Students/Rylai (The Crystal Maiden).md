@@ -6,7 +6,7 @@ Name: Rylai
 
 Description: The Crystal Maiden
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

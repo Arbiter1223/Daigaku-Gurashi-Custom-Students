@@ -6,7 +6,7 @@ Name: Natsu
 
 Description: A boy who loves manga
 
-Uploader: Bubger Kirg
+Author: Bubger Kirg
 
 Version: V0.27
 

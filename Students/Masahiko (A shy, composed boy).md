@@ -6,7 +6,7 @@ Name: Masahiko
 
 Description: A shy, composed boy
 
-Uploader: Bubger Kirg
+Author: Bubger Kirg
 
 Version: V0.27
 

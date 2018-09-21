@@ -6,7 +6,7 @@ Name: July
 
 Description: A festive American girl
 
-Uploader: Syberian Orange
+Author: Syberian Orange
 
 Version: V0.27
 

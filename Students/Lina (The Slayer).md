@@ -6,7 +6,7 @@ Name: Lina
 
 Description: The Slayer
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

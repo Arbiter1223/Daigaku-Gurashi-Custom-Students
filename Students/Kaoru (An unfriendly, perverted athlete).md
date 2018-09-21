@@ -6,7 +6,7 @@ Name: Kaoru
 
 Description: An unfriendly, perverted athlete
 
-Uploader: diskmister
+Author: diskmister
 
 Version: V0.27
 

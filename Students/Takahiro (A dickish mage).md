@@ -6,7 +6,7 @@ Name: Takahiro
 
 Description: A dickish mage
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

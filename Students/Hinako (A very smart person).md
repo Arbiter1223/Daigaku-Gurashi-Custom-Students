@@ -6,7 +6,7 @@ Name: Hinako
 
 Description: A very smart person
 
-Uploader: Sky Zatsune
+Author: Sky Zatsune
 
 Version: V0.27
 

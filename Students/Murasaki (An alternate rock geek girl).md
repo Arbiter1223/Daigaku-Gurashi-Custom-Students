@@ -6,7 +6,7 @@ Name: Murasaki
 
 Description: An alternate rock geek girl
 
-Uploader: Syberian Orange
+Author: Syberian Orange
 
 Version: V0.27
 

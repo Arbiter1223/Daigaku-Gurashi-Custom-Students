@@ -6,7 +6,7 @@ Name: Jellie
 
 Description: Peanut's nice sister
 
-Uploader: AjTheYandere
+Author: AjTheYandere
 
 Version: V0.27
 

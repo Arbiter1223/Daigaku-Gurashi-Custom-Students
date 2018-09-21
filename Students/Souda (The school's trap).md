@@ -6,7 +6,7 @@ Name: Souda
 
 Description: The school's trap
 
-Uploader: KGMN01
+Author: KGMN01
 
 Version: V0.27
 

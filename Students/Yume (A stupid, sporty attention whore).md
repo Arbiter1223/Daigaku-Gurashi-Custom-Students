@@ -6,7 +6,7 @@ Name: Yume
 
 Description: A stupid, sporty attention whore
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

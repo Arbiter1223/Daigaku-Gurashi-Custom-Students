@@ -6,7 +6,7 @@ Name: Eiji
 
 Description: A sad boy
 
-Uploader: Syberian Orange
+Author: Syberian Orange
 
 Version: V0.27
 

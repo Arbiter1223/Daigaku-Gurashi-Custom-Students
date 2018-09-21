@@ -6,7 +6,7 @@ Name: Raven
 
 Description: A depressed antisocial girl
 
-Uploader: LivMoox
+Author: LivMoox
 
 Version: V0.27
 

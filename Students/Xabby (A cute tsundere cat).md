@@ -6,7 +6,7 @@ Name: Xabby
 
 Description: A cute tsundere cat
 
-Uploader: xabbynip09
+Author: xabbynip09
 
 Version: V0.27
 

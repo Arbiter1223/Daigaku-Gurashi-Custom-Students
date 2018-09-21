@@ -6,7 +6,7 @@ Name: Alex
 
 Description: A jokey genius
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

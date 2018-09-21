@@ -6,7 +6,7 @@ Name: Keko
 
 Description: A NYANdere cat girl
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

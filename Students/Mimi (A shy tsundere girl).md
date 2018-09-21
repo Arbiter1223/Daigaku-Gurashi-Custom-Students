@@ -6,7 +6,7 @@ Name: Mimi
 
 Description: A shy tsundere girl
 
-Uploader: Duck-chan
+Author: Duck-chan
 
 Version: V0.27
 

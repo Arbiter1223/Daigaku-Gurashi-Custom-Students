@@ -6,7 +6,7 @@ Name: Jennyafur
 
 Description: A cheerful blonde neko girl
 
-Uploader: Arbiter1223
+Author: Arbiter1223
 
 Version: V0.27
 

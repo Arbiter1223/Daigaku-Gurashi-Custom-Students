@@ -6,7 +6,7 @@ Name: Date
 
 Description: An anti-social yandere masochist
 
-Uploader: Duck-chan
+Author: Duck-chan
 
 Version: V0.27
 

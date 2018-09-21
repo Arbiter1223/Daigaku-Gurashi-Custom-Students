@@ -6,7 +6,7 @@ Name: Otaka
 
 Description: A yandere futanari
 
-Uploader: Leah-Nya
+Author: Leah-Nya
 
 Version: V0.27
 

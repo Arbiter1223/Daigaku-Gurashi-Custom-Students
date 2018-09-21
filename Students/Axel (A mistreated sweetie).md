@@ -6,7 +6,7 @@ Name: Axel
 
 Description: A mistreated sweetie
 
-Uploader: Azumi
+Author: Azumi
 
 Version: V0.27
 

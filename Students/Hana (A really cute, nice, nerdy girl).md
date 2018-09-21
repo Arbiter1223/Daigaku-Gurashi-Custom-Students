@@ -6,7 +6,7 @@ Name: Hana
 
 Description: A really cute, nice, nerdy girl
 
-Uploader: Syberian Orange
+Author: Syberian Orange
 
 Version: V0.27
 

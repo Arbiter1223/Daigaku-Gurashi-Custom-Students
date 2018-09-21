@@ -6,7 +6,7 @@ Name: Moriya
 
 Description: A super friendly, sporty girl
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

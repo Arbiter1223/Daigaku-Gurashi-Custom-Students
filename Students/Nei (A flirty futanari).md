@@ -6,7 +6,7 @@ Name: Nei
 
 Description: A flirty futanari
 
-Uploader: Nei
+Author: Nei
 
 Version: V0.27
 

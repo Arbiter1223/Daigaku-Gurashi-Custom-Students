@@ -6,7 +6,7 @@ Name: Luna
 
 Description: The Moon Rider
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

@@ -6,7 +6,7 @@ Name: Ichigo
 
 Description: A shy anime nerd
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

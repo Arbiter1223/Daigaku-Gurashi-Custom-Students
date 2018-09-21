@@ -6,7 +6,7 @@ Name: Lilah
 
 Description: A perverted, neko futanari
 
-Uploader: Shadow
+Author: Shadow
 
 Version: V0.27
 

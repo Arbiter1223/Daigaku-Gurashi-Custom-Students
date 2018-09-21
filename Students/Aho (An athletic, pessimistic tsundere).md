@@ -6,7 +6,7 @@ Name: Aho
 
 Description: An athletic, pessimistic tsundere
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

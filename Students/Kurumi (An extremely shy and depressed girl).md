@@ -6,7 +6,7 @@ Name: Kurumi
 
 Description: An extremely shy and depressed girl
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

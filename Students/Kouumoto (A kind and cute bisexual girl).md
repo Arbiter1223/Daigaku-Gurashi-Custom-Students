@@ -6,7 +6,7 @@ Name: Kouumoto
 
 Description: A kind and cute bisexual girl
 
-Uploader: marvinjean9
+Author: marvinjean9
 
 Version: V0.27
 

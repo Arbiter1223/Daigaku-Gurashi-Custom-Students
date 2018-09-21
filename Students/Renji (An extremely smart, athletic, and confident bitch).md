@@ -6,7 +6,7 @@ Name: Renji
 
 Description: An extremely smart, athletic, and confident bitch
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

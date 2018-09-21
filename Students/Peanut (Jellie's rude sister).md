@@ -6,7 +6,7 @@ Name: Peanut
 
 Description: Jellie's rude sister
 
-Uploader: AjTheYandere
+Author: AjTheYandere
 
 Version: V0.27
 

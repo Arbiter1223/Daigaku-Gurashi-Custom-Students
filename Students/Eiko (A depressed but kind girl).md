@@ -6,7 +6,7 @@ Name: Eiko
 
 Description: A depressed but kind girl
 
-Uploader: Hatsune
+Author: Hatsune
 
 Version: V0.27
 

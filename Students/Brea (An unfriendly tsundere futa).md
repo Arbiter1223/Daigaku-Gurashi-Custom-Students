@@ -6,7 +6,7 @@ Name: Brea
 
 Description: An unfriendly tsundere futa
 
-Uploader: Nightara
+Author: Nightara
 
 Version: V0.27
 

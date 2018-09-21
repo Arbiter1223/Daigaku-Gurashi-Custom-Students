@@ -6,7 +6,7 @@ Name: Toru
 
 Description: A friendly, perverted guy
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

@@ -6,7 +6,7 @@ Name: Orangu
 
 Description: A very sweet, orange catgirl. Jennyafur's best friend.
 
-Uploaders: Retsuko and Arbiter1223
+Authors: Retsuko and Arbiter1223
 
 Version: V0.27
 

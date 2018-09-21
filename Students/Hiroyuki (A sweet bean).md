@@ -6,7 +6,7 @@ Name: Hiroyuki
 
 Description: A sweet bean
 
-Uploader: Azumi
+Author: Azumi
 
 Version: V0.27
 

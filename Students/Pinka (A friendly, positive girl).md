@@ -6,7 +6,7 @@ Name: Pinka
 
 Description: A friendly, positive girl
 
-Uploader: Hatsune
+Author: Hatsune
 
 Version: V0.27
 

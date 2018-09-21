@@ -6,7 +6,7 @@ Name: Kuro
 
 Description: A sporty, friendly girl
 
-Uploader: Nyanako
+Author: Nyanako
 
 Version: V0.27
 

@@ -6,7 +6,7 @@ Name: Maya
 
 Description: A kuudere ram-futa. Mayo, but as a futa.
 
-Uploader: Arbiter1223
+Author: Arbiter1223
 
 Version: V0.27
 

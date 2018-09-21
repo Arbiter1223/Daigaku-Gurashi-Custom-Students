@@ -6,7 +6,7 @@ Name: Patty
 
 Description: A confident, athletic futa
 
-Uploader: Lem0ns0da
+Author: Lem0ns0da
 
 Version: V0.27
 

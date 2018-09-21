@@ -6,7 +6,7 @@ Name: Pastele
 
 Description: A very kind, pastel girl
 
-Uploader: Azumi
+Author: Azumi
 
 Version: V0.27
 

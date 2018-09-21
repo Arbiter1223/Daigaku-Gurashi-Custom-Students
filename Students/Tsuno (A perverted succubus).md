@@ -6,7 +6,7 @@ Name: Tsuno
 
 Description: A perverted succubus
 
-Uploader: Shadow
+Author: Shadow
 
 Version: V0.27
 

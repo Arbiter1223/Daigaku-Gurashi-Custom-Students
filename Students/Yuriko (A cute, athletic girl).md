@@ -6,7 +6,7 @@ Name: Yuriko
 
 Description: A cute, athletic girl
 
-Uploader: Azumi
+Author: Azumi
 
 Version: V0.27
 

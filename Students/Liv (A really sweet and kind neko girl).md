@@ -6,7 +6,7 @@ Name: Liv
 
 Description: A really sweet and kind neko girl
 
-Uploader: LivMoox
+Author: LivMoox
 
 Version: V0.27
 

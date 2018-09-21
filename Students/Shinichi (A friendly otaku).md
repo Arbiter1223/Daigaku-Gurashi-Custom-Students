@@ -6,7 +6,7 @@ Name: Shinichi
 
 Description: A friendly otaku
 
-Uploader: Jefo
+Author: Jefo
 
 Version: V0.27
 

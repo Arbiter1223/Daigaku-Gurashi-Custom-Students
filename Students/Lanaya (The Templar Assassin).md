@@ -6,7 +6,7 @@ Name: Lanaya
 
 Description: The Templar Assassin
 
-Uploader: Aho-chan
+Author: Aho-chan
 
 Version: V0.27
 

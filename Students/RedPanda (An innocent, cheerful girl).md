@@ -6,7 +6,7 @@ Name: RedPanda
 
 Description: An innocent, cheerful girl.
 
-Uploaders: Retsuko and Arbiter1223
+Authors: Retsuko and Arbiter1223
 
 Version: V0.27
 
