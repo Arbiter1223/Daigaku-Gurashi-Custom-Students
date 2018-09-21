@@ -321,7 +321,9 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 <a href=""><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/WIP.png" height="504" width="168"></a>
 <a href=""><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/WIP.png" height="504" width="168"></a>
 <a href=""><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/WIP.png" height="504" width="168"></a>
-
-//TODO Resize images
+<a href=""><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/WIP.png" height="504" width="168"></a>
+<a href=""><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/WIP.png" height="504" width="168"></a>
+<a href=""><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/WIP.png" height="504" width="168"></a>
+<a href=""><img src="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/WIP.png" height="504" width="168"></a>
 
 //TODO Possibly add names and descriptions to the images
