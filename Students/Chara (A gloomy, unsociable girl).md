@@ -1,0 +1,13 @@
+# Chara (A gloomy, unsociable girl)
+
+<img src = "https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Chara%20(A%20gloomy%2C%20unsociable%20girl).png">
+
+Name: Chara
+
+Description: A gloomy, unsociable girl
+
+Author: CherryMaru
+
+Version: V0.27
+
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Chara%20(A%20gloomy%2C%20unsociable%20girl)%20-%20CherryMaru%2C%20V0.27.student">Chara (A gloomy, unsociable girl) - CherryMaru, V0.27.student</a>
