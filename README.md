@@ -21,10 +21,9 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 <a href="Students/Ann%20(A%20funny%2C%20friendly%20futa).md"><img src="Students/Files/Ann%20(A%20funny%2C%20friendly%20futa).png" height="513" width="171" title=""></a>
 <a href="Students/Axel%20(A%20mistreated%20sweetie).md"><img src="Students/Files/Axel%20(A%20mistreated%20sweetie).png" height="513" width="171" title=""></a>
 
-| Paizuri | Paizuri | Paizuri | Paizuri | Paizuri |
+| Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
-| A masochistic tsundere kuudere yandere futanari | A masochistic tsundere kuudere yandere futanari | A masochistic tsundere kuudere yandere futanari | A masochistic tsundere kuudere yandere futanari | A masochistic tsundere kuudere yandere futanari |
-
+| Description | Description | Description | Description | Description |
 <a href="Students/Orangu%20(A%20very%20sweet%2C%20orange%20catgirl).md"><img src="Students/Files/Orangu%20(A%20very%20sweet%2C%20orange%20catgirl).png" height="513" width="171" title=""></a>
 <a href="Students/The%20Fast%20Dog%20(A%20very%20mean%20occult%20fanatic).md"><img src="Students/Files/The%20Fast%20Dog%20(A%20very%20mean%20occult%20fanatic).png" height="513" width="171" title=""></a>
 <a href="Students/Xabby%20(A%20cute%20tsundere%20cat).md"><img src="Students/Files/Xabby%20(A%20cute%20tsundere%20cat).png" height="513" width="171" title=""></a>
