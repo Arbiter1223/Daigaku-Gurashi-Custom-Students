@@ -23,6 +23,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
+
 | Description | Description | Description | Description | Description |
 <a href="Students/Orangu%20(A%20very%20sweet%2C%20orange%20catgirl).md"><img src="Students/Files/Orangu%20(A%20very%20sweet%2C%20orange%20catgirl).png" height="513" width="171" title=""></a>
 <a href="Students/The%20Fast%20Dog%20(A%20very%20mean%20occult%20fanatic).md"><img src="Students/Files/The%20Fast%20Dog%20(A%20very%20mean%20occult%20fanatic).png" height="513" width="171" title=""></a>
