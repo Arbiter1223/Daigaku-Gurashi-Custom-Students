@@ -39,7 +39,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 <a href="Students/Sei%20(A%20smart%2C%20friendly%20guy).md"><img src="Students/Files/Sei%20(A%20smart%2C%20friendly%20guy).png" height="513" width="171" title="Title"></a>
 <a href="Students/RedPanda%20(An%20innocent%2C%20cheerful%20girl).md"><img src="Students/Files/RedPanda%20(An%20innocent%2C%20cheerful%20girl).png" height="513" width="171" title="Title"></a>
 <a href="Students/Sammie%20(A%20busty%2C%20sweet%2C%20kind%20girl).md"><img src="Students/Files/Sammie%20(A%20busty%2C%20sweet%2C%20kind%20girl).png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
@@ -85,7 +85,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 <a href="Students/Raven%20(A%20mean%20kuudere%20masochistic%20girl).md"><img src="Students/Files/Raven%20(A%20mean%20kuudere%20masochistic%20girl).png" height="513" width="171" title="Title"></a>
 <a href="Students/Pinka%20(A%20friendly%2C%20positive%20girl).md"><img src="Students/Files/Pinka%20(A%20friendly%2C%20positive%20girl).png" height="513" width="171" title="Title"></a>
 <a href="Students/Lainey%20(A%20friendly%20airhead).md"><img src="Students/Files/Lainey%20(A%20friendly%20airhead).png" height="513" width="171" title="Title"></a>
@@ -166,7 +166,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | Description | Description | Description | Description | Description |
 
 <a href="Students/Aho%20(An%20athletic%2C%20pessimistic%20tsundere).md"><img src="Students/Files/Aho%20(An%20athletic%2C%20pessimistic%20tsundere).png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 <a href="Students/Suzu%20(A%20very%20friendly%20schoolgirl).md"><img src="Students/Files/Suzu%20(A%20very%20friendly%20schoolgirl).png" height="513" width="171" title="Title"></a>
 <a href="Students/Takarra%20(A%20shy%2C%20sporty%2C%20anime%20girl).md"><img src="Students/Files/Takarra%20(A%20shy%2C%20sporty%2C%20anime%20girl).png" height="513" width="171" title="Title"></a>
 <a href="Students/Pastele%20(A%20very%20kind%2C%20pastel%20girl).md"><img src="Students/Files/Pastele%20(A%20very%20kind%2C%20pastel%20girl).png" height="513" width="171" title="Title"></a>
@@ -405,7 +405,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 <a href="Students/Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people).md"><img src="Students/Files/Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people).png" height="513" width="171" title="Title"></a>
 <a href="Students/Nico%20(A%20cute%2C%20petite%20girl).md"><img src="Students/Files/Nico%20(A%20cute%2C%20petite%20girl).png" height="513" width="171" title="Title"></a>
 <a href="Students/Hinako%20(A%20very%20smart%20person).md"><img src="Students/Files/Hinako%20(A%20very%20smart%20person).png" height="513" width="171" title="Title"></a>
@@ -477,179 +477,179 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 <a href="Students/Yume%20(A%20stupid%2C%20sporty%20attention%20whore).md"><img src="Students/Files/Yume%20(A%20stupid%2C%20sporty%20attention%20whore).png" height="513" width="171" title="Title"></a>
 <a href="Students/Fast%20Dog%20(A%20blind%2C%20unfriendly%20occult%20fanatic).md"><img src="Students/Files/Fast%20Dog%20(A%20blind%2C%20unfriendly%20occult%20fanatic).png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 <a href="Students/Yumiko%20('Wal-Mart'%20Arisu%2C%20Kamiko's%20sister).md"><img src="Students/Files/Yumiko%20('Wal-Mart'%20Arisu%2C%20Kamiko's%20sister).png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
@@ -665,7 +665,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | :---: | :---: | :---: | :---: | :---: |
 | Description | Description | Description | Description | Description |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Title"></a>
+<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
 
 | Name | Name | Name | Name | Name |
 | :---: | :---: | :---: | :---: | :---: |
