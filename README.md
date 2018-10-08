@@ -207,7 +207,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 <a href="Students/Sebastian%20(A%20shy%2C%20gifted%20individual).md"><img src="Students/Files/Sebastian%20(A%20shy%2C%20gifted%20individual).png" height="513" width="171" title="Title"></a>
 <a href="Students/Tara%20(A%20rather%20large%2C%20warm-hearted%20futanari).md"><img src="Students/Files/Tara%20(A%20rather%20large%2C%20warm-hearted%20futanari).png" height="513" width="171" title="Title"></a>
-<a href="Students/Kurumi%20(A%20loving%2C%20affectionate%2C%20and%20cute%20neko%20girl).md"><img src="Students/Files/Kurumi%20(A%20loving%2C%20affectionate%2C%20and%20cute%20neko%20girl).png" height="513" width="171" title="Title"></a>
+<a href="Students/Karumi%20(A%20loving%2C%20affectionate%2C%20and%20cute%20neko%20girl).md"><img src="Students/Files/Karumi%20(A%20loving%2C%20affectionate%2C%20and%20cute%20neko%20girl).png" height="513" width="171" title="Title"></a>
 <a href="Students/Axei%20(A%20heartless%20yandere).md"><img src="Students/Files/Axei%20(A%20heartless%20yandere).png" height="513" width="171" title="Title"></a>
 <a href="Students/Tsuno%20(A%20perverted%20succubus).md"><img src="Students/Files/Tsuno%20(A%20perverted%20succubus).png" height="513" width="171" title="Title"></a>
 
