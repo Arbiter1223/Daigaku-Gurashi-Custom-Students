@@ -77,7 +77,6 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 <a href="Students/Hiroyuki%20(A%20sweet%20bean).md"><img src="Students/Files/Hiroyuki%20(A%20sweet%20bean).png" height="513" width="171" title="Title"></a>
 <a href="Students/Maki%20(A%20sweet%20angel).md"><img src="Students/Files/Maki%20(A%20sweet%20angel).png" height="513" width="171" title="Title"></a>
-
 <a href="Students/Candy%20(A%20sweet%2C%20bubbly%2C%20friendly%20girl).md"><img src="Students/Files/Candy%20(A%20sweet%2C%20bubbly%2C%20friendly%20girl).png" height="513" width="171" title="Title"></a>
 <a href="Students/Patty%20(A%20confident%2C%20athletic%20futa).md"><img src="Students/Files/Patty%20(A%20confident%2C%20athletic%20futa).png" height="513" width="171" title="Title"></a>
 
