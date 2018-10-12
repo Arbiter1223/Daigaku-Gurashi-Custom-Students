@@ -1,0 +1,13 @@
+# Kichiro (A perverted pessimist)
+
+<img src = "https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Kichiro%20(A%20perverted%20pessimist).png">
+
+Name: Kichiro
+
+Description: A perverted pessimist
+
+Author: Aho-chan
+
+Version: V0.27
+
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Kichiro%20(A%20perverted%20pessimist)%20-%20Aho-chan%2C%20V0.27.student">Kichiro (A perverted pessimist) - Aho-chan, V0.27.student</a>

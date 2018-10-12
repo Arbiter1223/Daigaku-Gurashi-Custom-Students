@@ -1,0 +1,13 @@
+# Lainey (A friendly airhead)
+
+<img src = "https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Lainey%20(A%20friendly%20airhead).png">
+
+Name: Lainey
+
+Description: A friendly airhead
+
+Author: Hatsune
+
+Version: V0.27
+
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Lainey%20(A%20friendly%20airhead)%20-%20Hatsune%2C%20V0.27.student">Lainey (A friendly airhead) - Hatsune, V0.27.student</a>

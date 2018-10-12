@@ -1,0 +1,13 @@
+# Chie (A sweet occult clover)
+
+<img src = "https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Chie%20(A%20sweet%20occult%20clover).png">
+
+Name: Chie
+
+Description: A sweet occult clover
+
+Author: Nyanako
+
+Version: V0.27
+
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Chie%20(A%20sweet%20occult%20clover)%20-%20Nyanako%2C%20V0.27.student">Chie (A sweet occult clover) - Nyanako, V0.27.student</a>
