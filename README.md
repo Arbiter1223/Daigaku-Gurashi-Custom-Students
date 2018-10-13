@@ -25,7 +25,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | :---: | :---: | :---: | :---: | :---: |
 | A very negative bully | A fun pervert | The most boring guy ever | A kuudere ram-girl | A friendly positive guy |
 
-<a href="Students/Kaito%20(The%20cool%20guy).md"><img src="Students/Files/Kaito%20(The%20cool%20guy).png" height="513" width="171" title="Kaito (The cool guy)"></a>
+<a href="Students/Kaito%20(A%20cool%20guy).md"><img src="Students/Files/Kaito%20(A%20cool%20guy).png" height="513" width="171" title="Kaito (A cool guy)"></a>
 <a href="Students/Shiro%20(The%20default%20character).md"><img src="Students/Files/Shiro%20(The%20default%20character).png" height="513" width="171" title="Shiro (The default character)"></a>
 <a href="Students/Paizuri%20(A%20masochistic%20tsundere%20kuudere%20yandere%20futanari).md"><img src="Students/Files/Paizuri%20(A%20masochistic%20tsundere%20kuudere%20yandere%20futanari).png" height="513" width="171" title="Paizuri (A masochistic tsundere kuudere yandere futanari)"></a>
 <a href="Students/Nei%20(A%20flirty%20futanari).md"><img src="Students/Files/Nei%20(A%20flirty%20futanari).png" height="513" width="171" title="Nei (A flirty futanari)"></a>
@@ -33,7 +33,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 | Kaito | Shiro | Paizuri | Nei | Tsukiya |
 | :---: | :---: | :---: | :---: | :---: |
-| The cool guy | The default character | A masochistic tsundere kuudere yandere futanari | A flirty futanari | A shy occult nerd |
+| A cool guy | The default character | A masochistic tsundere kuudere yandere futanari | A flirty futanari | A shy occult nerd |
 
 <a href="Students/Ann%20(A%20funny%2C%20friendly%20futa).md"><img src="Students/Files/Ann%20(A%20funny%2C%20friendly%20futa).png" height="513" width="171" title="Ann (A funny, friendly futa)"></a>
 <a href="Students/Axel%20(A%20mistreated%20sweetie).md"><img src="Students/Files/Axel%20(A%20mistreated%20sweetie).png" height="513" width="171" title="Axel (A mistreated sweetie)"></a>
