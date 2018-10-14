@@ -11,3 +11,6 @@ Author: ClownPrinceOfLies
 Version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Aizawa%20(A%20lazy%2C%20boring%20guy)%20-%20ClownPrinceOfLies%2C%20V0.27.student">Aizawa (A lazy, boring guy) - ClownPrinceOfLies, V0.27.student</a>
+
+### ---**To download, _right-click_ the link, and select _"Save-as"_**---
+

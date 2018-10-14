@@ -11,3 +11,6 @@ Author: Heroic_Moron
 Version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Evan%20(A%20shy%20boy%20with%20hidden%20talents)%20-%20Heroic_Moron%2C%20V0.27.student">Evan (A shy boy with hidden talents) - Heroic_Moron, V0.27.student</a>
+
+### ---**To download, _right-click_ the link, and select _"Save-as"_**---
+

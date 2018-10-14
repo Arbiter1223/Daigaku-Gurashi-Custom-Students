@@ -11,3 +11,6 @@ Author: Takumi
 Version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Kana%20(Hideyoshi's%20idiotic%2C%20tsundere%20younger%20brother)%20-%20Takumi%2C%20V0.27.student">Kana (Hideyoshi's idiotic, tsundere younger brother) - Takumi, V0.27.student</a>
+
+### ---**To download, _right-click_ the link, and select _"Save-as"_**---
+

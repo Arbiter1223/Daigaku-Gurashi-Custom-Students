@@ -11,3 +11,6 @@ Author: Nyanako
 Version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Toru%20(A%20friendly%2C%20perverted%20guy)%20-%20Nyanako%2C%20V0.27.student">Toru (A friendly, perverted guy) - Nyanako, V0.27.student</a>
+
+### ---**To download, _right-click_ the link, and select _"Save-as"_**---
+
