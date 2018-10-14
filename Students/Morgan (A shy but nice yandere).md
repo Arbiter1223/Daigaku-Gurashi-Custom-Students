@@ -12,5 +12,5 @@ Version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Morgan%20(A%20shy%20but%20nice%20yandere)%20-%20Nightara%2C%20V0.27.student">Morgan (A shy but nice yandere) - Nightara, V0.27.student</a>
 
-### ---**To download, _right-click_ the link, and select _"Save-as"_**---
+### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

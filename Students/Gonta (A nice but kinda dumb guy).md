@@ -12,5 +12,5 @@ Version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Gonta%20(A%20nice%20but%20kinda%20dumb%20guy)%20-%20ClownPrinceOfLies%2C%20V0.27.student">Gonta (A nice but kinda dumb guy) - ClownPrinceOfLies, V0.27.student</a>
 
-### ---**To download, _right-click_ the link, and select _"Save-as"_**---
+### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

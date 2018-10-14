@@ -12,5 +12,5 @@ Version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Mayuri%20(A%20timid%2C%20friendly%20girl)%20-%20Antartix%20Pevori%2C%20V0.27.student">Mayuri (A timid, friendly girl) - Antartix Pevori, V0.27.student</a>
 
-### ---**To download, _right-click_ the link, and select _"Save-as"_**---
+### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

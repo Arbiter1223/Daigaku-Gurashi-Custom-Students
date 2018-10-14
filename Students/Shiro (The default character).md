@@ -12,5 +12,5 @@ Version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Shiro%20(The%20default%20character)%20-%20YamiToast%2C%20V0.27.student">Shiro (The default character) - YamiToast, V0.27.student</a>
 
-### ---**To download, _right-click_ the link, and select _"Save-as"_**---
+### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

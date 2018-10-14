@@ -12,5 +12,5 @@ Version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Koukou-Gurashi-Custom-Students/master/Students/Files/Lanaya%20(The%20Templar%20Assassin)%20-%20Aho-chan%2C%20V0.27.student">Lanaya (The Templar Assassin) - Aho-chan, V0.27.student</a>
 
-### ---**To download, _right-click_ the link, and select _"Save-as"_**---
+### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
