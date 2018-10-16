@@ -1,4 +1,4 @@
-# -+=<|Koukou Gurashi Custom Student Database|>=+-
+# -+=<| Koukou Gurashi Custom Student Database |>=+-
 
 <img src ="http://www.thinwithin.org/wp-content/uploads/2015/06/saw-horse-6.jpg">
 
