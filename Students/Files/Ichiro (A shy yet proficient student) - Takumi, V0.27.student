@@ -1,28 +1,28 @@
 Koukou Gurashi V0.27
-Soul Modified: 11/1/2018 8:56:58 AM
+Soul Modified: 11/2/2018 5:17:17 PM
 ------------------------------------------------------
-名|Shiro|
-少女|True|
-ちんぽ|False|
-Hair(Front)|0|
+名|Ichiro|
+少女|False|
+ちんぽ|True|
+Hair(Front)|10|
 Hair(Back)|0|
-アホ毛|0|
+アホ毛|7|
 Hair(Tails)|0|
-HairPrimaryColour|1|
-HairSecondaryColour|1|
-目|1|
+HairPrimaryColour|22|
+HairSecondaryColour|26|
+目|62|
 口|1|
-肌|1|
-頭のアクセサリー|0|
-Eyewear|0|
-Pantsu|1|
+肌|2|
+頭のアクセサリー|2|
+Eyewear|2|
+Pantsu|-4|
 Sexual Preference|0|
 LeaderInfluence|0|
 Snootiness|50|
 Gossips|0|
-Kindness|0|
-大胆|0|
-Intelligence|0|
+Kindness|40|
+大胆|-40|
+Intelligence|80|
 Dexterity|0|
 ヤンデレ|False|
 Sanity|0|
@@ -31,23 +31,23 @@ Sanity|0|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
-Depression|20|
-LikesSchool|0|
+Depression|40|
+LikesSchool|-90|
 Athletic|0|
-LikesManga|0|
+LikesManga|45|
 LikesAnime|45|
-LikesBooks|0|
+LikesBooks|90|
 LikesVideoGames|45|
-LikesMusic|0|
-変態|0|
-LikesHumour|0|
-LikesOccult|0|
+LikesMusic|45|
+変態|45|
+LikesHumour|45|
+LikesOccult|-45|
 生|True|
 クーデレ|False|
-忠実|False|
-声|0|
-Lingo Great|great|
-Lingo Crappy|crappy|
+忠実|True|
+声|1|
+Lingo Great|righteous|
+Lingo Crappy|inadequate|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -60,9 +60,9 @@ Accent|0|
 Energy|2000|
 ThighHigh Base|1|
 ThighHigh Extra|0|
-骨盤&太もも|2|
-声ピッチ|2|
-頭のアクセサリーの色|0|
-おっぱい|3|
-Lingo Very|0|
+骨盤&太もも|0|
+声ピッチ|3|
+頭のアクセサリーの色|1|
+おっぱい|0|
+Lingo Very|9|
 (╯°□°）╯You ruined it!!You killed the magic!!

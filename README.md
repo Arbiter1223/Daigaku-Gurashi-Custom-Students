@@ -1,4 +1,4 @@
-# -+=<| Koukou Gurashi Custom Student Database |>=+-
+# -+=<|Koukou Gurashi Custom Student Database|>=+-
 
 <img src ="http://www.thinwithin.org/wp-content/uploads/2015/06/saw-horse-6.jpg">
 
@@ -96,14 +96,14 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | A mean, depressed athletic girl | A sad boy | A sweet bean | A sweet angel | A sweet, bubbly, friendly girl |
 
 <a href="Students/Patty%20(A%20confident%2C%20athletic%20futa).md"><img src="Students/Files/Patty%20(A%20confident%2C%20athletic%20futa).png" height="513" width="171" title="Patty (A confident, athletic futa)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Azumi%20(A%20girl%20with%20very%20vibrant%20emotions).md"><img src="Students/Files/Azumi%20(A%20girl%20with%20very%20vibrant%20emotions).png" height="513" width="171" title="Azumi (A girl with very vibrant emotions)"></a>
 <a href="Students/Raven%20(A%20mean%20kuudere%20masochistic%20girl).md"><img src="Students/Files/Raven%20(A%20mean%20kuudere%20masochistic%20girl).png" height="513" width="171" title="Raven (A mean kuudere masochistic girl)"></a>
 <a href="Students/Pinka%20(A%20friendly%2C%20positive%20girl).md"><img src="Students/Files/Pinka%20(A%20friendly%2C%20positive%20girl).png" height="513" width="171" title="Pinka (A friendly, positive girl)"></a>
 <a href="Students/Lainey%20(A%20friendly%20airhead).md"><img src="Students/Files/Lainey%20(A%20friendly%20airhead).png" height="513" width="171" title="Lainey (A friendly airhead)"></a>
 
-| Patty | -N/A- | Raven | Pinka | Lainey |
+| Patty | Azumi | Raven | Pinka | Lainey |
 | :---: | :---: | :---: | :---: | :---: |
-| A confident, athletic futa | Student not yet available. | A mean kuudere masochistic girl | A friendly, positive girl | A friendly airhead |
+| A confident, athletic futa | A girl with very vibrant emotions | A mean kuudere masochistic girl | A friendly, positive girl | A friendly airhead |
 
 <a href="Students/Lucy%20(A%20very%20rude%20music%20girl).md"><img src="Students/Files/Lucy%20(A%20very%20rude%20music%20girl).png" height="513" width="171" title="Lucy (A very rude music girl)"></a>
 <a href="Students/Kurumu%20(A%20cute%20and%20kinky%20perverted%20girl).md"><img src="Students/Files/Kurumu%20(A%20cute%20and%20kinky%20perverted%20girl).png" height="513" width="171" title="Kurumu (A cute and kinky perverted girl)"></a>
@@ -416,14 +416,14 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | A pretty okay dude | An all-around nice gal | A cute, very green baka | A mean tsuntsun | A generally popular guy |
 
 <a href="Students/Eng%20Teacher%20(A%20stern%20but%20sweet%20teacher).md"><img src="Students/Files/Eng%20Teacher%20(A%20stern%20but%20sweet%20teacher).png" height="513" width="171" title="Eng Teacher (A stern but sweet teacher)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Art%20Teacher%20(A%20stern%20and%20very%20strict%20teacher).md"><img src="Students/Files/Art%20Teacher%20(A%20stern%20and%20very%20strict%20teacher).png" height="513" width="171" title="Art Teacher (A stern and very strict teacher)"></a>
 <a href="Students/Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people).md"><img src="Students/Files/Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people).png" height="513" width="171" title="Kuninobu (An arrogant trap who talks down on people)"></a>
 <a href="Students/Nico%20(A%20cute%2C%20petite%20girl).md"><img src="Students/Files/Nico%20(A%20cute%2C%20petite%20girl).png" height="513" width="171" title="Nico (A cute, petite girl)"></a>
 <a href="Students/Hinako%20(A%20very%20smart%20person).md"><img src="Students/Files/Hinako%20(A%20very%20smart%20person).png" height="513" width="171" title="Hinako (A very smart person)"></a>
 
-| Eng Teacher | -N/A- | Kuninobu | Nico | Hinako |
+| Eng Teacher | Art Teacher | Kuninobu | Nico | Hinako |
 | :---: | :---: | :---: | :---: | :---: |
-| A stern but sweet teacher | Student not yet available. | An arrogant trap who talks down on people | A cute, petite girl | A very smart person |
+| A stern but sweet teacher | A stern and very strict teacher | An arrogant trap who talks down on people | A cute, petite girl | A very smart person |
 
 <a href="Students/Morgan%20(A%20shy%20but%20nice%20yandere).md"><img src="Students/Files/Morgan%20(A%20shy%20but%20nice%20yandere).png" height="513" width="171" title="Morgan (A shy but nice yandere)"></a>
 <a href="Students/Lina%20(The%20Slayer).md"><img src="Students/Files/Lina%20(The%20Slayer).png" height="513" width="171" title="Lina (The Slayer)"></a>
@@ -495,55 +495,55 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | :---: | :---: | :---: | :---: | :---: |
 | The Templar Assassin | A stupid, sporty attention whore | A blind, unfriendly occult fanatic | A harsh metal punk | An extremely manipulative girl |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Cheru%20(A%20cute%20futa%20with%20a%20deep%20voice).md"><img src="Students/Files/Cheru%20(A%20cute%20futa%20with%20a%20deep%20voice).png" height="513" width="171" title="Cheru (A cute futa with a deep voice)"></a>
 <a href="Students/Haru%20(A%20kind%20but%20very%20tsundere%20futa).md"><img src="Students/Files/Haru%20(A%20kind%20but%20very%20tsundere%20futa).png" height="513" width="171" title="Haru (A kind but very tsundere futa)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Nikki%20(A%20sweet%2C%20laughable%20girl).md"><img src="Students/Files/Nikki%20(A%20sweet%2C%20laughable%20girl).png" height="513" width="171" title="Nikki (A sweet, laughable girl)"></a>
+<a href="Students/Aj%20(A%20very%20antisocial%20guy).md"><img src="Students/Files/Aj%20(A%20very%20antisocial%20guy).png" height="513" width="171" title="Aj (A very antisocial guy)"></a>
 <a href="Students/Amy%20(From%20Natsuki's%20poem%20in%20DDLC).md"><img src="Students/Files/Amy%20(From%20Natsuki's%20poem%20in%20DDLC).png" height="513" width="171" title="Amy (From Natsuki's poem in DDLC)"></a>
 
-| -N/A- | Haru | -N/A- | -N/A- | Amy |
+| Cheru | Haru | Nikki | Aj | Amy |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | A kind but very tsundere futa | Student not yet available. | Student not yet available. | From Natsuki's poem in DDLC |
+| A cute futa with a deep voice | A kind but very tsundere futa | A sweet, laughable girl | A very antisocial guy | From Natsuki's poem in DDLC |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Aoki%20(A%20bubbly%2C%20optimistic%20girl).md"><img src="Students/Files/Aoki%20(A%20bubbly%2C%20optimistic%20girl).png" height="513" width="171" title="Aoki (A bubbly, optimistic girl)"></a>
+<a href="Students/Evil%20Aoki%20(Aoki's%20darkner%2C%20evil%20side).md"><img src="Students/Files/Evil%20Aoki%20(Aoki's%20darkner%2C%20evil%20side).png" height="513" width="171" title="Evil Aoki (Aoki's darkner, evil side)"></a>
+<a href="Students/Halloween%20(A%20bully%20who%20is%20passionate%20about%20Halloween).md"><img src="Students/Files/Halloween%20(A%20bully%20who%20is%20passionate%20about%20Halloween).png" height="513" width="171" title="Halloween (A bully who is passionate about Halloween)"></a>
+<a href="Students/Hoshide%20(A%20cheerful%2C%20happy%20girl).md"><img src="Students/Files/Hoshide%20(A%20cheerful%2C%20happy%20girl).png" height="513" width="171" title="Hoshide (A cheerful, happy girl)"></a>
 <a href="Students/Karahashi%20(An%20athletic%20occult%20girl).md"><img src="Students/Files/Karahashi%20(An%20athletic%20occult%20girl).png" height="513" width="171" title="Karahashi (An athletic occult girl)"></a>
 
-| -N/A- | -N/A- | -N/A- | -N/A- | Karahashi |
+| Aoki | Evil Aoki | Halloween | Hoshide | Karahashi |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | Student not yet available. | Student not yet available. | Student not yet available. | An athletic occult girl |
+| A bubbly, optimistic girl | Aoki's darkner, evil side | A bully who is passionate about Halloween | A cheerful, happy girl | An athletic occult girl |
 
 <a href="Students/Kiki%20(A%20neko%20racoon%20girl).md"><img src="Students/Files/Kiki%20(A%20neko%20racoon%20girl).png" height="513" width="171" title="Kiki (A neko racoon girl)"></a>
 <a href="Students/Lexi%20(A%20childish%2C%20innocent%20girl).md"><img src="Students/Files/Lexi%20(A%20childish%2C%20innocent%20girl).png" height="513" width="171" title="Lexi (A childish, innocent girl)"></a>
 <a href="Students/Mitamura%20(A%20no-nonsense%20bully).md"><img src="Students/Files/Mitamura%20(A%20no-nonsense%20bully).png" height="513" width="171" title="Mitamura (A no-nonsense bully)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Player%20(A%20girl%20who%20likes%20to%20play%20anime%20social%20simulators).md"><img src="Students/Files/Player%20(A%20girl%20who%20likes%20to%20play%20anime%20social%20simulators).png" height="513" width="171" title="Player (A girl who likes to play anime social simulators)"></a>
 <a href="Students/Kuroda%20(A%20depressed%20girl%20who%20was%20once%20a%20bully).md"><img src="Students/Files/Kuroda%20(A%20depressed%20girl%20who%20was%20once%20a%20bully).png" height="513" width="171" title="Kuroda (A depressed girl who was once a bully)"></a>
 
-| Kiki | Lexi | Mitamura | -N/A- | Kuroda |
+| Kiki | Lexi | Mitamura | Player | Kuroda |
 | :---: | :---: | :---: | :---: | :---: |
-| A neko racoon girl | A childish, innocent girl | A no-nonsense bully | Student not yet available. | A depressed girl who was once a bully |
+| A neko racoon girl | A childish, innocent girl | A no-nonsense bully | A girl who likes to play anime social simulators | A depressed girl who was once a bully |
 
 <a href="Students/Scratch%20(A%20smart%20student%20with%20a%20lisp).md"><img src="Students/Files/Scratch%20(A%20smart%20student%20with%20a%20lisp).png" height="513" width="171" title="Scratch (A smart student with a lisp)"></a>
 <a href="Students/Mina%20(A%20really%20confident%20girl).md"><img src="Students/Files/Mina%20(A%20really%20confident%20girl).png" height="513" width="171" title="Mina (A really confident girl)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Monika%20(President%20of%20the%20Literature%20Club).md"><img src="Students/Files/Monika%20(President%20of%20the%20Literature%20Club).png" height="513" width="171" title="Monika (President of the Literature Club)"></a>
+<a href="Students/Hexu(Female)%20(Hexu%20as%20a%20female).md"><img src="Students/Files/Hexu(Female)%20(Hexu%20as%20a%20female).png" height="513" width="171" title="Hexu(Female) (Hexu as a female)"></a>
+<a href="Students/Hexu(Futa)%20(Hexu%20as%20a%20futa).md"><img src="Students/Files/Hexu(Futa)%20(Hexu%20as%20a%20futa).png" height="513" width="171" title="Hexu(Futa) (Hexu as a futa)"></a>
 
-| Scratch | Mina | -N/A- | -N/A- | -N/A- |
+| Scratch | Mina | Monika | Hexu(Female) | Hexu(Futa) |
 | :---: | :---: | :---: | :---: | :---: |
-| A smart student with a lisp | A really confident girl | Student not yet available. | Student not yet available. | Student not yet available. |
+| A smart student with a lisp | A really confident girl | President of the Literature Club | Female | Futa |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Hexu(Male)%20(Hexu%20as%20a%20male).md"><img src="Students/Files/Hexu(Male)%20(Hexu%20as%20a%20male).png" height="513" width="171" title="Hexu(Male) (Hexu as a male)"></a>
 <a href="Students/Iyana%20(A%20disgusting%20girl%2C%20rumored%20to%20be%20a%20vampire).md"><img src="Students/Files/Iyana%20(A%20disgusting%20girl%2C%20rumored%20to%20be%20a%20vampire).png" height="513" width="171" title="Iyana (A disgusting girl, rumored to be a vampire)"></a>
 <a href="Students/Masaru%20(A%20yandere%20gamer%20boy).md"><img src="Students/Files/Masaru%20(A%20yandere%20gamer%20boy).png" height="513" width="171" title="Masaru (A yandere gamer boy)"></a>
 <a href="Students/Johan%20(Masaru's%20boring%20best%20friend).md"><img src="Students/Files/Johan%20(Masaru's%20boring%20best%20friend).png" height="513" width="171" title="Johan (Masaru's boring best friend)"></a>
 <a href="Students/Murasaki%20(Michio's%20athletic%20occultist%20cousin).md"><img src="Students/Files/Murasaki%20(Michio's%20athletic%20occultist%20cousin).png" height="513" width="171" title="Murasaki (Michio's athletic occultist cousin)"></a>
 
-| -N/A- | Iyana | Masaru | Johan | Murasaki |
+| Hexu(Male) | Iyana | Masaru | Johan | Murasaki |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | A disgusting girl, rumored to be a vampire | A yandere gamer boy | Masaru's boring best friend | Michio's athletic occultist cousin |
+| Male | A disgusting girl, rumored to be a vampire | A yandere gamer boy | Masaru's boring best friend | Michio's athletic occultist cousin |
 
 <a href="Students/Michio%20(An%20athletic%20anime%20fan%2C%20Michi's%20twin%20brother).md"><img src="Students/Files/Michio%20(An%20athletic%20anime%20fan%2C%20Michi's%20twin%20brother).png" height="513" width="171" title="Michio (An athletic anime fan, Michi's twin brother)"></a>
 <a href="Students/Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20twin%20brother).md"><img src="Students/Files/Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20twin%20brother).png" height="513" width="171" title="Michi (A gaming schoolworm, Michio's twin brother)"></a>
@@ -565,55 +565,55 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | :---: | :---: | :---: | :---: | :---: |
 | A yandere genius, Manami's older sister | An idiotic lesbian | A neko perverted masochist | A perverted tsundere masochist goat boy | A perverted bisexual bully |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Tsukiko%20(A%20quiet%20but%20strong%20girl).md"><img src="Students/Files/Tsukiko%20(A%20quiet%20but%20strong%20girl).png" height="513" width="171" title="Tsukiko (A quiet but strong girl)"></a>
+<a href="Students/Otome%20(A%20very%20shy%20but%20sweet%20tsundere).md"><img src="Students/Files/Otome%20(A%20very%20shy%20but%20sweet%20tsundere).png" height="513" width="171" title="Otome (A very shy but sweet tsundere)"></a>
+<a href="Students/Narumi%20(A%20depressed%2C%20talkative%20girl).md"><img src="Students/Files/Narumi%20(A%20depressed%2C%20talkative%20girl).png" height="513" width="171" title="Narumi (A depressed, talkative girl)"></a>
+<a href="Students/Ikuyo%20(A%20very%20friendly%20sporty%20futa).md"><img src="Students/Files/Ikuyo%20(A%20very%20friendly%20sporty%20futa).png" height="513" width="171" title="Ikuyo (A very friendly sporty futa)"></a>
+<a href="Students/Nobuko%20(A%20reserved%20but%20confident%20bookworm).md"><img src="Students/Files/Nobuko%20(A%20reserved%20but%20confident%20bookworm).png" height="513" width="171" title="Nobuko (A reserved but confident bookworm)"></a>
 
-| -N/A- | -N/A- | -N/A- | -N/A- | -N/A- |
+| Tsukiko | Otome | Narumi | Ikuyo | Nobuko |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | Student not yet available. | Student not yet available. | Student not yet available. | Student not yet available. |
+| A quiet but strong girl | A very shy but sweet tsundere | A depressed, talkative girl | A very friendly sporty futa | A reserved but confident bookworm |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Ran%20(A%20funny%20kuudere%20athlete).md"><img src="Students/Files/Ran%20(A%20funny%20kuudere%20athlete).png" height="513" width="171" title="Ran (A funny kuudere athlete)"></a>
+<a href="Students/Watcher%20(A%20mysterious%20and%20heartless%20entity).md"><img src="Students/Files/Watcher%20(A%20mysterious%20and%20heartless%20entity).png" height="513" width="171" title="Watcher (A mysterious and heartless entity)"></a>
+<a href="Students/Suiren%20(An%20extremely%20bullied%20girl).md"><img src="Students/Files/Suiren%20(An%20extremely%20bullied%20girl).png" height="513" width="171" title="Suiren (An extremely bullied girl)"></a>
+<a href="Students/Teresa%20(A%20heartless%20yandere%20bully).md"><img src="Students/Files/Teresa%20(A%20heartless%20yandere%20bully).png" height="513" width="171" title="Teresa (A heartless yandere bully)"></a>
+<a href="Students/Verne%20(The%20intellectual%20side%20of%20the%20Brain%20sisters).md"><img src="Students/Files/Verne%20(The%20intellectual%20side%20of%20the%20Brain%20sisters).png" height="513" width="171" title="Verne (The intellectual side of the Brain sisters)"></a>
 
-| -N/A- | -N/A- | -N/A- | -N/A- | -N/A- |
+| Ran | Watcher | Suiren | Teresa | Verne |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | Student not yet available. | Student not yet available. | Student not yet available. | Student not yet available. |
+| A funny kuudere athlete | A mysterious and heartless entity | An extremely bullied girl | A heartless yandere bully | The intellectual side of the Brain sisters |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Violet%20(The%20emotional%20side%20of%20the%20Brain%20sisters).md"><img src="Students/Files/Violet%20(The%20emotional%20side%20of%20the%20Brain%20sisters).png" height="513" width="171" title="Violet (The emotional side of the Brain sisters)"></a>
 <a href="Students/Toast%20(A%20recreation%20of%20Thomas).md"><img src="Students/Files/Toast%20(A%20recreation%20of%20Thomas).png" height="513" width="171" title="Toast (A recreation of Thomas)"></a>
 <a href="Students/Husky%20(A%20nice%20guy).md"><img src="Students/Files/Husky%20(A%20nice%20guy).png" height="513" width="171" title="Husky (A nice guy)"></a>
 <a href="Students/Himari%20(A%20perverted%2C%20cool%2C%20tsundere%2C%20bisexual%20girl).md"><img src="Students/Files/Himari%20(A%20perverted%2C%20cool%2C%20tsundere%2C%20bisexual%20girl).png" height="513" width="171" title="Himari (A perverted, cool, tsundere, bisexual girl)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Gym%20Teacher%20(A%20nice%20and%20very%20athletic%20instructor).md"><img src="Students/Files/Gym%20Teacher%20(A%20nice%20and%20very%20athletic%20instructor).png" height="513" width="171" title="Gym Teacher (A nice and very athletic instructor)"></a>
 
-| -N/A- | Toast | Husky | Himari | -N/A- |
+| Violet | Toast | Husky | Himari | Gym Teacher |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | A recreation of Thomas | A nice guy | A perverted, cool, tsundere, bisexual girl | Student not yet available. |
+| The emotional side of the Brain sisters | A recreation of Thomas | A nice guy | A perverted, cool, tsundere, bisexual girl | A nice and very athletic instructor |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Math%20Teacher%20(A%20very%20stern%20professor%20of%20mathematics).md"><img src="Students/Files/Math%20Teacher%20(A%20very%20stern%20professor%20of%20mathematics).png" height="513" width="171" title="Math Teacher (A very stern professor of mathematics)"></a>
+<a href="Students/Sci%20Teacher%20(A%20strict%20but%20fun%20physics%20professor).md"><img src="Students/Files/Sci%20Teacher%20(A%20strict%20but%20fun%20physics%20professor).png" height="513" width="171" title="Sci Teacher (A strict but fun physics professor)"></a>
+<a href="Students/HomeEcTeach%20(A%20sweet%20and%20caring%20teacher).md"><img src="Students/Files/HomeEcTeach%20(A%20sweet%20and%20caring%20teacher).png" height="513" width="171" title="HomeEcTeach (A sweet and caring teacher)"></a>
+<a href="Students/SS%20Teacher%20(An%20actual%20history%20teacher%20who%20is%20not%20a%20coach).md"><img src="Students/Files/SS%20Teacher%20(An%20actual%20history%20teacher%20who%20is%20not%20a%20coach).png" height="513" width="171" title="SS Teacher (An actual history teacher who is not a coach)"></a>
+<a href="Students/Jap%20Teacher%20(A%20nice%20and%20fluent%20professor).md"><img src="Students/Files/Jap%20Teacher%20(A%20nice%20and%20fluent%20professor).png" height="513" width="171" title="Jap Teacher (A nice and fluent professor)"></a>
 
-| -N/A- | -N/A- | -N/A- | -N/A- | -N/A- |
+| Math Teacher | Sci Teacher | HomeEcTeach | SS Teacher | Jap Teacher |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | Student not yet available. | Student not yet available. | Student not yet available. | Student not yet available. |
+| A very stern professor of mathematics | A strict but fun physics professor | A sweet and caring teacher | An actual history teacher who is not a coach | A nice and fluent professor |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Ayano%20(A%20timid%20but%20smart%20girl).md"><img src="Students/Files/Ayano%20(A%20timid%20but%20smart%20girl).png" height="513" width="171" title="Ayano (A timid but smart girl)"></a>
 <a href="Students/Hajime%20(A%20crappy%20Pinku%20look-a-like).md"><img src="Students/Files/Hajime%20(A%20crappy%20Pinku%20look-a-like).png" height="513" width="171" title="Hajime (A crappy Pinku look-a-like)"></a>
 <a href="Students/Konomi%20(Kimono's%20shy%2C%20kind%2C%20positive%20twin).md"><img src="Students/Files/Konomi%20(Kimono's%20shy%2C%20kind%2C%20positive%20twin).png" height="513" width="171" title="Konomi (Kimono's shy, kind, positive twin)"></a>
 <a href="Students/Kimono%20(Konomi's%20confident%2C%20heartless%2C%20negative%20twin).md"><img src="Students/Files/Kimono%20(Konomi's%20confident%2C%20heartless%2C%20negative%20twin).png" height="513" width="171" title="Kimono (Konomi's confident, heartless, negative twin)"></a>
 <a href="Students/Gizmo%20(A%20dog%20in%20human%20form).md"><img src="Students/Files/Gizmo%20(A%20dog%20in%20human%20form).png" height="513" width="171" title="Gizmo (A dog in human form)"></a>
 
-| -N/A- | Hajime | Konomi | Kimono | Gizmo |
+| Ayano | Hajime | Konomi | Kimono | Gizmo |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | A crappy Pinku look-a-like | Kimono's shy, kind, positive twin | Konomi's confident, heartless, negative twin | A dog in human form |
+| A timid but smart girl | A crappy Pinku look-a-like | Kimono's shy, kind, positive twin | Konomi's confident, heartless, negative twin | A dog in human form |
 
 <a href="Students/Maiyu%20(A%20silly%2C%20confident%2C%20pervy%20girl).md"><img src="Students/Files/Maiyu%20(A%20silly%2C%20confident%2C%20pervy%20girl).png" height="513" width="171" title="Maiyu (A silly, confident, pervy girl)"></a>
 <a href="Students/Imiko%20(A%20shy%2C%20pervy%2C%20humerous%20girl).md"><img src="Students/Files/Imiko%20(A%20shy%2C%20pervy%2C%20humerous%20girl).png" height="513" width="171" title="Imiko (A shy, pervy, humerous girl)"></a>
@@ -625,81 +625,161 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | :---: | :---: | :---: | :---: | :---: |
 | A silly, confident, pervy girl | A shy, pervy, humerous girl | Mayo's polite, confident gamer sister | Pinku's shy, friendly bookworm sister | Jenny's older, much more mature brother |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Zohra%20(A%20sad%20but%20sporty%20gal).md"><img src="Students/Files/Zohra%20(A%20sad%20but%20sporty%20gal).png" height="513" width="171" title="Zohra (A sad but sporty gal)"></a>
 <a href="Students/Jenny's%20love%20(Jenny's%20crush%20since%20childhood).md"><img src="Students/Files/Jenny's%20love%20(Jenny's%20crush%20since%20childhood).png" height="513" width="171" title="Jenny's love (Jenny's crush since childhood)"></a>
 <a href="Students/YamiToast%20(Another%20version%20of%20the%20Creator).md"><img src="Students/Files/YamiToast%20(Another%20version%20of%20the%20Creator).png" height="513" width="171" title="YamiToast (Another version of the Creator)"></a>
 <a href="Students/Chihiro%20(A%20girl%20with%20superpowers).md"><img src="Students/Files/Chihiro%20(A%20girl%20with%20superpowers).png" height="513" width="171" title="Chihiro (A girl with superpowers)"></a>
 <a href="Students/Toast%20(From%20the%20Taco%20Masters).md"><img src="Students/Files/Toast%20(From%20the%20Taco%20Masters).png" height="513" width="171" title="Toast (From the Taco Masters)"></a>
 
-| -N/A- | Jenny's love | YamiToast | Chihiro | Toast |
+| Zohra | Jenny's love | YamiToast | Chihiro | Toast |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | Jenny's crush since childhood | Another version of the Creator | A girl with superpowers | From the Taco Masters |
+| A sad but sporty gal | Jenny's crush since childhood | Another version of the Creator | A girl with superpowers | From the Taco Masters |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Rimurensu%20(A%20masochistic%20occult%20girl).md"><img src="Students/Files/Rimurensu%20(A%20masochistic%20occult%20girl).png" height="513" width="171" title="Rimurensu (A masochistic occult girl)"></a>
+<a href="Students/Miyo%20(A%20bubbly%2C%20sporty%20girl).md"><img src="Students/Files/Miyo%20(A%20bubbly%2C%20sporty%20girl).png" height="513" width="171" title="Miyo (A bubbly, sporty girl)"></a>
 <a href="Students/Akeno%20(Masaru's%20older%2C%20spoiled%20sister).md"><img src="Students/Files/Akeno%20(Masaru's%20older%2C%20spoiled%20sister).png" height="513" width="171" title="Akeno (Masaru's older, spoiled sister)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Luna%20pena%20(A%20very%20outgoing%20and%20funny%20musician).md"><img src="Students/Files/Luna%20pena%20(A%20very%20outgoing%20and%20funny%20musician).png" height="513" width="171" title="Luna pena (A very outgoing and funny musician)"></a>
+<a href="Students/Treu%20(A%20kuudere%20bookworm).md"><img src="Students/Files/Treu%20(A%20kuudere%20bookworm).png" height="513" width="171" title="Treu (A kuudere bookworm)"></a>
 
-| -N/A- | -N/A- | Akeno | -N/A- | -N/A- |
+| Rimurensu | Miyo | Akeno | Luna pena | Treu |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | Student not yet available. | Masaru's older, spoiled sister | Student not yet available. | Student not yet available. |
+| A masochistic occult girl | A bubbly, sporty girl | Masaru's older, spoiled sister | A very outgoing and funny musician | A kuudere bookworm |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Latoria%20(A%20sad%20but%20fun%20girl).md"><img src="Students/Files/Latoria%20(A%20sad%20but%20fun%20girl).png" height="513" width="171" title="Latoria (A sad but fun girl)"></a>
 <a href="Students/Yumiko%20('Wal-Mart'%20Arisu%2C%20Kamiko's%20sister).md"><img src="Students/Files/Yumiko%20('Wal-Mart'%20Arisu%2C%20Kamiko's%20sister).png" height="513" width="171" title="Yumiko ('Wal-Mart' Arisu, Kamiko's sister)"></a>
 <a href="Students/Kana%20(Hideyoshi's%20idiotic%2C%20tsundere%20younger%20brother).md"><img src="Students/Files/Kana%20(Hideyoshi's%20idiotic%2C%20tsundere%20younger%20brother).png" height="513" width="171" title="Kana (Hideyoshi's idiotic, tsundere younger brother)"></a>
 <a href="Students/Hideyoshi%20(Kana's%20meaner%2C%20older%20brother).md"><img src="Students/Files/Hideyoshi%20(Kana's%20meaner%2C%20older%20brother).png" height="513" width="171" title="Hideyoshi (Kana's meaner, older brother)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Ichiro%20(A%20shy%20yet%20proficient%20student).md"><img src="Students/Files/Ichiro%20(A%20shy%20yet%20proficient%20student).png" height="513" width="171" title="Ichiro (A shy yet proficient student)"></a>
 
-| -N/A- | Yumiko | Kana | Hideyoshi | -N/A- |
+| Latoria | Yumiko | Kana | Hideyoshi | Ichiro |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | 'Wal-Mart' Arisu, Kamiko's sister | Hideyoshi's idiotic, tsundere younger brother | Kana's meaner, older brother | Student not yet available. |
+| A sad but fun girl | 'Wal-Mart' Arisu, Kamiko's sister | Hideyoshi's idiotic, tsundere younger brother | Kana's meaner, older brother | A shy yet proficient student |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Kisama%20(A%20very%20withdrawn%20baka).md"><img src="Students/Files/Kisama%20(A%20very%20withdrawn%20baka).png" height="513" width="171" title="Kisama (A very withdrawn baka)"></a>
 <a href="Students/Okaruto%20(An%20unlucky%2C%20antisocial%20occult%20lover).md"><img src="Students/Files/Okaruto%20(An%20unlucky%2C%20antisocial%20occult%20lover).png" height="513" width="171" title="Okaruto (An unlucky, antisocial occult lover)"></a>
 <a href="Students/Jasmine%20(A%20judgemental%2C%20pervy%20lesbian).md"><img src="Students/Files/Jasmine%20(A%20judgemental%2C%20pervy%20lesbian).png" height="513" width="171" title="Jasmine (A judgemental, pervy lesbian)"></a>
 <a href="Students/Megan%20(Jasmine's%20tsundere%20best%20friend).md"><img src="Students/Files/Megan%20(Jasmine's%20tsundere%20best%20friend).png" height="513" width="171" title="Megan (Jasmine's tsundere best friend)"></a>
 <a href="Students/Ariso%20(Arisu's%20very%20negative%20brother).md"><img src="Students/Files/Ariso%20(Arisu's%20very%20negative%20brother).png" height="513" width="171" title="Ariso (Arisu's very negative brother)"></a>
 
-| -N/A- | Okaruto | Jasmine | Megan | Ariso |
+| Kisama | Okaruto | Jasmine | Megan | Ariso |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | An unlucky, antisocial occult lover | A judgemental, pervy lesbian | Jasmine's tsundere best friend | Arisu's very negative brother |
+| A very withdrawn baka | An unlucky, antisocial occult lover | A judgemental, pervy lesbian | Jasmine's tsundere best friend | Arisu's very negative brother |
 
 <a href="Students/Ghostie%20(A%20spooky%20lesbian%20who%20hates%20anime).md"><img src="Students/Files/Ghostie%20(A%20spooky%20lesbian%20who%20hates%20anime).png" height="513" width="171" title="Ghostie (A spooky lesbian who hates anime)"></a>
 <a href="Students/Yurei%20(A%20spooky%20kuudere%20girl%20that%20hates%20perverts).md"><img src="Students/Files/Yurei%20(A%20spooky%20kuudere%20girl%20that%20hates%20perverts).png" height="513" width="171" title="Yurei (A spooky kuudere girl that hates perverts)"></a>
 <a href="Students/Akuma%20(A%20spooky%20futanari%20%20who%20likes%20books).md"><img src="Students/Files/Akuma%20(A%20spooky%20futanari%20%20who%20likes%20books).png" height="513" width="171" title="Akuma (A spooky futanari  who likes books)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Junko%20(A%20happy-go-lucky%20airhead).md"><img src="Students/Files/Junko%20(A%20happy-go-lucky%20airhead).png" height="513" width="171" title="Junko (A happy-go-lucky airhead)"></a>
+<a href="Students/Sayori%20(A%20very%20well-educated%20gamer%20girl).md"><img src="Students/Files/Sayori%20(A%20very%20well-educated%20gamer%20girl).png" height="513" width="171" title="Sayori (A very well-educated gamer girl)"></a>
 
-| Ghostie | Yurei | Akuma | -N/A- | -N/A- |
+| Ghostie | Yurei | Akuma | Junko | Sayori |
 | :---: | :---: | :---: | :---: | :---: |
-| A spooky lesbian who hates anime | A spooky kuudere girl that hates perverts | A spooky futanari  who likes books | Student not yet available. | Student not yet available. |
+| A spooky lesbian who hates anime | A spooky kuudere girl that hates perverts | A spooky futanari  who likes books | A happy-go-lucky airhead | A very well-educated gamer girl |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Kaori%20(A%20kuudere%20genius).md"><img src="Students/Files/Kaori%20(A%20kuudere%20genius).png" height="513" width="171" title="Kaori (A kuudere genius)"></a>
+<a href="Students/Kiwi%20(A%20smart%20but%20rather%20unfriendly%20guy).md"><img src="Students/Files/Kiwi%20(A%20smart%20but%20rather%20unfriendly%20guy).png" height="513" width="171" title="Kiwi (A smart but rather unfriendly guy)"></a>
+<a href="Students/Talon%20(A%20very%20mean%20bully).md"><img src="Students/Files/Talon%20(A%20very%20mean%20bully).png" height="513" width="171" title="Talon (A very mean bully)"></a>
+<a href="Students/Tomiko%20(A%20very%20sporty%20tsundere%20girl).md"><img src="Students/Files/Tomiko%20(A%20very%20sporty%20tsundere%20girl).png" height="513" width="171" title="Tomiko (A very sporty tsundere girl)"></a>
+<a href="Students/Tordki%20(An%20all-around%20happy%20futa).md"><img src="Students/Files/Tordki%20(An%20all-around%20happy%20futa).png" height="513" width="171" title="Tordki (An all-around happy futa)"></a>
 
-| -N/A- | -N/A- | -N/A- | -N/A- | -N/A- |
+| Kaori | Kiwi | Talon | Tomiko | Tordki |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | Student not yet available. | Student not yet available. | Student not yet available. | Student not yet available. |
+| A kuudere genius | A smart but rather unfriendly guy | A very mean bully | A very sporty tsundere girl | An all-around happy futa |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Tommo%20(A%20smart%20and%20pervy%20guy).md"><img src="Students/Files/Tommo%20(A%20smart%20and%20pervy%20guy).png" height="513" width="171" title="Tommo (A smart and pervy guy)"></a>
+<a href="Students/Bareru%20(An%20unfriendly%20occultist).md"><img src="Students/Files/Bareru%20(An%20unfriendly%20occultist).png" height="513" width="171" title="Bareru (An unfriendly occultist)"></a>
 <a href="Students/Akuma%20(A%20possibly%20possessed%20occult-obsessed%20bully).md"><img src="Students/Files/Akuma%20(A%20possibly%20possessed%20occult-obsessed%20bully).png" height="513" width="171" title="Akuma (A possibly possessed occult-obsessed bully)"></a>
 <a href="Students/AltKuninobu%20(An%20alternate%20version%20of%20Kuninobu).md"><img src="Students/Files/AltKuninobu%20(An%20alternate%20version%20of%20Kuninobu).png" height="513" width="171" title="AltKuninobu (An alternate version of Kuninobu)"></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Charlie%20(Aj's%20pet%20cat).md"><img src="Students/Files/Charlie%20(Aj's%20pet%20cat).png" height="513" width="171" title="Charlie (Aj's pet cat)"></a>
 
-| -N/A- | -N/A- | Akuma | AltKuninobu | -N/A- |
+| Tommo | Bareru | Akuma | AltKuninobu | Charlie |
 | :---: | :---: | :---: | :---: | :---: |
-| Student not yet available. | Student not yet available. | A possibly possessed occult-obsessed bully | An alternate version of Kuninobu | Student not yet available. |
+| A smart and pervy guy | An unfriendly occultist | A possibly possessed occult-obsessed bully | An alternate version of Kuninobu | Aj's pet cat |
 
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
-<a href=""><img src="Students/Files/WIP.png" height="513" width="171" title="Student not yet available."></a>
+<a href="Students/Akira%20(A%20sad%2C%20somewhat%20unfriendly%20boy).md"><img src="Students/Files/Akira%20(A%20sad%2C%20somewhat%20unfriendly%20boy).png" height="513" width="171" title="Akira (A sad, somewhat unfriendly boy)"></a>
+<a href="Students/Daisuke%20(A%20flirty%20yet%20modest%20guy).md"><img src="Students/Files/Daisuke%20(A%20flirty%20yet%20modest%20guy).png" height="513" width="171" title="Daisuke (A flirty yet modest guy)"></a>
+<a href="Students/Aleo%20(A%20very%20reclusive%20futa).md"><img src="Students/Files/Aleo%20(A%20very%20reclusive%20futa).png" height="513" width="171" title="Aleo (A very reclusive futa)"></a>
+<a href="Students/Aguri%20(The%20ugly%20cutie).md"><img src="Students/Files/Aguri%20(The%20ugly%20cutie).png" height="513" width="171" title="Aguri (The ugly cutie)"></a>
+<a href="Students/Koko%20(A%20funny%2C%20friendly%20gamer).md"><img src="Students/Files/Koko%20(A%20funny%2C%20friendly%20gamer).png" height="513" width="171" title="Koko (A funny, friendly gamer)"></a>
 
-| -N/A- | -N/A- | -N/A- |
+| Akira | Daisuke | Aleo | Aguri | Koko |
+| :---: | :---: | :---: | :---: | :---: |
+| A sad, somewhat unfriendly boy | A flirty yet modest guy | A very reclusive futa | The ugly cutie | A funny, friendly gamer |
+
+<a href="Students/Takara%20(The%20anti-occult%20kuudere).md"><img src="Students/Files/Takara%20(The%20anti-occult%20kuudere).png" height="513" width="171" title="Takara (The anti-occult kuudere)"></a>
+<a href="Students/Misaki%20(The%20leader%20of%20the%20Occult%20Club).md"><img src="Students/Files/Misaki%20(The%20leader%20of%20the%20Occult%20Club).png" height="513" width="171" title="Misaki (The leader of the Occult Club)"></a>
+<a href="Students/Lionel%20(A%20very%20sociable%20guy).md"><img src="Students/Files/Lionel%20(A%20very%20sociable%20guy).png" height="513" width="171" title="Lionel (A very sociable guy)"></a>
+<a href="Students/Kim%20(A%20very%20sociable%20guy).md"><img src="Students/Files/Kim%20(A%20very%20sociable%20guy).png" height="513" width="171" title="Kim (A very sociable guy)"></a>
+<a href="Students/Aoi%20(A%20shy%2C%20sporty%20girl).md"><img src="Students/Files/Aoi%20(A%20shy%2C%20sporty%20girl).png" height="513" width="171" title="Aoi (A shy, sporty girl)"></a>
+
+| Takara | Misaki | Lionel | Kim | Aoi |
+| :---: | :---: | :---: | :---: | :---: |
+| The anti-occult kuudere | The leader of the Occult Club | A very sociable guy | A very sociable guy | A shy, sporty girl |
+
+<a href="Students/Asami%20(An%20antisocial%20perverted%20girl).md"><img src="Students/Files/Asami%20(An%20antisocial%20perverted%20girl).png" height="513" width="171" title="Asami (An antisocial perverted girl)"></a>
+<a href="Students/Ayako%20(A%20very%20cheerful%2C%20outgoing%20girl).md"><img src="Students/Files/Ayako%20(A%20very%20cheerful%2C%20outgoing%20girl).png" height="513" width="171" title="Ayako (A very cheerful, outgoing girl)"></a>
+<a href="Students/Ayame%20(A%20pretty%20shy%20baka).md"><img src="Students/Files/Ayame%20(A%20pretty%20shy%20baka).png" height="513" width="171" title="Ayame (A pretty shy baka)"></a>
+<a href="Students/Chako%20(A%20brilliant%20and%20content%20lady).md"><img src="Students/Files/Chako%20(A%20brilliant%20and%20content%20lady).png" height="513" width="171" title="Chako (A brilliant and content lady)"></a>
+<a href="Students/Chiasa%20(A%20confident%2C%20sporty%20tsundere).md"><img src="Students/Files/Chiasa%20(A%20confident%2C%20sporty%20tsundere).png" height="513" width="171" title="Chiasa (A confident, sporty tsundere)"></a>
+
+| Asami | Ayako | Ayame | Chako | Chiasa |
+| :---: | :---: | :---: | :---: | :---: |
+| An antisocial perverted girl | A very cheerful, outgoing girl | A pretty shy baka | A brilliant and content lady | A confident, sporty tsundere |
+
+<a href="Students/Chiharu%20(A%20dexterious%20but%20antisocial%20futanari).md"><img src="Students/Files/Chiharu%20(A%20dexterious%20but%20antisocial%20futanari).png" height="513" width="171" title="Chiharu (A dexterious but antisocial futanari)"></a>
+<a href="Students/Chisame%20(A%20very%20reclusive%20bookworm).md"><img src="Students/Files/Chisame%20(A%20very%20reclusive%20bookworm).png" height="513" width="171" title="Chisame (A very reclusive bookworm)"></a>
+<a href="Students/Chitoge%20(An%20athletic%20kuudere%20gal).md"><img src="Students/Files/Chitoge%20(An%20athletic%20kuudere%20gal).png" height="513" width="171" title="Chitoge (An athletic kuudere gal)"></a>
+<a href="Students/Cho%20(A%20very%20timid%20manga%20girl).md"><img src="Students/Files/Cho%20(A%20very%20timid%20manga%20girl).png" height="513" width="171" title="Cho (A very timid manga girl)"></a>
+<a href="Students/Gintoki%20(An%20insecure%2C%20talkative%20guy).md"><img src="Students/Files/Gintoki%20(An%20insecure%2C%20talkative%20guy).png" height="513" width="171" title="Gintoki (An insecure, talkative guy)"></a>
+
+| Chiharu | Chisame | Chitoge | Cho | Gintoki |
+| :---: | :---: | :---: | :---: | :---: |
+| A dexterious but antisocial futanari | A very reclusive bookworm | An athletic kuudere gal | A very timid manga girl | An insecure, talkative guy |
+
+<a href="Students/Hachiro%20(A%20rather%20unfriendly%20guy%20against%20the%20occult).md"><img src="Students/Files/Hachiro%20(A%20rather%20unfriendly%20guy%20against%20the%20occult).png" height="513" width="171" title="Hachiro (A rather unfriendly guy against the occult)"></a>
+<a href="Students/Haruhi%20(A%20pretty%20dexterious%20and%20athletic%20gamer).md"><img src="Students/Files/Haruhi%20(A%20pretty%20dexterious%20and%20athletic%20gamer).png" height="513" width="171" title="Haruhi (A pretty dexterious and athletic gamer)"></a>
+<a href="Students/Harumi%20(A%20rather%20distant%20sweetie).md"><img src="Students/Files/Harumi%20(A%20rather%20distant%20sweetie).png" height="513" width="171" title="Harumi (A rather distant sweetie)"></a>
+<a href="Students/Hiroyuki%20(A%20ruthless%20hunter).md"><img src="Students/Files/Hiroyuki%20(A%20ruthless%20hunter).png" height="513" width="171" title="Hiroyuki (A ruthless hunter)"></a>
+<a href="Students/Homura%20(A%20nice%2C%20talkative%20girl).md"><img src="Students/Files/Homura%20(A%20nice%2C%20talkative%20girl).png" height="513" width="171" title="Homura (A nice, talkative girl)"></a>
+
+| Hachiro | Haruhi | Harumi | Hiroyuki | Homura |
+| :---: | :---: | :---: | :---: | :---: |
+| A rather unfriendly guy against the occult | A pretty dexterious and athletic gamer | A rather distant sweetie | A ruthless hunter | A nice, talkative girl |
+
+<a href="Students/Katsuo%20(An%20unsociable%20but%20intelligent%20scholar).md"><img src="Students/Files/Katsuo%20(An%20unsociable%20but%20intelligent%20scholar).png" height="513" width="171" title="Katsuo (An unsociable but intelligent scholar)"></a>
+<a href="Students/Kazue%20(A%20shy%20yet%20talented%20musician).md"><img src="Students/Files/Kazue%20(A%20shy%20yet%20talented%20musician).png" height="513" width="171" title="Kazue (A shy yet talented musician)"></a>
+<a href="Students/Kei%20(A%20girl%20who%20doesn't%20open%20up%20to%20many%20people).md"><img src="Students/Files/Kei%20(A%20girl%20who%20doesn't%20open%20up%20to%20many%20people).png" height="513" width="171" title="Kei (A girl who doesn't open up to many people)"></a>
+<a href="Students/Kenichi%20(A%20friendly%2C%20brilliant%2C%20pervy%20guy).md"><img src="Students/Files/Kenichi%20(A%20friendly%2C%20brilliant%2C%20pervy%20guy).png" height="513" width="171" title="Kenichi (A friendly, brilliant, pervy guy)"></a>
+<a href="Students/Kichiro%20(A%20pretty%20mean%20occult%20fanatic).md"><img src="Students/Files/Kichiro%20(A%20pretty%20mean%20occult%20fanatic).png" height="513" width="171" title="Kichiro (A pretty mean occult fanatic)"></a>
+
+| Katsuo | Kazue | Kei | Kenichi | Kichiro |
+| :---: | :---: | :---: | :---: | :---: |
+| An unsociable but intelligent scholar | A shy yet talented musician | A girl who doesn't open up to many people | A friendly, brilliant, pervy guy | A pretty mean occult fanatic |
+
+<a href="Students/Kioshi%20(A%20very%20timid%20but%20nice%20boy).md"><img src="Students/Files/Kioshi%20(A%20very%20timid%20but%20nice%20boy).png" height="513" width="171" title="Kioshi (A very timid but nice boy)"></a>
+<a href="Students/Koichi%20(An%20overly%20confident%20occultist).md"><img src="Students/Files/Koichi%20(An%20overly%20confident%20occultist).png" height="513" width="171" title="Koichi (An overly confident occultist)"></a>
+<a href="Students/Kotone%20(A%20snooty%2C%20rather%20insecure%20girl).md"><img src="Students/Files/Kotone%20(A%20snooty%2C%20rather%20insecure%20girl).png" height="513" width="171" title="Kotone (A snooty, rather insecure girl)"></a>
+<a href="Students/Latoria%20(A%20pretty%20negative%20bookworm).md"><img src="Students/Files/Latoria%20(A%20pretty%20negative%20bookworm).png" height="513" width="171" title="Latoria (A pretty negative bookworm)"></a>
+<a href="Students/Light%20(A%20boy%20with%20a%20vast%20imagination).md"><img src="Students/Files/Light%20(A%20boy%20with%20a%20vast%20imagination).png" height="513" width="171" title="Light (A boy with a vast imagination)"></a>
+
+| Kioshi | Koichi | Kotone | Latoria | Light |
+| :---: | :---: | :---: | :---: | :---: |
+| A very timid but nice boy | An overly confident occultist | A snooty, rather insecure girl | A pretty negative bookworm | A boy with a vast imagination |
+
+<a href="Students/Mai%20(A%20shy%2C%20clumsy%20girl).md"><img src="Students/Files/Mai%20(A%20shy%2C%20clumsy%20girl).png" height="513" width="171" title="Mai (A shy, clumsy girl)"></a>
+<a href="Students/Satoru%20(A%20guy%20who%20talks%20more%20than%20he%20acts).md"><img src="Students/Files/Satoru%20(A%20guy%20who%20talks%20more%20than%20he%20acts).png" height="513" width="171" title="Satoru (A guy who talks more than he acts)"></a>
+<a href="Students/Shika%20(An%20unfriendly%20and%20pretty%20stupid%20anime%20nerd).md"><img src="Students/Files/Shika%20(An%20unfriendly%20and%20pretty%20stupid%20anime%20nerd).png" height="513" width="171" title="Shika (An unfriendly and pretty stupid anime nerd)"></a>
+<a href="Students/Shinju%20(A%20very%20cute%20tsundere%20gal).md"><img src="Students/Files/Shinju%20(A%20very%20cute%20tsundere%20gal).png" height="513" width="171" title="Shinju (A very cute tsundere gal)"></a>
+<a href="Students/Yoshito%20(A%20wimpy%2C%20perverted%20guy).md"><img src="Students/Files/Yoshito%20(A%20wimpy%2C%20perverted%20guy).png" height="513" width="171" title="Yoshito (A wimpy, perverted guy)"></a>
+
+| Mai | Satoru | Shika | Shinju | Yoshito |
+| :---: | :---: | :---: | :---: | :---: |
+| A shy, clumsy girl | A guy who talks more than he acts | An unfriendly and pretty stupid anime nerd | A very cute tsundere gal | A wimpy, perverted guy |
+
+<a href="Students/Yukiko%20(A%20rude%20anime%20girl).md"><img src="Students/Files/Yukiko%20(A%20rude%20anime%20girl).png" height="513" width="171" title="Yukiko (A rude anime girl)"></a>
+<a href="Students/Kari%20(The%20leader%20of%20the%20Manga%20Club).md"><img src="Students/Files/Kari%20(The%20leader%20of%20the%20Manga%20Club).png" height="513" width="171" title="Kari (The leader of the Manga Club)"></a>
+<a href="Students/Ariko%20(A%20mashup%20of%20Kamiko%20and%20Arisu).md"><img src="Students/Files/Ariko%20(A%20mashup%20of%20Kamiko%20and%20Arisu).png" height="513" width="171" title="Ariko (A mashup of Kamiko and Arisu)"></a>
+
+| Yukiko | Kari | Ariko |
 | :---: | :---: | :---: |
-| Student not yet available. | Student not yet available. | Student not yet available. |
+| A rude anime girl | The leader of the Manga Club | A mashup of Kamiko and Arisu |
 
