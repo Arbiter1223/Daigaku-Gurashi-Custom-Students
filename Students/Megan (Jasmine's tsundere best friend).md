@@ -4,7 +4,7 @@
 
 Name: Megan
 
-Description: Jasmine's tsundere best friend
+Description: <a href="Jasmine%20(A%20judgemental%2C%20pervy%20lesbian).md">Jasmine</a>'s tsundere best friend
 
 Author: AjTheYandere
 
