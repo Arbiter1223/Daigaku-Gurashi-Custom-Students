@@ -4,7 +4,7 @@
 
 Name: Hotaru
 
-Description: July's festive girlfriend
+Description: <a href="July%20(A%20festive%20American%20girl).md">July</a>'s festive girlfriend
 
 Author: Syberian Orange
 
