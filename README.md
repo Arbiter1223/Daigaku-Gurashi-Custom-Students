@@ -537,31 +537,31 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 <a href="Students/Iyana%20(A%20disgusting%20girl%2C%20rumored%20to%20be%20a%20vampire).md"><img src="Students/Files/Iyana%20(A%20disgusting%20girl%2C%20rumored%20to%20be%20a%20vampire).png" height="513" width="171" title="Iyana (A disgusting girl, rumored to be a vampire)"></a>
 <a href="Students/Masaru%20(A%20yandere%20gamer%20boy).md"><img src="Students/Files/Masaru%20(A%20yandere%20gamer%20boy).png" height="513" width="171" title="Masaru (A yandere gamer boy)"></a>
 <a href="Students/Johan%20(Masaru's%20boring%20best%20friend).md"><img src="Students/Files/Johan%20(Masaru's%20boring%20best%20friend).png" height="513" width="171" title="Johan (Masaru's boring best friend)"></a>
-<a href="Students/Murasaki%20(Michio's%20athletic%20occultist%20cousin).md"><img src="Students/Files/Murasaki%20(Michio's%20athletic%20occultist%20cousin).png" height="513" width="171" title="Murasaki (Michio's athletic occultist cousin)"></a>
+<a href="Students/Murasaki%20(Michio's%20athletic%20occultist%20twin).md"><img src="Students/Files/Murasaki%20(Michio's%20athletic%20occultist%20twin).png" height="513" width="171" title="Murasaki (Michio's athletic occultist twin)"></a>
 
 | Hexu(Male) | Iyana | Masaru | Johan | Murasaki |
 | :---: | :---: | :---: | :---: | :---: |
-| Hexu as a male | A disgusting girl, rumored to be a vampire | A yandere gamer boy | Masaru's boring best friend | Michio's athletic occultist cousin |
+| Hexu as a male | A disgusting girl, rumored to be a vampire | A yandere gamer boy | Masaru's boring best friend | Michio's athletic occultist twin |
 
-<a href="Students/Michio%20(An%20athletic%20anime%20fan%2C%20Michi's%20twin%20brother).md"><img src="Students/Files/Michio%20(An%20athletic%20anime%20fan%2C%20Michi's%20twin%20brother).png" height="513" width="171" title="Michio (An athletic anime fan, Michi's twin brother)"></a>
-<a href="Students/Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20twin%20brother).md"><img src="Students/Files/Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20twin%20brother).png" height="513" width="171" title="Michi (A gaming schoolworm, Michio's twin brother)"></a>
+<a href="Students/Michio%20(An%20athletic%20anime%20fan%2C%20Murasaki's%20twin%20brother).md"><img src="Students/Files/Michio%20(An%20athletic%20anime%20fan%2C%20Murasaki's%20twin%20brother).png" height="513" width="171" title="Michio (An athletic anime fan, Murasaki's twin brother)"></a>
+<a href="Students/Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20cousin).md"><img src="Students/Files/Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20cousin).png" height="513" width="171" title="Michi (A gaming schoolworm, Michio's cousin)"></a>
 <a href="Students/Kichiro%20(A%20perverted%20pessimist).md"><img src="Students/Files/Kichiro%20(A%20perverted%20pessimist).png" height="513" width="171" title="Kichiro (A perverted pessimist)"></a>
 <a href="Students/Akane%20(A%20very%20friendly%20kuudere).md"><img src="Students/Files/Akane%20(A%20very%20friendly%20kuudere).png" height="513" width="171" title="Akane (A very friendly kuudere)"></a>
 <a href="Students/Manami%20(A%20bullied%20athlete%2C%20Murasaki's%20childhood%20friend).md"><img src="Students/Files/Manami%20(A%20bullied%20athlete%2C%20Murasaki's%20childhood%20friend).png" height="513" width="171" title="Manami (A bullied athlete, Murasaki's childhood friend)"></a>
 
 | Michio | Michi | Kichiro | Akane | Manami |
 | :---: | :---: | :---: | :---: | :---: |
-| An athletic anime fan, Michi's twin brother | A gaming schoolworm, Michio's twin brother | A perverted pessimist | A very friendly kuudere | A bullied athlete, Murasaki's childhood friend |
+| An athletic anime fan, Murasaki's twin brother | A gaming schoolworm, Michio's cousin | A perverted pessimist | A very friendly kuudere | A bullied athlete, Murasaki's childhood friend |
 
 <a href="Students/Bunko%20(A%20yandere%20genius%2C%20Manami's%20older%20sister).md"><img src="Students/Files/Bunko%20(A%20yandere%20genius%2C%20Manami's%20older%20sister).png" height="513" width="171" title="Bunko (A yandere genius, Manami's older sister)"></a>
-<a href="Students/Jolyne%20(An%20idiotic%20lesbian).md"><img src="Students/Files/Jolyne%20(An%20idiotic%20lesbian).png" height="513" width="171" title="Jolyne (An idiotic lesbian)"></a>
+<a href="Students/Jolyne%20(An%20idiotic%20Tumblr%20girl%20sterotype).md"><img src="Students/Files/Jolyne%20(An%20idiotic%20Tumblr%20girl%20sterotype).png" height="513" width="171" title="Jolyne (An idiotic Tumblr girl sterotype)"></a>
 <a href="Students/Kusoi%20(A%20neko%20perverted%20masochist).md"><img src="Students/Files/Kusoi%20(A%20neko%20perverted%20masochist).png" height="513" width="171" title="Kusoi (A neko perverted masochist)"></a>
 <a href="Students/Shirai%20(A%20perverted%20tsundere%20masochist%20goat%20boy).md"><img src="Students/Files/Shirai%20(A%20perverted%20tsundere%20masochist%20goat%20boy).png" height="513" width="171" title="Shirai (A perverted tsundere masochist goat boy)"></a>
 <a href="Students/Karie%20(A%20perverted%20bisexual%20bully).md"><img src="Students/Files/Karie%20(A%20perverted%20bisexual%20bully).png" height="513" width="171" title="Karie (A perverted bisexual bully)"></a>
 
 | Bunko | Jolyne | Kusoi | Shirai | Karie |
 | :---: | :---: | :---: | :---: | :---: |
-| A yandere genius, Manami's older sister | An idiotic lesbian | A neko perverted masochist | A perverted tsundere masochist goat boy | A perverted bisexual bully |
+| A yandere genius, Manami's older sister | An idiotic Tumblr girl sterotype | A neko perverted masochist | A perverted tsundere masochist goat boy | A perverted bisexual bully |
 
 <a href="Students/Tsukiko%20(A%20quiet%20but%20strong%20girl).md"><img src="Students/Files/Tsukiko%20(A%20quiet%20but%20strong%20girl).png" height="513" width="171" title="Tsukiko (A quiet but strong girl)"></a>
 <a href="Students/Otome%20(A%20very%20shy%20but%20sweet%20tsundere).md"><img src="Students/Files/Otome%20(A%20very%20shy%20but%20sweet%20tsundere).png" height="513" width="171" title="Otome (A very shy but sweet tsundere)"></a>
