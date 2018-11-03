@@ -4,7 +4,7 @@
 
 Name: Violet
 
-Description: The emotional side of the Brain sisters
+Description: The emotional side of the Brain sisters. <a href="Verne%20(The%20intellectual%20side%20of%20the%20Brain%20sisters).md">Verne</a>'s twin sister.
 
 Author: AjTheYandere
 
