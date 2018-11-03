@@ -4,7 +4,7 @@
 
 Name: Jenny's love
 
-Description: Jenny's crush since childhood
+Description: <a href="Jenny%20(A%20fun%20pervert).md">Jenny</a>'s crush since childhood
 
 Author: IzzyStiks2.0
 
