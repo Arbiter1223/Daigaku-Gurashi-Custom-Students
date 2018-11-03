@@ -4,7 +4,7 @@
 
 Name: Hajime
 
-Description: A crappy Pinku look-a-like
+Description: A crappy <a href="Pinku%20(A%20friendly%20positive%20guy).md">Pinku</a> look-a-like
 
 Author: Cookie Boi
 
