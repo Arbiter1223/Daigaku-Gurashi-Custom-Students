@@ -4,7 +4,7 @@
 
 Name: Konomi
 
-Description: Kimono's shy, kind, positive twin
+Description: <a href="Kimono%20(Konomi's%20confident%2C%20heartless%2C%20negative%20twin).md">Kimono</a>'s shy, kind, positive twin
 
 Author: Cookie Boi
 
