@@ -4,7 +4,7 @@
 
 Name: Akeno
 
-Description: Masaru's older, spoiled sister
+Description: <a href="Masaru%20(A%20yandere%20gamer%20boy).md">Masaru</a>'s older, spoiled sister
 
 Author: Aho-chan
 
