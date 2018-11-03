@@ -776,8 +776,10 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 <a href="Students/Yukiko%20(A%20rude%20anime%20girl).md"><img src="Students/Files/Yukiko%20(A%20rude%20anime%20girl).png" height="513" width="171" title="Yukiko (A rude anime girl)"></a>
 <a href="Students/Kari%20(The%20leader%20of%20the%20Manga%20Club).md"><img src="Students/Files/Kari%20(The%20leader%20of%20the%20Manga%20Club).png" height="513" width="171" title="Kari (The leader of the Manga Club)"></a>
 <a href="Students/Ariko%20(A%20mashup%20of%20Kamiko%20and%20Arisu).md"><img src="Students/Files/Ariko%20(A%20mashup%20of%20Kamiko%20and%20Arisu).png" height="513" width="171" title="Ariko (A mashup of Kamiko and Arisu)"></a>
+<a href="Students/PR-8503%20(An%20AI%20created%20by%20Scratch%20to%20do%20many%20things).md"><img src="Students/Files/PR-8503%20(An%20AI%20created%20by%20Scratch%20to%20do%20many%20things).png" height="513" width="171" title="PR-8503 (An AI created by Scratch to do many things)"></a>
+<a href="Students/Tordki%20(An%20all-around%20awesome%20futa).md"><img src="Students/Files/Tordki%20(An%20all-around%20awesome%20futa).png" height="513" width="171" title="Tordki (An all-around awesome futa)"></a>
 
-| Yukiko | Kari | Ariko |
-| :---: | :---: | :---: |
-| A rude anime girl | The leader of the Manga Club | A mashup of Kamiko and Arisu |
+| Yukiko | Kari | Ariko | PR-8503 | Tordki |
+| :---: | :---: | :---: | :---: | :---: |
+| A rude anime girl | The leader of the Manga Club | A mashup of Kamiko and Arisu | An AI created by Scratch to do many things | An all-around awesome futa |
 
