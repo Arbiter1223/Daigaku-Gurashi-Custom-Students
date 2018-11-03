@@ -4,7 +4,7 @@
 
 Name: Johan
 
-Description: Masaru's boring best friend
+Description: <a href="Masaru%20(A%20yandere%20gamer%20boy).md">Masaru</a>'s boring best friend
 
 Author: Aho-chan
 
