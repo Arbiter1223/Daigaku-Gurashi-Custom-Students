@@ -4,7 +4,7 @@
 
 Name: Jennyafur
 
-Description: A cheerful blonde neko girl
+Description: A cheerful blonde neko girl. (Pronounced "Jen-nya-fur")
 
 Author: Arbiter1223
 
