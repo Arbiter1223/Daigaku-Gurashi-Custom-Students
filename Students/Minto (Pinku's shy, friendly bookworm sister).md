@@ -4,7 +4,7 @@
 
 Name: Minto
 
-Description: Pinku's shy, friendly bookworm sister
+Description: <a href="Pinku%20(A%20friendly%20positive%20guy).md">Pinku</a>'s shy, friendly bookworm sister
 
 Author: Cookie Boi
 
