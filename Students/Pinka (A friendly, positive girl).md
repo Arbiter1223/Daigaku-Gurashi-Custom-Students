@@ -4,7 +4,7 @@
 
 Name: Pinka
 
-Description: A friendly, positive girl
+Description: A friendly, positive girl. <a href="Pinku%20(A%20friendly%20positive%20guy).md">Pinku</a>, but as a girl.
 
 Author: Hatsune
 
