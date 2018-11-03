@@ -531,7 +531,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 | Scratch | Mina | Monika | Hexu(Female) | Hexu(Futa) |
 | :---: | :---: | :---: | :---: | :---: |
-| A smart student with a lisp | A really confident girl | President of the Literature Club | Female | Futa |
+| A smart student with a lisp | A really confident girl | President of the Literature Club | Hexu as a female | Hexu as a futa |
 
 <a href="Students/Hexu(Male)%20(Hexu%20as%20a%20male).md"><img src="Students/Files/Hexu(Male)%20(Hexu%20as%20a%20male).png" height="513" width="171" title="Hexu(Male) (Hexu as a male)"></a>
 <a href="Students/Iyana%20(A%20disgusting%20girl%2C%20rumored%20to%20be%20a%20vampire).md"><img src="Students/Files/Iyana%20(A%20disgusting%20girl%2C%20rumored%20to%20be%20a%20vampire).png" height="513" width="171" title="Iyana (A disgusting girl, rumored to be a vampire)"></a>
@@ -541,7 +541,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 | Hexu(Male) | Iyana | Masaru | Johan | Murasaki |
 | :---: | :---: | :---: | :---: | :---: |
-| Male | A disgusting girl, rumored to be a vampire | A yandere gamer boy | Masaru's boring best friend | Michio's athletic occultist cousin |
+| Hexu as a male | A disgusting girl, rumored to be a vampire | A yandere gamer boy | Masaru's boring best friend | Michio's athletic occultist cousin |
 
 <a href="Students/Michio%20(An%20athletic%20anime%20fan%2C%20Michi's%20twin%20brother).md"><img src="Students/Files/Michio%20(An%20athletic%20anime%20fan%2C%20Michi's%20twin%20brother).png" height="513" width="171" title="Michio (An athletic anime fan, Michi's twin brother)"></a>
 <a href="Students/Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20twin%20brother).md"><img src="Students/Files/Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20twin%20brother).png" height="513" width="171" title="Michi (A gaming schoolworm, Michio's twin brother)"></a>
