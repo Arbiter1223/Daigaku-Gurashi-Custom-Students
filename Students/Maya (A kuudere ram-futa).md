@@ -4,7 +4,7 @@
 
 Name: Maya
 
-Description: A kuudere ram-futa. Mayo, but as a futa.
+Description: A kuudere ram-futa. <a href="Mayo%20(A%20kuudere%20ram-girl).md">Mayo</a>, but as a futa.
 
 Author: Arbiter1223
 
