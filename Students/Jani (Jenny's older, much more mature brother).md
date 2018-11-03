@@ -4,7 +4,7 @@
 
 Name: Jani
 
-Description: Jenny's older, much more mature brother
+Description: <a href="Jenny%20(A%20fun%20pervert).md">Jenny</a>'s older, much more mature brother
 
 Author: Cookie Boi
 
