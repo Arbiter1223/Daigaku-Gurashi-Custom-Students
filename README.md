@@ -784,8 +784,12 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | A rude anime girl | The leader of the Manga Club | A mashup of Kamiko and Arisu | An AI created by Scratch to do many things | An all-around awesome futa |
 
 <a href="Students/Ikari%20(Scratch's%20assistant%2C%20helped%20create%20PR-8503).md"><img src="Students/Files/Ikari%20(Scratch's%20assistant%2C%20helped%20create%20PR-8503).png" height="513" width="171" title="Ikari (Scratch's assistant, helped create PR-8503)"></a>
+<a href="Students/Chung%20Hee%20(The%20Korean%20group%20leader).md"><img src="Students/Files/Chung%20Hee%20(The%20Korean%20group%20leader).png" height="513" width="171" title="Chung Hee (The Korean group leader)"></a>
+<a href="Students/Sang%20Min%20(A%20girly%20Korean%20idol).md"><img src="Students/Files/Sang%20Min%20(A%20girly%20Korean%20idol).png" height="513" width="171" title="Sang Min (A girly Korean idol)"></a>
+<a href="Students/Sun%20Woo%20(An%20emotionless%20Korean%20idol).md"><img src="Students/Files/Sun%20Woo%20(An%20emotionless%20Korean%20idol).png" height="513" width="171" title="Sun Woo (An emotionless Korean idol)"></a>
+<a href="Students/Young%20Chul%20(An%20upbeat%20Korean%20idol).md"><img src="Students/Files/Young%20Chul%20(An%20upbeat%20Korean%20idol).png" height="513" width="171" title="Young Chul (An upbeat Korean idol)"></a>
 
-| Ikari |
-| :---: |
-| Scratch's assistant, helped create PR-8503 |
+| Ikari | Chung Hee | Sang Min | Sun Woo | Young Chul |
+| :---: | :---: | :---: | :---: | :---: |
+| Scratch's assistant, helped create PR-8503 | The Korean group leader | A girly Korean idol | An emotionless Korean idol | An upbeat Korean idol |
 
