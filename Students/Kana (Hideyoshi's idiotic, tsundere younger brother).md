@@ -4,7 +4,7 @@
 
 Name: Kana
 
-Description: Hideyoshi's idiotic, tsundere younger brother
+Description: <a href="Hideyoshi%20(Kana's%20meaner,%20older%20brother).md">Hideyoshi</a>'s idiotic, tsundere younger brother
 
 Author: Takumi
 
