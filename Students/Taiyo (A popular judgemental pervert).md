@@ -4,7 +4,7 @@
 
 Name: Taiyo
 
-Description: A popular judgemental pervert. Tsuki's twin sister.
+Description: A popular judgemental pervert. <a href="Tsuki%20(A%20shy%2C%20mean%20occultist).md">Tsuki</a>'s twin sister.
 
 Author: Syberian Orange
 
