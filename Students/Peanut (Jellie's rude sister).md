@@ -4,7 +4,7 @@
 
 Name: Peanut
 
-Description: Jellie's rude sister
+Description: <a href="Jellie%20(Peanut's%20nice%20sister).md">Jellie</a>'s rude sister
 
 Author: AjTheYandere
 
