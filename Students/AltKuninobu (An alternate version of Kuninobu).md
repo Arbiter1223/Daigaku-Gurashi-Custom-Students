@@ -4,7 +4,7 @@
 
 Name: AltKuninobu
 
-Description: An alternate version of Kuninobu
+Description: An alternate version of <a href="Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people).md">Kuninobu</a>
 
 Author: AjTheYandere
 
