@@ -4,7 +4,7 @@
 
 Name: Jolyne
 
-Description: An idiotic Tumblr girl sterotype
+Description: An idiotic Tumblr girl sterotype. Very good friends with <a href="Bunko%20(A%20yandere%20genius,%20Manami's%20older%20sister).md">Bunko</a>.
 
 Author: Aho-chan
 
