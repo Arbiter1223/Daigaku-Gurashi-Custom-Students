@@ -4,7 +4,7 @@
 
 Name: Manami
 
-Description: A bullied athlete, Murasaki's childhood friend
+Description: A bullied athlete, <a href="Murasaki%20(Michio's%20athletic%20occultist%20cousin).md">Murasaki</a>'s childhood friend
 
 Author: Aho-chan
 
