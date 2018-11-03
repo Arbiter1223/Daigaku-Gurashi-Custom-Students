@@ -4,7 +4,7 @@
 
 Name: Evil Aoki
 
-Description: Aoki's darkner, evil side
+Description: <a href="Aoki%20(A%20bubbly%2C%20optimistic%20girl).md">Aoki</a>'s darkner, evil side
 
 Author: AjTheYandere
 
