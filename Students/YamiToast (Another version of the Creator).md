@@ -4,7 +4,7 @@
 
 Name: YamiToast
 
-Description: Another version of the Creator
+Description: Another version of the <a href="YamiToast%20(The%20creator%20himself).md">Creator</a>
 
 Author: IzzyStiks2.0
 
