@@ -4,7 +4,7 @@
 
 Name: Yoshie
 
-Description: Shiro's girlfriend from Toast's stream
+Description: <a href="Shiro%20(The%20default%20character).md">Shiro</a>'s girlfriend from Toast's stream
 
 Author: Toast
 
