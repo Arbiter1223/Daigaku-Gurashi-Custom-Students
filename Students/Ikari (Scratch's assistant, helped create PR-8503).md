@@ -4,7 +4,7 @@
 
 Name: Ikari
 
-Description: Scratch's assistant, helped create PR-8503
+Description: Scratch's assistant, helped create <a href="PR-8503%20(An%20AI%20created%20by%20Scratch%20to%20do%20many%20things).md">PR-8503</a>
 
 Author: AjTheYandere
 
