@@ -4,7 +4,7 @@
 
 Name: Bunko
 
-Description: A yandere genius, Manami's older sister
+Description: A yandere genius, <a href="Manami%20(A%20bullied%20athlete%2C%20Murasaki's%20childhood%20friend).md">Manami</a>'s older sister
 
 Author: Aho-chan
 
