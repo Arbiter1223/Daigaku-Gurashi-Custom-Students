@@ -4,7 +4,7 @@
 
 Name: Michio
 
-Description: An athletic anime fan, Michi's twin brother
+Description: An athletic anime fan, <a href="Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20twin%20brother).md">Michi</a>'s twin brother
 
 Author: Aho-chan
 
