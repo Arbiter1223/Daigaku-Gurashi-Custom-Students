@@ -4,7 +4,7 @@
 
 Name: Kamiko
 
-Description: A lazy Arisu cosplayer.
+Description: A lazy <a href="Arisu%20(A%20very%20negative%20bully).md">Arisu</a> cosplayer.
 
 Authors: Syberian Orange and Arbiter1223
 
