@@ -4,7 +4,7 @@
 
 Name: Yumiko
 
-Description: 'Wal-Mart' Arisu, Kamiko's sister
+Description: 'Wal-Mart' <a href="Arisu%20(A%20very%20negative%20bully).md">Arisu</a>, <a href="Kamiko%20(A%20lazy%20Arisu%20cosplayer).md">Kamiko</a>'s sister
 
 Authors: AjTheYandere and Arbiter1223
 
