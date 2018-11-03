@@ -4,7 +4,7 @@
 
 Name: Maieo
 
-Description: Mayo's polite, confident gamer sister
+Description: <a href="Mayo%20(A%20kuudere%20ram-girl).md">Mayo</a>'s polite, confident gamer sister
 
 Author: Cookie Boi
 
