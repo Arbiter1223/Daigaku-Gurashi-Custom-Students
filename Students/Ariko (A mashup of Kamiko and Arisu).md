@@ -4,7 +4,7 @@
 
 Name: Ariko
 
-Description: A mashup of Kamiko and Arisu
+Description: A mashup of <a href="Kamiko%20(A%20lazy%20Arisu%20cosplayer).md">Kamiko</a> and <a href="Arisu%20(A%20very%20negative%20bully).md">Arisu</a>
 
 Author: AjTheYandere
 
