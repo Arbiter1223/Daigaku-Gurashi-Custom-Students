@@ -783,3 +783,9 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | :---: | :---: | :---: | :---: | :---: |
 | A rude anime girl | The leader of the Manga Club | A mashup of Kamiko and Arisu | An AI created by Scratch to do many things | An all-around awesome futa |
 
+<a href="Students/Ikari%20(Scratch's%20assistant%2C%20helped%20create%20PR-8503).md"><img src="Students/Files/Ikari%20(Scratch's%20assistant%2C%20helped%20create%20PR-8503).png" height="513" width="171" title="Ikari (Scratch's assistant, helped create PR-8503)"></a>
+
+| Ikari |
+| :---: |
+| Scratch's assistant, helped create PR-8503 |
+
