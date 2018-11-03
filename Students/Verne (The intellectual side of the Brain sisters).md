@@ -4,7 +4,7 @@
 
 Name: Verne
 
-Description: The intellectual side of the Brain sisters
+Description: The intellectual side of the Brain sisters. <a href="Violet%20(The%20emotional%20side%20of%20the%20Brain%20sisters).md">Violet</a>'s twin sister.
 
 Author: AjTheYandere
 
