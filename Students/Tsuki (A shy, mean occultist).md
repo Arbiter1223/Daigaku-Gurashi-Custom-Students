@@ -4,7 +4,7 @@
 
 Name: Tsuki
 
-Description: A shy, mean occultist. Taiyo's twin sister.
+Description: A shy, mean occultist. <a href="Taiyo%20(A%20popular%20judgemental%20pervert).md">Taiyo</a>'s twin sister.
 
 Author: Syberian Orange
 
