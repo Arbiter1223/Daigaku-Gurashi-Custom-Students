@@ -4,7 +4,7 @@
 
 Name: Orangu
 
-Description: A very sweet, orange catgirl. Jennyafur's best friend.
+Description: A very sweet, orange catgirl. <a href="Jennyafur%20(A%20cheerful%20blonde%20neko%20girl).md">Jennyafur</a>'s best friend.
 
 Authors: Retsuko and Arbiter1223
 
