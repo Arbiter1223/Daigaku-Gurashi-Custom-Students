@@ -4,7 +4,7 @@
 
 Name: Michi
 
-Description: A gaming schoolworm, Michio's twin brother
+Description: A gaming schoolworm, <a href="Michio%20(An%20athletic%20anime%20fan,%20Michi's%20twin%20brother).md">Michio</a>'s twin brother
 
 Author: Aho-chan
 
