@@ -4,7 +4,7 @@
 
 Name: Murasaki
 
-Description: Michio's athletic occultist twin
+Description: <a href="Michio%20(An%20athletic%20anime%20fan,%20Murasaki's%20twin%20brother).md">Michio</a>'s athletic occultist twin
 
 Author: Aho-chan
 
