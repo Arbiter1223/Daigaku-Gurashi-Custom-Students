@@ -4,7 +4,7 @@
 
 Name: Michi
 
-Description: A gaming schoolworm, Michio's cousin
+Description: A gaming schoolworm, <a href="Michio%20(An%20athletic%20anime%20fan,%20Murasaki's%20twin%20brother).md">Michio</a> and <a href="Murasaki%20(Michio's%20athletic%20occultist%20twin).md">Murasaki</a>'s cousin
 
 Author: Aho-chan
 
