@@ -1,5 +1,7 @@
 # -+=<|Daigaku Gurashi Custom Student Database|>=+-
 
+<img src ="https://cdn.discordapp.com/attachments/430213415663960084/510167658315120641/PatreonBanner4.png">
+
 <img src ="http://www.thinwithin.org/wp-content/uploads/2015/06/saw-horse-6.jpg">
 
 #### Note as of 12/11/2018
