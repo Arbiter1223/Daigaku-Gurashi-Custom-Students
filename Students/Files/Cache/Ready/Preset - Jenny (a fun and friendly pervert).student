@@ -1,5 +1,5 @@
-Daigaku Gurashi V0.28
-Last Modified: 11/18/2018 9:09:53 PM
+﻿Daigaku Gurashi V0.29
+Last Modified: 12/11/2018 1:36:31 PM
 ------------------------------------------------------
 FirstName|Jenny|
 Female|True|
@@ -13,7 +13,7 @@ HairSecondaryColour|9|
 Eyes|11|
 Mouth|3|
 Skin|6|
-HeadAccessory|0|
+HeadAccessory|10|
 Eyewear|0|
 Pantsu|4|
 Sexual Preference|1|
@@ -48,7 +48,7 @@ Loyal|False|
 Voice|0|
 Lingo Great|sweet|
 Lingo Crappy|lame|
-Class1_Proficiency|0|
+Class1_Proficiency|30|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
 Class4_Proficiency|0|
@@ -62,7 +62,7 @@ ThighHigh Base|18|
 ThighHigh Extra|1|
 Pelvis|4|
 VoicePitch|1|
-HeadAccessoryColour|1|
+HeadAccessoryColour|6|
 OppaiSize|5|
 Lingo Very|6|
 Author|YamiToast|

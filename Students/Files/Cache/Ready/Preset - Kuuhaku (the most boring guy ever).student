@@ -1,5 +1,5 @@
-Daigaku Gurashi V0.28
-Last Modified: 11/18/2018 9:18:29 PM
+﻿Daigaku Gurashi V0.29
+Last Modified: 12/11/2018 1:36:31 PM
 ------------------------------------------------------
 FirstName|Kuuhaku|
 Female|False|
@@ -11,7 +11,7 @@ Hair(Tails)|0|
 HairPrimaryColour|4|
 HairSecondaryColour|4|
 Eyes|76|
-Mouth|1|
+Mouth|6|
 Skin|3|
 HeadAccessory|0|
 Eyewear|0|
@@ -48,7 +48,7 @@ Loyal|True|
 Voice|1|
 Lingo Great|okay|
 Lingo Crappy|bad|
-Class1_Proficiency|0|
+Class1_Proficiency|33|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
 Class4_Proficiency|0|
@@ -63,7 +63,7 @@ ThighHigh Extra|1|
 Pelvis|1|
 VoicePitch|2|
 HeadAccessoryColour|1|
-OppaiSize|0|
+OppaiSize|1|
 Lingo Very|0|
 Author|YamiToast|
 Description|The most boring guy ever|
