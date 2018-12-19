@@ -1,7 +1,7 @@
-Daigaku Gurashi V0.28
-Last Modified: 11/19/2018 12:25:37 AM
+Daigaku Gurashi V0.29
+Last Modified: 12/19/2018 1:24:33 AM
 ------------------------------------------------------
-FirstName|Taiyo|
+FirstName|Tsuki|
 Female|True|
 Penis|False|
 Hair(Front)|5|
@@ -18,36 +18,36 @@ Eyewear|0|
 Pantsu|10|
 Sexual Preference|0|
 LeaderInfluence|0|
-Snootiness|0|
-Gossips|100|
-Kindness|0|
-Confidence|100|
-Intelligence|0|
-Dexterity|-80|
+Snootiness|50|
+Gossips|0|
+Kindness|40|
+Confidence|-40|
+Intelligence|80|
+Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
 Romantic|0|
 StalksLover|False|
-FetishDominated|90|
+FetishDominated|0|
 HairTaste|0|
 Depression|0|
-LikesSchool|60|
-Athletic|1000|
-LikesManga|-100|
-LikesAnime|-100|
-LikesBooks|-100|
-LikesVideoGames|-100|
-LikesMusic|70|
-Perverted|80|
-LikesHumour|80|
-LikesOccult|-100|
+LikesSchool|-90|
+Athletic|0|
+LikesManga|45|
+LikesAnime|45|
+LikesBooks|90|
+LikesVideoGames|45|
+LikesMusic|0|
+Perverted|0|
+LikesHumour|-90|
+LikesOccult|90|
 Alive|True|
 Kuudere|False|
 Loyal|False|
 Voice|0|
-Lingo Great|rad|
-Lingo Crappy|shoddy|
+Lingo Great|inspiring|
+Lingo Crappy|unfortunate|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,7 +56,7 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-Accent|2|
+Accent|0|
 Energy|2000|
 ThighHigh Base|32|
 ThighHigh Extra|0|
@@ -64,9 +64,9 @@ Pelvis|1|
 VoicePitch|2|
 HeadAccessoryColour|30|
 OppaiSize|5|
-Lingo Very|3|
+Lingo Very|0|
 Author|Syberian Orange|
-Description|A popular judgemental pervert|
+Description|A shy, mean occultist|
 Shirt_Colour|32|
 Shirt_Decal|4|
 Pants_Colour|12|
