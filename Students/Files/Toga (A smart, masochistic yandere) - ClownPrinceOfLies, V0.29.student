@@ -1,50 +1,50 @@
-Daigaku Gurashi V0.28
-Last Modified: 11/14/2018 2:06:29 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/19/2018 5:42:05 AM
 ------------------------------------------------------
-FirstName|KyokoSakura|
+FirstName|Toga|
 Female|True|
 Penis|False|
-Hair(Front)|4|
-Hair(Back)|7|
-Hair(Ahoge)|0|
-Hair(Tails)|0|
-HairPrimaryColour|9|
-HairSecondaryColour|3|
-Eyes|12|
-Mouth|5|
+Hair(Front)|10|
+Hair(Back)|2|
+Hair(Ahoge)|1|
+Hair(Tails)|1|
+HairPrimaryColour|18|
+HairSecondaryColour|18|
+Eyes|24|
+Mouth|4|
 Skin|1|
 HeadAccessory|0|
 Eyewear|0|
-Pantsu|13|
-Sexual Preference|0|
+Pantsu|60|
+Sexual Preference|-1|
 LeaderInfluence|0|
 Snootiness|50|
 Gossips|0|
 Kindness|0|
-Confidence|80|
-Intelligence|0|
+Confidence|65|
+Intelligence|80|
 Dexterity|50|
-Yandere|False|
+Yandere|True|
 Sanity|0|
 Tsundere|0|
-Romantic|30|
+Romantic|61|
 StalksLover|False|
-FetishDominated|0|
+FetishDominated|100|
 HairTaste|0|
-Depression|20|
+Depression|0|
 LikesSchool|0|
-Athletic|0|
+Athletic|-4|
 LikesManga|0|
-LikesAnime|45|
+LikesAnime|0|
 LikesBooks|0|
-LikesVideoGames|45|
-LikesMusic|90|
-Perverted|0|
-LikesHumour|90|
+LikesVideoGames|0|
+LikesMusic|0|
+Perverted|90|
+LikesHumour|45|
 LikesOccult|0|
 Alive|True|
 Kuudere|False|
-Loyal|False|
+Loyal|True|
 Voice|0|
 Lingo Great|great|
 Lingo Crappy|crappy|
@@ -59,18 +59,18 @@ Class8_Proficiency|0|
 Accent|0|
 Energy|2000|
 ThighHigh Base|8|
-ThighHigh Extra|0|
-Pelvis|1|
+ThighHigh Extra|10|
+Pelvis|3|
 VoicePitch|2|
-HeadAccessoryColour|1|
+HeadAccessoryColour|0|
 OppaiSize|1|
-Lingo Very|10|
-Author|Cookie Boi|
-Description|A serious but humorous girl|
-Shirt_Colour|8|
-Shirt_Decal|16|
-Pants_Colour|1|
-WearDress%|70|
-Dress_Colour|26|
-Dress_Decal|5|
+Lingo Very|4|
+Author|ClownPrinceOfLies|
+Description|A smart, masochistic yandere|
+Shirt_Colour|27|
+Shirt_Decal|15|
+Pants_Colour|10|
+WearDress%|40|
+Dress_Colour|3|
+Dress_Decal|1|
 (╯°□°）╯You ruined it!! You killed the magic!!
