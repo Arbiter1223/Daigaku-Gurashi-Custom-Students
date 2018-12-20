@@ -1,0 +1,15 @@
+# Baka (A clueless, clumsy girl)
+
+<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Baka%20(A%20clueless%2C%20clumsy%20girl).png">
+
+Name: Baka
+
+Description: A clueless, clumsy girl
+
+Author: Aho-chan
+
+Version: V0.29
+
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Baka%20(A%20clueless%2C%20clumsy%20girl)%20-%20Aho-chan%2C%20V0.29.student">Baka (A clueless, clumsy girl) - Aho-chan, V0.29.student</a>
+
+### ---**To download, _right-click_ the link, and select _"Save as"_**---
