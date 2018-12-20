@@ -1,39 +1,39 @@
-Daigaku Gurashi V0.28
-Last Modified: 11/7/2018 3:00:20 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/20/2018 1:01:32 AM
 ------------------------------------------------------
-FirstName|Tara|
-Female|True|
+FirstName|Neo|
+Female|False|
 Penis|True|
-Hair(Front)|3|
+Hair(Front)|0|
 Hair(Back)|1|
-Hair(Ahoge)|6|
-Hair(Tails)|2|
-HairPrimaryColour|31|
+Hair(Ahoge)|8|
+Hair(Tails)|0|
+HairPrimaryColour|29|
 HairSecondaryColour|33|
-Eyes|20|
-Mouth|5|
+Eyes|15|
+Mouth|4|
 Skin|4|
-HeadAccessory|9|
-Eyewear|1|
-Pantsu|42|
+HeadAccessory|2|
+Eyewear|0|
+Pantsu|23|
 Sexual Preference|0|
 LeaderInfluence|0|
 Snootiness|0|
 Gossips|0|
 Kindness|80|
-Confidence|93|
-Intelligence|80|
-Dexterity|50|
+Confidence|92|
+Intelligence|0|
+Dexterity|0|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|88|
+Romantic|89|
 StalksLover|False|
 FetishDominated|100|
 HairTaste|0|
-Depression|27|
+Depression|14|
 LikesSchool|-45|
-Athletic|846|
+Athletic|847|
 LikesManga|90|
 LikesAnime|90|
 LikesBooks|90|
@@ -44,11 +44,11 @@ LikesHumour|90|
 LikesOccult|90|
 Alive|True|
 Kuudere|False|
-Loyal|False|
-Voice|2|
-Lingo Great|awesomesauce|
+Loyal|True|
+Voice|1|
+Lingo Great|purrfect|
 Lingo Crappy|lame|
-Class1_Proficiency|106|
+Class1_Proficiency|86|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
 Class4_Proficiency|0|
@@ -58,19 +58,19 @@ Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|4|
 Energy|2000|
-ThighHigh Base|32|
-ThighHigh Extra|3|
-Pelvis|4|
-VoicePitch|3|
-HeadAccessoryColour|4|
-OppaiSize|5|
-Lingo Very|10|
-Author|-|
-Description|A randomly generated character.|
-Shirt_Colour|31|
-Shirt_Decal|1|
-Pants_Colour|4|
-WearDress%|100|
-Dress_Colour|32|
-Dress_Decal|4|
+ThighHigh Base|2|
+ThighHigh Extra|12|
+Pelvis|0|
+VoicePitch|4|
+HeadAccessoryColour|23|
+OppaiSize|2|
+Lingo Very|3|
+Author|Nightara|
+Description|A very friendly, outgoing neko guy|
+Shirt_Colour|23|
+Shirt_Decal|16|
+Pants_Colour|6|
+WearDress%|0|
+Dress_Colour|1|
+Dress_Decal|14|
 (╯°□°）╯You ruined it!! You killed the magic!!
