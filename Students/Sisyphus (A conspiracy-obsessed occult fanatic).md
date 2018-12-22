@@ -1,0 +1,15 @@
+# Sisyphus (A conspiracy-obsessed occult fanatic)
+
+<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sisyphus%20(A%20conspiracy-obsessed%20occult%20fanatic).png">
+
+Name: Sisyphus
+
+Description: A conspiracy-obsessed occult fanatic
+
+Author: BenPupKao
+
+Version: V0.29
+
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sisyphus%20(A%20conspiracy-obsessed%20occult%20fanatic)%20-%20BenPupKao%2C%20V0.29.student">Sisyphus (A conspiracy-obsessed occult fanatic) - BenPupKao, V0.29.student</a>
+
+### ---**To download, _right-click_ the link, and select _"Save as"_**---
