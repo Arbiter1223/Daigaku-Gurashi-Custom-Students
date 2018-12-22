@@ -1,5 +1,5 @@
 ﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:05:44 PM
+Last Modified: 12/22/2018 12:37:01 AM
 ------------------------------------------------------
 FirstName|Bigby|
 Female|True|
@@ -11,15 +11,15 @@ Hair(Tails)|4|
 HairPrimaryColour|27|
 HairSecondaryColour|27|
 Eyes|80|
-Mouth|5|
-Skin|8|
-HeadAccessory|9|
+Mouth|6|
+Skin|13|
+HeadAccessory|10|
 Eyewear|5|
 Pantsu|45|
 Sexual Preference|0|
-LeaderInfluence|0|
+LeaderInfluence|99|
 Snootiness|999|
-Gossips|0|
+Gossips|999|
 Kindness|99|
 Confidence|99|
 Intelligence|99|
@@ -28,10 +28,10 @@ Yandere|True|
 Sanity|0|
 Tsundere|99|
 Romantic|99|
-StalksLover|False|
-FetishDominated|0|
+StalksLover|True|
+FetishDominated|99|
 HairTaste|0|
-Depression|80|
+Depression|99|
 LikesSchool|99|
 Athletic|999|
 LikesManga|99|
@@ -43,7 +43,7 @@ Perverted|99|
 LikesHumour|99|
 LikesOccult|99|
 Alive|True|
-Kuudere|False|
+Kuudere|True|
 Loyal|True|
 Voice|2|
 Lingo Great|awesome|
