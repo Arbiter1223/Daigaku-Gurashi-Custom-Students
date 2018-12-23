@@ -1,4 +1,4 @@
-﻿Daigaku Gurashi V0.29
+Daigaku Gurashi V0.29
 Last Modified: 12/19/2018 10:04:16 PM
 ------------------------------------------------------
 FirstName|Alex|
@@ -27,7 +27,7 @@ Dexterity|10|
 Yandere|True|
 Sanity|-999|
 Tsundere|30|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|100|
 HairTaste|0|
@@ -61,7 +61,7 @@ Energy|9999|
 ThighHigh Base|27|
 ThighHigh Extra|8|
 Pelvis|1|
-VoicePitch|1|
+Voice Pitch|1|
 HeadAccessoryColour|27|
 OppaiSize|4|
 Lingo Very|10|

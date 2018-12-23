@@ -1,4 +1,4 @@
-﻿Daigaku Gurashi V0.29
+Daigaku Gurashi V0.29
 Last Modified: 12/11/2018 1:36:31 PM
 ------------------------------------------------------
 FirstName|Mayo|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|25|
+LoveyDovey|25|
 StalksLover|True|
 FetishDominated|0|
 HairTaste|0|
@@ -61,7 +61,7 @@ Energy|2000|
 ThighHigh Base|4|
 ThighHigh Extra|0|
 Pelvis|1|
-VoicePitch|1|
+Voice Pitch|1|
 HeadAccessoryColour|16|
 OppaiSize|3|
 Lingo Very|18|

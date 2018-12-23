@@ -1,4 +1,4 @@
-﻿Daigaku Gurashi V0.29
+Daigaku Gurashi V0.29
 Last Modified: 12/20/2018 4:41:44 PM
 ------------------------------------------------------
 FirstName|Masaru|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|True|
 Sanity|0|
 Tsundere|0|
-Romantic|20|
+LoveyDovey|20|
 StalksLover|True|
 FetishDominated|70|
 HairTaste|0|
@@ -61,7 +61,7 @@ Energy|1999|
 ThighHigh Base|22|
 ThighHigh Extra|10|
 Pelvis|3|
-VoicePitch|2|
+Voice Pitch|2|
 HeadAccessoryColour|23|
 OppaiSize|4|
 Lingo Very|10|

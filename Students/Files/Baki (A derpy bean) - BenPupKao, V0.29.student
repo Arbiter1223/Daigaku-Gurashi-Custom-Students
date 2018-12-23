@@ -1,4 +1,4 @@
-﻿Daigaku Gurashi V0.29
+Daigaku Gurashi V0.29
 Last Modified: 12/20/2018 1:10:14 AM
 ------------------------------------------------------
 FirstName|Baki|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -61,7 +61,7 @@ Energy|2000|
 ThighHigh Base|32|
 ThighHigh Extra|2|
 Pelvis|3|
-VoicePitch|1|
+Voice Pitch|1|
 HeadAccessoryColour|27|
 OppaiSize|0|
 Lingo Very|1|

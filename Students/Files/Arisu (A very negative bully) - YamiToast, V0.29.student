@@ -1,4 +1,4 @@
-﻿Daigaku Gurashi V0.29
+Daigaku Gurashi V0.29
 Last Modified: 12/11/2018 1:36:31 PM
 ------------------------------------------------------
 FirstName|Arisu|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|35|
 Tsundere|100|
-Romantic|100|
+LoveyDovey|100|
 StalksLover|True|
 FetishDominated|0|
 HairTaste|99|
@@ -61,7 +61,7 @@ Energy|2000|
 ThighHigh Base|24|
 ThighHigh Extra|1|
 Pelvis|1|
-VoicePitch|3|
+Voice Pitch|3|
 HeadAccessoryColour|1|
 OppaiSize|1|
 Lingo Very|10|
