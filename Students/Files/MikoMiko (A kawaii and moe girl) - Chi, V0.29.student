@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:58:23 PM
+Last Modified: 12/22/2018 8:27:53 PM
 ------------------------------------------------------
 FirstName|MikoMiko|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|True|
 Sanity|0|
 Tsundere|0|
-Romantic|61|
+LoveyDovey|61|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -48,16 +48,16 @@ Loyal|True|
 Voice|0|
 Lingo Great|spectacular|
 Lingo Crappy|terrible|
-Class1_Proficiency|1953|
-Class2_Proficiency|4148|
-Class3_Proficiency|3523|
-Class4_Proficiency|2220|
-Class5_Proficiency|3355|
-Class6_Proficiency|4588|
+Class1_Proficiency|0|
+Class2_Proficiency|0|
+Class3_Proficiency|0|
+Class4_Proficiency|0|
+Class5_Proficiency|0|
+Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|4|
-Energy|1559|
+Energy|2000|
 ThighHigh Base|4|
 ThighHigh Extra|6|
 Pelvis|2|

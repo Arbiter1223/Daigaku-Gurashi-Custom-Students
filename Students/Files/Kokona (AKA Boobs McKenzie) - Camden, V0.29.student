@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:30:33 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 2:38:08 PM
 ------------------------------------------------------
 FirstName|Kokona|
 Female|True|
@@ -15,7 +15,7 @@ Mouth|1|
 Skin|1|
 HeadAccessory|0|
 Eyewear|0|
-Pantsu|-32|
+Pantsu|32|
 Sexual Preference|0|
 LeaderInfluence|0|
 Snootiness|0|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|100|
 HairTaste|0|
@@ -57,12 +57,12 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1994|
+Energy|2000|
 ThighHigh Base|31|
 ThighHigh Extra|0|
 Pelvis|4|
 VoicePitch|2|
-HeadAccessoryColour|3|
+HeadAccessoryColour|0|
 OppaiSize|5|
 Lingo Very|0|
 Author|Camden|

@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 12:06:54 AM
+Last Modified: 12/22/2018 8:31:47 PM
 ------------------------------------------------------
 FirstName|Mika|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|0|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,12 +57,12 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|2|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|4|
 ThighHigh Extra|0|
 Pelvis|0|
 VoicePitch|4|
-HeadAccessoryColour|16|
+HeadAccessoryColour|0|
 OppaiSize|4|
 Lingo Very|0|
 Author|Camden|

@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:58:04 PM
+Last Modified: 12/22/2018 8:27:35 PM
 ------------------------------------------------------
 FirstName|Goro|
 Female|False|
@@ -15,7 +15,7 @@ Mouth|3|
 Skin|3|
 HeadAccessory|8|
 Eyewear|1|
-Pantsu|-32|
+Pantsu|32|
 Sexual Preference|1|
 LeaderInfluence|0|
 Snootiness|50|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|100|
 HairTaste|0|
@@ -57,7 +57,7 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|1|
-Energy|1996|
+Energy|2000|
 ThighHigh Base|30|
 ThighHigh Extra|10|
 Pelvis|1|

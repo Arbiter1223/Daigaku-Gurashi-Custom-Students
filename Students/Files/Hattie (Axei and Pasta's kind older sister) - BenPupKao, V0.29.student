@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:31:10 PM
+Last Modified: 12/22/2018 2:38:23 PM
 ------------------------------------------------------
 FirstName|Hattie|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -48,8 +48,8 @@ Loyal|False|
 Voice|2|
 Lingo Great|epic|
 Lingo Crappy|shit|
-Class1_Proficiency|630|
-Class2_Proficiency|434|
+Class1_Proficiency|0|
+Class2_Proficiency|0|
 Class3_Proficiency|0|
 Class4_Proficiency|0|
 Class5_Proficiency|0|
@@ -57,12 +57,12 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1936|
+Energy|2000|
 ThighHigh Base|7|
 ThighHigh Extra|10|
 Pelvis|2|
 VoicePitch|4|
-HeadAccessoryColour|15|
+HeadAccessoryColour|0|
 OppaiSize|3|
 Lingo Very|16|
 Author|BenPupKao|

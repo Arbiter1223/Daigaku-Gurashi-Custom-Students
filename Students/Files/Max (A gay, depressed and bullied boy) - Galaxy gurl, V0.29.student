@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:33:31 PM
+Last Modified: 12/22/2018 8:25:55 PM
 ------------------------------------------------------
 FirstName|Max|
 Female|False|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|True|
 Sanity|0|
 Tsundere|70|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,13 +57,13 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|1|
-Energy|1997|
+Energy|2000|
 ThighHigh Base|4|
 ThighHigh Extra|12|
 Pelvis|3|
-Voice Pitch|4|
+VoicePitch|4|
 HeadAccessoryColour|1|
-OppaiSize|5|
+OppaiSize|0|
 Lingo Very|13|
 Author|Galaxy gurl|
 Description|A gay, depressed and bullied boy|

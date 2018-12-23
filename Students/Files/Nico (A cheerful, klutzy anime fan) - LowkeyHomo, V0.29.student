@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 10:53:11 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 2:14:54 PM
 ------------------------------------------------------
 FirstName|Nico|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,12 +57,12 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|4|
-Energy|1908|
+Energy|2000|
 ThighHigh Base|23|
 ThighHigh Extra|4|
 Pelvis|4|
 VoicePitch|4|
-HeadAccessoryColour|26|
+HeadAccessoryColour|0|
 OppaiSize|5|
 Lingo Very|4|
 Author|LowkeyHomo|

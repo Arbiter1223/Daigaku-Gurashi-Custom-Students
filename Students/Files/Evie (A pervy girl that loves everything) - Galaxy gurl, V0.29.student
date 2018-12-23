@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:06:24 PM
+Last Modified: 12/22/2018 2:28:44 PM
 ------------------------------------------------------
 FirstName|Evie|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|100|
+LoveyDovey|100|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,7 +57,7 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|4|
-Energy|1637|
+Energy|2000|
 ThighHigh Base|1|
 ThighHigh Extra|8|
 Pelvis|4|

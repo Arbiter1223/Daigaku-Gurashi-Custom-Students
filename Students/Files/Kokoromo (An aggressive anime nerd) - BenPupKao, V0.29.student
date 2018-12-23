@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 12:13:15 AM
+Last Modified: 12/22/2018 8:37:32 PM
 ------------------------------------------------------
 FirstName|Kokoromo|
 Female|False|
@@ -48,16 +48,16 @@ Loyal|True|
 Voice|1|
 Lingo Great|great|
 Lingo Crappy|crappy|
-Class1_Proficiency|3078|
-Class2_Proficiency|6318|
-Class3_Proficiency|2970|
-Class4_Proficiency|2756|
+Class1_Proficiency|0|
+Class2_Proficiency|0|
+Class3_Proficiency|0|
+Class4_Proficiency|0|
 Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|861|
+Energy|2000|
 ThighHigh Base|4|
 ThighHigh Extra|3|
 Pelvis|1|

@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:27:01 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 2:37:39 PM
 ------------------------------------------------------
 FirstName|Art Teacher|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,12 +57,12 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|4|
 ThighHigh Extra|9|
 Pelvis|2|
 VoicePitch|0|
-HeadAccessoryColour|9|
+HeadAccessoryColour|0|
 OppaiSize|5|
 Lingo Very|11|
 Author|LowkeyHomo|

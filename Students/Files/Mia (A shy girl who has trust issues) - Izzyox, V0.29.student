@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:41:03 PM
+Last Modified: 12/22/2018 8:26:09 PM
 ------------------------------------------------------
 FirstName|Mia|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|0|
 Yandere|False|
 Sanity|0|
 Tsundere|2|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,7 +57,7 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1898|
+Energy|2000|
 ThighHigh Base|2|
 ThighHigh Extra|2|
 Pelvis|2|

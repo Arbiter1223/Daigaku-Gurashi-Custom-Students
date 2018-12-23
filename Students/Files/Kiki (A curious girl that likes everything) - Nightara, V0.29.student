@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 10:50:21 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 2:12:42 PM
 ------------------------------------------------------
 FirstName|Kiki|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -48,7 +48,7 @@ Loyal|False|
 Voice|2|
 Lingo Great|great|
 Lingo Crappy|crappy|
-Class1_Proficiency|114|
+Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
 Class4_Proficiency|0|

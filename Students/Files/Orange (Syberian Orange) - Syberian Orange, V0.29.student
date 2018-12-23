@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 10:49:46 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 2:11:54 PM
 ------------------------------------------------------
 FirstName|Orange|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,11 +57,11 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1997|
+Energy|2000|
 ThighHigh Base|32|
 ThighHigh Extra|6|
 Pelvis|4|
-Voice Pitch|1|
+VoicePitch|1|
 HeadAccessoryColour|1|
 OppaiSize|5|
 Lingo Very|17|

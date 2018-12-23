@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:31:39 PM
+Last Modified: 12/22/2018 2:38:39 PM
 ------------------------------------------------------
 FirstName|Camden|
 Female|False|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|True|
 Sanity|0|
 Tsundere|70|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,12 +57,12 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|4|
-Energy|1997|
+Energy|2000|
 ThighHigh Base|4|
 ThighHigh Extra|0|
 Pelvis|0|
 VoicePitch|1|
-HeadAccessoryColour|4|
+HeadAccessoryColour|0|
 OppaiSize|0|
 Lingo Very|10|
 Author|Camden|

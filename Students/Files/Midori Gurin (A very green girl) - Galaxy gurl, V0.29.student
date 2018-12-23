@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:57:08 PM
+Last Modified: 12/22/2018 8:27:06 PM
 ------------------------------------------------------
 FirstName|Midori Gurin|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,12 +57,12 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|21|
 ThighHigh Extra|0|
 Pelvis|2|
-Voice Pitch|4|
-HeadAccessoryColour|4|
+VoicePitch|4|
+HeadAccessoryColour|0|
 OppaiSize|0|
 Lingo Very|0|
 Author|Galaxy gurl|

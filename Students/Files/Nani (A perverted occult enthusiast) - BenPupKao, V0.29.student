@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 12:02:44 AM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 8:29:28 PM
 ------------------------------------------------------
 FirstName|Nani|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,7 +57,7 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|4|
-Energy|1997|
+Energy|2000|
 ThighHigh Base|2|
 ThighHigh Extra|8|
 Pelvis|3|

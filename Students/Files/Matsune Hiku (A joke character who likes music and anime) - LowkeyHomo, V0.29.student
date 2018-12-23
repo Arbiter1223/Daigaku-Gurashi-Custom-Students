@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:00:20 PM
+Last Modified: 12/22/2018 2:26:15 PM
 ------------------------------------------------------
 FirstName|Matsune Hiku|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,7 +57,7 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|4|
 ThighHigh Extra|0|
 Pelvis|0|
@@ -70,7 +70,7 @@ Description|A joke character who likes music and anime|
 Shirt_Colour|31|
 Shirt_Decal|3|
 Pants_Colour|31|
-WearDress%|150|
+WearDress%|110|
 Dress_Colour|22|
 Dress_Decal|20|
 (╯°□°）╯You ruined it!! You killed the magic!!

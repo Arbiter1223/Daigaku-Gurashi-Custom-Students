@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 10:49:03 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 2:08:30 PM
 ------------------------------------------------------
 FirstName|Yamitoast|
 Female|False|
@@ -15,7 +15,7 @@ Mouth|4|
 Skin|4|
 HeadAccessory|0|
 Eyewear|0|
-Pantsu|-18|
+Pantsu|18|
 Sexual Preference|1|
 LeaderInfluence|0|
 Snootiness|75|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,13 +57,13 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|5|
 ThighHigh Extra|1|
 Pelvis|2|
 VoicePitch|2|
 HeadAccessoryColour|1|
-OppaiSize|4|
+OppaiSize|0|
 Lingo Very|11|
 Author|Syberian Orange|
 Description|This BAKA made this game|

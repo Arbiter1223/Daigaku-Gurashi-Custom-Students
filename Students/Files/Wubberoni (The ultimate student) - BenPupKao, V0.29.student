@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 10:48:29 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 2:07:57 PM
 ------------------------------------------------------
 FirstName|Wubberoni|
 Female|False|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|True|
 Sanity|0|
 Tsundere|70|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -45,7 +45,7 @@ LikesOccult|0|
 Alive|True|
 Kuudere|False|
 Loyal|True|
-Voice|0|
+Voice|1|
 Lingo Great|wubber|
 Lingo Crappy|oni|
 Class1_Proficiency|0|
@@ -57,13 +57,13 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|4|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|27|
 ThighHigh Extra|8|
 Pelvis|0|
 VoicePitch|4|
 HeadAccessoryColour|6|
-OppaiSize|5|
+OppaiSize|0|
 Lingo Very|17|
 Author|BenPupKao|
 Description|The ultimate student|

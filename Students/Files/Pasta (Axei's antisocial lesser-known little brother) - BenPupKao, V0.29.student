@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:09:06 PM
+Last Modified: 12/22/2018 2:29:40 PM
 ------------------------------------------------------
 FirstName|Pasta|
 Female|False|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|False|
 Sanity|0|
 Tsundere|70|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,7 +57,7 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|3|
-Energy|1998|
+Energy|2000|
 ThighHigh Base|3|
 ThighHigh Extra|7|
 Pelvis|0|

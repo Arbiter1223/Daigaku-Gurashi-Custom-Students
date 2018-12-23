@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 12:16:31 AM
+Last Modified: 12/22/2018 8:39:20 PM
 ------------------------------------------------------
 FirstName|Uro|
 Female|True|
@@ -48,16 +48,16 @@ Loyal|True|
 Voice|0|
 Lingo Great|rich|
 Lingo Crappy|shitfuck|
-Class1_Proficiency|3120|
-Class2_Proficiency|6274|
-Class3_Proficiency|2508|
-Class4_Proficiency|3264|
-Class5_Proficiency|4408|
-Class6_Proficiency|8174|
-Class7_Proficiency|4070|
+Class1_Proficiency|0|
+Class2_Proficiency|0|
+Class3_Proficiency|0|
+Class4_Proficiency|0|
+Class5_Proficiency|0|
+Class6_Proficiency|0|
+Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1324|
+Energy|2000|
 ThighHigh Base|3|
 ThighHigh Extra|1|
 Pelvis|3|

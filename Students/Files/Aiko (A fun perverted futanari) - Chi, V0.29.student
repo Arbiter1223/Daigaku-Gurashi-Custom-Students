@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:57:28 PM
+Last Modified: 12/22/2018 8:27:21 PM
 ------------------------------------------------------
 FirstName|Aiko|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|57|
-Romantic|59|
+LoveyDovey|59|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -48,16 +48,16 @@ Loyal|True|
 Voice|2|
 Lingo Great|fuckin' good|
 Lingo Crappy|shitty|
-Class1_Proficiency|3087|
-Class2_Proficiency|6413|
-Class3_Proficiency|3194|
-Class4_Proficiency|3328|
-Class5_Proficiency|4758|
-Class6_Proficiency|8398|
-Class7_Proficiency|4486|
-Class8_Proficiency|4410|
+Class1_Proficiency|0|
+Class2_Proficiency|0|
+Class3_Proficiency|0|
+Class4_Proficiency|0|
+Class5_Proficiency|0|
+Class6_Proficiency|0|
+Class7_Proficiency|0|
+Class8_Proficiency|0|
 Accent|1|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|4|
 ThighHigh Extra|9|
 Pelvis|2|

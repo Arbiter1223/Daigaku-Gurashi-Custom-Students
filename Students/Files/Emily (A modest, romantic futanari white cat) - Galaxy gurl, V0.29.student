@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:32:14 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 8:24:18 PM
 ------------------------------------------------------
 FirstName|Emily|
 Female|True|
@@ -15,7 +15,7 @@ Mouth|3|
 Skin|4|
 HeadAccessory|2|
 Eyewear|0|
-Pantsu|-32|
+Pantsu|32|
 Sexual Preference|-1|
 LeaderInfluence|0|
 Snootiness|100|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|True|
 Sanity|0|
 Tsundere|70|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,11 +57,11 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|4|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|1|
 ThighHigh Extra|2|
 Pelvis|3|
-Voice Pitch|4|
+VoicePitch|4|
 HeadAccessoryColour|4|
 OppaiSize|4|
 Lingo Very|0|

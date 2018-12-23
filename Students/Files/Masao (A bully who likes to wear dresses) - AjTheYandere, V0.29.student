@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 12:06:18 AM
+Last Modified: 12/22/2018 8:31:18 PM
 ------------------------------------------------------
 FirstName|Masao|
 Female|False|
@@ -27,7 +27,7 @@ Dexterity|-52|
 Yandere|False|
 Sanity|19|
 Tsundere|-68|
-Romantic|7|
+LoveyDovey|7|
 StalksLover|True|
 FetishDominated|37|
 HairTaste|8|
@@ -48,7 +48,7 @@ Loyal|True|
 Voice|1|
 Lingo Great|extraordinary|
 Lingo Crappy|ass|
-Class1_Proficiency|84|
+Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
 Class4_Proficiency|0|
@@ -63,7 +63,7 @@ ThighHigh Extra|6|
 Pelvis|0|
 VoicePitch|3|
 HeadAccessoryColour|4|
-OppaiSize|2|
+OppaiSize|0|
 Lingo Very|9|
 Author|AjTheYandere|
 Description|A bully who likes to wear dresses|

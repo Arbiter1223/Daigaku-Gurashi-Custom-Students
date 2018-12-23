@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:32:47 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 8:24:38 PM
 ------------------------------------------------------
 FirstName|Sarah|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|True|
 Sanity|0|
 Tsundere|70|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|100|
 HairTaste|0|
@@ -57,12 +57,12 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|3|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|28|
 ThighHigh Extra|0|
 Pelvis|4|
-Voice Pitch|0|
-HeadAccessoryColour|5|
+VoicePitch|0|
+HeadAccessoryColour|0|
 OppaiSize|5|
 Lingo Very|10|
 Author|Galaxy gurl|

@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 10:55:44 PM
+Last Modified: 12/22/2018 2:17:33 PM
 ------------------------------------------------------
 FirstName|Tomosune|
 Female|False|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|True|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,13 +57,13 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|3|
-Energy|1971|
+Energy|2000|
 ThighHigh Base|2|
 ThighHigh Extra|1|
 Pelvis|1|
 VoicePitch|1|
 HeadAccessoryColour|20|
-OppaiSize|5|
+OppaiSize|0|
 Lingo Very|1|
 Author|LowkeyHomo|
 Description|A shy, nerdy, occult-hating boy|

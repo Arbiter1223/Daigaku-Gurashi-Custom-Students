@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 4:22:24 AM
+Last Modified: 12/22/2018 5:08:44 AM
 ------------------------------------------------------
 FirstName|Jamieson|
 Female|False|
@@ -63,7 +63,7 @@ ThighHigh Extra|0|
 Pelvis|0|
 VoicePitch|1|
 HeadAccessoryColour|19|
-OppaiSize|1|
+OppaiSize|0|
 Lingo Very|1|
 Author|BenPupKao|
 Description|A shell of his former self|

@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/21/2018 11:20:00 PM
+Daigaku Gurashi V0.29
+Last Modified: 12/22/2018 2:33:05 PM
 ------------------------------------------------------
 FirstName|Natsu|
 Female|False|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,13 +57,13 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|2|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|9|
 ThighHigh Extra|7|
 Pelvis|3|
 VoicePitch|0|
 HeadAccessoryColour|22|
-OppaiSize|1|
+OppaiSize|0|
 Lingo Very|0|
 Author|LowkeyHomo|
 Description|...in Christmas colors!|

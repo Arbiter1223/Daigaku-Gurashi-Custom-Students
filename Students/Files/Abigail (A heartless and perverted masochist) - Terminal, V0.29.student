@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 4:24:19 AM
+Last Modified: 12/22/2018 5:09:22 AM
 ------------------------------------------------------
 FirstName|Abigail|
 Female|True|
@@ -62,7 +62,7 @@ ThighHigh Base|32|
 ThighHigh Extra|2|
 Pelvis|0|
 VoicePitch|4|
-HeadAccessoryColour|15|
+HeadAccessoryColour|0|
 OppaiSize|1|
 Lingo Very|10|
 Author|Terminal|

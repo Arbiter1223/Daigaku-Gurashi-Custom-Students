@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 4:25:19 AM
+Last Modified: 12/22/2018 5:17:25 AM
 ------------------------------------------------------
 FirstName|Anieke|
 Female|True|
@@ -62,7 +62,7 @@ ThighHigh Base|10|
 ThighHigh Extra|1|
 Pelvis|3|
 VoicePitch|3|
-HeadAccessoryColour|3|
+HeadAccessoryColour|0|
 OppaiSize|3|
 Lingo Very|2|
 Author|Aho-chan|

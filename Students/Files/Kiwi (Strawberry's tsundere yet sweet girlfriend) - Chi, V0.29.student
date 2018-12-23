@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 12:04:50 AM
+Last Modified: 12/22/2018 8:30:46 PM
 ------------------------------------------------------
 FirstName|Kiwi|
 Female|True|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|True|
 Sanity|0|
 Tsundere|70|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,7 +57,7 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|1|
-Energy|1998|
+Energy|2000|
 ThighHigh Base|20|
 ThighHigh Extra|2|
 Pelvis|2|

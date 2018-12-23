@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.29
-Last Modified: 12/22/2018 12:12:54 AM
+Last Modified: 12/22/2018 8:37:13 PM
 ------------------------------------------------------
 FirstName|Excel|
 Female|True|
@@ -48,21 +48,21 @@ Loyal|True|
 Voice|2|
 Lingo Great|powerful|
 Lingo Crappy|retarded|
-Class1_Proficiency|630|
-Class2_Proficiency|616|
+Class1_Proficiency|0|
+Class2_Proficiency|0|
 Class3_Proficiency|0|
-Class4_Proficiency|196|
+Class4_Proficiency|0|
 Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|2|
-Energy|1963|
+Energy|2000|
 ThighHigh Base|3|
 ThighHigh Extra|2|
 Pelvis|4|
 VoicePitch|4|
-HeadAccessoryColour|7|
+HeadAccessoryColour|0|
 OppaiSize|2|
 Lingo Very|18|
 Author|Azumi|
