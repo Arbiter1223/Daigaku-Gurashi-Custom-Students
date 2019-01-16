@@ -8,8 +8,8 @@ Description: A silly, confident, pervy girl
 
 Author: Cookie Boi
 
-Version: V0.29
+Version: V0.30
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Maiyu%20(A%20silly%2C%20confident%2C%20pervy%20girl)%20-%20Cookie%20Boi%2C%20V0.29.student">Maiyu (A silly, confident, pervy girl) - Cookie Boi, V0.29.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Maiyu%20(A%20silly%2C%20confident%2C%20pervy%20girl)%20-%20Cookie%20Boi%2C%20V0.30.student">Maiyu (A silly, confident, pervy girl) - Cookie Boi, V0.30.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

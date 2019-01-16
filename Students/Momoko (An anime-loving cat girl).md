@@ -8,8 +8,8 @@ Description: An anime-loving cat girl
 
 Author: undercover fox
 
-Version: V0.29
+Version: V0.30
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Momoko%20(An%20anime-loving%20cat%20girl)%20-%20undercover%20fox%2C%20V0.29.student">Momoko (An anime-loving cat girl) - undercover fox, V0.29.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Momoko%20(An%20anime-loving%20cat%20girl)%20-%20undercover%20fox%2C%20V0.30.student">Momoko (An anime-loving cat girl) - undercover fox, V0.30.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

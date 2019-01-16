@@ -8,8 +8,8 @@ Description: A rude baka with no sense of humor
 
 Author: AjTheYandere
 
-Version: V0.29
+Version: V0.30
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mika%20(A%20rude%20baka%20with%20no%20sense%20of%20humor)%20-%20AjTheYandere%2C%20V0.29.student">Mika (A rude baka with no sense of humor) - AjTheYandere, V0.29.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mika%20(A%20rude%20baka%20with%20no%20sense%20of%20humor)%20-%20AjTheYandere%2C%20V0.30.student">Mika (A rude baka with no sense of humor) - AjTheYandere, V0.30.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -8,8 +8,8 @@ Description: A gloomy, intelligent masochist
 
 Author: Cookie Boi
 
-Version: V0.29
+Version: V0.30
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jin%20(A%20gloomy%2C%20intelligent%20masochist)%20-%20Cookie%20Boi%2C%20V0.29.student">Jin (A gloomy, intelligent masochist) - Cookie Boi, V0.29.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jin%20(A%20gloomy%2C%20intelligent%20masochist)%20-%20Cookie%20Boi%2C%20V0.30.student">Jin (A gloomy, intelligent masochist) - Cookie Boi, V0.30.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

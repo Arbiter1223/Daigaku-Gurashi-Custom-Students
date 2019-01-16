@@ -8,8 +8,8 @@ Description: A smart but rather unfriendly guy
 
 Author: BenPupKao
 
-Version: V0.29
+Version: V0.30
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kiwi%20(A%20smart%20but%20rather%20unfriendly%20guy)%20-%20BenPupKao%2C%20V0.29.student">Kiwi (A smart but rather unfriendly guy) - BenPupKao, V0.29.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kiwi%20(A%20smart%20but%20rather%20unfriendly%20guy)%20-%20BenPupKao%2C%20V0.30.student">Kiwi (A smart but rather unfriendly guy) - BenPupKao, V0.30.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

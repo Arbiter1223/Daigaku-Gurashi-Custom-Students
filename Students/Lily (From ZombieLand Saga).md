@@ -8,8 +8,8 @@ Description: From ZombieLand Saga
 
 Author: -lolika
 
-Version: V0.29
+Version: V0.30
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lily%20(From%20ZombieLand%20Saga)%20-%20-lolika%2C%20V0.29.student">Lily (From ZombieLand Saga) - -lolika, V0.29.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lily%20(From%20ZombieLand%20Saga)%20-%20-lolika%2C%20V0.30.student">Lily (From ZombieLand Saga) - -lolika, V0.30.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -8,8 +8,8 @@ Description: Princess of the Moon
 
 Author: Aho-chan
 
-Version: V0.29
+Version: V0.30
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mirana%20(Princess%20of%20the%20Moon)%20-%20Aho-chan%2C%20V0.29.student">Mirana (Princess of the Moon) - Aho-chan, V0.29.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mirana%20(Princess%20of%20the%20Moon)%20-%20Aho-chan%2C%20V0.30.student">Mirana (Princess of the Moon) - Aho-chan, V0.30.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

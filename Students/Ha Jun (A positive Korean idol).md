@@ -8,8 +8,8 @@ Description: A positive Korean idol
 
 Author: Aho-chan
 
-Version: V0.29
+Version: V0.30
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ha%20Jun%20(A%20positive%20Korean%20idol)%20-%20Aho-chan%2C%20V0.29.student">Ha Jun (A positive Korean idol) - Aho-chan, V0.29.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ha%20Jun%20(A%20positive%20Korean%20idol)%20-%20Aho-chan%2C%20V0.30.student">Ha Jun (A positive Korean idol) - Aho-chan, V0.30.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
