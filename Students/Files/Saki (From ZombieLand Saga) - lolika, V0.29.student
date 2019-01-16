@@ -1,5 +1,5 @@
-﻿Daigaku Gurashi V0.29
-Last Modified: 12/26/2018 1:52:45 AM
+Daigaku Gurashi V0.29
+Last Modified: 1/15/2019 10:43:31 PM
 ------------------------------------------------------
 FirstName|Saki|
 Female|True|
@@ -57,16 +57,16 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|1|
 ThighHigh Extra|0|
 Pelvis|2|
-VoicePitch|2|
-HeadAccessoryColour|22|
+Voice Pitch|2|
+HeadAccessoryColour|0|
 OppaiSize|2|
 Lingo Very|2|
-Author|-|
-Description|Saki Nikado from ZombieLand Saga|
+Author|lolika|
+Description|From ZombieLand Saga|
 Shirt_Colour|1|
 Shirt_Decal|4|
 Pants_Colour|4|
