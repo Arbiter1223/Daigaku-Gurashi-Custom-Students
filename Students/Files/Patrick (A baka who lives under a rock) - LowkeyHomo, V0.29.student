@@ -1,5 +1,5 @@
-Daigaku Gurashi V0.28
-Last Modified: 11/21/2018 12:15:00 PM
+Daigaku Gurashi V0.29
+Last Modified: 1/15/2019 10:29:31 PM
 ------------------------------------------------------
 FirstName|Patrick|
 Female|False|
@@ -27,7 +27,7 @@ Dexterity|-50|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-Romantic|60|
+LoveyDovey|60|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
@@ -57,16 +57,16 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|27|
 ThighHigh Extra|1|
 Pelvis|3|
-VoicePitch|1|
-HeadAccessoryColour|27|
+Voice Pitch|1|
+HeadAccessoryColour|0|
 OppaiSize|0|
 Lingo Very|4|
 Author|LowkeyHomo|
-Description|A player-made character.|
+Description|A baka who lives under a rock|
 Shirt_Colour|5|
 Shirt_Decal|0|
 Pants_Colour|19|
