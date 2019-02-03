@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.30
-Last Modified: 1/16/2019 3:20:08 PM
+Last Modified: 2/1/2019 6:00:53 PM
 ------------------------------------------------------
 FirstName|Alex|
 Female|True|
@@ -22,10 +22,10 @@ Snootiness|70|
 Gossips|30|
 Kindness|0|
 Confidence|40|
-Intelligence|999|
+Intelligence|100|
 Dexterity|10|
 Yandere|True|
-Sanity|-999|
+Sanity|-100|
 Tsundere|30|
 LoveyDovey|60|
 StalksLover|False|
@@ -40,7 +40,7 @@ LikesBooks|-45|
 LikesVideoGames|100|
 LikesMusic|90|
 Perverted|90|
-LikesHumour|150|
+LikesHumour|100|
 LikesOccult|-90|
 Alive|True|
 Kuudere|False|
@@ -57,7 +57,7 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|1|
-Energy|9999|
+Energy|2000|
 ThighHigh Base|27|
 ThighHigh Extra|8|
 Pelvis|1|
@@ -66,7 +66,7 @@ HeadAccessoryColour|27|
 OppaiSize|4|
 Lingo Very|10|
 Author|Aho-chan|
-Description|A jokey hentai-watching genius.|
+Description|A jokey hentai-watching genius|
 Shirt_Colour|27|
 Shirt_Decal|3|
 Pants_Colour|4|
