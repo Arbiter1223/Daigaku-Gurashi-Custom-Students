@@ -1,52 +1,52 @@
 Daigaku Gurashi V0.30
-Last Modified: 1/16/2019 3:20:10 PM
+Last Modified: 2/4/2019 3:32:30 PM
 ------------------------------------------------------
-FirstName|Kotaro|
-Female|False|
-Penis|True|
-Hair|1|
-?|0|
-Ahoge|0|
-HairTails|0|
-HairPrimaryColour|13|
+FirstName|Sakura|
+Female|True|
+Penis|False|
+Hair|0|
+?|3|
+Ahoge|1|
+HairTails|4|
+HairPrimaryColour|12|
 HairSecondaryColour|13|
-Eyes|55|
+Eyes|2|
 Mouth|3|
-Skin|1|
+Skin|9|
 HeadAccessory|0|
-Eyewear|4|
-Pantsu|43|
+Eyewear|0|
+Pantsu|57|
 Sexual Preference|0|
 ?|0|
-Snootiness|100|
+Snootiness|0|
 Gossips|0|
-Kindness|-40|
-Confidence|80|
-Intelligence|40|
-Dexterity|50|
+Kindness|40|
+Confidence|40|
+Intelligence|-40|
+Dexterity|0|
 Yandere|False|
 Sanity|0|
 Tsundere|0|
-LoveyDovey|0|
+LoveyDovey|90|
 StalksLover|False|
 FetishDominated|0|
 HairTaste|0|
 Depression|0|
 LikesSchool|0|
-Athletic|250|
-LikesManga|0|
-LikesAnime|0|
+Athletic|0|
+LikesManga|45|
+LikesAnime|45|
 LikesBooks|0|
 LikesVideoGames|0|
-LikesMusic|0|
+LikesMusic|45|
 Perverted|0|
 LikesHumour|45|
 LikesOccult|0|
 Alive|True|
 Kuudere|False|
 Loyal|True|
-Voice|1|
-Lingo Great|spectacular|
+Voice|0|
+Lingo Great|awesome|
 Lingo Crappy|crappy|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
@@ -58,19 +58,19 @@ Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
 Energy|2000|
-ThighHigh Base|6|
-ThighHigh Extra|7|
-Pelvis|2|
-Voice Pitch|3|
+ThighHigh Base|1|
+ThighHigh Extra|0|
+Pelvis|1|
+Voice Pitch|4|
 HeadAccessoryColour|0|
-OppaiSize|0|
-Lingo Very|0|
-Author|-lolika|
+OppaiSize|1|
+Lingo Very|6|
+Author|lolika|
 Description|From ZombieLand Saga|
-Shirt_Colour|12|
+Shirt_Colour|5|
 Shirt_Decal|0|
-Pants_Colour|25|
-WearDress%|0|
+Pants_Colour|1|
+WearDress%|50|
 Dress_Colour|5|
 Dress_Decal|0|
 Hygiene|10000|
