@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.30
-Last Modified: 1/16/2019 3:20:10 PM
+Last Modified: 2/5/2019 2:55:04 PM
 ------------------------------------------------------
 FirstName|Kaito|
 Female|False|
@@ -48,7 +48,7 @@ Loyal|True|
 Voice|1|
 Lingo Great|cool|
 Lingo Crappy|weak|
-Class1_Proficiency|55|
+Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
 Class4_Proficiency|0|
@@ -57,7 +57,7 @@ Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
 Accent|0|
-Energy|1999|
+Energy|2000|
 ThighHigh Base|14|
 ThighHigh Extra|6|
 Pelvis|2|
