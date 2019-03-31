@@ -8,10 +8,10 @@ Last Name: Sugiyama
 
 Description: A spooky futanari who likes books
 
-Author: lolika
+Author: sansrika
 
 Version: V0.32
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sugiyama%2C%20Akuma%20(A%20spooky%20futanari%20who%20likes%20books)%20-%20lolika%2C%20V0.32.student">Sugiyama, Akuma (A spooky futanari who likes books) - lolika, V0.32.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sugiyama%2C%20Akuma%20(A%20spooky%20futanari%20who%20likes%20books)%20-%20sansrika%2C%20V0.32.student">Sugiyama, Akuma (A spooky futanari who likes books) - sansrika, V0.32.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
