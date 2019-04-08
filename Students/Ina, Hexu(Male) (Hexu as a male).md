@@ -10,8 +10,8 @@ Description: Hexu as a male
 
 Author: AjTheYandere
 
-Version: V0.32
+Version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ina%2C%20Hexu(Male)%20(Hexu%20as%20a%20male)%20-%20AjTheYandere%2C%20V0.32.student">Ina, Hexu(Male) (Hexu as a male) - AjTheYandere, V0.32.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ina%2C%20Hexu(Male)%20(Hexu%20as%20a%20male)%20-%20AjTheYandere%2C%20V0.33.student">Ina, Hexu(Male) (Hexu as a male) - AjTheYandere, V0.33.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

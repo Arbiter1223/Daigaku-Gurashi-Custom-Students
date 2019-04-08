@@ -10,8 +10,8 @@ Description: A very withdrawn baka
 
 Author: Takumi
 
-Version: V0.32
+Version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nagako%2C%20Kisama%20(A%20very%20withdrawn%20baka)%20-%20Takumi%2C%20V0.32.student">Nagako, Kisama (A very withdrawn baka) - Takumi, V0.32.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nagako%2C%20Kisama%20(A%20very%20withdrawn%20baka)%20-%20Takumi%2C%20V0.33.student">Nagako, Kisama (A very withdrawn baka) - Takumi, V0.33.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

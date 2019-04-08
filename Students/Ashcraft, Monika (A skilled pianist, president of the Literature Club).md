@@ -10,8 +10,8 @@ Description: A skilled pianist, president of the Literature Club
 
 Author: Kitten
 
-Version: V0.32
+Version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ashcraft%2C%20Monika%20(A%20skilled%20pianist%2C%20president%20of%20the%20Literature%20Club)%20-%20Kitten%2C%20V0.32.student">Ashcraft, Monika (A skilled pianist, president of the Literature Club) - Kitten, V0.32.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ashcraft%2C%20Monika%20(A%20skilled%20pianist%2C%20president%20of%20the%20Literature%20Club)%20-%20Kitten%2C%20V0.33.student">Ashcraft, Monika (A skilled pianist, president of the Literature Club) - Kitten, V0.33.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

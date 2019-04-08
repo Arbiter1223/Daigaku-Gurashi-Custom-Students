@@ -10,8 +10,8 @@ Description: An insecure, talkative guy
 
 Author: AjTheYandere
 
-Version: V0.32
+Version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ko%2C%20Gintoki%20(An%20insecure%2C%20talkative%20guy)%20-%20AjTheYandere%2C%20V0.32.student">Ko, Gintoki (An insecure, talkative guy) - AjTheYandere, V0.32.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ko%2C%20Gintoki%20(An%20insecure%2C%20talkative%20guy)%20-%20AjTheYandere%2C%20V0.33.student">Ko, Gintoki (An insecure, talkative guy) - AjTheYandere, V0.33.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

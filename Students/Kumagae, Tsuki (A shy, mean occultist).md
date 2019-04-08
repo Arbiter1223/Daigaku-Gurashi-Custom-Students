@@ -10,8 +10,8 @@ Description: A shy, mean occultist
 
 Author: Syberian Orange
 
-Version: V0.32
+Version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kumagae%2C%20Tsuki%20(A%20shy%2C%20mean%20occultist)%20-%20Syberian%20Orange%2C%20V0.32.student">Kumagae, Tsuki (A shy, mean occultist) - Syberian Orange, V0.32.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kumagae%2C%20Tsuki%20(A%20shy%2C%20mean%20occultist)%20-%20Syberian%20Orange%2C%20V0.33.student">Kumagae, Tsuki (A shy, mean occultist) - Syberian Orange, V0.33.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

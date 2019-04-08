@@ -10,8 +10,8 @@ Description: The creator himself
 
 Author: Syberian Orange
 
-Version: V0.32
+Version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toast%2C%20Yami%20(The%20creator%20himself)%20-%20Syberian%20Orange%2C%20V0.32.student">Toast, Yami (The creator himself) - Syberian Orange, V0.32.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toast%2C%20Yami%20(The%20creator%20himself)%20-%20Syberian%20Orange%2C%20V0.33.student">Toast, Yami (The creator himself) - Syberian Orange, V0.33.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

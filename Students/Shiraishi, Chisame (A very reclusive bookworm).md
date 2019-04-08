@@ -10,8 +10,8 @@ Description: A very reclusive bookworm
 
 Author: AjTheYandere
 
-Version: V0.32
+Version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shiraishi%2C%20Chisame%20(A%20very%20reclusive%20bookworm)%20-%20AjTheYandere%2C%20V0.32.student">Shiraishi, Chisame (A very reclusive bookworm) - AjTheYandere, V0.32.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shiraishi%2C%20Chisame%20(A%20very%20reclusive%20bookworm)%20-%20AjTheYandere%2C%20V0.33.student">Shiraishi, Chisame (A very reclusive bookworm) - AjTheYandere, V0.33.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
