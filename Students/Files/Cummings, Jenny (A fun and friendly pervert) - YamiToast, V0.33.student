@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.33
-Last Modified: 4/9/2019 8:38:46 AM
+Last Modified: 4/30/2019 1:01:46 PM
 ------------------------------------------------------
 FirstName|Jenny|
 Female|True|
@@ -61,7 +61,7 @@ Energy|2000|
 ThighHigh Base|18|
 ThighHigh Extra|1|
 Pelvis|4|
-Voice Pitch|1|
+Voice Pitch|2|
 HeadAccessoryColour|6|
 OppaiSize|5|
 Lingo Very|6|
@@ -70,16 +70,16 @@ Description|A fun and friendly pervert|
 Shirt_Colour|1|
 Shirt_Decal|15|
 Pants_Colour|23|
-WearDress%|40|
+WearDress%|30|
 Dress_Colour|1|
 Dress_Decal|20|
 Hygiene|10000|
-WearSchoolgirl%|63|
-Schoolgirl_Bow_Colour|10|
-Schoolgirl_Collar_Colour|3|
-Schoolgirl_Cuffs_Colour|3|
+WearSchoolgirl%|40|
+Schoolgirl_Bow_Colour|18|
+Schoolgirl_Collar_Colour|7|
+Schoolgirl_Cuffs_Colour|7|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|3|
+Schoolgirl_Skirt_Colour|7|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 (╯°□°）╯You ruined it!! You killed the magic!!

@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.33
-Last Modified: 4/9/2019 8:38:46 AM
+Last Modified: 4/30/2019 1:01:46 PM
 ------------------------------------------------------
 FirstName|Pinku|
 Female|False|
@@ -64,13 +64,13 @@ Pelvis|2|
 Voice Pitch|3|
 HeadAccessoryColour|1|
 OppaiSize|0|
-Lingo Very|1|
+Lingo Very|19|
 Author|YamiToast|
 Description|A friendly positive guy|
 Shirt_Colour|1|
 Shirt_Decal|7|
 Pants_Colour|21|
-WearDress%|1|
+WearDress%|0|
 Dress_Colour|19|
 Dress_Decal|16|
 Hygiene|10000|
