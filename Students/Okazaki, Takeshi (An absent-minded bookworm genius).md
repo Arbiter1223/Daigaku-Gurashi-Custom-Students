@@ -10,8 +10,8 @@ Description: An absent-minded bookworm genius
 
 Author: AjTheYandere
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okazaki%2C%20Takeshi%20(An%20absent-minded%20bookworm%20genius)%20-%20AjTheYandere%2C%20V0.33.student">Okazaki, Takeshi (An absent-minded bookworm genius) - AjTheYandere, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okazaki%2C%20Takeshi%20(An%20absent-minded%20bookworm%20genius)%20-%20AjTheYandere%2C%20V0.35.student">Okazaki, Takeshi (An absent-minded bookworm genius) - AjTheYandere, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: A big ass bully who doesn't like many things
 
 Author: oqndy
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lulu%2C%20Mika%20(A%20big%20ass%20bully%20who%20doesn't%20like%20many%20things)%20-%20oqndy%2C%20V0.33.student">Lulu, Mika (A big ass bully who doesn't like many things) - oqndy, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lulu%2C%20Mika%20(A%20big%20ass%20bully%20who%20doesn't%20like%20many%20things)%20-%20oqndy%2C%20V0.35.student">Lulu, Mika (A big ass bully who doesn't like many things) - oqndy, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

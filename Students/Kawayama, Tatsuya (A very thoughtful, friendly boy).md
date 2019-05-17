@@ -10,8 +10,8 @@ Description: A very thoughtful, friendly boy
 
 Author: Rando Studenta
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawayama%2C%20Tatsuya%20(A%20very%20thoughtful%2C%20friendly%20boy)%20-%20Rando%20Studenta%2C%20V0.33.student">Kawayama, Tatsuya (A very thoughtful, friendly boy) - Rando Studenta, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawayama%2C%20Tatsuya%20(A%20very%20thoughtful%2C%20friendly%20boy)%20-%20Rando%20Studenta%2C%20V0.35.student">Kawayama, Tatsuya (A very thoughtful, friendly boy) - Rando Studenta, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

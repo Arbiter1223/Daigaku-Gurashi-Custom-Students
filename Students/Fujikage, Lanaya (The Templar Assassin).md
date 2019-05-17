@@ -10,8 +10,8 @@ Description: The Templar Assassin
 
 Author: Aho-chan
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fujikage%2C%20Lanaya%20(The%20Templar%20Assassin)%20-%20Aho-chan%2C%20V0.33.student">Fujikage, Lanaya (The Templar Assassin) - Aho-chan, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fujikage%2C%20Lanaya%20(The%20Templar%20Assassin)%20-%20Aho-chan%2C%20V0.35.student">Fujikage, Lanaya (The Templar Assassin) - Aho-chan, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: A shy, modest individual
 
 Author: Shadow
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kato%2C%20Muja%20(A%20shy%2C%20modest%20individual)%20-%20Shadow%2C%20V0.33.student">Kato, Muja (A shy, modest individual) - Shadow, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kato%2C%20Muja%20(A%20shy%2C%20modest%20individual)%20-%20Shadow%2C%20V0.35.student">Kato, Muja (A shy, modest individual) - Shadow, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: A smart, masochistic yandere
 
 Author: ClownPrinceOfLies
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takabe%2C%20Toga%20(A%20smart%2C%20masochistic%20yandere)%20-%20ClownPrinceOfLies%2C%20V0.33.student">Takabe, Toga (A smart, masochistic yandere) - ClownPrinceOfLies, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takabe%2C%20Toga%20(A%20smart%2C%20masochistic%20yandere)%20-%20ClownPrinceOfLies%2C%20V0.35.student">Takabe, Toga (A smart, masochistic yandere) - ClownPrinceOfLies, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

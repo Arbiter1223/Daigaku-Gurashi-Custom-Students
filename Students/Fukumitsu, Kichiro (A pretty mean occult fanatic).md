@@ -10,8 +10,8 @@ Description: A pretty mean occult fanatic
 
 Author: AjTheYandere
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukumitsu%2C%20Kichiro%20(A%20pretty%20mean%20occult%20fanatic)%20-%20AjTheYandere%2C%20V0.33.student">Fukumitsu, Kichiro (A pretty mean occult fanatic) - AjTheYandere, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukumitsu%2C%20Kichiro%20(A%20pretty%20mean%20occult%20fanatic)%20-%20AjTheYandere%2C%20V0.35.student">Fukumitsu, Kichiro (A pretty mean occult fanatic) - AjTheYandere, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

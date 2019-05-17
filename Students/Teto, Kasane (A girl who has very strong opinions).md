@@ -10,8 +10,8 @@ Description: A girl who has very strong opinions
 
 Author: AjTheYandere
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teto%2C%20Kasane%20(A%20girl%20who%20has%20very%20strong%20opinions)%20-%20AjTheYandere%2C%20V0.33.student">Teto, Kasane (A girl who has very strong opinions) - AjTheYandere, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teto%2C%20Kasane%20(A%20girl%20who%20has%20very%20strong%20opinions)%20-%20AjTheYandere%2C%20V0.35.student">Teto, Kasane (A girl who has very strong opinions) - AjTheYandere, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

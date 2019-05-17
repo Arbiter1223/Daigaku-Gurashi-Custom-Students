@@ -10,8 +10,8 @@ Description: An interesting, scholarly young woman
 
 Author: Nyanako
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawashima%2C%20Kirei%20(An%20interesting%2C%20scholarly%20young%20woman)%20-%20Nyanako%2C%20V0.33.student">Kawashima, Kirei (An interesting, scholarly young woman) - Nyanako, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawashima%2C%20Kirei%20(An%20interesting%2C%20scholarly%20young%20woman)%20-%20Nyanako%2C%20V0.35.student">Kawashima, Kirei (An interesting, scholarly young woman) - Nyanako, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

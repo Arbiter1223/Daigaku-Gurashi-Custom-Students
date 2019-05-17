@@ -10,8 +10,8 @@ Description: A perverted, cool, tsundere, bisexual girl
 
 Author: AjTheYandere
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tomonaga%2C%20Himari%20(A%20perverted%2C%20cool%2C%20tsundere%2C%20bisexual%20girl)%20-%20AjTheYandere%2C%20V0.33.student">Tomonaga, Himari (A perverted, cool, tsundere, bisexual girl) - AjTheYandere, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tomonaga%2C%20Himari%20(A%20perverted%2C%20cool%2C%20tsundere%2C%20bisexual%20girl)%20-%20AjTheYandere%2C%20V0.35.student">Tomonaga, Himari (A perverted, cool, tsundere, bisexual girl) - AjTheYandere, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

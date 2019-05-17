@@ -10,8 +10,8 @@ Description: An occult loving witch who avoids bullies at all costs
 
 Author: kami
 
-Version: V0.33
+Version: V0.35
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ririo%2C%20Kesikamu%20(An%20occult%20loving%20witch%20who%20avoids%20bullies%20at%20all%20costs)%20-%20kami%2C%20V0.33.student">Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs) - kami, V0.33.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ririo%2C%20Kesikamu%20(An%20occult%20loving%20witch%20who%20avoids%20bullies%20at%20all%20costs)%20-%20kami%2C%20V0.35.student">Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs) - kami, V0.35.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
