@@ -1,12 +1,12 @@
 Daigaku Gurashi V0.35
-Last Modified: 5/17/2019 6:22:58 PM
+Last Modified: 5/29/2019 6:50:08 PM
 ------------------------------------------------------
 FirstName|Kimiko|
 Female|True|
 Penis|False|
 Hair|2|
-?|6|
-Ahoge|4|
+?|3|
+Ahoge|8|
 HairTails|1|
 HairPrimaryColour|4|
 HairSecondaryColour|4|
@@ -21,25 +21,25 @@ Family Name|Yurei|
 Snootiness|0|
 Gossips|0|
 Kindness|80|
-Confidence|100|
-Intelligence|81|
+Confidence|47|
+Intelligence|80|
 Dexterity|50|
-Yandere|True|
-Sanity|76|
+Yandere|False|
+Sanity|69|
 Tsundere|0|
 LoveyDovey|90|
 ?|0|
-FetishDominated|False|
+FetishDominated|True|
 HairTaste|0|
-Depression|22|
+Depression|43|
 LikesSchool|0|
-Athletic|763|
+Athletic|150|
 LikesManga|-45|
 LikesAnime|-45|
 LikesBooks|90|
 LikesVideoGames|45|
 LikesMusic|90|
-Perverted|85|
+Perverted|97|
 LikesHumour|90|
 LikesOccult|90|
 Alive|True|
@@ -64,17 +64,17 @@ Pelvis|0|
 Voice Pitch|2|
 HeadAccessoryColour|3|
 OppaiSize|1|
-Lingo Very|1|
+Lingo Very|4|
 Author|ghoul|
-Description|A yandere but friendly, nerdy girl|
+Description|A lesbian occult-loving bookworm|
 Shirt_Colour|4|
-Shirt_Decal|1|
-Pants_Colour|30|
+Shirt_Decal|2|
+Pants_Colour|32|
 WearDress%|0|
 Dress_Colour|4|
 Dress_Decal|2|
 Hygiene|10000|
-WearSchoolgirl%|100|
+WearSchoolgirl%|44|
 Schoolgirl_Bow_Colour|30|
 Schoolgirl_Collar_Colour|1|
 Schoolgirl_Cuffs_Colour|1|
