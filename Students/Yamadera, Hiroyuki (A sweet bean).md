@@ -10,8 +10,8 @@ Description: A sweet bean
 
 Author: Azumi
 
-Version: V0.35
+Version: V0.37
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamadera%2C%20Hiroyuki%20(A%20sweet%20bean)%20-%20Azumi%2C%20V0.35.student">Yamadera, Hiroyuki (A sweet bean) - Azumi, V0.35.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamadera%2C%20Hiroyuki%20(A%20sweet%20bean)%20-%20Azumi%2C%20V0.37.student">Yamadera, Hiroyuki (A sweet bean) - Azumi, V0.37.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

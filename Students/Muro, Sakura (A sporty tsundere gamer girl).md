@@ -10,8 +10,8 @@ Description: A sporty tsundere gamer girl
 
 Author: AjTheYandere
 
-Version: V0.35
+Version: V0.37
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Muro%2C%20Sakura%20(A%20sporty%20tsundere%20gamer%20girl)%20-%20AjTheYandere%2C%20V0.35.student">Muro, Sakura (A sporty tsundere gamer girl) - AjTheYandere, V0.35.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Muro%2C%20Sakura%20(A%20sporty%20tsundere%20gamer%20girl)%20-%20AjTheYandere%2C%20V0.37.student">Muro, Sakura (A sporty tsundere gamer girl) - AjTheYandere, V0.37.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

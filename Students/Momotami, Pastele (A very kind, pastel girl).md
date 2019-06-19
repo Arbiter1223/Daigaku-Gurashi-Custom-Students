@@ -10,8 +10,8 @@ Description: A very kind, pastel girl
 
 Author: Azumi
 
-Version: V0.35
+Version: V0.37
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Momotami%2C%20Pastele%20(A%20very%20kind%2C%20pastel%20girl)%20-%20Azumi%2C%20V0.35.student">Momotami, Pastele (A very kind, pastel girl) - Azumi, V0.35.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Momotami%2C%20Pastele%20(A%20very%20kind%2C%20pastel%20girl)%20-%20Azumi%2C%20V0.37.student">Momotami, Pastele (A very kind, pastel girl) - Azumi, V0.37.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

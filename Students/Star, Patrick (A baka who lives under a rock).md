@@ -10,8 +10,8 @@ Description: A baka who lives under a rock
 
 Author: LowkeyHomo
 
-Version: V0.35
+Version: V0.37
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Star%2C%20Patrick%20(A%20baka%20who%20lives%20under%20a%20rock)%20-%20LowkeyHomo%2C%20V0.35.student">Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.35.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Star%2C%20Patrick%20(A%20baka%20who%20lives%20under%20a%20rock)%20-%20LowkeyHomo%2C%20V0.37.student">Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.37.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

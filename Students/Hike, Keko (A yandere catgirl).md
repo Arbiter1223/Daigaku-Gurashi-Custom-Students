@@ -10,8 +10,8 @@ Description: A yandere catgirl
 
 Author: Nyanako
 
-Version: V0.35
+Version: V0.37
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hike%2C%20Keko%20(A%20yandere%20catgirl)%20-%20Nyanako%2C%20V0.35.student">Hike, Keko (A yandere catgirl) - Nyanako, V0.35.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hike%2C%20Keko%20(A%20yandere%20catgirl)%20-%20Nyanako%2C%20V0.37.student">Hike, Keko (A yandere catgirl) - Nyanako, V0.37.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

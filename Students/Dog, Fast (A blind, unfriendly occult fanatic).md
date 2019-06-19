@@ -10,8 +10,8 @@ Description: A blind, unfriendly occult fanatic
 
 Author: AjTheYandere
 
-Version: V0.35
+Version: V0.37
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dog%2C%20Fast%20(A%20blind%2C%20unfriendly%20occult%20fanatic)%20-%20AjTheYandere%2C%20V0.35.student">Dog, Fast (A blind, unfriendly occult fanatic) - AjTheYandere, V0.35.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dog%2C%20Fast%20(A%20blind%2C%20unfriendly%20occult%20fanatic)%20-%20AjTheYandere%2C%20V0.37.student">Dog, Fast (A blind, unfriendly occult fanatic) - AjTheYandere, V0.37.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

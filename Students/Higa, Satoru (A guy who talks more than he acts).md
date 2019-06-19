@@ -10,8 +10,8 @@ Description: A guy who talks more than he acts
 
 Author: AjTheYandere
 
-Version: V0.35
+Version: V0.37
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Higa%2C%20Satoru%20(A%20guy%20who%20talks%20more%20than%20he%20acts)%20-%20AjTheYandere%2C%20V0.35.student">Higa, Satoru (A guy who talks more than he acts) - AjTheYandere, V0.35.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Higa%2C%20Satoru%20(A%20guy%20who%20talks%20more%20than%20he%20acts)%20-%20AjTheYandere%2C%20V0.37.student">Higa, Satoru (A guy who talks more than he acts) - AjTheYandere, V0.37.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

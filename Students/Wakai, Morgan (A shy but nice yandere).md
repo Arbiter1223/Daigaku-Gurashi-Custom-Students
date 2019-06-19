@@ -10,8 +10,8 @@ Description: A shy but nice yandere
 
 Author: Nightara
 
-Version: V0.35
+Version: V0.37
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Wakai%2C%20Morgan%20(A%20shy%20but%20nice%20yandere)%20-%20Nightara%2C%20V0.35.student">Wakai, Morgan (A shy but nice yandere) - Nightara, V0.35.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Wakai%2C%20Morgan%20(A%20shy%20but%20nice%20yandere)%20-%20Nightara%2C%20V0.37.student">Wakai, Morgan (A shy but nice yandere) - Nightara, V0.37.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
