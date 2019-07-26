@@ -10,8 +10,8 @@ Description: An intelligent, friendly guy
 
 Author: xabbynip09
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Matsukata%2C%20Kokichi%20(An%20intelligent%2C%20friendly%20guy)%20-%20xabbynip09%2C%20V0.37.student">Matsukata, Kokichi (An intelligent, friendly guy) - xabbynip09, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Matsukata%2C%20Kokichi%20(An%20intelligent%2C%20friendly%20guy)%20-%20xabbynip09%2C%20V0.39.student">Matsukata, Kokichi (An intelligent, friendly guy) - xabbynip09, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

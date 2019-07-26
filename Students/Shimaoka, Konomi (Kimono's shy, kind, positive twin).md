@@ -10,8 +10,8 @@ Description: Kimono's shy, kind, positive twin
 
 Author: Cookie Boi
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimaoka%2C%20Konomi%20(Kimono's%20shy%2C%20kind%2C%20positive%20twin)%20-%20Cookie%20Boi%2C%20V0.37.student">Shimaoka, Konomi (Kimono's shy, kind, positive twin) - Cookie Boi, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimaoka%2C%20Konomi%20(Kimono's%20shy%2C%20kind%2C%20positive%20twin)%20-%20Cookie%20Boi%2C%20V0.39.student">Shimaoka, Konomi (Kimono's shy, kind, positive twin) - Cookie Boi, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

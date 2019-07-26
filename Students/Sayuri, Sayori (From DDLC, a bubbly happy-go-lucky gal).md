@@ -10,8 +10,8 @@ Description: From DDLC, a bubbly happy-go-lucky gal
 
 Author: LowkeyHomo
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sayuri%2C%20Sayori%20(From%20DDLC%2C%20a%20bubbly%20happy-go-lucky%20gal)%20-%20LowkeyHomo%2C%20V0.37.student">Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal) - LowkeyHomo, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sayuri%2C%20Sayori%20(From%20DDLC%2C%20a%20bubbly%20happy-go-lucky%20gal)%20-%20LowkeyHomo%2C%20V0.39.student">Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal) - LowkeyHomo, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

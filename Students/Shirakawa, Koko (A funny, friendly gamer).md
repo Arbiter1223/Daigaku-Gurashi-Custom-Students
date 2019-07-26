@@ -10,8 +10,8 @@ Description: A funny, friendly gamer
 
 Author: BenPupKao
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shirakawa%2C%20Koko%20(A%20funny%2C%20friendly%20gamer)%20-%20BenPupKao%2C%20V0.37.student">Shirakawa, Koko (A funny, friendly gamer) - BenPupKao, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shirakawa%2C%20Koko%20(A%20funny%2C%20friendly%20gamer)%20-%20BenPupKao%2C%20V0.39.student">Shirakawa, Koko (A funny, friendly gamer) - BenPupKao, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

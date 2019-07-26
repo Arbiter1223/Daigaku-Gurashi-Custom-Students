@@ -10,8 +10,8 @@ Description: An all-around nice gal
 
 Author: Shadow
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ogura%2C%20Ayano%20(An%20all-around%20nice%20gal)%20-%20Shadow%2C%20V0.37.student">Ogura, Ayano (An all-around nice gal) - Shadow, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ogura%2C%20Ayano%20(An%20all-around%20nice%20gal)%20-%20Shadow%2C%20V0.39.student">Ogura, Ayano (An all-around nice gal) - Shadow, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

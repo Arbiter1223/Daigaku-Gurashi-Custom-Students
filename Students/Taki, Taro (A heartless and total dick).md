@@ -10,8 +10,8 @@ Description: A heartless and total dick
 
 Author: Snowy
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taki%2C%20Taro%20(A%20heartless%20and%20total%20dick)%20-%20Snowy%2C%20V0.37.student">Taki, Taro (A heartless and total dick) - Snowy, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taki%2C%20Taro%20(A%20heartless%20and%20total%20dick)%20-%20Snowy%2C%20V0.39.student">Taki, Taro (A heartless and total dick) - Snowy, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

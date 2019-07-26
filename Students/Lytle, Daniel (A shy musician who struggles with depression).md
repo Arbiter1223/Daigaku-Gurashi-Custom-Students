@@ -10,8 +10,8 @@ Description: A shy musician who struggles with depression
 
 Author: screaming kiwi
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lytle%2C%20Daniel%20(A%20shy%20musician%20who%20struggles%20with%20depression)%20-%20screaming%20kiwi%2C%20V0.37.student">Lytle, Daniel (A shy musician who struggles with depression) - screaming kiwi, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lytle%2C%20Daniel%20(A%20shy%20musician%20who%20struggles%20with%20depression)%20-%20screaming%20kiwi%2C%20V0.39.student">Lytle, Daniel (A shy musician who struggles with depression) - screaming kiwi, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

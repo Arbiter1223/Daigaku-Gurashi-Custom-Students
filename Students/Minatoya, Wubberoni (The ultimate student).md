@@ -10,8 +10,8 @@ Description: The ultimate student
 
 Author: BenPupKao
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Minatoya%2C%20Wubberoni%20(The%20ultimate%20student)%20-%20BenPupKao%2C%20V0.37.student">Minatoya, Wubberoni (The ultimate student) - BenPupKao, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Minatoya%2C%20Wubberoni%20(The%20ultimate%20student)%20-%20BenPupKao%2C%20V0.39.student">Minatoya, Wubberoni (The ultimate student) - BenPupKao, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

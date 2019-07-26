@@ -10,8 +10,8 @@ Description: A shy occult fanatic
 
 Author: Shadow
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hamacho%2C%20Oka%20(A%20shy%20occult%20fanatic)%20-%20Shadow%2C%20V0.37.student">Hamacho, Oka (A shy occult fanatic) - Shadow, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hamacho%2C%20Oka%20(A%20shy%20occult%20fanatic)%20-%20Shadow%2C%20V0.39.student">Hamacho, Oka (A shy occult fanatic) - Shadow, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

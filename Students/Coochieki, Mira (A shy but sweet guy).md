@@ -10,8 +10,8 @@ Description: A shy but sweet guy
 
 Author: Mira
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Coochieki%2C%20Mira%20(A%20shy%20but%20sweet%20guy)%20-%20Mira%2C%20V0.37.student">Coochieki, Mira (A shy but sweet guy) - Mira, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Coochieki%2C%20Mira%20(A%20shy%20but%20sweet%20guy)%20-%20Mira%2C%20V0.39.student">Coochieki, Mira (A shy but sweet guy) - Mira, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

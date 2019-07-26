@@ -10,8 +10,8 @@ Description: A very green girl
 
 Author: Galaxy gurl
 
-Version: V0.37
+Version: V0.39
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gurin%2C%20Midori%20(A%20very%20green%20girl)%20-%20Galaxy%20gurl%2C%20V0.37.student">Gurin, Midori (A very green girl) - Galaxy gurl, V0.37.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gurin%2C%20Midori%20(A%20very%20green%20girl)%20-%20Galaxy%20gurl%2C%20V0.39.student">Gurin, Midori (A very green girl) - Galaxy gurl, V0.39.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
