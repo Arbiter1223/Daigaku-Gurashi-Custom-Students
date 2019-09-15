@@ -10,8 +10,8 @@ Description: A happy, snooty bookworm
 
 Author: Shadow
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Endo%2C%20Kizana%20(A%20happy%2C%20snooty%20bookworm)%20-%20Shadow%2C%20V0.39.student">Endo, Kizana (A happy, snooty bookworm) - Shadow, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Endo%2C%20Kizana%20(A%20happy%2C%20snooty%20bookworm)%20-%20Shadow%2C%20V0.41.student">Endo, Kizana (A happy, snooty bookworm) - Shadow, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: A cotton candy slut
 
 Author: sansrika
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kase%2C%20Mae%20(A%20cotton%20candy%20slut)%20-%20sansrika%2C%20V0.39.student">Kase, Mae (A cotton candy slut) - sansrika, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kase%2C%20Mae%20(A%20cotton%20candy%20slut)%20-%20sansrika%2C%20V0.41.student">Kase, Mae (A cotton candy slut) - sansrika, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

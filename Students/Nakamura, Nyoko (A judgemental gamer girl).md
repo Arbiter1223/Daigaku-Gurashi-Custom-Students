@@ -10,8 +10,8 @@ Description: A judgemental gamer girl
 
 Author: witcharies
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakamura%2C%20Nyoko%20(A%20judgemental%20gamer%20girl)%20-%20witcharies%2C%20V0.39.student">Nakamura, Nyoko (A judgemental gamer girl) - witcharies, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakamura%2C%20Nyoko%20(A%20judgemental%20gamer%20girl)%20-%20witcharies%2C%20V0.41.student">Nakamura, Nyoko (A judgemental gamer girl) - witcharies, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

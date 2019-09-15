@@ -10,8 +10,8 @@ Description: A masochistic tsundere athlete
 
 Author: AjTheYandere
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukumoto%2C%20Eikichi%20(A%20masochistic%20tsundere%20athlete)%20-%20AjTheYandere%2C%20V0.39.student">Fukumoto, Eikichi (A masochistic tsundere athlete) - AjTheYandere, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukumoto%2C%20Eikichi%20(A%20masochistic%20tsundere%20athlete)%20-%20AjTheYandere%2C%20V0.41.student">Fukumoto, Eikichi (A masochistic tsundere athlete) - AjTheYandere, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

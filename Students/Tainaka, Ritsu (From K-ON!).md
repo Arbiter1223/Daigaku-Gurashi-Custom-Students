@@ -10,8 +10,8 @@ Description: From K-ON!
 
 Author: Seiko
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tainaka%2C%20Ritsu%20(From%20K-ON!)%20-%20Seiko%2C%20V0.39.student">Tainaka, Ritsu (From K-ON!) - Seiko, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tainaka%2C%20Ritsu%20(From%20K-ON!)%20-%20Seiko%2C%20V0.41.student">Tainaka, Ritsu (From K-ON!) - Seiko, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: An overconfident but smart child
 
 Author: Camden
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dan%2C%20Hiroshi%20(An%20overconfident%20but%20smart%20child)%20-%20Camden%2C%20V0.39.student">Dan, Hiroshi (An overconfident but smart child) - Camden, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dan%2C%20Hiroshi%20(An%20overconfident%20but%20smart%20child)%20-%20Camden%2C%20V0.41.student">Dan, Hiroshi (An overconfident but smart child) - Camden, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

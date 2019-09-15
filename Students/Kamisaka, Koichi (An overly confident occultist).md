@@ -10,8 +10,8 @@ Description: An overly confident occultist
 
 Author: AjTheYandere
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kamisaka%2C%20Koichi%20(An%20overly%20confident%20occultist)%20-%20AjTheYandere%2C%20V0.39.student">Kamisaka, Koichi (An overly confident occultist) - AjTheYandere, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kamisaka%2C%20Koichi%20(An%20overly%20confident%20occultist)%20-%20AjTheYandere%2C%20V0.41.student">Kamisaka, Koichi (An overly confident occultist) - AjTheYandere, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: A mistreated sweetie
 
 Author: Azumi
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uemura%2C%20Axel%20(A%20mistreated%20sweetie)%20-%20Azumi%2C%20V0.39.student">Uemura, Axel (A mistreated sweetie) - Azumi, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uemura%2C%20Axel%20(A%20mistreated%20sweetie)%20-%20Azumi%2C%20V0.41.student">Uemura, Axel (A mistreated sweetie) - Azumi, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

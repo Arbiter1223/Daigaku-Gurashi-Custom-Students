@@ -10,8 +10,8 @@ Description: Jenny's crush since childhood
 
 Author: IzzyStiks2.0
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Osagawa%2C%20Jenny's%20love%20(Jenny's%20crush%20since%20childhood)%20-%20IzzyStiks2.0%2C%20V0.39.student">Osagawa, Jenny's love (Jenny's crush since childhood) - IzzyStiks2.0, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Osagawa%2C%20Jenny's%20love%20(Jenny's%20crush%20since%20childhood)%20-%20IzzyStiks2.0%2C%20V0.41.student">Osagawa, Jenny's love (Jenny's crush since childhood) - IzzyStiks2.0, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: Masaru's boring best friend
 
 Author: Aho-chan
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasuda%2C%20Johan%20(Masaru's%20boring%20best%20friend)%20-%20Aho-chan%2C%20V0.39.student">Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasuda%2C%20Johan%20(Masaru's%20boring%20best%20friend)%20-%20Aho-chan%2C%20V0.41.student">Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

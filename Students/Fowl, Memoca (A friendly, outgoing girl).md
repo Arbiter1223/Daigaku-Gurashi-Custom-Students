@@ -10,8 +10,8 @@ Description: A friendly, outgoing girl
 
 Author: sansrika
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fowl%2C%20Memoca%20(A%20friendly%2C%20outgoing%20girl)%20-%20sansrika%2C%20V0.39.student">Fowl, Memoca (A friendly, outgoing girl) - sansrika, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fowl%2C%20Memoca%20(A%20friendly%2C%20outgoing%20girl)%20-%20sansrika%2C%20V0.41.student">Fowl, Memoca (A friendly, outgoing girl) - sansrika, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

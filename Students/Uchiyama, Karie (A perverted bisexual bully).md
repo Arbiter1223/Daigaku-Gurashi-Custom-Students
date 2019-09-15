@@ -10,8 +10,8 @@ Description: A perverted bisexual bully
 
 Author: AjTheYandere
 
-Version: V0.39
+Version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uchiyama%2C%20Karie%20(A%20perverted%20bisexual%20bully)%20-%20AjTheYandere%2C%20V0.39.student">Uchiyama, Karie (A perverted bisexual bully) - AjTheYandere, V0.39.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uchiyama%2C%20Karie%20(A%20perverted%20bisexual%20bully)%20-%20AjTheYandere%2C%20V0.41.student">Uchiyama, Karie (A perverted bisexual bully) - AjTheYandere, V0.41.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
