@@ -10,8 +10,8 @@ Description: A sweet anime fangirl
 
 Author: AjTheYandere
 
-Version: V0.41
+Version: V0.45
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kahae%2C%20Sango%20(A%20sweet%20anime%20fangirl)%20-%20AjTheYandere%2C%20V0.41.student">Kahae, Sango (A sweet anime fangirl) - AjTheYandere, V0.41.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kahae%2C%20Sango%20(A%20sweet%20anime%20fangirl)%20-%20AjTheYandere%2C%20V0.45.student">Kahae, Sango (A sweet anime fangirl) - AjTheYandere, V0.45.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

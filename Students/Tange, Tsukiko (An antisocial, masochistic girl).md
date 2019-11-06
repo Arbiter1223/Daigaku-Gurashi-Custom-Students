@@ -10,8 +10,8 @@ Description: An antisocial, masochistic girl
 
 Author: AjTheYandere
 
-Version: V0.41
+Version: V0.45
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tange%2C%20Tsukiko%20(An%20antisocial%2C%20masochistic%20girl)%20-%20AjTheYandere%2C%20V0.41.student">Tange, Tsukiko (An antisocial, masochistic girl) - AjTheYandere, V0.41.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tange%2C%20Tsukiko%20(An%20antisocial%2C%20masochistic%20girl)%20-%20AjTheYandere%2C%20V0.45.student">Tange, Tsukiko (An antisocial, masochistic girl) - AjTheYandere, V0.45.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: An insecure tsundere girl
 
 Author: AjTheYandere
 
-Version: V0.41
+Version: V0.45
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Genji%2C%20Mayu%20(An%20insecure%20tsundere%20girl)%20-%20AjTheYandere%2C%20V0.41.student">Genji, Mayu (An insecure tsundere girl) - AjTheYandere, V0.41.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Genji%2C%20Mayu%20(An%20insecure%20tsundere%20girl)%20-%20AjTheYandere%2C%20V0.45.student">Genji, Mayu (An insecure tsundere girl) - AjTheYandere, V0.45.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

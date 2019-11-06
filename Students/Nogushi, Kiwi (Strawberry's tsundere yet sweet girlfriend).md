@@ -10,8 +10,8 @@ Description: Strawberry's tsundere yet sweet girlfriend
 
 Author: Chi
 
-Version: V0.41
+Version: V0.45
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nogushi%2C%20Kiwi%20(Strawberry's%20tsundere%20yet%20sweet%20girlfriend)%20-%20Chi%2C%20V0.41.student">Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend) - Chi, V0.41.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nogushi%2C%20Kiwi%20(Strawberry's%20tsundere%20yet%20sweet%20girlfriend)%20-%20Chi%2C%20V0.45.student">Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend) - Chi, V0.45.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

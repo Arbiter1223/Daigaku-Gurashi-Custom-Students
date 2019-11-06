@@ -10,8 +10,8 @@ Description: From DDLC, a sweet and charming leader
 
 Author: LowkeyHomo
 
-Version: V0.41
+Version: V0.45
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ashcraft%2C%20Monika%20(From%20DDLC%2C%20a%20sweet%20and%20charming%20leader)%20-%20LowkeyHomo%2C%20V0.41.student">Ashcraft, Monika (From DDLC, a sweet and charming leader) - LowkeyHomo, V0.41.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ashcraft%2C%20Monika%20(From%20DDLC%2C%20a%20sweet%20and%20charming%20leader)%20-%20LowkeyHomo%2C%20V0.45.student">Ashcraft, Monika (From DDLC, a sweet and charming leader) - LowkeyHomo, V0.45.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

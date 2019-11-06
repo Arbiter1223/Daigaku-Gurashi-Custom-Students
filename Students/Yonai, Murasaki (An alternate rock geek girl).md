@@ -10,8 +10,8 @@ Description: An alternate rock geek girl
 
 Author: Syberian Orange
 
-Version: V0.41
+Version: V0.45
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yonai%2C%20Murasaki%20(An%20alternate%20rock%20geek%20girl)%20-%20Syberian%20Orange%2C%20V0.41.student">Yonai, Murasaki (An alternate rock geek girl) - Syberian Orange, V0.41.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yonai%2C%20Murasaki%20(An%20alternate%20rock%20geek%20girl)%20-%20Syberian%20Orange%2C%20V0.45.student">Yonai, Murasaki (An alternate rock geek girl) - Syberian Orange, V0.45.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: The most boring guy ever
 
 Author: YamiToast
 
-Version: V0.41
+Version: V0.45
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Satou%2C%20Kuuhaku%20(The%20most%20boring%20guy%20ever)%20-%20YamiToast%2C%20V0.41.student">Satou, Kuuhaku (The most boring guy ever) - YamiToast, V0.41.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Satou%2C%20Kuuhaku%20(The%20most%20boring%20guy%20ever)%20-%20YamiToast%2C%20V0.45.student">Satou, Kuuhaku (The most boring guy ever) - YamiToast, V0.45.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

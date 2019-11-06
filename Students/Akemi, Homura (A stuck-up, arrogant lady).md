@@ -10,8 +10,8 @@ Description: A stuck-up, arrogant lady
 
 Author: Cookie Boi
 
-Version: V0.41
+Version: V0.45
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akemi%2C%20Homura%20(A%20stuck-up%2C%20arrogant%20lady)%20-%20Cookie%20Boi%2C%20V0.41.student">Akemi, Homura (A stuck-up, arrogant lady) - Cookie Boi, V0.41.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akemi%2C%20Homura%20(A%20stuck-up%2C%20arrogant%20lady)%20-%20Cookie%20Boi%2C%20V0.45.student">Akemi, Homura (A stuck-up, arrogant lady) - Cookie Boi, V0.45.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: A shy, pervy, humerous girl
 
 Author: Cookie Boi
 
-Version: V0.41
+Version: V0.45
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hideaki%2C%20Imiko%20(A%20shy%2C%20pervy%2C%20humerous%20girl)%20-%20Cookie%20Boi%2C%20V0.41.student">Hideaki, Imiko (A shy, pervy, humerous girl) - Cookie Boi, V0.41.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hideaki%2C%20Imiko%20(A%20shy%2C%20pervy%2C%20humerous%20girl)%20-%20Cookie%20Boi%2C%20V0.45.student">Hideaki, Imiko (A shy, pervy, humerous girl) - Cookie Boi, V0.45.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
