@@ -2,7 +2,7 @@
 
 <img src ="https://cdn.discordapp.com/attachments/430213415663960084/510167658315120641/PatreonBanner4.png">
 
-<img src ="http://www.thinwithin.org/wp-content/uploads/2015/06/saw-horse-6.jpg">
+<img src ="http://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/construction-banner.png?itok=2Oz3EmLg&resize=1100x619">
 
 ## Welcome to the Daigaku Gurashi Custom Student Database!
 
@@ -20,3 +20,5 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 | Arisu | Jenny | Kuuhaku | Mayo | Pinku |
 | :---: | :---: | :---: | :---: | :---: |
 | A very negative bully | A fun pervert | The most boring guy ever | A kuudere ram-girl | A friendly positive guy |
+
+
