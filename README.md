@@ -16,8 +16,8 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 #### ---Click on a student to view their information. You can download their respective .student file from there.---
 
-<img src="Students/Files/Cache/test/pfptest2.png" height="50" width="50"><a href="Students/Nyanako, Jennyafur (A cheerful blonde neko girl).md">Nyanako, Jennyafur (A cheerful blonde neko girl) - Arbiter1223, V0.47</a>
+<img src="Students/Files/Cache/test/Nyanako, Jennyafur (A cheerful blonde neko girl).thumb.png" height="50" width="50"><a href="Students/Nyanako, Jennyafur (A cheerful blonde neko girl).md">Nyanako, Jennyafur (A cheerful blonde neko girl) - Arbiter1223, V0.47</a>
 
-<img src="Students/Files/Cache/test/pfptest2.png" height="50" width="50"><a href="Students/Nyanako, Jennyafur (A cheerful blonde neko girl).md">Nyanako, Jennyafur (A cheerful blonde neko girl) - Arbiter1223, V0.47</a>
+<img src="Students/Files/Cache/test/Nyanako, Jennyafur (A cheerful blonde neko girl).thumb.png" height="50" width="50"><a href="Students/Nyanako, Jennyafur (A cheerful blonde neko girl).md">Nyanako, Jennyafur (A cheerful blonde neko girl) - Arbiter1223, V0.47</a>
 
-<img src="Students/Files/Cache/test/pfptest2.png" height="50" width="50"><a href="Students/Nyanako, Jennyafur (A cheerful blonde neko girl).md">Nyanako, Jennyafur (A cheerful blonde neko girl) - Arbiter1223, V0.47</a>
+<img src="Students/Files/Cache/test/Nyanako, Jennyafur (A cheerful blonde neko girl).thumb.png" height="50" width="50"><a href="Students/Nyanako, Jennyafur (A cheerful blonde neko girl).md">Nyanako, Jennyafur (A cheerful blonde neko girl) - Arbiter1223, V0.47</a>
