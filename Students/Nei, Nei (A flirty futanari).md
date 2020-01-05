@@ -10,8 +10,8 @@ Description: A flirty futanari
 
 Author: Nei
 
-Version: V0.45
+Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nei%2C%20Nei%20(A%20flirty%20futanari)%20-%20Nei%2C%20V0.45.student">Nei, Nei (A flirty futanari) - Nei, V0.45.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nei%2C%20Nei%20(A%20flirty%20futanari)%20-%20Nei%2C%20V0.47.student">Nei, Nei (A flirty futanari) - Nei, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

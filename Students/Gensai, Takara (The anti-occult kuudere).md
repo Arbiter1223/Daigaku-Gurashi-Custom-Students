@@ -10,8 +10,8 @@ Description: The anti-occult kuudere
 
 Author: Aho-chan
 
-Version: V0.45
+Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gensai%2C%20Takara%20(The%20anti-occult%20kuudere)%20-%20Aho-chan%2C%20V0.45.student">Gensai, Takara (The anti-occult kuudere) - Aho-chan, V0.45.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gensai%2C%20Takara%20(The%20anti-occult%20kuudere)%20-%20Aho-chan%2C%20V0.47.student">Gensai, Takara (The anti-occult kuudere) - Aho-chan, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

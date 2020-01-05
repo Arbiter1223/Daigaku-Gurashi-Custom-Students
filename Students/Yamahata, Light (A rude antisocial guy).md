@@ -10,8 +10,8 @@ Description: A rude antisocial guy
 
 Author: AjTheYandere
 
-Version: V0.45
+Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamahata%2C%20Light%20(A%20rude%20antisocial%20guy)%20-%20AjTheYandere%2C%20V0.45.student">Yamahata, Light (A rude antisocial guy) - AjTheYandere, V0.45.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamahata%2C%20Light%20(A%20rude%20antisocial%20guy)%20-%20AjTheYandere%2C%20V0.47.student">Yamahata, Light (A rude antisocial guy) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

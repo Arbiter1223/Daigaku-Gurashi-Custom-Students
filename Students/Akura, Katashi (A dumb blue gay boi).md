@@ -10,8 +10,8 @@ Description: A dumb blue gay boi
 
 Author: screaming kiwi
 
-Version: V0.45
+Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akura%2C%20Katashi%20(A%20dumb%20blue%20gay%20boi)%20-%20screaming%20kiwi%2C%20V0.45.student">Akura, Katashi (A dumb blue gay boi) - screaming kiwi, V0.45.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akura%2C%20Katashi%20(A%20dumb%20blue%20gay%20boi)%20-%20screaming%20kiwi%2C%20V0.47.student">Akura, Katashi (A dumb blue gay boi) - screaming kiwi, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

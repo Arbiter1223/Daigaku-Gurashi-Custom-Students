@@ -10,8 +10,8 @@ Description: A very athletic occult follower
 
 Author: AjTheYandere
 
-Version: V0.45
+Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsucgimoto%2C%20Chai%20(A%20very%20athletic%20occult%20follower)%20-%20AjTheYandere%2C%20V0.45.student">Tsucgimoto, Chai (A very athletic occult follower) - AjTheYandere, V0.45.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsucgimoto%2C%20Chai%20(A%20very%20athletic%20occult%20follower)%20-%20AjTheYandere%2C%20V0.47.student">Tsucgimoto, Chai (A very athletic occult follower) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

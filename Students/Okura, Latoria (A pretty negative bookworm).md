@@ -10,8 +10,8 @@ Description: A pretty negative bookworm
 
 Author: AjTheYandere
 
-Version: V0.45
+Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okura%2C%20Latoria%20(A%20pretty%20negative%20bookworm)%20-%20AjTheYandere%2C%20V0.45.student">Okura, Latoria (A pretty negative bookworm) - AjTheYandere, V0.45.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okura%2C%20Latoria%20(A%20pretty%20negative%20bookworm)%20-%20AjTheYandere%2C%20V0.47.student">Okura, Latoria (A pretty negative bookworm) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

@@ -10,8 +10,8 @@ Description: A stereotypical gothic guy
 
 Author: azure
 
-Version: V0.45
+Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mori%2C%20Goth%20(A%20stereotypical%20gothic%20guy)%20-%20azure%2C%20V0.45.student">Mori, Goth (A stereotypical gothic guy) - azure, V0.45.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mori%2C%20Goth%20(A%20stereotypical%20gothic%20guy)%20-%20azure%2C%20V0.47.student">Mori, Goth (A stereotypical gothic guy) - azure, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

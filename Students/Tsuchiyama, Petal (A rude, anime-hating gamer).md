@@ -10,8 +10,8 @@ Description: A rude, anime-hating gamer
 
 Author: BenPupKao
 
-Version: V0.45
+Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsuchiyama%2C%20Petal%20(A%20rude%2C%20anime-hating%20gamer)%20-%20BenPupKao%2C%20V0.45.student">Tsuchiyama, Petal (A rude, anime-hating gamer) - BenPupKao, V0.45.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsuchiyama%2C%20Petal%20(A%20rude%2C%20anime-hating%20gamer)%20-%20BenPupKao%2C%20V0.47.student">Tsuchiyama, Petal (A rude, anime-hating gamer) - BenPupKao, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
