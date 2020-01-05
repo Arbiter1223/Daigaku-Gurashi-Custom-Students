@@ -1,16 +1,16 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/5/2020 3:22:26 AM
+Last Modified: 1/5/2020 4:33:11 AM
 ------------------------------------------------------
 FirstName|Shiro|
 Female|True|
 Penis|False|
-Hair|2|
-?|1|
-Ahoge|0|
-HairTails|0|
+Hair|0|
+?|6|
+Ahoge|2|
+HairTails|1|
 HairPrimaryColour|1|
 HairSecondaryColour|4|
-Eyes|19|
+Eyes|9|
 Mouth|1|
 Skin|1|
 HeadAccessory|0|0|0|0|
@@ -62,24 +62,24 @@ ThighHigh Base|4|
 ThighHigh Extra|0|
 LowerBodySize|1|
 Voice Pitch|2|
-HeadAccessoryColour|1|1|1|1|
-OppaiSize|3|
+HeadAccessoryColour|0|0|0|0|
+OppaiSize|1|
 Lingo Very|0|
 Author|yogima|
 Description|The original protagonist of Daigaku Gurashi|
 Shirt_Colour|1|
 Shirt_Decal|13|
-Pants_Colour|13|
+Pants_Colour|28|
 WearDress%|10|
-Dress_Colour|2|
+Dress_Colour|1|
 Dress_Decal|0|
 Hygiene|10000|
 WearSchoolgirl%|10|
-Schoolgirl_Bow_Colour|7|
-Schoolgirl_Collar_Colour|6|
-Schoolgirl_Cuffs_Colour|6|
+Schoolgirl_Bow_Colour|6|
+Schoolgirl_Collar_Colour|7|
+Schoolgirl_Cuffs_Colour|7|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|6|
+Schoolgirl_Skirt_Colour|7|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
