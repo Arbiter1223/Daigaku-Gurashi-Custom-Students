@@ -6,7 +6,7 @@
 
 ## Welcome to the Daigaku Gurashi Custom Student Database!
 
-Here, you can view all of the custom student files currently in the database. When you view a student, it will (eventually) display a picture of them and some general information about them as well as provide a download link for the actual .student file. To save a student file, right-click the download link, and select "Save as".
+Here, you can view all of the custom student files currently in the database. When you view a student, it will display a picture of them (WIP) and some general information about them as well as provide a download link for the actual .student file. To save a student file, right-click the download link, and select "Save as".
 
 Just like the game, the Custom Student Database is a major work in progress, so bear that in mind for the moment as you browse through the students. Thank you, and enjoy your new classmates!
 
@@ -276,7 +276,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 <img src="Students/Files/Thumbs/Ieyasu, Kiku (A very reclusive tsundere girl).png" height="100" width="100"><a href="Students/Ieyasu, Kiku (A very reclusive tsundere girl).md"> Ieyasu, Kiku (A very reclusive tsundere girl) - Rando Studenta, V0.47</a>
 
-<img src="Students/Files/Thumbs/Saga, Kiyoshi (An outgoing, sporty guy).png" height="100" width="100"><a href="Students/Saga, Kiyoshi (An outgoing, sporty guy).md"> Saga, Kiyoshi (An outgoing, sporty guy) - Rando Studenta, V0.47</a>
+<img src="Students/Files/Thumbs/Saga, Kiyoshi (A rather shy boy who loves a good workout).png" height="100" width="100"><a href="Students/Saga, Kiyoshi (A rather shy boy who loves a good workout).md"> Saga, Kiyoshi (A rather shy boy who loves a good workout) - Rando Studenta, V0.47</a>
 
 <img src="Students/Files/Thumbs/Shimada, Ko (A rather unpleasant tsundere).png" height="100" width="100"><a href="Students/Shimada, Ko (A rather unpleasant tsundere).md"> Shimada, Ko (A rather unpleasant tsundere) - Rando Studenta, V0.47</a>
 
@@ -316,7 +316,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 <img src="Students/Files/Thumbs/Chikanatsu, Takayuki (An extremely athletic shy tsundere guy).png" height="100" width="100"><a href="Students/Chikanatsu, Takayuki (An extremely athletic shy tsundere guy).md"> Chikanatsu, Takayuki (An extremely athletic shy tsundere guy) - Rando Studenta, V0.47</a>
 
-<img src="Students/Files/Thumbs/Nawabe, Tatsuo (A shy, slightly gloomy guy).png" height="100" width="100"><a href="Students/Nawabe, Tatsuo (A shy, slightly gloomy guy).md"> Nawabe, Tatsuo (A shy, slightly gloomy guy) - Rando Studenta, V0.47</a>
+<img src="Students/Files/Thumbs/Nawabe, Tatsuo (A curious, slightly gloomy guy).png" height="100" width="100"><a href="Students/Nawabe, Tatsuo (A curious, slightly gloomy guy).md"> Nawabe, Tatsuo (A curious, slightly gloomy guy) - Rando Studenta, V0.47</a>
 
 <img src="Students/Files/Thumbs/Kawayama, Tatsuya (A very thoughtful, friendly boy).png" height="100" width="100"><a href="Students/Kawayama, Tatsuya (A very thoughtful, friendly boy).md"> Kawayama, Tatsuya (A very thoughtful, friendly boy) - Rando Studenta, V0.47</a>
 
@@ -1440,7 +1440,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 <img src="Students/Files/Thumbs/Sayaka, Rīki (A bisexual leek monster girl).png" height="100" width="100"><a href="Students/Sayaka, Rīki (A bisexual leek monster girl).md"> Sayaka, Rīki (A bisexual leek monster girl) - brendon, V0.47</a>
 
-<img src="Students/Files/Thumbs/Korasama, Meloka (A stylish girl who loves occult and books).png" height="100" width="100"><a href="Students/Korasama, Meloka (A stylish girl who loves occult and books).md"> Korasama, Meloka (A stylish girl who loves occult and books) - chalk_girl, V0.47</a>
+<img src="Students/Files/Thumbs/Korasama, Meloka (A stylish girl who shows a great interest in the occult).png" height="100" width="100"><a href="Students/Korasama, Meloka (A stylish girl who shows a great interest in the occult).md"> Korasama, Meloka (A stylish girl who shows a great interest in the occult) - chalk_girl, V0.47</a>
 
 <img src="Students/Files/Thumbs/Sakakibara, Satu (A shy girl with very colorful stockings).png" height="100" width="100"><a href="Students/Sakakibara, Satu (A shy girl with very colorful stockings).md"> Sakakibara, Satu (A shy girl with very colorful stockings) - chalk_girl, V0.47</a>
 
@@ -1469,4 +1469,6 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 <img src="Students/Files/Thumbs/Sawai, Mina (A sweet girl with an adorable third-person accent).png" height="100" width="100"><a href="Students/Sawai, Mina (A sweet girl with an adorable third-person accent).md"> Sawai, Mina (A sweet girl with an adorable third-person accent) - Rando Studenta, V0.47</a>
 
 <img src="Students/Files/Thumbs/Anami, Shiro (The original protagonist of Daigaku Gurashi).png" height="100" width="100"><a href="Students/Anami, Shiro (The original protagonist of Daigaku Gurashi).md"> Anami, Shiro (The original protagonist of Daigaku Gurashi) - yogima, V0.47</a>
+
+<img src="Students/Files/Thumbs/Enoshima, Jiin (A stressed out but dedicated fashionista).png" height="100" width="100"><a href="Students/Enoshima, Jiin (A stressed out but dedicated fashionista).md"> Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47</a>
 

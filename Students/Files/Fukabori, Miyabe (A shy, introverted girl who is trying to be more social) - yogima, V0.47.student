@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/4/2020 7:23:42 PM
+Last Modified: 1/6/2020 6:53:16 AM
 ------------------------------------------------------
 FirstName|Miyabe|
 Female|True|
@@ -69,10 +69,10 @@ Author|yogima|
 Description|A shy, introverted girl who is trying to be more social|
 Shirt_Colour|1|
 Shirt_Decal|0|
-Pants_Colour|3|
+Pants_Colour|4|
 WearDress%|30|
-Dress_Colour|25|
-Dress_Decal|0|
+Dress_Colour|3|
+Dress_Decal|16|
 Hygiene|10000|
 WearSchoolgirl%|10|
 Schoolgirl_Bow_Colour|9|
@@ -95,5 +95,5 @@ Accent_FoulMouth|False|
 Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|
 Accent_Zombie|False|
-Age|21|
+Age|19|
 (╯°□°）╯You ruined it!! You killed the magic!!
