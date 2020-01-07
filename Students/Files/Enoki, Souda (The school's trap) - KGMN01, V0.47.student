@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/7/2020 2:24:13 AM
+Last Modified: 1/7/2020 9:25:36 AM
 ------------------------------------------------------
 FirstName|Souda|
 Female|False|
@@ -70,7 +70,7 @@ Description|The school's trap|
 Shirt_Colour|30|
 Shirt_Decal|14|
 Pants_Colour|7|
-WearDress%|0|
+WearDress%|100|
 Dress_Colour|7|
 Dress_Decal|5|
 Hygiene|10000|

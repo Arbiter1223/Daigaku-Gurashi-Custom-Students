@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/7/2020 2:24:13 AM
+Last Modified: 1/7/2020 9:25:37 AM
 ------------------------------------------------------
 FirstName|Scratch|
 Female|False|
@@ -70,11 +70,11 @@ Description|A smart student with a lisp|
 Shirt_Colour|26|
 Shirt_Decal|11|
 Pants_Colour|6|
-WearDress%|45|
-Dress_Colour|1|
+WearDress%|57|
+Dress_Colour|5|
 Dress_Decal|1|
 Hygiene|10000|
-WearSchoolgirl%|57|
+WearSchoolgirl%|45|
 Schoolgirl_Bow_Colour|4|
 Schoolgirl_Collar_Colour|3|
 Schoolgirl_Cuffs_Colour|3|

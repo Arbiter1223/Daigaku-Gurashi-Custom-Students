@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/7/2020 2:24:13 AM
+Last Modified: 1/7/2020 9:25:36 AM
 ------------------------------------------------------
 FirstName|English|
 Female|True|
@@ -58,7 +58,7 @@ Class7_Proficiency|0|
 Class8_Proficiency|0|
 LingoLaugh|18|
 Energy|2000|
-ThighHigh Base|4|
+ThighHigh Base|30|
 ThighHigh Extra|0|
 LowerBodySize|1|
 Voice Pitch|2|
@@ -67,12 +67,12 @@ OppaiSize|1|
 Lingo Very|0|
 Author|AjTheYandere|
 Description|A stern but sweet teacher|
-Shirt_Colour|8|
-Shirt_Decal|13|
-Pants_Colour|11|
+Shirt_Colour|31|
+Shirt_Decal|0|
+Pants_Colour|30|
 WearDress%|48|
-Dress_Colour|12|
-Dress_Decal|9|
+Dress_Colour|31|
+Dress_Decal|0|
 Hygiene|10000|
 WearSchoolgirl%|0|
 Schoolgirl_Bow_Colour|1|
