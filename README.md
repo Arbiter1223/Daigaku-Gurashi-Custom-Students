@@ -20,7 +20,7 @@ Just like the game, the Custom Student Database is a work in progress, so bear t
 
 #### Click on a student to view their information. You can download their respective .student file from there.
 
-#### You can search the database by using Ctrl+F.
+#### You can also search the database by using Ctrl+F.
 
 <a href="Students/Tenjouhime, Arisu (A very negative bully).md"><img src="Students/Files/Thumbs/Tenjouhime, Arisu (A very negative bully).png" height="100" width="100" title="Tenjouhime, Arisu (A very negative bully) - YamiToast, V0.47"></a><a href="Students/Tenjouhime, Arisu (A very negative bully).md"> Tenjouhime, Arisu (A very negative bully) - YamiToast, V0.47</a>
 
@@ -36,7 +36,7 @@ Just like the game, the Custom Student Database is a work in progress, so bear t
 
 <a href="Students/Anami, Shiro (The default character).md"><img src="Students/Files/Thumbs/Anami, Shiro (The default character).png" height="100" width="100" title="Anami, Shiro (The default character) - YamiToast, V0.47"></a><a href="Students/Anami, Shiro (The default character).md"> Anami, Shiro (The default character) - YamiToast, V0.47</a>
 
-<a href="Students/Bukake, Paizuri (A masochistic tsundere kuudere yandere futanari).md"><img src="Students/Files/Thumbs/Bukake, Paizuri (A masochistic tsundere kuudere yandere futanari).png" height="100" width="100" title="Bukake, Paizuri (A masochistic tsundere kuudere yandere futanari) - YamiToast, V0.47"></a><a href="Students/Bukake, Paizuri (A masochistic tsundere kuudere yandere futanari).md"> Bukake, Paizuri (A masochistic tsundere kuudere yandere futanari) - YamiToast, V0.47</a>
+<a href="Students/Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari).md"><img src="Students/Files/Thumbs/Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari).png" height="100" width="100" title="Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari) - YamiToast, V0.47"></a><a href="Students/Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari).md"> Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari) - YamiToast, V0.47</a>
 
 <a href="Students/Nei, Nei (A flirty futanari).md"><img src="Students/Files/Thumbs/Nei, Nei (A flirty futanari).png" height="100" width="100" title="Nei, Nei (A flirty futanari) - Nei, V0.47"></a><a href="Students/Nei, Nei (A flirty futanari).md"> Nei, Nei (A flirty futanari) - Nei, V0.47</a>
 
