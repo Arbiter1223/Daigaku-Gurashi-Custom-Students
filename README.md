@@ -1,8 +1,8 @@
+<img src="https://www.gannett-cdn.com/-mm-/438112d08852a5cf64fb668899b62a1c6abcfadb/c=0-104-5312-3105&r=x1683&c=3200x1680/local/-/media/2017/05/23/WIGroup/Appleton/636311326049773956-UC.jpg">
+
 # -+=<|Daigaku Gurashi Custom Student Database|>=+-
 
 <a href="https://www.patreon.com/YamiToastDev"><img src="https://cdn.discordapp.com/attachments/430213415663960084/510167658315120641/PatreonBanner4.png" title="Click here to go to the Daigaku Gurashi Patreon and download page!"></a>
-
-<img src="https://www.gannett-cdn.com/-mm-/438112d08852a5cf64fb668899b62a1c6abcfadb/c=0-104-5312-3105&r=x1683&c=3200x1680/local/-/media/2017/05/23/WIGroup/Appleton/636311326049773956-UC.jpg">
 
 ## Welcome to the Daigaku Gurashi Custom Student Database!
 
