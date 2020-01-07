@@ -8,7 +8,11 @@
 
 Here, you can view all of the custom student files currently in the database. When you view a student, it will display a picture of them (WIP) and some general information about them as well as provide a download link for the actual .student file. To save a student file, right-click the download link, and select "Save as".
 
-Just like the game, the Custom Student Database is a major work in progress, so bear that in mind for the moment as you browse through the students. Currently, only some students have proper images and thumbnails; however, ALL students are up-to-date and are ready to be downloaded and used in the game. Thank you, and enjoy your new classmates!
+If you would like to contribute to the Custom Student Database, you may do so on the <a href="https://discord.gg/B5GrG6d">Daigaku Gurashi Discord server</a> <strong>(not intended for those under the age of 18)</strong>. Navigate to the channel titled "custom-students", and upload your .student file there (you may need a role before you can upload; just chat in the server to obtain a role). Be sure to also upload an image of your student and add a short description to tell everyone more about your student. All students uploaded to that channel will be added to the Custom Student Database so long as they include a picture and description.
+
+As Daigaku Gurashi is updated, the students in the database are also updated to be compatible with the latest version. This means that you don't have to worry about manually updating the student(s) you upload, but it also means there's a chance your student(s) may be updated in a way you do not like. If you would like to update your student in the database, simply upload the updated .student file as you would with a new student, and be sure to mention that it is an update for your preexisting student. All changes by the original authors supersede any changes I make in the updating process, so you can make sure your students in the database are exactly the way you want them to be.
+
+Just like the game, the Custom Student Database is a work in progress, so bear that in mind for the moment as you browse through the students. Currently, only some students have proper images and thumbnails; however, ALL students are up-to-date and are ready to be downloaded and used in the game. Thank you, and enjoy your new classmates!
 
 ### -Arbiter1223
 
