@@ -8,7 +8,7 @@
 
 Here, you can view all of the custom student files currently in the database. When you view a student, it will display a picture of them (WIP) and some general information about them as well as provide a download link for the actual .student file. To save a student file, right-click the download link, and select "Save as".
 
-Just like the game, the Custom Student Database is a major work in progress, so bear that in mind for the moment as you browse through the students. Thank you, and enjoy your new classmates!
+Just like the game, the Custom Student Database is a major work in progress, so bear that in mind for the moment as you browse through the students. Currently, only some students have proper images and thumbnails; however, ALL students are up-to-date and are ready to be downloaded and used in the game. Thank you, and enjoy your new classmates!
 
 ### -Arbiter1223
 
