@@ -14,7 +14,9 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 --------
 
-#### ---Click on a student to view their information. You can download their respective .student file from there.---
+#### Click on a student to view their information. You can download their respective .student file from there.
+
+#### You can search the database by using Ctrl+F.
 
 <a href="Students/Tenjouhime, Arisu (A very negative bully).md"><img src="Students/Files/Thumbs/Tenjouhime, Arisu (A very negative bully).png" height="100" width="100" title="Tenjouhime, Arisu (A very negative bully) - YamiToast, V0.47"></a><a href="Students/Tenjouhime, Arisu (A very negative bully).md"> Tenjouhime, Arisu (A very negative bully) - YamiToast, V0.47</a>
 
