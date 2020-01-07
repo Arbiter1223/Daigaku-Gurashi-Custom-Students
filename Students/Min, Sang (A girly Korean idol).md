@@ -1,6 +1,6 @@
 # Min, Sang (A girly Korean idol)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Min%2C%20Sang%20(A%20girly%20Korean%20idol).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Min%2C%20Sang%20(A%20girly%20Korean%20idol).png" title="Min, Sang (A girly Korean idol) - Aho-chan, V0.47">
 
 First Name: Sang
 

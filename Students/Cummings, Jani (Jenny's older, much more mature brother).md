@@ -1,6 +1,6 @@
 # Cummings, Jani (Jenny's older, much more mature brother)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Cummings%2C%20Jani%20(Jenny's%20older%2C%20much%20more%20mature%20brother).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Cummings%2C%20Jani%20(Jenny's%20older%2C%20much%20more%20mature%20brother).png" title="Cummings, Jani (Jenny's older, much more mature brother) - Cookie Boi, V0.47">
 
 First Name: Jani
 

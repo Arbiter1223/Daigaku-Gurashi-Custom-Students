@@ -1,6 +1,6 @@
 # Uboshita, Aiko (A fun perverted futanari)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uboshita%2C%20Aiko%20(A%20fun%20perverted%20futanari).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uboshita%2C%20Aiko%20(A%20fun%20perverted%20futanari).png" title="Uboshita, Aiko (A fun perverted futanari) - Chi, V0.47">
 
 First Name: Aiko
 

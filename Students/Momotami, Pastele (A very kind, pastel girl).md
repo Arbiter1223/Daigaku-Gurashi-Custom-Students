@@ -1,6 +1,6 @@
 # Momotami, Pastele (A very kind, pastel girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Momotami%2C%20Pastele%20(A%20very%20kind%2C%20pastel%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Momotami%2C%20Pastele%20(A%20very%20kind%2C%20pastel%20girl).png" title="Momotami, Pastele (A very kind, pastel girl) - Azumi, V0.47">
 
 First Name: Pastele
 

@@ -1,6 +1,6 @@
 # Tsutomu, Reiko (A well-admired occultist)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsutomu%2C%20Reiko%20(A%20well-admired%20occultist).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsutomu%2C%20Reiko%20(A%20well-admired%20occultist).png" title="Tsutomu, Reiko (A well-admired occultist) - AjTheYandere, V0.47">
 
 First Name: Reiko
 

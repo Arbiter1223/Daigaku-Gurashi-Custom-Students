@@ -1,6 +1,6 @@
 # Star, Patrick (Spongebob's idiotic best friend)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Star%2C%20Patrick%20(Spongebob's%20idiotic%20best%20friend).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Star%2C%20Patrick%20(Spongebob's%20idiotic%20best%20friend).png" title="Star, Patrick (Spongebob's idiotic best friend) - Izzyox, V0.47">
 
 First Name: Patrick
 

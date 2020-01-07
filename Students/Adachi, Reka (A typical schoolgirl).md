@@ -1,6 +1,6 @@
 # Adachi, Reka (A typical schoolgirl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Adachi%2C%20Reka%20(A%20typical%20schoolgirl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Adachi%2C%20Reka%20(A%20typical%20schoolgirl).png" title="Adachi, Reka (A typical schoolgirl) - RainB, V0.47">
 
 First Name: Reka
 

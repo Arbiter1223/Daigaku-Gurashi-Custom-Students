@@ -1,6 +1,6 @@
 # Okano, Koichi (A funny, brilliant guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okano%2C%20Koichi%20(A%20funny%2C%20brilliant%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okano%2C%20Koichi%20(A%20funny%2C%20brilliant%20guy).png" title="Okano, Koichi (A funny, brilliant guy) - Bubger Kirg, V0.47">
 
 First Name: Koichi
 

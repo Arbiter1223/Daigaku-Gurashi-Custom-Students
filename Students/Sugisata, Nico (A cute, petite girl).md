@@ -1,6 +1,6 @@
 # Sugisata, Nico (A cute, petite girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sugisata%2C%20Nico%20(A%20cute%2C%20petite%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sugisata%2C%20Nico%20(A%20cute%2C%20petite%20girl).png" title="Sugisata, Nico (A cute, petite girl) - AjTheYandere, V0.47">
 
 First Name: Nico
 

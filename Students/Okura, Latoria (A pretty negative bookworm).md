@@ -1,6 +1,6 @@
 # Okura, Latoria (A pretty negative bookworm)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okura%2C%20Latoria%20(A%20pretty%20negative%20bookworm).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okura%2C%20Latoria%20(A%20pretty%20negative%20bookworm).png" title="Okura, Latoria (A pretty negative bookworm) - AjTheYandere, V0.47">
 
 First Name: Latoria
 

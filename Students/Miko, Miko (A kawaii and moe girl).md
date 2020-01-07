@@ -1,6 +1,6 @@
 # Miko, Miko (A kawaii and moe girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miko%2C%20Miko%20(A%20kawaii%20and%20moe%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miko%2C%20Miko%20(A%20kawaii%20and%20moe%20girl).png" title="Miko, Miko (A kawaii and moe girl) - Chi, V0.47">
 
 First Name: Miko
 

@@ -1,6 +1,6 @@
 # Nagae, Olivia (From Asobi Asobase)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nagae%2C%20Olivia%20(From%20Asobi%20Asobase).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nagae%2C%20Olivia%20(From%20Asobi%20Asobase).png" title="Nagae, Olivia (From Asobi Asobase) - sansrika, V0.47">
 
 First Name: Olivia
 

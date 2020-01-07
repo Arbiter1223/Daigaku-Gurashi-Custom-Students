@@ -1,6 +1,6 @@
 # Fourth, July (A festive American girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fourth%2C%20July%20(A%20festive%20American%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fourth%2C%20July%20(A%20festive%20American%20girl).png" title="Fourth, July (A festive American girl) - Syberian Orange, V0.47">
 
 First Name: July
 

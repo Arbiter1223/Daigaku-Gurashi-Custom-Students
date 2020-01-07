@@ -1,6 +1,6 @@
 # Ibu, Ann (A funny, friendly futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ibu%2C%20Ann%20(A%20funny%2C%20friendly%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ibu%2C%20Ann%20(A%20funny%2C%20friendly%20futa).png" title="Ibu, Ann (A funny, friendly futa) - Mental breakdown, V0.47">
 
 First Name: Ann
 

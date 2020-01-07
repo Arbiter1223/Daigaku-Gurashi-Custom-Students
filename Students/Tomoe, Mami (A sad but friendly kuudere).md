@@ -1,6 +1,6 @@
 # Tomoe, Mami (A sad but friendly kuudere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tomoe%2C%20Mami%20(A%20sad%20but%20friendly%20kuudere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tomoe%2C%20Mami%20(A%20sad%20but%20friendly%20kuudere).png" title="Tomoe, Mami (A sad but friendly kuudere) - Cookie Boi, V0.47">
 
 First Name: Mami
 

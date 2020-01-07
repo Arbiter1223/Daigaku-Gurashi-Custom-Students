@@ -1,6 +1,6 @@
 # Yoshizaki, Hideko (A very active gal)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yoshizaki%2C%20Hideko%20(A%20very%20active%20gal).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yoshizaki%2C%20Hideko%20(A%20very%20active%20gal).png" title="Yoshizaki, Hideko (A very active gal) - AjTheYandere, V0.47">
 
 First Name: Hideko
 

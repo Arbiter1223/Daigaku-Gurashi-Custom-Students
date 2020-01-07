@@ -1,6 +1,6 @@
 # Tatsumi, Kotaro (From ZombieLand Saga)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tatsumi%2C%20Kotaro%20(From%20ZombieLand%20Saga).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tatsumi%2C%20Kotaro%20(From%20ZombieLand%20Saga).png" title="Tatsumi, Kotaro (From ZombieLand Saga) - sansrika, V0.47">
 
 First Name: Kotaro
 

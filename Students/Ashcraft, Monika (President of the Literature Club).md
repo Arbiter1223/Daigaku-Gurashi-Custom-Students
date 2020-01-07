@@ -1,6 +1,6 @@
 # Ashcraft, Monika (President of the Literature Club)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ashcraft%2C%20Monika%20(President%20of%20the%20Literature%20Club).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ashcraft%2C%20Monika%20(President%20of%20the%20Literature%20Club).png" title="Ashcraft, Monika (President of the Literature Club) - Aho-chan, V0.47">
 
 First Name: Monika
 

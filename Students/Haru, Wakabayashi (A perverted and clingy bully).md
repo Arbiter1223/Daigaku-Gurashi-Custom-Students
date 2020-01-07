@@ -1,6 +1,6 @@
 # Haru, Wakabayashi (A perverted and clingy bully)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Haru%2C%20Wakabayashi%20(A%20perverted%20and%20clingy%20bully).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Haru%2C%20Wakabayashi%20(A%20perverted%20and%20clingy%20bully).png" title="Haru, Wakabayashi (A perverted and clingy bully) - kami, V0.47">
 
 First Name: Wakabayashi
 

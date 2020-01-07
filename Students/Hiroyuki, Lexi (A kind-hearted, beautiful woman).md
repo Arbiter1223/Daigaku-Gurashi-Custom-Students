@@ -1,6 +1,6 @@
 # Hiroyuki, Lexi (A kind-hearted, beautiful woman)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hiroyuki%2C%20Lexi%20(A%20kind-hearted%2C%20beautiful%20woman).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hiroyuki%2C%20Lexi%20(A%20kind-hearted%2C%20beautiful%20woman).png" title="Hiroyuki, Lexi (A kind-hearted, beautiful woman) - Lexi, V0.47">
 
 First Name: Lexi
 

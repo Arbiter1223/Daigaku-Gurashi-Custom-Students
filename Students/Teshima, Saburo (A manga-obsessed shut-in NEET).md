@@ -1,6 +1,6 @@
 # Teshima, Saburo (A manga-obsessed shut-in NEET)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teshima%2C%20Saburo%20(A%20manga-obsessed%20shut-in%20NEET).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teshima%2C%20Saburo%20(A%20manga-obsessed%20shut-in%20NEET).png" title="Teshima, Saburo (A manga-obsessed shut-in NEET) - AjTheYandere, V0.47">
 
 First Name: Saburo
 

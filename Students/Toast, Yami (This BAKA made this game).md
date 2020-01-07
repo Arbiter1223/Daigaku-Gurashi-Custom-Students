@@ -1,6 +1,6 @@
 # Toast, Yami (This BAKA made this game)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toast%2C%20Yami%20(This%20BAKA%20made%20this%20game).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toast%2C%20Yami%20(This%20BAKA%20made%20this%20game).png" title="Toast, Yami (This BAKA made this game) - Syberian Orange, V0.47">
 
 First Name: Yami
 

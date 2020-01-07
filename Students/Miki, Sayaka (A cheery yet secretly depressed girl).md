@@ -1,6 +1,6 @@
 # Miki, Sayaka (A cheery yet secretly depressed girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miki%2C%20Sayaka%20(A%20cheery%20yet%20secretly%20depressed%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miki%2C%20Sayaka%20(A%20cheery%20yet%20secretly%20depressed%20girl).png" title="Miki, Sayaka (A cheery yet secretly depressed girl) - Cookie Boi, V0.47">
 
 First Name: Sayaka
 

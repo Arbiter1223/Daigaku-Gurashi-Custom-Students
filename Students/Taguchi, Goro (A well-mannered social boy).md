@@ -1,6 +1,6 @@
 # Taguchi, Goro (A well-mannered social boy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taguchi%2C%20Goro%20(A%20well-mannered%20social%20boy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taguchi%2C%20Goro%20(A%20well-mannered%20social%20boy).png" title="Taguchi, Goro (A well-mannered social boy) - Chi, V0.47">
 
 First Name: Goro
 

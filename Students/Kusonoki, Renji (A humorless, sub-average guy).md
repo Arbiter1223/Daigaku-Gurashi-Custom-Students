@@ -1,6 +1,6 @@
 # Kusonoki, Renji (A humorless, sub-average guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kusonoki%2C%20Renji%20(A%20humorless%2C%20sub-average%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kusonoki%2C%20Renji%20(A%20humorless%2C%20sub-average%20guy).png" title="Kusonoki, Renji (A humorless, sub-average guy) - AjTheYandere, V0.47">
 
 First Name: Renji
 

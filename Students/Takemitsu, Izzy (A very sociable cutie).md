@@ -1,6 +1,6 @@
 # Takemitsu, Izzy (A very sociable cutie)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takemitsu%2C%20Izzy%20(A%20very%20sociable%20cutie).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takemitsu%2C%20Izzy%20(A%20very%20sociable%20cutie).png" title="Takemitsu, Izzy (A very sociable cutie) - Izzabella, V0.47">
 
 First Name: Izzy
 

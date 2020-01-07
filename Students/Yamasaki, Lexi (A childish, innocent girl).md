@@ -1,6 +1,6 @@
 # Yamasaki, Lexi (A childish, innocent girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamasaki%2C%20Lexi%20(A%20childish%2C%20innocent%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamasaki%2C%20Lexi%20(A%20childish%2C%20innocent%20girl).png" title="Yamasaki, Lexi (A childish, innocent girl) - AjTheYandere, V0.47">
 
 First Name: Lexi
 

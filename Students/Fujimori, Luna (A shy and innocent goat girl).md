@@ -1,6 +1,6 @@
 # Fujimori, Luna (A shy and innocent goat girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fujimori%2C%20Luna%20(A%20shy%20and%20innocent%20goat%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fujimori%2C%20Luna%20(A%20shy%20and%20innocent%20goat%20girl).png" title="Fujimori, Luna (A shy and innocent goat girl) - Mira, V0.47">
 
 First Name: Luna
 

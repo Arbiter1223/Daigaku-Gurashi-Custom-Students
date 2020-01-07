@@ -1,6 +1,6 @@
 # Yamazaki, Aoki (A bubbly, optimistic girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamazaki%2C%20Aoki%20(A%20bubbly%2C%20optimistic%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamazaki%2C%20Aoki%20(A%20bubbly%2C%20optimistic%20girl).png" title="Yamazaki, Aoki (A bubbly, optimistic girl) - AjTheYandere, V0.47">
 
 First Name: Aoki
 

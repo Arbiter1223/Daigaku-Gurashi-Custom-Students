@@ -1,6 +1,6 @@
 # Shibanuma, Orangu (A more accurate Orangu)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shibanuma%2C%20Orangu%20(A%20more%20accurate%20Orangu).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shibanuma%2C%20Orangu%20(A%20more%20accurate%20Orangu).png" title="Shibanuma, Orangu (A more accurate Orangu) - Syberian Orange, V0.47">
 
 First Name: Orangu
 

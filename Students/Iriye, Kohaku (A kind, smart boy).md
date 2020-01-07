@@ -1,6 +1,6 @@
 # Iriye, Kohaku (A kind, smart boy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Iriye%2C%20Kohaku%20(A%20kind%2C%20smart%20boy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Iriye%2C%20Kohaku%20(A%20kind%2C%20smart%20boy).png" title="Iriye, Kohaku (A kind, smart boy) - AjTheYandere, V0.47">
 
 First Name: Kohaku
 

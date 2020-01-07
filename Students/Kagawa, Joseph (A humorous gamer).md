@@ -1,6 +1,6 @@
 # Kagawa, Joseph (A humorous gamer)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kagawa%2C%20Joseph%20(A%20humorous%20gamer).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kagawa%2C%20Joseph%20(A%20humorous%20gamer).png" title="Kagawa, Joseph (A humorous gamer) - Shiny, V0.47">
 
 First Name: Joseph
 

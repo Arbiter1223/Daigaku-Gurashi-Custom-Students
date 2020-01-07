@@ -1,6 +1,6 @@
 # Ina, Hexu(Futa) (Hexu as a futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ina%2C%20Hexu(Futa)%20(Hexu%20as%20a%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ina%2C%20Hexu(Futa)%20(Hexu%20as%20a%20futa).png" title="Ina, Hexu(Futa) (Hexu as a futa) - AjTheYandere, V0.47">
 
 First Name: Hexu(Futa)
 

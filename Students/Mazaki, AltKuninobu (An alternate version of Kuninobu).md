@@ -1,6 +1,6 @@
 # Mazaki, AltKuninobu (An alternate version of Kuninobu)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mazaki%2C%20AltKuninobu%20(An%20alternate%20version%20of%20Kuninobu).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mazaki%2C%20AltKuninobu%20(An%20alternate%20version%20of%20Kuninobu).png" title="Mazaki, AltKuninobu (An alternate version of Kuninobu) - AjTheYandere, V0.47">
 
 First Name: AltKuninobu
 

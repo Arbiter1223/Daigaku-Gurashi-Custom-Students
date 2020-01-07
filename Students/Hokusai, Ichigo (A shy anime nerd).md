@@ -1,6 +1,6 @@
 # Hokusai, Ichigo (A shy anime nerd)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hokusai%2C%20Ichigo%20(A%20shy%20anime%20nerd).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hokusai%2C%20Ichigo%20(A%20shy%20anime%20nerd).png" title="Hokusai, Ichigo (A shy anime nerd) - Aho-chan, V0.47">
 
 First Name: Ichigo
 

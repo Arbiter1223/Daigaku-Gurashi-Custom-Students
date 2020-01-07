@@ -1,6 +1,6 @@
 # Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakagawa%2C%20Mamoru%20(A%20friendly%20tsundere%20kuudere%20ram-boy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakagawa%2C%20Mamoru%20(A%20friendly%20tsundere%20kuudere%20ram-boy).png" title="Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy) - Rando Studenta, V0.47">
 
 First Name: Mamoru
 

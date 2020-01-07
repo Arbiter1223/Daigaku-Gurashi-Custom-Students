@@ -1,6 +1,6 @@
 # Saitoh, Michio (An athletic anime fan, Murasaki's twin brother)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saitoh%2C%20Michio%20(An%20athletic%20anime%20fan%2C%20Murasaki's%20twin%20brother).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saitoh%2C%20Michio%20(An%20athletic%20anime%20fan%2C%20Murasaki's%20twin%20brother).png" title="Saitoh, Michio (An athletic anime fan, Murasaki's twin brother) - Aho-chan, V0.47">
 
 First Name: Michio
 

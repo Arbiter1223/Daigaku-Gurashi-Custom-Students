@@ -1,6 +1,6 @@
 # Hirano, Chiasa (A very shy schoolgirl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hirano%2C%20Chiasa%20(A%20very%20shy%20schoolgirl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hirano%2C%20Chiasa%20(A%20very%20shy%20schoolgirl).png" title="Hirano, Chiasa (A very shy schoolgirl) - Rando Studenta, V0.47">
 
 First Name: Chiasa
 

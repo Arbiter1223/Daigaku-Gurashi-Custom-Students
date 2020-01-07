@@ -1,6 +1,6 @@
 # Obinata, Zohra (A sad but sporty gal)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Obinata%2C%20Zohra%20(A%20sad%20but%20sporty%20gal).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Obinata%2C%20Zohra%20(A%20sad%20but%20sporty%20gal).png" title="Obinata, Zohra (A sad but sporty gal) - AjTheYandere, V0.47">
 
 First Name: Zohra
 

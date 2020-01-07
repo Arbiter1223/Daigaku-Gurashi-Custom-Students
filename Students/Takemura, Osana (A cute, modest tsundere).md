@@ -1,6 +1,6 @@
 # Takemura, Osana (A cute, modest tsundere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takemura%2C%20Osana%20(A%20cute%2C%20modest%20tsundere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takemura%2C%20Osana%20(A%20cute%2C%20modest%20tsundere).png" title="Takemura, Osana (A cute, modest tsundere) - Shadow, V0.47">
 
 First Name: Osana
 

@@ -1,6 +1,6 @@
 # Wong, Sumting (A very... strange anomaly of nature)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Wong%2C%20Sumting%20(A%20very...%20strange%20anomaly%20of%20nature).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Wong%2C%20Sumting%20(A%20very...%20strange%20anomaly%20of%20nature).png" title="Wong, Sumting (A very... strange anomaly of nature) - Rando Studenta, V0.47">
 
 First Name: Sumting
 

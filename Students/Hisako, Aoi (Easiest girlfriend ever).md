@@ -1,6 +1,6 @@
 # Hisako, Aoi (Easiest girlfriend ever)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hisako%2C%20Aoi%20(Easiest%20girlfriend%20ever).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hisako%2C%20Aoi%20(Easiest%20girlfriend%20ever).png" title="Hisako, Aoi (Easiest girlfriend ever) - Syberian Orange, V0.47">
 
 First Name: Aoi
 

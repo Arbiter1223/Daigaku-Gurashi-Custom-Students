@@ -1,6 +1,6 @@
 # Sammiya, Nori (A bitter, unsociable guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sammiya%2C%20Nori%20(A%20bitter%2C%20unsociable%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sammiya%2C%20Nori%20(A%20bitter%2C%20unsociable%20guy).png" title="Sammiya, Nori (A bitter, unsociable guy) - AjTheYandere, V0.47">
 
 First Name: Nori
 

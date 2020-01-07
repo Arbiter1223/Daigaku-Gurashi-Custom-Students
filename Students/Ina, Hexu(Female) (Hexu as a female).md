@@ -1,6 +1,6 @@
 # Ina, Hexu(Female) (Hexu as a female)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ina%2C%20Hexu(Female)%20(Hexu%20as%20a%20female).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ina%2C%20Hexu(Female)%20(Hexu%20as%20a%20female).png" title="Ina, Hexu(Female) (Hexu as a female) - AjTheYandere, V0.47">
 
 First Name: Hexu(Female)
 

@@ -1,6 +1,6 @@
 # Ko, Gintoki (An insecure, talkative guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ko%2C%20Gintoki%20(An%20insecure%2C%20talkative%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ko%2C%20Gintoki%20(An%20insecure%2C%20talkative%20guy).png" title="Ko, Gintoki (An insecure, talkative guy) - AjTheYandere, V0.47">
 
 First Name: Gintoki
 

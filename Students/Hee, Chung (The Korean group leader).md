@@ -1,6 +1,6 @@
 # Hee, Chung (The Korean group leader)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hee%2C%20Chung%20(The%20Korean%20group%20leader).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hee%2C%20Chung%20(The%20Korean%20group%20leader).png" title="Hee, Chung (The Korean group leader) - Aho-chan, V0.47">
 
 First Name: Chung
 

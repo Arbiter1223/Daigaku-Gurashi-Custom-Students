@@ -1,6 +1,6 @@
 # Tentacles, Squidward (A rather mean restaurant cashier)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tentacles%2C%20Squidward%20(A%20rather%20mean%20restaurant%20cashier).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tentacles%2C%20Squidward%20(A%20rather%20mean%20restaurant%20cashier).png" title="Tentacles, Squidward (A rather mean restaurant cashier) - Izzyox, V0.47">
 
 First Name: Squidward
 

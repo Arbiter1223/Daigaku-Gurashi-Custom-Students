@@ -1,6 +1,6 @@
 # Fowl, Memoca (A friendly, outgoing girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fowl%2C%20Memoca%20(A%20friendly%2C%20outgoing%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fowl%2C%20Memoca%20(A%20friendly%2C%20outgoing%20girl).png" title="Fowl, Memoca (A friendly, outgoing girl) - sansrika, V0.47">
 
 First Name: Memoca
 

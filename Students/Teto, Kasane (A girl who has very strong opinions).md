@@ -1,6 +1,6 @@
 # Teto, Kasane (A girl who has very strong opinions)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teto%2C%20Kasane%20(A%20girl%20who%20has%20very%20strong%20opinions).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teto%2C%20Kasane%20(A%20girl%20who%20has%20very%20strong%20opinions).png" title="Teto, Kasane (A girl who has very strong opinions) - AjTheYandere, V0.47">
 
 First Name: Kasane
 

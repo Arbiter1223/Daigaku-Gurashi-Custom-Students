@@ -1,6 +1,6 @@
 # Shiya, Shiya Fu Mei (An absent-minded genius)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shiya%2C%20Shiya%20Fu%20Mei%20(An%20absent-minded%20genius).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shiya%2C%20Shiya%20Fu%20Mei%20(An%20absent-minded%20genius).png" title="Shiya, Shiya Fu Mei (An absent-minded genius) - Shiya, V0.47">
 
 First Name: Shiya Fu Mei
 

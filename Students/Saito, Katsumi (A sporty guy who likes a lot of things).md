@@ -1,6 +1,6 @@
 # Saito, Katsumi (A sporty guy who likes a lot of things)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saito%2C%20Katsumi%20(A%20sporty%20guy%20who%20likes%20a%20lot%20of%20things).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saito%2C%20Katsumi%20(A%20sporty%20guy%20who%20likes%20a%20lot%20of%20things).png" title="Saito, Katsumi (A sporty guy who likes a lot of things) - AjTheYandere, V0.47">
 
 First Name: Katsumi
 

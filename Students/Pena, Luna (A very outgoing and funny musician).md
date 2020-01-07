@@ -1,6 +1,6 @@
 # Pena, Luna (A very outgoing and funny musician)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Pena%2C%20Luna%20(A%20very%20outgoing%20and%20funny%20musician).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Pena%2C%20Luna%20(A%20very%20outgoing%20and%20funny%20musician).png" title="Pena, Luna (A very outgoing and funny musician) - Nightara, V0.47">
 
 First Name: Luna
 

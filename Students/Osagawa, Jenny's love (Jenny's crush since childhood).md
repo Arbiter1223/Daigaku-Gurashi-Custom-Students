@@ -1,6 +1,6 @@
 # Osagawa, Jenny's love (Jenny's crush since childhood)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Osagawa%2C%20Jenny's%20love%20(Jenny's%20crush%20since%20childhood).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Osagawa%2C%20Jenny's%20love%20(Jenny's%20crush%20since%20childhood).png" title="Osagawa, Jenny's love (Jenny's crush since childhood) - IzzyStiks2.0, V0.47">
 
 First Name: Jenny's love
 

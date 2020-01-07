@@ -1,6 +1,6 @@
 # Playable, Nurse (A playable version of the nurse)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Playable%2C%20Nurse%20(A%20playable%20version%20of%20the%20nurse).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Playable%2C%20Nurse%20(A%20playable%20version%20of%20the%20nurse).png" title="Playable, Nurse (A playable version of the nurse) - AjTheYandere, V0.47">
 
 First Name: Nurse
 

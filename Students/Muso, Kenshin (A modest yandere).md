@@ -1,6 +1,6 @@
 # Muso, Kenshin (A modest yandere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Muso%2C%20Kenshin%20(A%20modest%20yandere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Muso%2C%20Kenshin%20(A%20modest%20yandere).png" title="Muso, Kenshin (A modest yandere) - AjTheYandere, V0.47">
 
 First Name: Kenshin
 

@@ -1,6 +1,6 @@
 # Ogura, Ayano (An all-around nice gal)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ogura%2C%20Ayano%20(An%20all-around%20nice%20gal).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ogura%2C%20Ayano%20(An%20all-around%20nice%20gal).png" title="Ogura, Ayano (An all-around nice gal) - Shadow, V0.47">
 
 First Name: Ayano
 

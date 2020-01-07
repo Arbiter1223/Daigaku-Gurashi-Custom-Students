@@ -1,6 +1,6 @@
 # Shiskikura, Taro (A pretty okay dude)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shiskikura%2C%20Taro%20(A%20pretty%20okay%20dude).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shiskikura%2C%20Taro%20(A%20pretty%20okay%20dude).png" title="Shiskikura, Taro (A pretty okay dude) - Shadow, V0.47">
 
 First Name: Taro
 

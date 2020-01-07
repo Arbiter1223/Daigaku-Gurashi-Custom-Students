@@ -1,6 +1,6 @@
 # Fumihiko, Harumi (A rather distant sweetie)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fumihiko%2C%20Harumi%20(A%20rather%20distant%20sweetie).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fumihiko%2C%20Harumi%20(A%20rather%20distant%20sweetie).png" title="Fumihiko, Harumi (A rather distant sweetie) - AjTheYandere, V0.47">
 
 First Name: Harumi
 

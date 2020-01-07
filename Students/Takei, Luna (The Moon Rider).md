@@ -1,6 +1,6 @@
 # Takei, Luna (The Moon Rider)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takei%2C%20Luna%20(The%20Moon%20Rider).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takei%2C%20Luna%20(The%20Moon%20Rider).png" title="Takei, Luna (The Moon Rider) - Aho-chan, V0.47">
 
 First Name: Luna
 

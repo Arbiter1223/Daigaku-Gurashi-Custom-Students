@@ -1,6 +1,6 @@
 # Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sayuri%2C%20Sayori%20(From%20DDLC%2C%20a%20bubbly%20happy-go-lucky%20gal).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sayuri%2C%20Sayori%20(From%20DDLC%2C%20a%20bubbly%20happy-go-lucky%20gal).png" title="Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal) - LowkeyHomo, V0.47">
 
 First Name: Sayori
 

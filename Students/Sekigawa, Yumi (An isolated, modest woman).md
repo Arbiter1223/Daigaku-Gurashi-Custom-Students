@@ -1,6 +1,6 @@
 # Sekigawa, Yumi (An isolated, modest woman)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sekigawa%2C%20Yumi%20(An%20isolated%2C%20modest%20woman).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sekigawa%2C%20Yumi%20(An%20isolated%2C%20modest%20woman).png" title="Sekigawa, Yumi (An isolated, modest woman) - AjTheYandere, V0.47">
 
 First Name: Yumi
 

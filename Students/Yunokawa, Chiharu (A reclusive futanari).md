@@ -1,6 +1,6 @@
 # Yunokawa, Chiharu (A reclusive futanari)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yunokawa%2C%20Chiharu%20(A%20reclusive%20futanari).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yunokawa%2C%20Chiharu%20(A%20reclusive%20futanari).png" title="Yunokawa, Chiharu (A reclusive futanari) - Rando Studenta, V0.47">
 
 First Name: Chiharu
 

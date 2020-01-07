@@ -1,6 +1,6 @@
 # Ashitta, Shiroko (A shy nerdy girl with confidence issues)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ashitta%2C%20Shiroko%20(A%20shy%20nerdy%20girl%20with%20confidence%20issues).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ashitta%2C%20Shiroko%20(A%20shy%20nerdy%20girl%20with%20confidence%20issues).png" title="Ashitta, Shiroko (A shy nerdy girl with confidence issues) - Grandma Kipali, V0.47">
 
 First Name: Shiroko
 

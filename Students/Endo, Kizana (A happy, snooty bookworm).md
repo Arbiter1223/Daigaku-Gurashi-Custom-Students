@@ -1,6 +1,6 @@
 # Endo, Kizana (A happy, snooty bookworm)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Endo%2C%20Kizana%20(A%20happy%2C%20snooty%20bookworm).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Endo%2C%20Kizana%20(A%20happy%2C%20snooty%20bookworm).png" title="Endo, Kizana (A happy, snooty bookworm) - Shadow, V0.47">
 
 First Name: Kizana
 

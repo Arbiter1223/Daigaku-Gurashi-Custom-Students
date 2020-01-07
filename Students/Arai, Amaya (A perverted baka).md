@@ -1,6 +1,6 @@
 # Arai, Amaya (A perverted baka)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Arai%2C%20Amaya%20(A%20perverted%20baka).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Arai%2C%20Amaya%20(A%20perverted%20baka).png" title="Arai, Amaya (A perverted baka) - AjTheYandere, V0.47">
 
 First Name: Amaya
 

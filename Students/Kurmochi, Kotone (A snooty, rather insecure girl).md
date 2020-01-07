@@ -1,6 +1,6 @@
 # Kurmochi, Kotone (A snooty, rather insecure girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kurmochi%2C%20Kotone%20(A%20snooty%2C%20rather%20insecure%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kurmochi%2C%20Kotone%20(A%20snooty%2C%20rather%20insecure%20girl).png" title="Kurmochi, Kotone (A snooty, rather insecure girl) - AjTheYandere, V0.47">
 
 First Name: Kotone
 

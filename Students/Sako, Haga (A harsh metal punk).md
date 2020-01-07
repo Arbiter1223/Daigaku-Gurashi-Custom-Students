@@ -1,6 +1,6 @@
 # Sako, Haga (A harsh metal punk)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sako%2C%20Haga%20(A%20harsh%20metal%20punk).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sako%2C%20Haga%20(A%20harsh%20metal%20punk).png" title="Sako, Haga (A harsh metal punk) - Nyanako, V0.47">
 
 First Name: Haga
 

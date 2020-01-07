@@ -1,6 +1,6 @@
 # Fuchida, Yoshie (Shiro's girlfriend from Toast's stream)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fuchida%2C%20Yoshie%20(Shiro's%20girlfriend%20from%20Toast's%20stream).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fuchida%2C%20Yoshie%20(Shiro's%20girlfriend%20from%20Toast's%20stream).png" title="Fuchida, Yoshie (Shiro's girlfriend from Toast's stream) - Toast, V0.47">
 
 First Name: Yoshie
 

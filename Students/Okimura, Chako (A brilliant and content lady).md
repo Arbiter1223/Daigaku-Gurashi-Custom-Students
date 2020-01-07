@@ -1,6 +1,6 @@
 # Okimura, Chako (A brilliant and content lady)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okimura%2C%20Chako%20(A%20brilliant%20and%20content%20lady).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okimura%2C%20Chako%20(A%20brilliant%20and%20content%20lady).png" title="Okimura, Chako (A brilliant and content lady) - AjTheYandere, V0.47">
 
 First Name: Chako
 

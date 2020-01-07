@@ -1,6 +1,6 @@
 # Tansho, Ai (An antisocial tsundere kuudere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tansho%2C%20Ai%20(An%20antisocial%20tsundere%20kuudere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tansho%2C%20Ai%20(An%20antisocial%20tsundere%20kuudere).png" title="Tansho, Ai (An antisocial tsundere kuudere) - AjTheYandere, V0.47">
 
 First Name: Ai
 

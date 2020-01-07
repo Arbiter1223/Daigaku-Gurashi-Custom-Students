@@ -1,6 +1,6 @@
 # Teacher, Gym (The gym teacher of the school)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20Gym%20(The%20gym%20teacher%20of%20the%20school).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20Gym%20(The%20gym%20teacher%20of%20the%20school).png" title="Teacher, Gym (The gym teacher of the school) - AjTheYandere, V0.47">
 
 First Name: Gym
 

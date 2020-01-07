@@ -1,6 +1,6 @@
 # Obata, Nori (A fashion-obsessed weeaboo)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Obata%2C%20Nori%20(A%20fashion-obsessed%20weeaboo).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Obata%2C%20Nori%20(A%20fashion-obsessed%20weeaboo).png" title="Obata, Nori (A fashion-obsessed weeaboo) - LowkeyHomo, V0.47">
 
 First Name: Nori
 

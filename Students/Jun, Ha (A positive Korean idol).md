@@ -1,6 +1,6 @@
 # Jun, Ha (A positive Korean idol)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jun%2C%20Ha%20(A%20positive%20Korean%20idol).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jun%2C%20Ha%20(A%20positive%20Korean%20idol).png" title="Jun, Ha (A positive Korean idol) - Aho-chan, V0.47">
 
 First Name: Ha
 

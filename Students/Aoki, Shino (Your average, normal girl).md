@@ -1,6 +1,6 @@
 # Aoki, Shino (Your average, normal girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Aoki%2C%20Shino%20(Your%20average%2C%20normal%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Aoki%2C%20Shino%20(Your%20average%2C%20normal%20girl).png" title="Aoki, Shino (Your average, normal girl) - LowkeyHomo, V0.47">
 
 First Name: Shino
 

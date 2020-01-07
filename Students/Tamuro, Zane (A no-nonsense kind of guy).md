@@ -1,6 +1,6 @@
 # Tamuro, Zane (A no-nonsense kind of guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tamuro%2C%20Zane%20(A%20no-nonsense%20kind%20of%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tamuro%2C%20Zane%20(A%20no-nonsense%20kind%20of%20guy).png" title="Tamuro, Zane (A no-nonsense kind of guy) - Arbiter1223, V0.47">
 
 First Name: Zane
 

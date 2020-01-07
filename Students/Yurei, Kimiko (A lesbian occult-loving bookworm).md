@@ -1,6 +1,6 @@
 # Yurei, Kimiko (A lesbian occult-loving bookworm)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yurei%2C%20Kimiko%20(A%20lesbian%20occult-loving%20bookworm).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yurei%2C%20Kimiko%20(A%20lesbian%20occult-loving%20bookworm).png" title="Yurei, Kimiko (A lesbian occult-loving bookworm) - ghoul, V0.47">
 
 First Name: Kimiko
 

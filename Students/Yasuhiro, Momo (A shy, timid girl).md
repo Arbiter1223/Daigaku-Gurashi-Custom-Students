@@ -1,6 +1,6 @@
 # Yasuhiro, Momo (A shy, timid girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasuhiro%2C%20Momo%20(A%20shy%2C%20timid%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasuhiro%2C%20Momo%20(A%20shy%2C%20timid%20girl).png" title="Yasuhiro, Momo (A shy, timid girl) - CherryMaru, V0.47">
 
 First Name: Momo
 

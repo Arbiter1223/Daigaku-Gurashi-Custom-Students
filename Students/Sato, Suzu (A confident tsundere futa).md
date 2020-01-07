@@ -1,6 +1,6 @@
 # Sato, Suzu (A confident tsundere futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sato%2C%20Suzu%20(A%20confident%20tsundere%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sato%2C%20Suzu%20(A%20confident%20tsundere%20futa).png" title="Sato, Suzu (A confident tsundere futa) - AjTheYandere, V0.47">
 
 First Name: Suzu
 

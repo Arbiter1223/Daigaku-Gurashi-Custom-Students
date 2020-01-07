@@ -1,6 +1,6 @@
 # Abe, Katrina (A masochist girl who likes everything)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Abe%2C%20Katrina%20(A%20masochist%20girl%20who%20likes%20everything).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Abe%2C%20Katrina%20(A%20masochist%20girl%20who%20likes%20everything).png" title="Abe, Katrina (A masochist girl who likes everything) - AjTheYandere, V0.47">
 
 First Name: Katrina
 

@@ -1,6 +1,6 @@
 # Okazaki, Takeshi (An absent-minded bookworm genius)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okazaki%2C%20Takeshi%20(An%20absent-minded%20bookworm%20genius).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okazaki%2C%20Takeshi%20(An%20absent-minded%20bookworm%20genius).png" title="Okazaki, Takeshi (An absent-minded bookworm genius) - AjTheYandere, V0.47">
 
 First Name: Takeshi
 

@@ -1,6 +1,6 @@
 # Brain, Violet (The emotional side of the Brain sisters)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Brain%2C%20Violet%20(The%20emotional%20side%20of%20the%20Brain%20sisters).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Brain%2C%20Violet%20(The%20emotional%20side%20of%20the%20Brain%20sisters).png" title="Brain, Violet (The emotional side of the Brain sisters) - AjTheYandere, V0.47">
 
 First Name: Violet
 

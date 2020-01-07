@@ -1,6 +1,6 @@
 # Tentacles, Squidward (A pessimistic clarinet player)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tentacles%2C%20Squidward%20(A%20pessimistic%20clarinet%20player).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tentacles%2C%20Squidward%20(A%20pessimistic%20clarinet%20player).png" title="Tentacles, Squidward (A pessimistic clarinet player) - LowkeyHomo, V0.47">
 
 First Name: Squidward
 

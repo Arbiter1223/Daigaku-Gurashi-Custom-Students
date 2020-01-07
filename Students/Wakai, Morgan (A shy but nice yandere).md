@@ -1,6 +1,6 @@
 # Wakai, Morgan (A shy but nice yandere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Wakai%2C%20Morgan%20(A%20shy%20but%20nice%20yandere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Wakai%2C%20Morgan%20(A%20shy%20but%20nice%20yandere).png" title="Wakai, Morgan (A shy but nice yandere) - Nightara, V0.47">
 
 First Name: Morgan
 

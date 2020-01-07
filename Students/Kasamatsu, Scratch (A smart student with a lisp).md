@@ -1,6 +1,6 @@
 # Kasamatsu, Scratch (A smart student with a lisp)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kasamatsu%2C%20Scratch%20(A%20smart%20student%20with%20a%20lisp).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kasamatsu%2C%20Scratch%20(A%20smart%20student%20with%20a%20lisp).png" title="Kasamatsu, Scratch (A smart student with a lisp) - AjTheYandere, V0.47">
 
 First Name: Scratch
 

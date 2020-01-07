@@ -1,6 +1,6 @@
 # Takimoto, Hanako (A very sweet and caring girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takimoto%2C%20Hanako%20(A%20very%20sweet%20and%20caring%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takimoto%2C%20Hanako%20(A%20very%20sweet%20and%20caring%20girl).png" title="Takimoto, Hanako (A very sweet and caring girl) - Shadow, V0.47">
 
 First Name: Hanako
 

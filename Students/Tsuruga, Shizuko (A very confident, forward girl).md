@@ -1,6 +1,6 @@
 # Tsuruga, Shizuko (A very confident, forward girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsuruga%2C%20Shizuko%20(A%20very%20confident%2C%20forward%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsuruga%2C%20Shizuko%20(A%20very%20confident%2C%20forward%20girl).png" title="Tsuruga, Shizuko (A very confident, forward girl) - Heroic_Moron, V0.47">
 
 First Name: Shizuko
 

@@ -1,6 +1,6 @@
 # Fukusaku, Yume (A stupid, sporty attention whore)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukusaku%2C%20Yume%20(A%20stupid%2C%20sporty%20attention%20whore).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukusaku%2C%20Yume%20(A%20stupid%2C%20sporty%20attention%20whore).png" title="Fukusaku, Yume (A stupid, sporty attention whore) - Aho-chan, V0.47">
 
 First Name: Yume
 

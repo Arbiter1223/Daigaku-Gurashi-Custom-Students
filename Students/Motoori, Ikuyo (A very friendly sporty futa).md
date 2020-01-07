@@ -1,6 +1,6 @@
 # Motoori, Ikuyo (A very friendly sporty futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Motoori%2C%20Ikuyo%20(A%20very%20friendly%20sporty%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Motoori%2C%20Ikuyo%20(A%20very%20friendly%20sporty%20futa).png" title="Motoori, Ikuyo (A very friendly sporty futa) - Rando Studenta, V0.47">
 
 First Name: Ikuyo
 

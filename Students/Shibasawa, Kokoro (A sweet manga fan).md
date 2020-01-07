@@ -1,6 +1,6 @@
 # Shibasawa, Kokoro (A sweet manga fan)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shibasawa%2C%20Kokoro%20(A%20sweet%20manga%20fan).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shibasawa%2C%20Kokoro%20(A%20sweet%20manga%20fan).png" title="Shibasawa, Kokoro (A sweet manga fan) - AjTheYandere, V0.47">
 
 First Name: Kokoro
 

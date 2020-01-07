@@ -36,7 +36,7 @@ Just like the game, the Custom Student Database is a work in progress, so bear t
 
 <a href="Students/Anami, Shiro (The default character).md"><img src="Students/Files/Thumbs/Anami, Shiro (The default character).png" height="100" width="100" title="Anami, Shiro (The default character) - YamiToast, V0.47"></a><a href="Students/Anami, Shiro (The default character).md"> Anami, Shiro (The default character) - YamiToast, V0.47</a>
 
-<a href="Students/Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari).md"><img src="Students/Files/Thumbs/Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari).png" height="100" width="100" title="Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari) - YamiToast, V0.47"></a><a href="Students/Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari).md"> Bukakke, Paizuri (A masochistic tsundere kuudere yandere futanari) - YamiToast, V0.47</a>
+<a href="Students/Bukkake, Paizuri (A masochistic tsundere kuudere yandere futanari).md"><img src="Students/Files/Thumbs/Bukkake, Paizuri (A masochistic tsundere kuudere yandere futanari).png" height="100" width="100" title="Bukkake, Paizuri (A masochistic tsundere kuudere yandere futanari) - YamiToast, V0.47"></a><a href="Students/Bukkake, Paizuri (A masochistic tsundere kuudere yandere futanari).md"> Bukkake, Paizuri (A masochistic tsundere kuudere yandere futanari) - YamiToast, V0.47</a>
 
 <a href="Students/Nei, Nei (A flirty futanari).md"><img src="Students/Files/Thumbs/Nei, Nei (A flirty futanari).png" height="100" width="100" title="Nei, Nei (A flirty futanari) - Nei, V0.47"></a><a href="Students/Nei, Nei (A flirty futanari).md"> Nei, Nei (A flirty futanari) - Nei, V0.47</a>
 

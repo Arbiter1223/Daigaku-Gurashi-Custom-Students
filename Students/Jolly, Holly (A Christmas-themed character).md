@@ -1,6 +1,6 @@
 # Jolly, Holly (A Christmas-themed character)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jolly%2C%20Holly%20(A%20Christmas-themed%20character).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jolly%2C%20Holly%20(A%20Christmas-themed%20character).png" title="Jolly, Holly (A Christmas-themed character) - YamiToast, V0.47">
 
 First Name: Holly
 

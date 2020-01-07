@@ -1,6 +1,6 @@
 # Ukiyo, Maiko (A tsundere ram-girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ukiyo%2C%20Maiko%20(A%20tsundere%20ram-girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ukiyo%2C%20Maiko%20(A%20tsundere%20ram-girl).png" title="Ukiyo, Maiko (A tsundere ram-girl) - Rando Studenta, V0.47">
 
 First Name: Maiko
 

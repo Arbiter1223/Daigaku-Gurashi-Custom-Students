@@ -1,6 +1,6 @@
 # Karubo, Yumiko ('Wal-Mart' Arisu, Kamiko's sister)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Karubo%2C%20Yumiko%20('Wal-Mart'%20Arisu%2C%20Kamiko's%20sister).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Karubo%2C%20Yumiko%20('Wal-Mart'%20Arisu%2C%20Kamiko's%20sister).png" title="Karubo, Yumiko ('Wal-Mart' Arisu, Kamiko's sister) - AjTheYandere and Arbiter1223, V0.47">
 
 First Name: Yumiko
 

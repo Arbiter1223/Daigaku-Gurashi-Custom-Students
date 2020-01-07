@@ -1,6 +1,6 @@
 # Onoda, Hiroyuki (A ruthless hunter)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Onoda%2C%20Hiroyuki%20(A%20ruthless%20hunter).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Onoda%2C%20Hiroyuki%20(A%20ruthless%20hunter).png" title="Onoda, Hiroyuki (A ruthless hunter) - AjTheYandere, V0.47">
 
 First Name: Hiroyuki
 

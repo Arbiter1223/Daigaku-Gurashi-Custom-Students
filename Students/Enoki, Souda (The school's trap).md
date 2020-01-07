@@ -1,6 +1,6 @@
 # Enoki, Souda (The school's trap)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Enoki%2C%20Souda%20(The%20school's%20trap).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Enoki%2C%20Souda%20(The%20school's%20trap).png" title="Enoki, Souda (The school's trap) - KGMN01, V0.47">
 
 First Name: Souda
 

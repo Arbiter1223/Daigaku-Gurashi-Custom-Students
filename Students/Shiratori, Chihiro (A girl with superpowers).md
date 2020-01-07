@@ -1,6 +1,6 @@
 # Shiratori, Chihiro (A girl with superpowers)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shiratori%2C%20Chihiro%20(A%20girl%20with%20superpowers).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shiratori%2C%20Chihiro%20(A%20girl%20with%20superpowers).png" title="Shiratori, Chihiro (A girl with superpowers) - AjTheYandere, V0.47">
 
 First Name: Chihiro
 

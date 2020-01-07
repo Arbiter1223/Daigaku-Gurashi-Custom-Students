@@ -1,6 +1,6 @@
 # Felin, Marina (A curious catgirl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Felin%2C%20Marina%20(A%20curious%20catgirl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Felin%2C%20Marina%20(A%20curious%20catgirl).png" title="Felin, Marina (A curious catgirl) - witcharies, V0.47">
 
 First Name: Marina
 

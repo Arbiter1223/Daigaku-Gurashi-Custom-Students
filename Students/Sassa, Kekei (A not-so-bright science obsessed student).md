@@ -1,6 +1,6 @@
 # Sassa, Kekei (A not-so-bright science obsessed student)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sassa%2C%20Kekei%20(A%20not-so-bright%20science%20obsessed%20student).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sassa%2C%20Kekei%20(A%20not-so-bright%20science%20obsessed%20student).png" title="Sassa, Kekei (A not-so-bright science obsessed student) - BenPupKao, V0.47">
 
 First Name: Kekei
 

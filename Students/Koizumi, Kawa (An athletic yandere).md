@@ -1,6 +1,6 @@
 # Koizumi, Kawa (An athletic yandere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koizumi%2C%20Kawa%20(An%20athletic%20yandere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koizumi%2C%20Kawa%20(An%20athletic%20yandere).png" title="Koizumi, Kawa (An athletic yandere) - witcharies, V0.47">
 
 First Name: Kawa
 

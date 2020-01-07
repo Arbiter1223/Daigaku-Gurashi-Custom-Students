@@ -1,6 +1,6 @@
 # Tsurimi, Natsu (...in Kwanzaa colors!)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsurimi%2C%20Natsu%20(...in%20Kwanzaa%20colors!).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsurimi%2C%20Natsu%20(...in%20Kwanzaa%20colors!).png" title="Tsurimi, Natsu (...in Kwanzaa colors!) - LowkeyHomo, V0.47">
 
 First Name: Natsu
 

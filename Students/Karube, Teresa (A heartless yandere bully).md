@@ -1,6 +1,6 @@
 # Karube, Teresa (A heartless yandere bully)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Karube%2C%20Teresa%20(A%20heartless%20yandere%20bully).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Karube%2C%20Teresa%20(A%20heartless%20yandere%20bully).png" title="Karube, Teresa (A heartless yandere bully) - AjTheYandere, V0.47">
 
 First Name: Teresa
 

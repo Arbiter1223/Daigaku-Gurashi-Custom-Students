@@ -1,6 +1,6 @@
 # Arakawa, Aoi (A confident, sporty, perverted futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Arakawa%2C%20Aoi%20(A%20confident%2C%20sporty%2C%20perverted%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Arakawa%2C%20Aoi%20(A%20confident%2C%20sporty%2C%20perverted%20futa).png" title="Arakawa, Aoi (A confident, sporty, perverted futa) - 09.36am, V0.47">
 
 First Name: Aoi
 

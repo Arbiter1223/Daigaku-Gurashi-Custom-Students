@@ -1,6 +1,6 @@
 # Ippitsusai, Mortred (The Phantom Assassin)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ippitsusai%2C%20Mortred%20(The%20Phantom%20Assassin).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ippitsusai%2C%20Mortred%20(The%20Phantom%20Assassin).png" title="Ippitsusai, Mortred (The Phantom Assassin) - Aho-chan, V0.47">
 
 First Name: Mortred
 

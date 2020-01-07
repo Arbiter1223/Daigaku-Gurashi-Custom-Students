@@ -1,6 +1,6 @@
 # Mishima, Tordki (An all-around awesome futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mishima%2C%20Tordki%20(An%20all-around%20awesome%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mishima%2C%20Tordki%20(An%20all-around%20awesome%20futa).png" title="Mishima, Tordki (An all-around awesome futa) - BenPupKao, V0.47">
 
 First Name: Tordki
 

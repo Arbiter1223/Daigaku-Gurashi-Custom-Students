@@ -1,6 +1,6 @@
 # Takeuchi, Umeko (A pretty shy gamer)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takeuchi%2C%20Umeko%20(A%20pretty%20shy%20gamer).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takeuchi%2C%20Umeko%20(A%20pretty%20shy%20gamer).png" title="Takeuchi, Umeko (A pretty shy gamer) - AjTheYandere, V0.47">
 
 First Name: Umeko
 

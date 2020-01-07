@@ -1,6 +1,6 @@
 # Jabami, Hei (A pretty wimpy guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jabami%2C%20Hei%20(A%20pretty%20wimpy%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jabami%2C%20Hei%20(A%20pretty%20wimpy%20guy).png" title="Jabami, Hei (A pretty wimpy guy) - AjTheYandere, V0.47">
 
 First Name: Hei
 

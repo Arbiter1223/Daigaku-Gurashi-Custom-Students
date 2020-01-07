@@ -1,6 +1,6 @@
 # Kaibara, Kuroda (A depressed girl who was once a bully)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaibara%2C%20Kuroda%20(A%20depressed%20girl%20who%20was%20once%20a%20bully).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaibara%2C%20Kuroda%20(A%20depressed%20girl%20who%20was%20once%20a%20bully).png" title="Kaibara, Kuroda (A depressed girl who was once a bully) - AjTheYandere, V0.47">
 
 First Name: Kuroda
 

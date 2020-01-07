@@ -1,6 +1,6 @@
 # Takarada, Rikka (A sad kuudere manga girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takarada%2C%20Rikka%20(A%20sad%20kuudere%20manga%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takarada%2C%20Rikka%20(A%20sad%20kuudere%20manga%20girl).png" title="Takarada, Rikka (A sad kuudere manga girl) - Cookie Boi, V0.47">
 
 First Name: Rikka
 

@@ -1,6 +1,6 @@
 # Okamoto, Teruko (A dumb girl who likes to gossip)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okamoto%2C%20Teruko%20(A%20dumb%20girl%20who%20likes%20to%20gossip).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okamoto%2C%20Teruko%20(A%20dumb%20girl%20who%20likes%20to%20gossip).png" title="Okamoto, Teruko (A dumb girl who likes to gossip) - AjTheYandere, V0.47">
 
 First Name: Teruko
 

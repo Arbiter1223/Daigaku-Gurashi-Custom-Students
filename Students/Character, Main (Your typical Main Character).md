@@ -1,6 +1,6 @@
 # Character, Main (Your typical Main Character)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Character%2C%20Main%20(Your%20typical%20Main%20Character).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Character%2C%20Main%20(Your%20typical%20Main%20Character).png" title="Character, Main (Your typical Main Character) - Kitten, V0.47">
 
 First Name: Main
 

@@ -1,6 +1,6 @@
 # Kaminaru, Kysiro (An absolute slut)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaminaru%2C%20Kysiro%20(An%20absolute%20slut).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaminaru%2C%20Kysiro%20(An%20absolute%20slut).png" title="Kaminaru, Kysiro (An absolute slut) - kami, V0.47">
 
 First Name: Kysiro
 

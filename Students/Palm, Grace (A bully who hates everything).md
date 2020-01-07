@@ -1,6 +1,6 @@
 # Palm, Grace (A bully who hates everything)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Palm%2C%20Grace%20(A%20bully%20who%20hates%20everything).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Palm%2C%20Grace%20(A%20bully%20who%20hates%20everything).png" title="Palm, Grace (A bully who hates everything) - GracePalm, V0.47">
 
 First Name: Grace
 

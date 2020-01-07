@@ -1,6 +1,6 @@
 # Kitano, Takahiro (A dickish mage)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kitano%2C%20Takahiro%20(A%20dickish%20mage).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kitano%2C%20Takahiro%20(A%20dickish%20mage).png" title="Kitano, Takahiro (A dickish mage) - Nyanako, V0.47">
 
 First Name: Takahiro
 

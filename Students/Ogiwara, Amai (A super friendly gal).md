@@ -1,6 +1,6 @@
 # Ogiwara, Amai (A super friendly gal)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ogiwara%2C%20Amai%20(A%20super%20friendly%20gal).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ogiwara%2C%20Amai%20(A%20super%20friendly%20gal).png" title="Ogiwara, Amai (A super friendly gal) - Shadow, V0.47">
 
 First Name: Amai
 

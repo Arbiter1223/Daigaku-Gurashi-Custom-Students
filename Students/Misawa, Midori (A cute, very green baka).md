@@ -1,6 +1,6 @@
 # Misawa, Midori (A cute, very green baka)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Misawa%2C%20Midori%20(A%20cute%2C%20very%20green%20baka).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Misawa%2C%20Midori%20(A%20cute%2C%20very%20green%20baka).png" title="Misawa, Midori (A cute, very green baka) - Shadow, V0.47">
 
 First Name: Midori
 

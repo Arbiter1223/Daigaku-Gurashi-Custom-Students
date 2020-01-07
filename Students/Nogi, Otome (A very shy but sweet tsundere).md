@@ -1,6 +1,6 @@
 # Nogi, Otome (A very shy but sweet tsundere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nogi%2C%20Otome%20(A%20very%20shy%20but%20sweet%20tsundere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nogi%2C%20Otome%20(A%20very%20shy%20but%20sweet%20tsundere).png" title="Nogi, Otome (A very shy but sweet tsundere) - Rando Studenta, V0.47">
 
 First Name: Otome
 

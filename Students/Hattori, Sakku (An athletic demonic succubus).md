@@ -1,6 +1,6 @@
 # Hattori, Sakku (An athletic demonic succubus)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hattori%2C%20Sakku%20(An%20athletic%20demonic%20succubus).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hattori%2C%20Sakku%20(An%20athletic%20demonic%20succubus).png" title="Hattori, Sakku (An athletic demonic succubus) - LowkeyHomo, V0.47">
 
 First Name: Sakku
 

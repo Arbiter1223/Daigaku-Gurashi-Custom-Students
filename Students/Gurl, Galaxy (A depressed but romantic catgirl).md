@@ -1,6 +1,6 @@
 # Gurl, Galaxy (A depressed but romantic catgirl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gurl%2C%20Galaxy%20(A%20depressed%20but%20romantic%20catgirl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gurl%2C%20Galaxy%20(A%20depressed%20but%20romantic%20catgirl).png" title="Gurl, Galaxy (A depressed but romantic catgirl) - Galaxy gurl, V0.47">
 
 First Name: Galaxy
 

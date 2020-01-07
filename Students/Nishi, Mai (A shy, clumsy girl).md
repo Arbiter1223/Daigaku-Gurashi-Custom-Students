@@ -1,6 +1,6 @@
 # Nishi, Mai (A shy, clumsy girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nishi%2C%20Mai%20(A%20shy%2C%20clumsy%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nishi%2C%20Mai%20(A%20shy%2C%20clumsy%20girl).png" title="Nishi, Mai (A shy, clumsy girl) - AjTheYandere, V0.47">
 
 First Name: Mai
 

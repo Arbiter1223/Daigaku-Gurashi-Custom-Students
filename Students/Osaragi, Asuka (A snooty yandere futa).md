@@ -1,6 +1,6 @@
 # Osaragi, Asuka (A snooty yandere futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Osaragi%2C%20Asuka%20(A%20snooty%20yandere%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Osaragi%2C%20Asuka%20(A%20snooty%20yandere%20futa).png" title="Osaragi, Asuka (A snooty yandere futa) - AjTheYandere, V0.47">
 
 First Name: Asuka
 

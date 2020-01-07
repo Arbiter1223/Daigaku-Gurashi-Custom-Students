@@ -1,6 +1,6 @@
 # Shinrin, Yuki (An antisocial yandere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shinrin%2C%20Yuki%20(An%20antisocial%20yandere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shinrin%2C%20Yuki%20(An%20antisocial%20yandere).png" title="Shinrin, Yuki (An antisocial yandere) - snowy, V0.47">
 
 First Name: Yuki
 

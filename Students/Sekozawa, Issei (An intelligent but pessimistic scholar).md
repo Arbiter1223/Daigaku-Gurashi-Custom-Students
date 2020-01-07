@@ -1,6 +1,6 @@
 # Sekozawa, Issei (An intelligent but pessimistic scholar)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sekozawa%2C%20Issei%20(An%20intelligent%20but%20pessimistic%20scholar).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sekozawa%2C%20Issei%20(An%20intelligent%20but%20pessimistic%20scholar).png" title="Sekozawa, Issei (An intelligent but pessimistic scholar) - AjTheYandere, V0.47">
 
 First Name: Issei
 

@@ -1,6 +1,6 @@
 # Saga, Kiyoshi (A rather shy boy who loves a good workout)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saga%2C%20Kiyoshi%20(A%20rather%20shy%20boy%20who%20loves%20a%20good%20workout).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saga%2C%20Kiyoshi%20(A%20rather%20shy%20boy%20who%20loves%20a%20good%20workout).png" title="Saga, Kiyoshi (A rather shy boy who loves a good workout) - Rando Studenta, V0.47">
 
 First Name: Kiyoshi
 

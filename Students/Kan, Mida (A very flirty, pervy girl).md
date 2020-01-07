@@ -1,6 +1,6 @@
 # Kan, Mida (A very flirty, pervy girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kan%2C%20Mida%20(A%20very%20flirty%2C%20pervy%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kan%2C%20Mida%20(A%20very%20flirty%2C%20pervy%20girl).png" title="Kan, Mida (A very flirty, pervy girl) - Shadow, V0.47">
 
 First Name: Mida
 

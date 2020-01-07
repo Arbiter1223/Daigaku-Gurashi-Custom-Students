@@ -1,6 +1,6 @@
 # Rogers, Shaggy (A Scooby-Doo character gone viral)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Rogers%2C%20Shaggy%20(A%20Scooby-Doo%20character%20gone%20viral).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Rogers%2C%20Shaggy%20(A%20Scooby-Doo%20character%20gone%20viral).png" title="Rogers, Shaggy (A Scooby-Doo character gone viral) - sansrika, V0.47">
 
 First Name: Shaggy
 

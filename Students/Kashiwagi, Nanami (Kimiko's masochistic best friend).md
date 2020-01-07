@@ -1,6 +1,6 @@
 # Kashiwagi, Nanami (Kimiko's masochistic best friend)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kashiwagi%2C%20Nanami%20(Kimiko's%20masochistic%20best%20friend).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kashiwagi%2C%20Nanami%20(Kimiko's%20masochistic%20best%20friend).png" title="Kashiwagi, Nanami (Kimiko's masochistic best friend) - CookieBoi, V0.47">
 
 First Name: Nanami
 

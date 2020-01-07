@@ -1,6 +1,6 @@
 # Ina, Hexu(Male) (Hexu as a male)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ina%2C%20Hexu(Male)%20(Hexu%20as%20a%20male).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ina%2C%20Hexu(Male)%20(Hexu%20as%20a%20male).png" title="Ina, Hexu(Male) (Hexu as a male) - AjTheYandere, V0.47">
 
 First Name: Hexu(Male)
 

@@ -1,6 +1,6 @@
 # Kaima, Kiwi (A smart but rather unfriendly guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaima%2C%20Kiwi%20(A%20smart%20but%20rather%20unfriendly%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaima%2C%20Kiwi%20(A%20smart%20but%20rather%20unfriendly%20guy).png" title="Kaima, Kiwi (A smart but rather unfriendly guy) - BenPupKao, V0.47">
 
 First Name: Kiwi
 

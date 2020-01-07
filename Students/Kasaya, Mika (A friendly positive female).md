@@ -1,6 +1,6 @@
 # Kasaya, Mika (A friendly positive female)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kasaya%2C%20Mika%20(A%20friendly%20positive%20female).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kasaya%2C%20Mika%20(A%20friendly%20positive%20female).png" title="Kasaya, Mika (A friendly positive female) - Camden, V0.47">
 
 First Name: Mika
 

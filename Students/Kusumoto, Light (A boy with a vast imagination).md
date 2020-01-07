@@ -1,6 +1,6 @@
 # Kusumoto, Light (A boy with a vast imagination)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kusumoto%2C%20Light%20(A%20boy%20with%20a%20vast%20imagination).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kusumoto%2C%20Light%20(A%20boy%20with%20a%20vast%20imagination).png" title="Kusumoto, Light (A boy with a vast imagination) - AjTheYandere, V0.47">
 
 First Name: Light
 

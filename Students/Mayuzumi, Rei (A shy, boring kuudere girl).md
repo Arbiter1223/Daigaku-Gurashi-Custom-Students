@@ -1,6 +1,6 @@
 # Mayuzumi, Rei (A shy, boring kuudere girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mayuzumi%2C%20Rei%20(A%20shy%2C%20boring%20kuudere%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mayuzumi%2C%20Rei%20(A%20shy%2C%20boring%20kuudere%20girl).png" title="Mayuzumi, Rei (A shy, boring kuudere girl) - Liam Beets, V0.47">
 
 First Name: Rei
 

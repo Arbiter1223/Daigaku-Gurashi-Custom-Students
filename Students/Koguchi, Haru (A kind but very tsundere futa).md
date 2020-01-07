@@ -1,6 +1,6 @@
 # Koguchi, Haru (A kind but very tsundere futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koguchi%2C%20Haru%20(A%20kind%20but%20very%20tsundere%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koguchi%2C%20Haru%20(A%20kind%20but%20very%20tsundere%20futa).png" title="Koguchi, Haru (A kind but very tsundere futa) - Nyanako, V0.47">
 
 First Name: Haru
 

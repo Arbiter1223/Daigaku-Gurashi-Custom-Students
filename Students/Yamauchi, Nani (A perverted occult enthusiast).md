@@ -1,6 +1,6 @@
 # Yamauchi, Nani (A perverted occult enthusiast)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamauchi%2C%20Nani%20(A%20perverted%20occult%20enthusiast).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamauchi%2C%20Nani%20(A%20perverted%20occult%20enthusiast).png" title="Yamauchi, Nani (A perverted occult enthusiast) - BenPupKao, V0.47">
 
 First Name: Nani
 

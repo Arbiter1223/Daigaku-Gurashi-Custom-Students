@@ -1,6 +1,6 @@
 # Hakamada, Latoria (A sad but fun girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hakamada%2C%20Latoria%20(A%20sad%20but%20fun%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hakamada%2C%20Latoria%20(A%20sad%20but%20fun%20girl).png" title="Hakamada, Latoria (A sad but fun girl) - Latoria clayton, V0.47">
 
 First Name: Latoria
 

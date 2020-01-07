@@ -1,6 +1,6 @@
 # Kamioka, Megami (A bright, mature woman)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kamioka%2C%20Megami%20(A%20bright%2C%20mature%20woman).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kamioka%2C%20Megami%20(A%20bright%2C%20mature%20woman).png" title="Kamioka, Megami (A bright, mature woman) - Shadow, V0.47">
 
 First Name: Megami
 

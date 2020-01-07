@@ -1,6 +1,6 @@
 # Ryusaki, Homura (A nice, talkative girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ryusaki%2C%20Homura%20(A%20nice%2C%20talkative%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ryusaki%2C%20Homura%20(A%20nice%2C%20talkative%20girl).png" title="Ryusaki, Homura (A nice, talkative girl) - AjTheYandere, V0.47">
 
 First Name: Homura
 

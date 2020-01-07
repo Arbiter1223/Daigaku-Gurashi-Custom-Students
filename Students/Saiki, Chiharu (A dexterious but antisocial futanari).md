@@ -1,6 +1,6 @@
 # Saiki, Chiharu (A dexterious but antisocial futanari)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saiki%2C%20Chiharu%20(A%20dexterious%20but%20antisocial%20futanari).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saiki%2C%20Chiharu%20(A%20dexterious%20but%20antisocial%20futanari).png" title="Saiki, Chiharu (A dexterious but antisocial futanari) - AjTheYandere, V0.47">
 
 First Name: Chiharu
 

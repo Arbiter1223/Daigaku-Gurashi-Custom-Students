@@ -1,6 +1,6 @@
 # Itagaki, Kim (A depressed kuudere boy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Itagaki%2C%20Kim%20(A%20depressed%20kuudere%20boy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Itagaki%2C%20Kim%20(A%20depressed%20kuudere%20boy).png" title="Itagaki, Kim (A depressed kuudere boy) - Kana, V0.47">
 
 First Name: Kim
 

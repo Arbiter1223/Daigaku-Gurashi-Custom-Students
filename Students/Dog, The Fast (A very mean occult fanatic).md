@@ -1,6 +1,6 @@
 # Dog, The Fast (A very mean occult fanatic)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dog%2C%20The%20Fast%20(A%20very%20mean%20occult%20fanatic).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dog%2C%20The%20Fast%20(A%20very%20mean%20occult%20fanatic).png" title="Dog, The Fast (A very mean occult fanatic) - Syberian Orange, V0.47">
 
 First Name: The Fast
 

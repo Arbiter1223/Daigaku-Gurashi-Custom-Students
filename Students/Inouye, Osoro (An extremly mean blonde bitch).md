@@ -1,6 +1,6 @@
 # Inouye, Osoro (An extremly mean blonde bitch)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Inouye%2C%20Osoro%20(An%20extremly%20mean%20blonde%20bitch).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Inouye%2C%20Osoro%20(An%20extremly%20mean%20blonde%20bitch).png" title="Inouye, Osoro (An extremly mean blonde bitch) - Shadow, V0.47">
 
 First Name: Osoro
 

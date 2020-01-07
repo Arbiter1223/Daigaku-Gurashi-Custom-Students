@@ -1,6 +1,6 @@
 # Deushi, Baka (A clueless, clumsy girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Deushi%2C%20Baka%20(A%20clueless%2C%20clumsy%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Deushi%2C%20Baka%20(A%20clueless%2C%20clumsy%20girl).png" title="Deushi, Baka (A clueless, clumsy girl) - Aho-chan, V0.47">
 
 First Name: Baka
 

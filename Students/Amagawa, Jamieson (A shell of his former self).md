@@ -1,6 +1,6 @@
 # Amagawa, Jamieson (A shell of his former self)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Amagawa%2C%20Jamieson%20(A%20shell%20of%20his%20former%20self).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Amagawa%2C%20Jamieson%20(A%20shell%20of%20his%20former%20self).png" title="Amagawa, Jamieson (A shell of his former self) - BenPupKao, V0.47">
 
 First Name: Jamieson
 

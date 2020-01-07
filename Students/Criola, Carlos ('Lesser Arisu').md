@@ -1,6 +1,6 @@
 # Criola, Carlos ('Lesser Arisu')
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Criola%2C%20Carlos%20('Lesser%20Arisu').png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Criola%2C%20Carlos%20('Lesser%20Arisu').png" title="Criola, Carlos ('Lesser Arisu') - screaming kiwi, V0.47">
 
 First Name: Carlos
 

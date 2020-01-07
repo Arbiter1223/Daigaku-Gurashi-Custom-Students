@@ -1,6 +1,6 @@
 # Kon, Jenny (A perverted tsundere girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kon%2C%20Jenny%20(A%20perverted%20tsundere%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kon%2C%20Jenny%20(A%20perverted%20tsundere%20girl).png" title="Kon, Jenny (A perverted tsundere girl) - AjTheYandere, V0.47">
 
 First Name: Jenny
 

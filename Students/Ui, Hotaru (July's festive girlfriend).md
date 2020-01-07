@@ -1,6 +1,6 @@
 # Ui, Hotaru (July's festive girlfriend)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ui%2C%20Hotaru%20(July's%20festive%20girlfriend).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ui%2C%20Hotaru%20(July's%20festive%20girlfriend).png" title="Ui, Hotaru (July's festive girlfriend) - Syberian Orange, V0.47">
 
 First Name: Hotaru
 

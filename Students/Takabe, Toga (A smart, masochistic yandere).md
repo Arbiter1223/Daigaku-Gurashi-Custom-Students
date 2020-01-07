@@ -1,6 +1,6 @@
 # Takabe, Toga (A smart, masochistic yandere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takabe%2C%20Toga%20(A%20smart%2C%20masochistic%20yandere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takabe%2C%20Toga%20(A%20smart%2C%20masochistic%20yandere).png" title="Takabe, Toga (A smart, masochistic yandere) - ClownPrinceOfLies, V0.47">
 
 First Name: Toga
 

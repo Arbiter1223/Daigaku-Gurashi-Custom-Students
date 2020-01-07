@@ -1,6 +1,6 @@
 # Eto, Mark (A stingy, unfriendly guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Eto%2C%20Mark%20(A%20stingy%2C%20unfriendly%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Eto%2C%20Mark%20(A%20stingy%2C%20unfriendly%20guy).png" title="Eto, Mark (A stingy, unfriendly guy) - Ditto, V0.47">
 
 First Name: Mark
 

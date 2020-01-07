@@ -1,6 +1,6 @@
 # Itoh, Clara (A shy, unflirty emo girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Itoh%2C%20Clara%20(A%20shy%2C%20unflirty%20emo%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Itoh%2C%20Clara%20(A%20shy%2C%20unflirty%20emo%20girl).png" title="Itoh, Clara (A shy, unflirty emo girl) - Cookie Boi, V0.47">
 
 First Name: Clara
 

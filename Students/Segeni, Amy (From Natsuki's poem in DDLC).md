@@ -1,6 +1,6 @@
 # Segeni, Amy (From Natsuki's poem in DDLC)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Segeni%2C%20Amy%20(From%20Natsuki's%20poem%20in%20DDLC).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Segeni%2C%20Amy%20(From%20Natsuki's%20poem%20in%20DDLC).png" title="Segeni, Amy (From Natsuki's poem in DDLC) - AjTheYandere, V0.47">
 
 First Name: Amy
 

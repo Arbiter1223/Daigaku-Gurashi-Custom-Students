@@ -1,6 +1,6 @@
 # Tsurimi, Natsu (...in New Year's colors!)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsurimi%2C%20Natsu%20(...in%20New%20Year's%20colors!).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsurimi%2C%20Natsu%20(...in%20New%20Year's%20colors!).png" title="Tsurimi, Natsu (...in New Year's colors!) - LowkeyHomo, V0.47">
 
 First Name: Natsu
 

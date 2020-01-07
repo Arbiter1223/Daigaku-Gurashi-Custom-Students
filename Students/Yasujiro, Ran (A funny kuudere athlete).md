@@ -1,6 +1,6 @@
 # Yasujiro, Ran (A funny kuudere athlete)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasujiro%2C%20Ran%20(A%20funny%20kuudere%20athlete).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasujiro%2C%20Ran%20(A%20funny%20kuudere%20athlete).png" title="Yasujiro, Ran (A funny kuudere athlete) - Rando Studenta, V0.47">
 
 First Name: Ran
 

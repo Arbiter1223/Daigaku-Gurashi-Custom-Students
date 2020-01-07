@@ -1,6 +1,6 @@
 # Enoshima, Jiin (A stressed out but dedicated fashionista)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Enoshima%2C%20Jiin%20(A%20stressed%20out%20but%20dedicated%20fashionista).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Enoshima%2C%20Jiin%20(A%20stressed%20out%20but%20dedicated%20fashionista).png" title="Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47">
 
 First Name: Jiin
 

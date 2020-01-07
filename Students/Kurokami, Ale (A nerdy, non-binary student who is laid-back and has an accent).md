@@ -1,6 +1,6 @@
 # Kurokami, Ale (A nerdy, non-binary student who is laid-back and has an accent)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kurokami%2C%20Ale%20(A%20nerdy%2C%20non-binary%20student%20who%20is%20laid-back%20and%20has%20an%20accent).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kurokami%2C%20Ale%20(A%20nerdy%2C%20non-binary%20student%20who%20is%20laid-back%20and%20has%20an%20accent).png" title="Kurokami, Ale (A nerdy, non-binary student who is laid-back and has an accent) - Aho-chan, V0.47">
 
 First Name: Ale
 

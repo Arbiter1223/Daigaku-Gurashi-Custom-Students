@@ -1,6 +1,6 @@
 # Karubo, Kamiko (A lazy Arisu cosplayer)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Karubo%2C%20Kamiko%20(A%20lazy%20Arisu%20cosplayer).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Karubo%2C%20Kamiko%20(A%20lazy%20Arisu%20cosplayer).png" title="Karubo, Kamiko (A lazy Arisu cosplayer) - Syberian Orange and Arbiter1223, V0.47">
 
 First Name: Kamiko
 

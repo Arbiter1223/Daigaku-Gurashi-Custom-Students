@@ -1,6 +1,6 @@
 # Ichisada, Rimurensu (A masochistic occult girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ichisada%2C%20Rimurensu%20(A%20masochistic%20occult%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ichisada%2C%20Rimurensu%20(A%20masochistic%20occult%20girl).png" title="Ichisada, Rimurensu (A masochistic occult girl) - Astronomical, V0.47">
 
 First Name: Rimurensu
 

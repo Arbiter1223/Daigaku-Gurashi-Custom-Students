@@ -1,6 +1,6 @@
 # Teacher, Art (A stern and very strict teacher)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20Art%20(A%20stern%20and%20very%20strict%20teacher).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20Art%20(A%20stern%20and%20very%20strict%20teacher).png" title="Teacher, Art (A stern and very strict teacher) - AjTheYandere, V0.47">
 
 First Name: Art
 

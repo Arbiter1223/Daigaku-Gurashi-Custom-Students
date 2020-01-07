@@ -1,6 +1,6 @@
 # Terauchi, Yuri (From DDLC, a busty, soft-spoken bookworm)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Terauchi%2C%20Yuri%20(From%20DDLC%2C%20a%20busty%2C%20soft-spoken%20bookworm).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Terauchi%2C%20Yuri%20(From%20DDLC%2C%20a%20busty%2C%20soft-spoken%20bookworm).png" title="Terauchi, Yuri (From DDLC, a busty, soft-spoken bookworm) - LowkeyHomo, V0.47">
 
 First Name: Yuri
 

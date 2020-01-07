@@ -1,6 +1,6 @@
 # Egami, Tamura (A modest, content boy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Egami%2C%20Tamura%20(A%20modest%2C%20content%20boy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Egami%2C%20Tamura%20(A%20modest%2C%20content%20boy).png" title="Egami, Tamura (A modest, content boy) - Bubger Kirg, V0.47">
 
 First Name: Tamura
 

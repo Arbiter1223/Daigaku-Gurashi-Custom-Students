@@ -1,6 +1,6 @@
 # Tarumi, Haru (A girl who loves a good workout)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tarumi%2C%20Haru%20(A%20girl%20who%20loves%20a%20good%20workout).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tarumi%2C%20Haru%20(A%20girl%20who%20loves%20a%20good%20workout).png" title="Tarumi, Haru (A girl who loves a good workout) - AjTheYandere, V0.47">
 
 First Name: Haru
 

@@ -1,6 +1,6 @@
 # Kotara, Asu (A content, sporty girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kotara%2C%20Asu%20(A%20content%2C%20sporty%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kotara%2C%20Asu%20(A%20content%2C%20sporty%20girl).png" title="Kotara, Asu (A content, sporty girl) - Shadow, V0.47">
 
 First Name: Asu
 

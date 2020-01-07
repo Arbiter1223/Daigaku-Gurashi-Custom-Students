@@ -1,6 +1,6 @@
 # Ise, Xabby (A cute tsundere cat)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ise%2C%20Xabby%20(A%20cute%20tsundere%20cat).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ise%2C%20Xabby%20(A%20cute%20tsundere%20cat).png" title="Ise, Xabby (A cute tsundere cat) - xabbynip09, V0.47">
 
 First Name: Xabby
 

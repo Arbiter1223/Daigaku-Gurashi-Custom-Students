@@ -1,6 +1,6 @@
 # Tsukade, Akeno (Masaru's older, spoiled sister)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsukade%2C%20Akeno%20(Masaru's%20older%2C%20spoiled%20sister).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsukade%2C%20Akeno%20(Masaru's%20older%2C%20spoiled%20sister).png" title="Tsukade, Akeno (Masaru's older, spoiled sister) - Aho-chan, V0.47">
 
 First Name: Akeno
 

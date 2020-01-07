@@ -1,6 +1,6 @@
 # Criola, Carlos (A mean tsundere guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Criola%2C%20Carlos%20(A%20mean%20tsundere%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Criola%2C%20Carlos%20(A%20mean%20tsundere%20guy).png" title="Criola, Carlos (A mean tsundere guy) - screaming kiwi, V0.47">
 
 First Name: Carlos
 

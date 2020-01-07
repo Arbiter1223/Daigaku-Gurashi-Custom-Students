@@ -1,6 +1,6 @@
 # Kitoaji, Aho (An athletic, pessimistic tsundere)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kitoaji%2C%20Aho%20(An%20athletic%2C%20pessimistic%20tsundere).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kitoaji%2C%20Aho%20(An%20athletic%2C%20pessimistic%20tsundere).png" title="Kitoaji, Aho (An athletic, pessimistic tsundere) - Aho-chan, V0.47">
 
 First Name: Aho
 

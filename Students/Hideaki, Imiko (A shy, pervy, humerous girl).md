@@ -1,6 +1,6 @@
 # Hideaki, Imiko (A shy, pervy, humerous girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hideaki%2C%20Imiko%20(A%20shy%2C%20pervy%2C%20humerous%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hideaki%2C%20Imiko%20(A%20shy%2C%20pervy%2C%20humerous%20girl).png" title="Hideaki, Imiko (A shy, pervy, humerous girl) - Cookie Boi, V0.47">
 
 First Name: Imiko
 

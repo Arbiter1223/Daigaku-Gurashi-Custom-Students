@@ -1,6 +1,6 @@
 # Tahio, Cassie (A dumb tsundere pervert)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tahio%2C%20Cassie%20(A%20dumb%20tsundere%20pervert).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tahio%2C%20Cassie%20(A%20dumb%20tsundere%20pervert).png" title="Tahio, Cassie (A dumb tsundere pervert) - PoodgeYT, V0.47">
 
 First Name: Cassie
 

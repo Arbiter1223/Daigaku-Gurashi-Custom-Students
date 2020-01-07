@@ -1,6 +1,6 @@
 # Ikoma, Aslak (A nice, confident transgender boy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ikoma%2C%20Aslak%20(A%20nice%2C%20confident%20transgender%20boy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ikoma%2C%20Aslak%20(A%20nice%2C%20confident%20transgender%20boy).png" title="Ikoma, Aslak (A nice, confident transgender boy) - Azumi, V0.47">
 
 First Name: Aslak
 

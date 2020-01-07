@@ -1,6 +1,6 @@
 # Nakamura, Nyoko (A judgemental gamer girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakamura%2C%20Nyoko%20(A%20judgemental%20gamer%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakamura%2C%20Nyoko%20(A%20judgemental%20gamer%20girl).png" title="Nakamura, Nyoko (A judgemental gamer girl) - witcharies, V0.47">
 
 First Name: Nyoko
 

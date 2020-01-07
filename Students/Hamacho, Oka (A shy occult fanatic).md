@@ -1,6 +1,6 @@
 # Hamacho, Oka (A shy occult fanatic)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hamacho%2C%20Oka%20(A%20shy%20occult%20fanatic).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hamacho%2C%20Oka%20(A%20shy%20occult%20fanatic).png" title="Hamacho, Oka (A shy occult fanatic) - Shadow, V0.47">
 
 First Name: Oka
 

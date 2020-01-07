@@ -1,6 +1,6 @@
 # Kusuhara, Kazue (A shy yet talented musician)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kusuhara%2C%20Kazue%20(A%20shy%20yet%20talented%20musician).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kusuhara%2C%20Kazue%20(A%20shy%20yet%20talented%20musician).png" title="Kusuhara, Kazue (A shy yet talented musician) - AjTheYandere, V0.47">
 
 First Name: Kazue
 

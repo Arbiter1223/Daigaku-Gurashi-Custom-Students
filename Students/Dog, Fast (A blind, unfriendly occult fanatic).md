@@ -1,6 +1,6 @@
 # Dog, Fast (A blind, unfriendly occult fanatic)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dog%2C%20Fast%20(A%20blind%2C%20unfriendly%20occult%20fanatic).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dog%2C%20Fast%20(A%20blind%2C%20unfriendly%20occult%20fanatic).png" title="Dog, Fast (A blind, unfriendly occult fanatic) - AjTheYandere, V0.47">
 
 First Name: Fast
 

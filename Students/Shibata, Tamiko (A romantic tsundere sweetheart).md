@@ -1,6 +1,6 @@
 # Shibata, Tamiko (A romantic tsundere sweetheart)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shibata%2C%20Tamiko%20(A%20romantic%20tsundere%20sweetheart).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shibata%2C%20Tamiko%20(A%20romantic%20tsundere%20sweetheart).png" title="Shibata, Tamiko (A romantic tsundere sweetheart) - AjTheYandere, V0.47">
 
 First Name: Tamiko
 

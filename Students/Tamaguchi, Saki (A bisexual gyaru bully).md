@@ -1,6 +1,6 @@
 # Tamaguchi, Saki (A bisexual gyaru bully)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tamaguchi%2C%20Saki%20(A%20bisexual%20gyaru%20bully).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tamaguchi%2C%20Saki%20(A%20bisexual%20gyaru%20bully).png" title="Tamaguchi, Saki (A bisexual gyaru bully) - brendon, V0.47">
 
 First Name: Saki
 

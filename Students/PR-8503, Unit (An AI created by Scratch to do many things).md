@@ -1,6 +1,6 @@
 # PR-8503, Unit (An AI created by Scratch to do many things)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/PR-8503%2C%20Unit%20(An%20AI%20created%20by%20Scratch%20to%20do%20many%20things).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/PR-8503%2C%20Unit%20(An%20AI%20created%20by%20Scratch%20to%20do%20many%20things).png" title="PR-8503, Unit (An AI created by Scratch to do many things) - AjTheYandere, V0.47">
 
 First Name: Unit
 

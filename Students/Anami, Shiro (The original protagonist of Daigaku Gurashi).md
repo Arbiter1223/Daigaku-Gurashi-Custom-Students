@@ -1,6 +1,6 @@
 # Anami, Shiro (The original protagonist of Daigaku Gurashi)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Anami%2C%20Shiro%20(The%20original%20protagonist%20of%20Daigaku%20Gurashi).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Anami%2C%20Shiro%20(The%20original%20protagonist%20of%20Daigaku%20Gurashi).png" title="Anami, Shiro (The original protagonist of Daigaku Gurashi) - yogima, V0.47">
 
 First Name: Shiro
 

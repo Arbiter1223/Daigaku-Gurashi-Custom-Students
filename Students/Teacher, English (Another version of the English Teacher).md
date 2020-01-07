@@ -1,6 +1,6 @@
 # Teacher, English (Another version of the English Teacher)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20English%20(Another%20version%20of%20the%20English%20Teacher).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20English%20(Another%20version%20of%20the%20English%20Teacher).png" title="Teacher, English (Another version of the English Teacher) - LowkeyHomo, V0.47">
 
 First Name: English
 

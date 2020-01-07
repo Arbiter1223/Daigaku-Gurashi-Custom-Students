@@ -1,6 +1,6 @@
 # Shimon, Okaruto (An unlucky, antisocial occult lover)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimon%2C%20Okaruto%20(An%20unlucky%2C%20antisocial%20occult%20lover).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimon%2C%20Okaruto%20(An%20unlucky%2C%20antisocial%20occult%20lover).png" title="Shimon, Okaruto (An unlucky, antisocial occult lover) - Takumi, V0.47">
 
 First Name: Okaruto
 

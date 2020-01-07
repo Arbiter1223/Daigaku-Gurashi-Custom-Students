@@ -1,6 +1,6 @@
 # Satou, Kuuhaku (The most boring guy ever)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Satou%2C%20Kuuhaku%20(The%20most%20boring%20guy%20ever).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Satou%2C%20Kuuhaku%20(The%20most%20boring%20guy%20ever).png" title="Satou, Kuuhaku (The most boring guy ever) - YamiToast, V0.47">
 
 First Name: Kuuhaku
 

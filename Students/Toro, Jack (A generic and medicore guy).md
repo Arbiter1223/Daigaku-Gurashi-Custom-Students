@@ -1,6 +1,6 @@
 # Toro, Jack (A generic and medicore guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toro%2C%20Jack%20(A%20generic%20and%20medicore%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toro%2C%20Jack%20(A%20generic%20and%20medicore%20guy).png" title="Toro, Jack (A generic and medicore guy) - Generic-kun, V0.47">
 
 First Name: Jack
 

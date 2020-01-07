@@ -1,6 +1,6 @@
 # Tsutaya, Cho (A very timid manga girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsutaya%2C%20Cho%20(A%20very%20timid%20manga%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsutaya%2C%20Cho%20(A%20very%20timid%20manga%20girl).png" title="Tsutaya, Cho (A very timid manga girl) - AjTheYandere, V0.47">
 
 First Name: Cho
 

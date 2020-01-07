@@ -1,6 +1,6 @@
 # Shobo, Hai (A shy girl who likes anime social simulators)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shobo%2C%20Hai%20(A%20shy%20girl%20who%20likes%20anime%20social%20simulators).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shobo%2C%20Hai%20(A%20shy%20girl%20who%20likes%20anime%20social%20simulators).png" title="Shobo, Hai (A shy girl who likes anime social simulators) - AjTheYandere, V0.47">
 
 First Name: Hai
 

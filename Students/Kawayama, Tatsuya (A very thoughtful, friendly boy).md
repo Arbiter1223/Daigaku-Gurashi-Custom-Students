@@ -1,6 +1,6 @@
 # Kawayama, Tatsuya (A very thoughtful, friendly boy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawayama%2C%20Tatsuya%20(A%20very%20thoughtful%2C%20friendly%20boy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawayama%2C%20Tatsuya%20(A%20very%20thoughtful%2C%20friendly%20boy).png" title="Kawayama, Tatsuya (A very thoughtful, friendly boy) - Rando Studenta, V0.47">
 
 First Name: Tatsuya
 

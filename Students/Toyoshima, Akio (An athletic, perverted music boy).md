@@ -1,6 +1,6 @@
 # Toyoshima, Akio (An athletic, perverted music boy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toyoshima%2C%20Akio%20(An%20athletic%2C%20perverted%20music%20boy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toyoshima%2C%20Akio%20(An%20athletic%2C%20perverted%20music%20boy).png" title="Toyoshima, Akio (An athletic, perverted music boy) - Bubger Kirg, V0.47">
 
 First Name: Akio
 

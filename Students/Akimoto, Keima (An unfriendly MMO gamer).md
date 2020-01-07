@@ -1,6 +1,6 @@
 # Akimoto, Keima (An unfriendly MMO gamer)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akimoto%2C%20Keima%20(An%20unfriendly%20MMO%20gamer).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akimoto%2C%20Keima%20(An%20unfriendly%20MMO%20gamer).png" title="Akimoto, Keima (An unfriendly MMO gamer) - AjTheYandere, V0.47">
 
 First Name: Keima
 

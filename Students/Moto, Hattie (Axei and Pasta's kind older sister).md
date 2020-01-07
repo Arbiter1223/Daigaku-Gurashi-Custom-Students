@@ -1,6 +1,6 @@
 # Moto, Hattie (Axei and Pasta's kind older sister)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Moto%2C%20Hattie%20(Axei%20and%20Pasta's%20kind%20older%20sister).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Moto%2C%20Hattie%20(Axei%20and%20Pasta's%20kind%20older%20sister).png" title="Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.47">
 
 First Name: Hattie
 

@@ -1,6 +1,6 @@
 # Saitoh, Murasaki (Michio's athletic occultist twin)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saitoh%2C%20Murasaki%20(Michio's%20athletic%20occultist%20twin).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saitoh%2C%20Murasaki%20(Michio's%20athletic%20occultist%20twin).png" title="Saitoh, Murasaki (Michio's athletic occultist twin) - Aho-chan, V0.47">
 
 First Name: Murasaki
 

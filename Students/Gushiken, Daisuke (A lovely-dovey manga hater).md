@@ -1,6 +1,6 @@
 # Gushiken, Daisuke (A lovely-dovey manga hater)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gushiken%2C%20Daisuke%20(A%20lovely-dovey%20manga%20hater).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gushiken%2C%20Daisuke%20(A%20lovely-dovey%20manga%20hater).png" title="Gushiken, Daisuke (A lovely-dovey manga hater) - AjTheYandere, V0.47">
 
 First Name: Daisuke
 

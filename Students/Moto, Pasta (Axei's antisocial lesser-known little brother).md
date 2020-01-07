@@ -1,6 +1,6 @@
 # Moto, Pasta (Axei's antisocial lesser-known little brother)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Moto%2C%20Pasta%20(Axei's%20antisocial%20lesser-known%20little%20brother).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Moto%2C%20Pasta%20(Axei's%20antisocial%20lesser-known%20little%20brother).png" title="Moto, Pasta (Axei's antisocial lesser-known little brother) - BenPupKao, V0.47">
 
 First Name: Pasta
 

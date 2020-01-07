@@ -1,6 +1,6 @@
 # Tsukade, Masaru (A yandere gamer)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsukade%2C%20Masaru%20(A%20yandere%20gamer).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsukade%2C%20Masaru%20(A%20yandere%20gamer).png" title="Tsukade, Masaru (A yandere gamer) - Aho-chan, V0.47">
 
 First Name: Masaru
 

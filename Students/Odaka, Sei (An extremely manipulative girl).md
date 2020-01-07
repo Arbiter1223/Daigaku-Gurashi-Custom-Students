@@ -1,6 +1,6 @@
 # Odaka, Sei (An extremely manipulative girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Odaka%2C%20Sei%20(An%20extremely%20manipulative%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Odaka%2C%20Sei%20(An%20extremely%20manipulative%20girl).png" title="Odaka, Sei (An extremely manipulative girl) - Nyanako, V0.47">
 
 First Name: Sei
 

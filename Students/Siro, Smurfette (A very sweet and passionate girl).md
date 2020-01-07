@@ -1,6 +1,6 @@
 # Siro, Smurfette (A very sweet and passionate girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Siro%2C%20Smurfette%20(A%20very%20sweet%20and%20passionate%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Siro%2C%20Smurfette%20(A%20very%20sweet%20and%20passionate%20girl).png" title="Siro, Smurfette (A very sweet and passionate girl) - Shiny, V0.47">
 
 First Name: Smurfette
 

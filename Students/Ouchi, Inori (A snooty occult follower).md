@@ -1,6 +1,6 @@
 # Ouchi, Inori (A snooty occult follower)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ouchi%2C%20Inori%20(A%20snooty%20occult%20follower).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ouchi%2C%20Inori%20(A%20snooty%20occult%20follower).png" title="Ouchi, Inori (A snooty occult follower) - AjTheYandere, V0.47">
 
 First Name: Inori
 

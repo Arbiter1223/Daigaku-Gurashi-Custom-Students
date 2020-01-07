@@ -1,6 +1,6 @@
 # Kenkyusha, Machigai (An antisocial gamer hater)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kenkyusha%2C%20Machigai%20(An%20antisocial%20gamer%20hater).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kenkyusha%2C%20Machigai%20(An%20antisocial%20gamer%20hater).png" title="Kenkyusha, Machigai (An antisocial gamer hater) - BenPupKao, V0.47">
 
 First Name: Machigai
 

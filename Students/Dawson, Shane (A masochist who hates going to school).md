@@ -1,6 +1,6 @@
 # Dawson, Shane (A masochist who hates going to school)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dawson%2C%20Shane%20(A%20masochist%20who%20hates%20going%20to%20school).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dawson%2C%20Shane%20(A%20masochist%20who%20hates%20going%20to%20school).png" title="Dawson, Shane (A masochist who hates going to school) - Galaxy gurl, V0.47">
 
 First Name: Shane
 

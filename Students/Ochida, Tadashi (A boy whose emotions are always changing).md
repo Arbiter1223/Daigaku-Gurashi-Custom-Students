@@ -1,6 +1,6 @@
 # Ochida, Tadashi (A boy whose emotions are always changing)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ochida%2C%20Tadashi%20(A%20boy%20whose%20emotions%20are%20always%20changing).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ochida%2C%20Tadashi%20(A%20boy%20whose%20emotions%20are%20always%20changing).png" title="Ochida, Tadashi (A boy whose emotions are always changing) - AjTheYandere, V0.47">
 
 First Name: Tadashi
 

@@ -1,6 +1,6 @@
 # Ito, Nei (A shy, slightly depressed schoolgirl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ito%2C%20Nei%20(A%20shy%2C%20slightly%20depressed%20schoolgirl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ito%2C%20Nei%20(A%20shy%2C%20slightly%20depressed%20schoolgirl).png" title="Ito, Nei (A shy, slightly depressed schoolgirl) - AjTheYandere, V0.47">
 
 First Name: Nei
 

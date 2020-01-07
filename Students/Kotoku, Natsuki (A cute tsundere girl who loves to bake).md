@@ -1,6 +1,6 @@
 # Kotoku, Natsuki (A cute tsundere girl who loves to bake)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kotoku%2C%20Natsuki%20(A%20cute%20tsundere%20girl%20who%20loves%20to%20bake).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kotoku%2C%20Natsuki%20(A%20cute%20tsundere%20girl%20who%20loves%20to%20bake).png" title="Kotoku, Natsuki (A cute tsundere girl who loves to bake) - Aho-chan, V0.47">
 
 First Name: Natsuki
 

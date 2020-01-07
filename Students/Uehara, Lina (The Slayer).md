@@ -1,6 +1,6 @@
 # Uehara, Lina (The Slayer)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uehara%2C%20Lina%20(The%20Slayer).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uehara%2C%20Lina%20(The%20Slayer).png" title="Uehara, Lina (The Slayer) - Aho-chan, V0.47">
 
 First Name: Lina
 

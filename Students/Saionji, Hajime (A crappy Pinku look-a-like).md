@@ -1,6 +1,6 @@
 # Saionji, Hajime (A crappy Pinku look-a-like)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saionji%2C%20Hajime%20(A%20crappy%20Pinku%20look-a-like).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saionji%2C%20Hajime%20(A%20crappy%20Pinku%20look-a-like).png" title="Saionji, Hajime (A crappy Pinku look-a-like) - Cookie Boi, V0.47">
 
 First Name: Hajime
 

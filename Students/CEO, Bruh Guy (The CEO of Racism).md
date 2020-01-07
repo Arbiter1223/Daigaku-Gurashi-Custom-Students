@@ -1,6 +1,6 @@
 # CEO, Bruh Guy (The CEO of Racism)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/CEO%2C%20Bruh%20Guy%20(The%20CEO%20of%20Racism).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/CEO%2C%20Bruh%20Guy%20(The%20CEO%20of%20Racism).png" title="CEO, Bruh Guy (The CEO of Racism) - Toast, V0.47">
 
 First Name: Bruh Guy
 

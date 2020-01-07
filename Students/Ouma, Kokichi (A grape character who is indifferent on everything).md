@@ -1,6 +1,6 @@
 # Ouma, Kokichi (A grape character who is indifferent on everything)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ouma%2C%20Kokichi%20(A%20grape%20character%20who%20is%20indifferent%20on%20everything).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ouma%2C%20Kokichi%20(A%20grape%20character%20who%20is%20indifferent%20on%20everything).png" title="Ouma, Kokichi (A grape character who is indifferent on everything) - AjTheYandere, V0.47">
 
 First Name: Kokichi
 

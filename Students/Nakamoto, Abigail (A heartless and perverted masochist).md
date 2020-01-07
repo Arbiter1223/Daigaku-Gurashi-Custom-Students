@@ -1,6 +1,6 @@
 # Nakamoto, Abigail (A heartless and perverted masochist)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakamoto%2C%20Abigail%20(A%20heartless%20and%20perverted%20masochist).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakamoto%2C%20Abigail%20(A%20heartless%20and%20perverted%20masochist).png" title="Nakamoto, Abigail (A heartless and perverted masochist) - Terminal, V0.47">
 
 First Name: Abigail
 

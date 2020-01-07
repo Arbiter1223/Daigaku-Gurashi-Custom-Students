@@ -1,6 +1,6 @@
 # Egbert, John (A sweet and modest guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Egbert%2C%20John%20(A%20sweet%20and%20modest%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Egbert%2C%20John%20(A%20sweet%20and%20modest%20guy).png" title="Egbert, John (A sweet and modest guy) - Camden, V0.47">
 
 First Name: John
 

@@ -1,6 +1,6 @@
 # Fyukishima, Yuto (A precious goat man)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fyukishima%2C%20Yuto%20(A%20precious%20goat%20man).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fyukishima%2C%20Yuto%20(A%20precious%20goat%20man).png" title="Fyukishima, Yuto (A precious goat man) - screaming kiwi, V0.47">
 
 First Name: Yuto
 

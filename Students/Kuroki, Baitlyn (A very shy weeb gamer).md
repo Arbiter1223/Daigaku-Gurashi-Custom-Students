@@ -1,6 +1,6 @@
 # Kuroki, Baitlyn (A very shy weeb gamer)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kuroki%2C%20Baitlyn%20(A%20very%20shy%20weeb%20gamer).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kuroki%2C%20Baitlyn%20(A%20very%20shy%20weeb%20gamer).png" title="Kuroki, Baitlyn (A very shy weeb gamer) - Baitlyn, V0.47">
 
 First Name: Baitlyn
 

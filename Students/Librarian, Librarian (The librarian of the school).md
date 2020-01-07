@@ -1,6 +1,6 @@
 # Librarian, Librarian (The librarian of the school)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Librarian%2C%20Librarian%20(The%20librarian%20of%20the%20school).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Librarian%2C%20Librarian%20(The%20librarian%20of%20the%20school).png" title="Librarian, Librarian (The librarian of the school) - AjTheYandere, V0.47">
 
 First Name: Librarian
 

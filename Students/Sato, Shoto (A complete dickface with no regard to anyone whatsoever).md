@@ -1,6 +1,6 @@
 # Sato, Shoto (A complete dickface with no regard to anyone whatsoever)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sato%2C%20Shoto%20(A%20complete%20dickface%20with%20no%20regard%20to%20anyone%20whatsoever).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sato%2C%20Shoto%20(A%20complete%20dickface%20with%20no%20regard%20to%20anyone%20whatsoever).png" title="Sato, Shoto (A complete dickface with no regard to anyone whatsoever) - kami, V0.47">
 
 First Name: Shoto
 

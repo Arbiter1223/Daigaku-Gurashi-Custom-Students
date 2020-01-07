@@ -1,6 +1,6 @@
 # Kishi, Lyralei (The Windranger)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kishi%2C%20Lyralei%20(The%20Windranger).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kishi%2C%20Lyralei%20(The%20Windranger).png" title="Kishi, Lyralei (The Windranger) - Aho-chan, V0.47">
 
 First Name: Lyralei
 

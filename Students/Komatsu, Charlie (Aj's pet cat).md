@@ -1,6 +1,6 @@
 # Komatsu, Charlie (Aj's pet cat)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Komatsu%2C%20Charlie%20(Aj's%20pet%20cat).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Komatsu%2C%20Charlie%20(Aj's%20pet%20cat).png" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.47">
 
 First Name: Charlie
 

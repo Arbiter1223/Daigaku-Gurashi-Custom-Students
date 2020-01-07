@@ -1,6 +1,6 @@
 # Shimedzu, Chiharu (A sweet but timid anime girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimedzu%2C%20Chiharu%20(A%20sweet%20but%20timid%20anime%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimedzu%2C%20Chiharu%20(A%20sweet%20but%20timid%20anime%20girl).png" title="Shimedzu, Chiharu (A sweet but timid anime girl) - AjTheYandere, V0.47">
 
 First Name: Chiharu
 

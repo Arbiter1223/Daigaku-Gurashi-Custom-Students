@@ -1,6 +1,6 @@
 # Higa, Satoru (A guy who talks more than he acts)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Higa%2C%20Satoru%20(A%20guy%20who%20talks%20more%20than%20he%20acts).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Higa%2C%20Satoru%20(A%20guy%20who%20talks%20more%20than%20he%20acts).png" title="Higa, Satoru (A guy who talks more than he acts) - AjTheYandere, V0.47">
 
 First Name: Satoru
 

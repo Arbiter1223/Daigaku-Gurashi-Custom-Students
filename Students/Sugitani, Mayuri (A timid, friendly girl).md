@@ -1,6 +1,6 @@
 # Sugitani, Mayuri (A timid, friendly girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sugitani%2C%20Mayuri%20(A%20timid%2C%20friendly%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sugitani%2C%20Mayuri%20(A%20timid%2C%20friendly%20girl).png" title="Sugitani, Mayuri (A timid, friendly girl) - Antartix Pevori, V0.47">
 
 First Name: Mayuri
 

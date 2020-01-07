@@ -1,6 +1,6 @@
 # Hirose, Sae (A pretty average girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hirose%2C%20Sae%20(A%20pretty%20average%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hirose%2C%20Sae%20(A%20pretty%20average%20girl).png" title="Hirose, Sae (A pretty average girl) - CookieBoi, V0.47">
 
 First Name: Sae
 

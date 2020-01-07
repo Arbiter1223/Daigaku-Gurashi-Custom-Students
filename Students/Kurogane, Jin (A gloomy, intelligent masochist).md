@@ -1,6 +1,6 @@
 # Kurogane, Jin (A gloomy, intelligent masochist)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kurogane%2C%20Jin%20(A%20gloomy%2C%20intelligent%20masochist).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kurogane%2C%20Jin%20(A%20gloomy%2C%20intelligent%20masochist).png" title="Kurogane, Jin (A gloomy, intelligent masochist) - Cookie Boi, V0.47">
 
 First Name: Jin
 

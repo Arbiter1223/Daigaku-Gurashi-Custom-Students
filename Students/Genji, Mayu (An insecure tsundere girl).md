@@ -1,6 +1,6 @@
 # Genji, Mayu (An insecure tsundere girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Genji%2C%20Mayu%20(An%20insecure%20tsundere%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Genji%2C%20Mayu%20(An%20insecure%20tsundere%20girl).png" title="Genji, Mayu (An insecure tsundere girl) - AjTheYandere, V0.47">
 
 First Name: Mayu
 

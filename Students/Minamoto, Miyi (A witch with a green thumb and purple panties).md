@@ -1,6 +1,6 @@
 # Minamoto, Miyi (A witch with a green thumb and purple panties)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Minamoto%2C%20Miyi%20(A%20witch%20with%20a%20green%20thumb%20and%20purple%20panties).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Minamoto%2C%20Miyi%20(A%20witch%20with%20a%20green%20thumb%20and%20purple%20panties).png" title="Minamoto, Miyi (A witch with a green thumb and purple panties) - Grandma Kipali, V0.47">
 
 First Name: Miyi
 

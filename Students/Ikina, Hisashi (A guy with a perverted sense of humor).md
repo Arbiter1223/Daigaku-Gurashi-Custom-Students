@@ -1,6 +1,6 @@
 # Ikina, Hisashi (A guy with a perverted sense of humor)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ikina%2C%20Hisashi%20(A%20guy%20with%20a%20perverted%20sense%20of%20humor).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ikina%2C%20Hisashi%20(A%20guy%20with%20a%20perverted%20sense%20of%20humor).png" title="Ikina, Hisashi (A guy with a perverted sense of humor) - AjTheYandere, V0.47">
 
 First Name: Hisashi
 

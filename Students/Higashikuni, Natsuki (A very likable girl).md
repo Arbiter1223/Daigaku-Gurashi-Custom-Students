@@ -1,6 +1,6 @@
 # Higashikuni, Natsuki (A very likable girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Higashikuni%2C%20Natsuki%20(A%20very%20likable%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Higashikuni%2C%20Natsuki%20(A%20very%20likable%20girl).png" title="Higashikuni, Natsuki (A very likable girl) - Camden, V0.47">
 
 First Name: Natsuki
 

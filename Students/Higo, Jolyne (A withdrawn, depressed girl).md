@@ -1,6 +1,6 @@
 # Higo, Jolyne (A withdrawn, depressed girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Higo%2C%20Jolyne%20(A%20withdrawn%2C%20depressed%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Higo%2C%20Jolyne%20(A%20withdrawn%2C%20depressed%20girl).png" title="Higo, Jolyne (A withdrawn, depressed girl) - Rando Studenta, V0.47">
 
 First Name: Jolyne
 

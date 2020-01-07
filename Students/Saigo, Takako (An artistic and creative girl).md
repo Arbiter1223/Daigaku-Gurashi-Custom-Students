@@ -1,6 +1,6 @@
 # Saigo, Takako (An artistic and creative girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saigo%2C%20Takako%20(An%20artistic%20and%20creative%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saigo%2C%20Takako%20(An%20artistic%20and%20creative%20girl).png" title="Saigo, Takako (An artistic and creative girl) - AjTheYandere, V0.47">
 
 First Name: Takako
 

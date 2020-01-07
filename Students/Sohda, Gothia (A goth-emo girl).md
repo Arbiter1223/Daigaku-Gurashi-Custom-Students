@@ -1,6 +1,6 @@
 # Sohda, Gothia (A goth-emo girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sohda%2C%20Gothia%20(A%20goth-emo%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sohda%2C%20Gothia%20(A%20goth-emo%20girl).png" title="Sohda, Gothia (A goth-emo girl) - Azumi, V0.47">
 
 First Name: Gothia
 

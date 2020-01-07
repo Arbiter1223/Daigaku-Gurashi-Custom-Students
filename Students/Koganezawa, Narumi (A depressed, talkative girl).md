@@ -1,6 +1,6 @@
 # Koganezawa, Narumi (A depressed, talkative girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koganezawa%2C%20Narumi%20(A%20depressed%2C%20talkative%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koganezawa%2C%20Narumi%20(A%20depressed%2C%20talkative%20girl).png" title="Koganezawa, Narumi (A depressed, talkative girl) - Rando Studenta, V0.47">
 
 First Name: Narumi
 

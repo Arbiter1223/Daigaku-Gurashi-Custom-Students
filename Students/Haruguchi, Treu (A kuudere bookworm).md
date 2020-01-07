@@ -1,6 +1,6 @@
 # Haruguchi, Treu (A kuudere bookworm)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Haruguchi%2C%20Treu%20(A%20kuudere%20bookworm).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Haruguchi%2C%20Treu%20(A%20kuudere%20bookworm).png" title="Haruguchi, Treu (A kuudere bookworm) - Nightara, V0.47">
 
 First Name: Treu
 

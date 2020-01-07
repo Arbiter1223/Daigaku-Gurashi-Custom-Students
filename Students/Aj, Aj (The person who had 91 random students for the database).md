@@ -1,6 +1,6 @@
 # Aj, Aj (The person who had 91 random students for the database)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Aj%2C%20Aj%20(The%20person%20who%20had%2091%20random%20students%20for%20the%20database).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Aj%2C%20Aj%20(The%20person%20who%20had%2091%20random%20students%20for%20the%20database).png" title="Aj, Aj (The person who had 91 random students for the database) - AjTheYandere, V0.47">
 
 First Name: Aj
 

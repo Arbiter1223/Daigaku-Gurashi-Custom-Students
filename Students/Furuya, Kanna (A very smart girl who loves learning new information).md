@@ -1,6 +1,6 @@
 # Furuya, Kanna (A very smart girl who loves learning new information)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Furuya%2C%20Kanna%20(A%20very%20smart%20girl%20who%20loves%20learning%20new%20information).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Furuya%2C%20Kanna%20(A%20very%20smart%20girl%20who%20loves%20learning%20new%20information).png" title="Furuya, Kanna (A very smart girl who loves learning new information) - nightara, V0.47">
 
 First Name: Kanna
 

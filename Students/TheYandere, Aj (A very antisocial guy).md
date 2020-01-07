@@ -1,6 +1,6 @@
 # TheYandere, Aj (A very antisocial guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/TheYandere%2C%20Aj%20(A%20very%20antisocial%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/TheYandere%2C%20Aj%20(A%20very%20antisocial%20guy).png" title="TheYandere, Aj (A very antisocial guy) - AjTheYandere, V0.47">
 
 First Name: Aj
 

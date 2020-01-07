@@ -1,6 +1,6 @@
 # Izumi, Dick (A man who really likes to party)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Izumi%2C%20Dick%20(A%20man%20who%20really%20likes%20to%20party).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Izumi%2C%20Dick%20(A%20man%20who%20really%20likes%20to%20party).png" title="Izumi, Dick (A man who really likes to party) - Camden, V0.47">
 
 First Name: Dick
 

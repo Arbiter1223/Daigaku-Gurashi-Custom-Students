@@ -1,6 +1,6 @@
 # Mochizuki, Misaki (The leader of the Occult Club)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mochizuki%2C%20Misaki%20(The%20leader%20of%20the%20Occult%20Club).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mochizuki%2C%20Misaki%20(The%20leader%20of%20the%20Occult%20Club).png" title="Mochizuki, Misaki (The leader of the Occult Club) - Aho-chan, V0.47">
 
 First Name: Misaki
 

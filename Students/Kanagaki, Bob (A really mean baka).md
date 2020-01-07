@@ -1,6 +1,6 @@
 # Kanagaki, Bob (A really mean baka)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kanagaki%2C%20Bob%20(A%20really%20mean%20baka).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kanagaki%2C%20Bob%20(A%20really%20mean%20baka).png" title="Kanagaki, Bob (A really mean baka) - Shiny, V0.47">
 
 First Name: Bob
 

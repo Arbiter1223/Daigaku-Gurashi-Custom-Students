@@ -1,6 +1,6 @@
 # Sammich, Peanut (The oldest of the Sammich Sisters, a total bully)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sammich%2C%20Peanut%20(The%20oldest%20of%20the%20Sammich%20Sisters%2C%20a%20total%20bully).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sammich%2C%20Peanut%20(The%20oldest%20of%20the%20Sammich%20Sisters%2C%20a%20total%20bully).png" title="Sammich, Peanut (The oldest of the Sammich Sisters, a total bully) - AjTheYandere, V0.47">
 
 First Name: Peanut
 

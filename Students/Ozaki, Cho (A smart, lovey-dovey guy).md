@@ -1,6 +1,6 @@
 # Ozaki, Cho (A smart, lovey-dovey guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ozaki%2C%20Cho%20(A%20smart%2C%20lovey-dovey%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ozaki%2C%20Cho%20(A%20smart%2C%20lovey-dovey%20guy).png" title="Ozaki, Cho (A smart, lovey-dovey guy) - AjTheYandere, V0.47">
 
 First Name: Cho
 

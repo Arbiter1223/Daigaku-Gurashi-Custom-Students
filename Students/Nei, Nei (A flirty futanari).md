@@ -1,6 +1,6 @@
 # Nei, Nei (A flirty futanari)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nei%2C%20Nei%20(A%20flirty%20futanari).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nei%2C%20Nei%20(A%20flirty%20futanari).png" title="Nei, Nei (A flirty futanari) - Nei, V0.47">
 
 First Name: Nei
 

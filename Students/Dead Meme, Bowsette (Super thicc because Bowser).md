@@ -1,6 +1,6 @@
 # Dead Meme, Bowsette (Super thicc because Bowser)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dead%20Meme%2C%20Bowsette%20(Super%20thicc%20because%20Bowser).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dead%20Meme%2C%20Bowsette%20(Super%20thicc%20because%20Bowser).png" title="Dead Meme, Bowsette (Super thicc because Bowser) - AjTheYandere, V0.47">
 
 First Name: Bowsette
 

@@ -1,6 +1,6 @@
 # Nagashima, Eiko (A very smart person)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nagashima%2C%20Eiko%20(A%20very%20smart%20person).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nagashima%2C%20Eiko%20(A%20very%20smart%20person).png" title="Nagashima, Eiko (A very smart person) - Sky Zatsune, V0.47">
 
 First Name: Eiko
 

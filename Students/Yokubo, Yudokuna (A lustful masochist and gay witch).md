@@ -1,6 +1,6 @@
 # Yokubo, Yudokuna (A lustful masochist and gay witch)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yokubo%2C%20Yudokuna%20(A%20lustful%20masochist%20and%20gay%20witch).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yokubo%2C%20Yudokuna%20(A%20lustful%20masochist%20and%20gay%20witch).png" title="Yokubo, Yudokuna (A lustful masochist and gay witch) - Sivin pas, V0.47">
 
 First Name: Yudokuna
 

@@ -1,6 +1,6 @@
 # Oushima, Callie (A dirty-minded guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Oushima%2C%20Callie%20(A%20dirty-minded%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Oushima%2C%20Callie%20(A%20dirty-minded%20guy).png" title="Oushima, Callie (A dirty-minded guy) - BurntWaffles, V0.47">
 
 First Name: Callie
 

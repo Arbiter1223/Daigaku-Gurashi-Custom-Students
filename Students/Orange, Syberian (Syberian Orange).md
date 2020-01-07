@@ -1,6 +1,6 @@
 # Orange, Syberian (Syberian Orange)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Orange%2C%20Syberian%20(Syberian%20Orange).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Orange%2C%20Syberian%20(Syberian%20Orange).png" title="Orange, Syberian (Syberian Orange) - Syberian Orange, V0.47">
 
 First Name: Syberian
 

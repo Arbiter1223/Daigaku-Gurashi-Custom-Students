@@ -1,6 +1,6 @@
 # Maki, Maya (A kuudere ram-futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Maki%2C%20Maya%20(A%20kuudere%20ram-futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Maki%2C%20Maya%20(A%20kuudere%20ram-futa).png" title="Maki, Maya (A kuudere ram-futa) - Arbiter1223, V0.47">
 
 First Name: Maya
 

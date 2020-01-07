@@ -1,6 +1,6 @@
 # Masuo, Akasha (The Queen of Pain)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Masuo%2C%20Akasha%20(The%20Queen%20of%20Pain).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Masuo%2C%20Akasha%20(The%20Queen%20of%20Pain).png" title="Masuo, Akasha (The Queen of Pain) - Aho-chan, V0.47">
 
 First Name: Akasha
 

@@ -1,6 +1,6 @@
 # Fukayama, Latoria (An optimistic, proactive girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukayama%2C%20Latoria%20(An%20optimistic%2C%20proactive%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukayama%2C%20Latoria%20(An%20optimistic%2C%20proactive%20girl).png" title="Fukayama, Latoria (An optimistic, proactive girl) - Nyanako, V0.47">
 
 First Name: Latoria
 

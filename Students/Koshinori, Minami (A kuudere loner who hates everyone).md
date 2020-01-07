@@ -1,6 +1,6 @@
 # Koshinori, Minami (A kuudere loner who hates everyone)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koshinori%2C%20Minami%20(A%20kuudere%20loner%20who%20hates%20everyone).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koshinori%2C%20Minami%20(A%20kuudere%20loner%20who%20hates%20everyone).png" title="Koshinori, Minami (A kuudere loner who hates everyone) - kami, V0.47">
 
 First Name: Minami
 

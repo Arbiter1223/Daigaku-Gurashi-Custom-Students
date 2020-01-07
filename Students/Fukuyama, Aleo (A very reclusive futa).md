@@ -1,6 +1,6 @@
 # Fukuyama, Aleo (A very reclusive futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukuyama%2C%20Aleo%20(A%20very%20reclusive%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukuyama%2C%20Aleo%20(A%20very%20reclusive%20futa).png" title="Fukuyama, Aleo (A very reclusive futa) - BenPupKao, V0.47">
 
 First Name: Aleo
 

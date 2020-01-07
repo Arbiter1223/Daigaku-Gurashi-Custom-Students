@@ -1,6 +1,6 @@
 # Kawagichi, Kokoromo (An aggressive anime nerd)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawagichi%2C%20Kokoromo%20(An%20aggressive%20anime%20nerd).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawagichi%2C%20Kokoromo%20(An%20aggressive%20anime%20nerd).png" title="Kawagichi, Kokoromo (An aggressive anime nerd) - BenPupKao, V0.47">
 
 First Name: Kokoromo
 

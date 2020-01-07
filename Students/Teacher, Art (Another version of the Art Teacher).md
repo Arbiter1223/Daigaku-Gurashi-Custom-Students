@@ -1,6 +1,6 @@
 # Teacher, Art (Another version of the Art Teacher)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20Art%20(Another%20version%20of%20the%20Art%20Teacher).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20Art%20(Another%20version%20of%20the%20Art%20Teacher).png" title="Teacher, Art (Another version of the Art Teacher) - LowkeyHomo, V0.47">
 
 First Name: Art
 

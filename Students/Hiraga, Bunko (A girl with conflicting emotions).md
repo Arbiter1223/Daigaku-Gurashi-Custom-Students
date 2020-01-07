@@ -1,6 +1,6 @@
 # Hiraga, Bunko (A girl with conflicting emotions)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hiraga%2C%20Bunko%20(A%20girl%20with%20conflicting%20emotions).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hiraga%2C%20Bunko%20(A%20girl%20with%20conflicting%20emotions).png" title="Hiraga, Bunko (A girl with conflicting emotions) - AjTheYandere, V0.47">
 
 First Name: Bunko
 

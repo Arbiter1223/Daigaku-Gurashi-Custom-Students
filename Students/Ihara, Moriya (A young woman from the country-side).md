@@ -1,6 +1,6 @@
 # Ihara, Moriya (A young woman from the country-side)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ihara%2C%20Moriya%20(A%20young%20woman%20from%20the%20country-side).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ihara%2C%20Moriya%20(A%20young%20woman%20from%20the%20country-side).png" title="Ihara, Moriya (A young woman from the country-side) - Nyanako, V0.47">
 
 First Name: Moriya
 

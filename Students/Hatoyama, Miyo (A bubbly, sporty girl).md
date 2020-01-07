@@ -1,6 +1,6 @@
 # Hatoyama, Miyo (A bubbly, sporty girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hatoyama%2C%20Miyo%20(A%20bubbly%2C%20sporty%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hatoyama%2C%20Miyo%20(A%20bubbly%2C%20sporty%20girl).png" title="Hatoyama, Miyo (A bubbly, sporty girl) - Toast and Shifted, V0.47">
 
 First Name: Miyo
 

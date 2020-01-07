@@ -1,6 +1,6 @@
 # Yamaoka, Oriko (A shy gaming futa)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamaoka%2C%20Oriko%20(A%20shy%20gaming%20futa).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamaoka%2C%20Oriko%20(A%20shy%20gaming%20futa).png" title="Yamaoka, Oriko (A shy gaming futa) - BenPupKao, V0.47">
 
 First Name: Oriko
 

@@ -1,6 +1,6 @@
 # Suenami, Eruko (A petty, promiscuous young woman)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Suenami%2C%20Eruko%20(A%20petty%2C%20promiscuous%20young%20woman).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Suenami%2C%20Eruko%20(A%20petty%2C%20promiscuous%20young%20woman).png" title="Suenami, Eruko (A petty, promiscuous young woman) - Nyanako, V0.47">
 
 First Name: Eruko
 

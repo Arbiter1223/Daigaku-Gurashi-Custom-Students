@@ -1,6 +1,6 @@
 # Endoso, Lavish (A kindhearted, confident yet stupid trap)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Endoso%2C%20Lavish%20(A%20kindhearted%2C%20confident%20yet%20stupid%20trap).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Endoso%2C%20Lavish%20(A%20kindhearted%2C%20confident%20yet%20stupid%20trap).png" title="Endoso, Lavish (A kindhearted, confident yet stupid trap) - Azumi, V0.47">
 
 First Name: Lavish
 

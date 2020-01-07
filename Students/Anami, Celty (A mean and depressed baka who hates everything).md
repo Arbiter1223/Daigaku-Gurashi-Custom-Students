@@ -1,6 +1,6 @@
 # Anami, Celty (A mean and depressed baka who hates everything)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Anami%2C%20Celty%20(A%20mean%20and%20depressed%20baka%20who%20hates%20everything).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Anami%2C%20Celty%20(A%20mean%20and%20depressed%20baka%20who%20hates%20everything).png" title="Anami, Celty (A mean and depressed baka who hates everything) - sansrika, V0.47">
 
 First Name: Celty
 

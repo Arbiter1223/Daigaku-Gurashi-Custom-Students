@@ -1,6 +1,6 @@
 # Sakura, Kyoko (A serious but humorous girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sakura%2C%20Kyoko%20(A%20serious%20but%20humorous%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sakura%2C%20Kyoko%20(A%20serious%20but%20humorous%20girl).png" title="Sakura, Kyoko (A serious but humorous girl) - Cookie Boi, V0.47">
 
 First Name: Kyoko
 

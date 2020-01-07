@@ -1,6 +1,6 @@
 # Fujikage, Lanaya (The Templar Assassin)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fujikage%2C%20Lanaya%20(The%20Templar%20Assassin).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fujikage%2C%20Lanaya%20(The%20Templar%20Assassin).png" title="Fujikage, Lanaya (The Templar Assassin) - Aho-chan, V0.47">
 
 First Name: Lanaya
 

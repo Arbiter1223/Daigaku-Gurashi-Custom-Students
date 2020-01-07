@@ -1,6 +1,6 @@
 # Arihyoshi, Uro (A self-insert who wants to eat Jenny's ass)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Arihyoshi%2C%20Uro%20(A%20self-insert%20who%20wants%20to%20eat%20Jenny's%20ass).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Arihyoshi%2C%20Uro%20(A%20self-insert%20who%20wants%20to%20eat%20Jenny's%20ass).png" title="Arihyoshi, Uro (A self-insert who wants to eat Jenny's ass) - sansrika, V0.47">
 
 First Name: Uro
 

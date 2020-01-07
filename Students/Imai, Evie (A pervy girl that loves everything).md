@@ -1,6 +1,6 @@
 # Imai, Evie (A pervy girl that loves everything)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Imai%2C%20Evie%20(A%20pervy%20girl%20that%20loves%20everything).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Imai%2C%20Evie%20(A%20pervy%20girl%20that%20loves%20everything).png" title="Imai, Evie (A pervy girl that loves everything) - Galaxy gurl, V0.47">
 
 First Name: Evie
 

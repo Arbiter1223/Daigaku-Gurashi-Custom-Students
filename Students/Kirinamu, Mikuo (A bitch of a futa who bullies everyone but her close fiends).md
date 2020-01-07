@@ -1,6 +1,6 @@
 # Kirinamu, Mikuo (A bitch of a futa who bullies everyone but her close fiends)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kirinamu%2C%20Mikuo%20(A%20bitch%20of%20a%20futa%20who%20bullies%20everyone%20but%20her%20close%20fiends).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kirinamu%2C%20Mikuo%20(A%20bitch%20of%20a%20futa%20who%20bullies%20everyone%20but%20her%20close%20fiends).png" title="Kirinamu, Mikuo (A bitch of a futa who bullies everyone but her close fiends) - kami, V0.47">
 
 First Name: Mikuo
 

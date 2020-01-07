@@ -1,6 +1,6 @@
 # Kawashima, Kirei (An interesting, scholarly young woman)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawashima%2C%20Kirei%20(An%20interesting%2C%20scholarly%20young%20woman).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawashima%2C%20Kirei%20(An%20interesting%2C%20scholarly%20young%20woman).png" title="Kawashima, Kirei (An interesting, scholarly young woman) - Nyanako, V0.47">
 
 First Name: Kirei
 

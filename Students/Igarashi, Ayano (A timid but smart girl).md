@@ -1,6 +1,6 @@
 # Igarashi, Ayano (A timid but smart girl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Igarashi%2C%20Ayano%20(A%20timid%20but%20smart%20girl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Igarashi%2C%20Ayano%20(A%20timid%20but%20smart%20girl).png" title="Igarashi, Ayano (A timid but smart girl) - Cookie Boi, V0.47">
 
 First Name: Ayano
 

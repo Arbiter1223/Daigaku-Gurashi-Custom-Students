@@ -1,6 +1,6 @@
 # Kubota, Megan (Jasmine's tsundere best friend)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kubota%2C%20Megan%20(Jasmine's%20tsundere%20best%20friend).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kubota%2C%20Megan%20(Jasmine's%20tsundere%20best%20friend).png" title="Kubota, Megan (Jasmine's tsundere best friend) - AjTheYandere, V0.47">
 
 First Name: Megan
 

@@ -1,6 +1,6 @@
 # Tsukamoto, Natsu (A boy who loves manga)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsukamoto%2C%20Natsu%20(A%20boy%20who%20loves%20manga).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsukamoto%2C%20Natsu%20(A%20boy%20who%20loves%20manga).png" title="Tsukamoto, Natsu (A boy who loves manga) - Bubger Kirg, V0.47">
 
 First Name: Natsu
 

@@ -1,6 +1,6 @@
 # Squarepants, Spongebob (An opptimistic but somewhat annoying guy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Squarepants%2C%20Spongebob%20(An%20opptimistic%20but%20somewhat%20annoying%20guy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Squarepants%2C%20Spongebob%20(An%20opptimistic%20but%20somewhat%20annoying%20guy).png" title="Squarepants, Spongebob (An opptimistic but somewhat annoying guy) - Izzyox, V0.47">
 
 First Name: Spongebob
 

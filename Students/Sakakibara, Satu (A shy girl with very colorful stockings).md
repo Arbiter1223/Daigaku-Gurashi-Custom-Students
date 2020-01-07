@@ -1,6 +1,6 @@
 # Sakakibara, Satu (A shy girl with very colorful stockings)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sakakibara%2C%20Satu%20(A%20shy%20girl%20with%20very%20colorful%20stockings).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sakakibara%2C%20Satu%20(A%20shy%20girl%20with%20very%20colorful%20stockings).png" title="Sakakibara, Satu (A shy girl with very colorful stockings) - chalk_girl, V0.47">
 
 First Name: Satu
 

@@ -1,6 +1,6 @@
 # Saitoh, Michi (A gaming schoolworm, Michio's cousin)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saitoh%2C%20Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20cousin).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Saitoh%2C%20Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20cousin).png" title="Saitoh, Michi (A gaming schoolworm, Michio's cousin) - Aho-chan, V0.47">
 
 First Name: Michi
 

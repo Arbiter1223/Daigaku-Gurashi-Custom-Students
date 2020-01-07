@@ -1,6 +1,6 @@
 # Someya, Max (A gay, depressed and bullied boy)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Someya%2C%20Max%20(A%20gay%2C%20depressed%20and%20bullied%20boy).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Someya%2C%20Max%20(A%20gay%2C%20depressed%20and%20bullied%20boy).png" title="Someya, Max (A gay, depressed and bullied boy) - Galaxy gurl, V0.47">
 
 First Name: Max
 

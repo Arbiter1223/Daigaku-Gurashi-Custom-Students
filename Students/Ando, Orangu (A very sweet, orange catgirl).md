@@ -1,6 +1,6 @@
 # Ando, Orangu (A very sweet, orange catgirl)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ando%2C%20Orangu%20(A%20very%20sweet%2C%20orange%20catgirl).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ando%2C%20Orangu%20(A%20very%20sweet%2C%20orange%20catgirl).png" title="Ando, Orangu (A very sweet, orange catgirl) - Retsuko and Arbiter1223, V0.47">
 
 First Name: Orangu
 

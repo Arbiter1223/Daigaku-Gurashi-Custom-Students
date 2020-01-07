@@ -1,6 +1,6 @@
 # Breegull, Kazooie (A wisecracking, obnoxious, sassy, cheeky, tempered, egotistic loudmouth)
 
-<img src = "https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Breegull%2C%20Kazooie%20(A%20wisecracking%2C%20obnoxious%2C%20sassy%2C%20cheeky%2C%20tempered%2C%20egotistic%20loudmouth).png">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Breegull%2C%20Kazooie%20(A%20wisecracking%2C%20obnoxious%2C%20sassy%2C%20cheeky%2C%20tempered%2C%20egotistic%20loudmouth).png" title="Breegull, Kazooie (A wisecracking, obnoxious, sassy, cheeky, tempered, egotistic loudmouth) - Camden, V0.47">
 
 First Name: Kazooie
 
