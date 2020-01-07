@@ -380,7 +380,7 @@ Just like the game, the Custom Student Database is a major work in progress, so 
 
 <img src="Students/Files/Thumbs/Mitzusaka, Ayumi (A super dank mage).png" height="100" width="100"><a href="Students/Mitzusaka, Ayumi (A super dank mage).md"> Mitzusaka, Ayumi (A super dank mage) - Nyanako, V0.47</a>
 
-<img src="Students/Files/Thumbs/Iwasa, Gintoki (An extremely shy neko guy).png" height="100" width="100"><a href="Students/Iwasa, Gintoki (An extremely shy neko guy).md"> Iwasa, Gintoki (An extremely shy neko guy) - BenPupKao, V0.47</a>
+<img src="Students/Files/Thumbs/Iwasa, Gintoki (An extremely shy and depressed neko guy).png" height="100" width="100"><a href="Students/Iwasa, Gintoki (An extremely shy and depressed neko guy).md"> Iwasa, Gintoki (An extremely shy and depressed neko guy) - BenPupKao, V0.47</a>
 
 <img src="Students/Files/Thumbs/Takemura, Osana (A cute, modest tsundere).png" height="100" width="100"><a href="Students/Takemura, Osana (A cute, modest tsundere).md"> Takemura, Osana (A cute, modest tsundere) - Shadow, V0.47</a>
 

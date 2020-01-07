@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/6/2020 6:53:13 AM
+Last Modified: 1/7/2020 2:24:13 AM
 ------------------------------------------------------
 FirstName|Yuri|
 Female|True|
@@ -70,20 +70,20 @@ Description|A quiet, intelligent bookworm|
 Shirt_Colour|26|
 Shirt_Decal|6|
 Pants_Colour|31|
-WearDress%|73|
+WearDress%|20|
 Dress_Colour|18|
 Dress_Decal|20|
 Hygiene|10000|
-WearSchoolgirl%|0|
-Schoolgirl_Bow_Colour|1|
+WearSchoolgirl%|90|
+Schoolgirl_Bow_Colour|8|
 Schoolgirl_Collar_Colour|1|
-Schoolgirl_Cuffs_Colour|1|
-Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|1|
-Schoolgirl_Skirt_Line_Colour|1|
+Schoolgirl_Cuffs_Colour|11|
+Schoolgirl_Shirt_Colour|11|
+Schoolgirl_Skirt_Colour|26|
+Schoolgirl_Skirt_Line_Colour|26|
 Eyewear_Colour|1|
 Stress%|0|
-円|15000|
+円|30000|
 FixedSexuality|True|
 Accent_Kansai|False|
 Accent_Valleyspeak|False|
