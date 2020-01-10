@@ -1478,3 +1478,5 @@ Just like the game, the Custom Student Database is a work in progress, so bear t
 
 <a href="Students/Enoshima, Jiin (A stressed out but dedicated fashionista).md"><img src="Students/Files/Thumbs/Enoshima, Jiin (A stressed out but dedicated fashionista).png" height="100" width="100" title="Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47"></a><a href="Students/Enoshima, Jiin (A stressed out but dedicated fashionista).md"> Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47</a>
 
+<a href="Students/Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses).md"><img src="Students/Files/Thumbs/Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses).png" height="100" width="100" title="Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses) - yogima, V0.47"></a><a href="Students/Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses).md"> Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses) - yogima, V0.47</a>
+
