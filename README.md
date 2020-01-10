@@ -18,6 +18,18 @@ Just like the game, the Custom Student Database is a work in progress, so bear t
 
 --------
 
+### To-Do List
+
+* Finish adding images to all students (update master readme description afterwards)
+
+* Create banner for Custom Student Database
+
+* Add Database ID value to student information pages
+
+* Figure out system for siblings/related characters
+
+--------
+
 #### Click on a student to view their information. You can download their respective .student file from there.
 
 #### You can also search the database by using Ctrl+F.
