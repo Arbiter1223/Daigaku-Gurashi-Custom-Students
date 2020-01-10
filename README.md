@@ -28,6 +28,10 @@ Just like the game, the Custom Student Database is a work in progress, so bear t
 
 * Figure out system for siblings/related characters
 
+* Possibly add Additional Information section to student information pages?
+
+* Come up with better system for browsing/sorting/searching database
+
 --------
 
 #### Click on a student to view their information. You can download their respective .student file from there.
