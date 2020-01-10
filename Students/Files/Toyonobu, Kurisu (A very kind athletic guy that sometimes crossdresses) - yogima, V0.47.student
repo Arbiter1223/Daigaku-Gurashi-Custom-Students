@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/9/2020 7:40:21 PM
+Last Modified: 1/9/2020 8:10:45 PM
 ------------------------------------------------------
 FirstName|Kurisu|
 Female|False|
@@ -21,7 +21,7 @@ Family Name|Toyonobu|
 Snootiness|25|
 Gossips|0|
 Kindness|80|
-Confidence|46|
+Confidence|80|
 Intelligence|0|
 Dexterity|-50|
 Yandere|False|
@@ -31,7 +31,7 @@ LoveyDovey|31|
 ?|0|
 Masochist|False|
 HairTaste|0|
-Depression|39|
+Depression|30|
 LikesSchool|45|
 Athletic|785|
 LikesManga|90|
@@ -44,7 +44,7 @@ LikesHumour|0|
 LikesOccult|90|
 Alive|True|
 Kuudere|False|
-Loyal|False|
+Loyal|True|
 Voice|1|
 Lingo Great|20|
 Lingo Crappy|27|
@@ -62,7 +62,7 @@ ThighHigh Base|4|
 ThighHigh Extra|1|
 LowerBodySize|5|
 Voice Pitch|2|
-HeadAccessoryColour|0|0|0|0|
+HeadAccessoryColour|1|1|1|1|
 OppaiSize|0|
 Lingo Very|10|
 Author|yogima|
@@ -70,11 +70,11 @@ Description|A very kind athletic guy that sometimes crossdresses|
 Shirt_Colour|19|
 Shirt_Decal|3|
 Pants_Colour|2|
-WearDress%|0|
+WearDress%|25|
 Dress_Colour|22|
 Dress_Decal|7|
 Hygiene|10000|
-WearSchoolgirl%|20|
+WearSchoolgirl%|40|
 Schoolgirl_Bow_Colour|17|
 Schoolgirl_Collar_Colour|15|
 Schoolgirl_Cuffs_Colour|15|
