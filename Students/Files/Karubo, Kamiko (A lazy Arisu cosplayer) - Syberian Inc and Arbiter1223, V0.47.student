@@ -1,53 +1,53 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/10/2020 9:24:40 AM
+Last Modified: 1/10/2020 1:43:19 PM
 ------------------------------------------------------
-FirstName|Yami|
-Female|False|
-Penis|True|
-Hair|3|
-?|7|
-Ahoge|0|
-HairTails|0|
-HairPrimaryColour|1|
-HairSecondaryColour|1|
-Eyes|2|
-Mouth|4|
-Skin|4|
+FirstName|Kamiko|
+Female|True|
+Penis|False|
+Hair|0|
+?|6|
+Ahoge|5|
+HairTails|2|
+HairPrimaryColour|33|
+HairSecondaryColour|19|
+Eyes|17|
+Mouth|3|
+Skin|1|
 HeadAccessory|0|0|0|0|
-Eyewear|0|
-Pantsu|18|
+Eyewear|3|
+Pantsu|54|
 Sexual Preference|1|
-Family Name|Toast|
-Snootiness|75|
-Gossips|0|
-Kindness|40|
-Confidence|40|
-Intelligence|80|
-Dexterity|50|
+Family Name|Karubo|
+Snootiness|64|
+Gossips|27|
+Kindness|77|
+Confidence|90|
+Intelligence|-6|
+Dexterity|69|
 Yandere|False|
 RandomBodyLanguage|False|
-Tsundere|0|
-LoveyDovey|60|
+Tsundere|90|
+LoveyDovey|84|
 ?|0|
 Masochist|False|
-HairTaste|0|
-Depression|40|
-LikesSchool|-90|
-Athletic|0|
-LikesManga|45|
-LikesAnime|100|
-LikesBooks|0|
-LikesVideoGames|45|
-LikesMusic|0|
-Perverted|45|
-LikesHumour|45|
-LikesOccult|-45|
+HairTaste|4|
+Depression|6|
+LikesSchool|-1|
+Athletic|-852|
+LikesManga|-33|
+LikesAnime|-24|
+LikesBooks|13|
+LikesVideoGames|72|
+LikesMusic|86|
+Perverted|-20|
+LikesHumour|24|
+LikesOccult|-54|
 Alive|True|
 Kuudere|False|
 Loyal|True|
-Voice|1|
-Lingo Great|3|
-Lingo Crappy|25|
+Voice|0|
+Lingo Great|39|
+Lingo Crappy|2|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,23 +56,23 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|56|
+LingoLaugh|44|
 Energy|2000|
-ThighHigh Base|5|
-ThighHigh Extra|1|
+ThighHigh Base|23|
+ThighHigh Extra|0|
 LowerBodySize|2|
-Voice Pitch|2|
+Voice Pitch|3|
 HeadAccessoryColour|1|1|1|1|
-OppaiSize|0|
-Lingo Very|11|
-Author|Syberian Orange|
-Description|This BAKA made this game|
-Shirt_Colour|2|
-Shirt_Decal|4|
-Pants_Colour|22|
-WearDress%|100|
-Dress_Colour|2|
-Dress_Decal|1|
+OppaiSize|2|
+Lingo Very|14|
+Author|Syberian Inc and Arbiter1223|
+Description|A lazy Arisu cosplayer|
+Shirt_Colour|5|
+Shirt_Decal|5|
+Pants_Colour|29|
+WearDress%|70|
+Dress_Colour|5|
+Dress_Decal|19|
 Hygiene|10000|
 WearSchoolgirl%|0|
 Schoolgirl_Bow_Colour|1|
@@ -83,8 +83,8 @@ Schoolgirl_Skirt_Colour|1|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
-円|10000|
-FixedSexuality|True|
+円|40000|
+FixedSexuality|False|
 Accent_Kansai|False|
 Accent_Valleyspeak|False|
 Accent_Lisp|False|
@@ -95,5 +95,5 @@ Accent_FoulMouth|False|
 Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|
 Accent_Zombie|False|
-Age|22|
+Age|23|
 (╯°□°）╯You ruined it!! You killed the magic!!

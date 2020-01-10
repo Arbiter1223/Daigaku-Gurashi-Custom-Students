@@ -1,29 +1,29 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/10/2020 9:24:37 AM
+Last Modified: 1/10/2020 1:43:19 PM
 ------------------------------------------------------
-FirstName|The Fast|
-Female|False|
-Penis|True|
-Hair|1|
-?|2|
+FirstName|Taiyo|
+Female|True|
+Penis|False|
+Hair|5|
+?|1|
 Ahoge|0|
-HairTails|0|
-HairPrimaryColour|4|
-HairSecondaryColour|16|
-Eyes|46|
-Mouth|4|
-Skin|5|
+HairTails|1|
+HairPrimaryColour|12|
+HairSecondaryColour|1|
+Eyes|28|
+Mouth|2|
+Skin|3|
 HeadAccessory|6|6|6|6|
 Eyewear|0|
-Pantsu|21|
+Pantsu|10|
 Sexual Preference|0|
-Family Name|Dog|
-Snootiness|100|
-Gossips|0|
-Kindness|-100|
-Confidence|80|
-Intelligence|-80|
-Dexterity|50|
+Family Name|Yamagata|
+Snootiness|0|
+Gossips|100|
+Kindness|0|
+Confidence|100|
+Intelligence|0|
+Dexterity|-80|
 Yandere|False|
 RandomBodyLanguage|False|
 Tsundere|0|
@@ -32,22 +32,22 @@ LoveyDovey|0|
 Masochist|True|
 HairTaste|0|
 Depression|0|
-LikesSchool|45|
+LikesSchool|60|
 Athletic|1000|
-LikesManga|-90|
-LikesAnime|-90|
-LikesBooks|-90|
-LikesVideoGames|-90|
-LikesMusic|-90|
-Perverted|-90|
-LikesHumour|-90|
-LikesOccult|90|
+LikesManga|-100|
+LikesAnime|-100|
+LikesBooks|-100|
+LikesVideoGames|-100|
+LikesMusic|70|
+Perverted|80|
+LikesHumour|80|
+LikesOccult|-100|
 Alive|True|
 Kuudere|False|
 Loyal|False|
-Voice|1|
-Lingo Great|3|
-Lingo Crappy|21|
+Voice|0|
+Lingo Great|47|
+Lingo Crappy|3|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,23 +56,23 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|22|
+LingoLaugh|48|
 Energy|2000|
-ThighHigh Base|13|
-ThighHigh Extra|2|
+ThighHigh Base|32|
+ThighHigh Extra|0|
 LowerBodySize|1|
-Voice Pitch|0|
-HeadAccessoryColour|32|32|32|32|
-OppaiSize|0|
-Lingo Very|1|
-Author|Syberian Orange|
-Description|A very mean occult fanatic|
-Shirt_Colour|13|
-Shirt_Decal|3|
-Pants_Colour|13|
-WearDress%|25|
-Dress_Colour|13|
-Dress_Decal|2|
+Voice Pitch|2|
+HeadAccessoryColour|30|30|30|30|
+OppaiSize|5|
+Lingo Very|3|
+Author|Syberian Inc|
+Description|A popular judgemental pervert|
+Shirt_Colour|32|
+Shirt_Decal|4|
+Pants_Colour|12|
+WearDress%|50|
+Dress_Colour|12|
+Dress_Decal|16|
 Hygiene|10000|
 WearSchoolgirl%|0|
 Schoolgirl_Bow_Colour|1|
@@ -83,10 +83,10 @@ Schoolgirl_Skirt_Colour|1|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
-円|5000|
-FixedSexuality|False|
+円|45000|
+FixedSexuality|True|
 Accent_Kansai|False|
-Accent_Valleyspeak|False|
+Accent_Valleyspeak|True|
 Accent_Lisp|False|
 Accent_Hewwo|False|
 Accent_Actually|False|

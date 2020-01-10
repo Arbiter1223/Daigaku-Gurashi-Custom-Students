@@ -1,6 +1,6 @@
 # Taira, Kneesocks (A rather mean bookworm)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taira%2C%20Kneesocks%20(A%20rather%20mean%20bookworm).png" title="Taira, Kneesocks (A rather mean bookworm) - Syberian Orange, V0.47">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taira%2C%20Kneesocks%20(A%20rather%20mean%20bookworm).png" title="Taira, Kneesocks (A rather mean bookworm) - Syberian Inc, V0.47">
 
 First Name: Kneesocks
 
@@ -8,10 +8,10 @@ Last Name: Taira
 
 Description: A rather mean bookworm
 
-Author: Syberian Orange
+Author: Syberian Inc
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taira%2C%20Kneesocks%20(A%20rather%20mean%20bookworm)%20-%20Syberian%20Orange%2C%20V0.47.student">Taira, Kneesocks (A rather mean bookworm) - Syberian Orange, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taira%2C%20Kneesocks%20(A%20rather%20mean%20bookworm)%20-%20Syberian%20Inc%2C%20V0.47.student">Taira, Kneesocks (A rather mean bookworm) - Syberian Inc, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

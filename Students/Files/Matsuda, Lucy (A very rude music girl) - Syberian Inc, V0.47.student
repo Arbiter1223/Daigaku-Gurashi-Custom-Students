@@ -1,53 +1,53 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/10/2020 9:24:37 AM
+Last Modified: 1/10/2020 1:43:20 PM
 ------------------------------------------------------
-FirstName|Taiyo|
+FirstName|Lucy|
 Female|True|
 Penis|False|
-Hair|5|
-?|1|
+Hair|0|
+?|3|
 Ahoge|0|
 HairTails|1|
-HairPrimaryColour|12|
-HairSecondaryColour|1|
-Eyes|28|
-Mouth|2|
-Skin|3|
-HeadAccessory|6|6|6|6|
+HairPrimaryColour|6|
+HairSecondaryColour|5|
+Eyes|22|
+Mouth|5|
+Skin|4|
+HeadAccessory|2|2|2|2|
 Eyewear|0|
-Pantsu|10|
-Sexual Preference|0|
-Family Name|Yamagata|
-Snootiness|0|
-Gossips|100|
-Kindness|0|
-Confidence|100|
-Intelligence|0|
-Dexterity|-80|
+Pantsu|52|
+Sexual Preference|-1|
+Family Name|Matsuda|
+Snootiness|50|
+Gossips|0|
+Kindness|-80|
+Confidence|40|
+Intelligence|80|
+Dexterity|50|
 Yandere|False|
 RandomBodyLanguage|False|
 Tsundere|0|
-LoveyDovey|0|
+LoveyDovey|60|
 ?|0|
 Masochist|True|
 HairTaste|0|
-Depression|0|
-LikesSchool|60|
-Athletic|1000|
-LikesManga|-100|
-LikesAnime|-100|
-LikesBooks|-100|
-LikesVideoGames|-100|
-LikesMusic|70|
-Perverted|80|
-LikesHumour|80|
-LikesOccult|-100|
+Depression|20|
+LikesSchool|0|
+Athletic|850|
+LikesManga|0|
+LikesAnime|0|
+LikesBooks|0|
+LikesVideoGames|0|
+LikesMusic|90|
+Perverted|0|
+LikesHumour|0|
+LikesOccult|45|
 Alive|True|
 Kuudere|False|
 Loyal|False|
 Voice|0|
-Lingo Great|47|
-Lingo Crappy|3|
+Lingo Great|59|
+Lingo Crappy|26|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,23 +56,23 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|48|
+LingoLaugh|28|
 Energy|2000|
-ThighHigh Base|32|
+ThighHigh Base|22|
 ThighHigh Extra|0|
-LowerBodySize|1|
-Voice Pitch|2|
-HeadAccessoryColour|30|30|30|30|
-OppaiSize|5|
-Lingo Very|3|
-Author|Syberian Orange|
-Description|A popular judgemental pervert|
-Shirt_Colour|32|
-Shirt_Decal|4|
-Pants_Colour|12|
-WearDress%|50|
-Dress_Colour|12|
-Dress_Decal|16|
+LowerBodySize|2|
+Voice Pitch|4|
+HeadAccessoryColour|3|3|3|3|
+OppaiSize|4|
+Lingo Very|6|
+Author|Syberian Inc|
+Description|A very rude music girl|
+Shirt_Colour|3|
+Shirt_Decal|13|
+Pants_Colour|16|
+WearDress%|98|
+Dress_Colour|8|
+Dress_Decal|18|
 Hygiene|10000|
 WearSchoolgirl%|0|
 Schoolgirl_Bow_Colour|1|
@@ -83,17 +83,17 @@ Schoolgirl_Skirt_Colour|1|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
-円|45000|
+円|30000|
 FixedSexuality|True|
 Accent_Kansai|False|
-Accent_Valleyspeak|True|
+Accent_Valleyspeak|False|
 Accent_Lisp|False|
 Accent_Hewwo|False|
 Accent_Actually|False|
-Accent_Nyaccent|False|
+Accent_Nyaccent|True|
 Accent_FoulMouth|False|
 Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|
 Accent_Zombie|False|
-Age|20|
+Age|22|
 (╯°□°）╯You ruined it!! You killed the magic!!

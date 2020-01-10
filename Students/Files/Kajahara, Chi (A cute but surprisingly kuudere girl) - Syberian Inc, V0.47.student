@@ -1,53 +1,53 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/10/2020 9:24:37 AM
+Last Modified: 1/10/2020 1:43:19 PM
 ------------------------------------------------------
-FirstName|Lucy|
+FirstName|Chi|
 Female|True|
 Penis|False|
-Hair|0|
-?|3|
-Ahoge|0|
-HairTails|1|
-HairPrimaryColour|6|
-HairSecondaryColour|5|
-Eyes|22|
-Mouth|5|
-Skin|4|
-HeadAccessory|2|2|2|2|
+Hair|4|
+?|1|
+Ahoge|2|
+HairTails|2|
+HairPrimaryColour|18|
+HairSecondaryColour|18|
+Eyes|41|
+Mouth|4|
+Skin|1|
+HeadAccessory|0|0|0|0|
 Eyewear|0|
-Pantsu|52|
-Sexual Preference|-1|
-Family Name|Matsuda|
-Snootiness|50|
-Gossips|0|
-Kindness|-80|
-Confidence|40|
-Intelligence|80|
-Dexterity|50|
+Pantsu|53|
+Sexual Preference|1|
+Family Name|Kajahara|
+Snootiness|99|
+Gossips|85|
+Kindness|99|
+Confidence|-82|
+Intelligence|-13|
+Dexterity|73|
 Yandere|False|
 RandomBodyLanguage|False|
-Tsundere|0|
-LoveyDovey|60|
+Tsundere|56|
+LoveyDovey|66|
 ?|0|
-Masochist|True|
-HairTaste|0|
-Depression|20|
-LikesSchool|0|
-Athletic|850|
-LikesManga|0|
-LikesAnime|0|
-LikesBooks|0|
-LikesVideoGames|0|
-LikesMusic|90|
-Perverted|0|
-LikesHumour|0|
-LikesOccult|45|
+Masochist|False|
+HairTaste|5|
+Depression|0|
+LikesSchool|-11|
+Athletic|-400|
+LikesManga|1|
+LikesAnime|73|
+LikesBooks|-49|
+LikesVideoGames|41|
+LikesMusic|71|
+Perverted|84|
+LikesHumour|82|
+LikesOccult|-21|
 Alive|True|
-Kuudere|False|
-Loyal|False|
-Voice|0|
-Lingo Great|59|
-Lingo Crappy|26|
+Kuudere|True|
+Loyal|True|
+Voice|2|
+Lingo Great|46|
+Lingo Crappy|8|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,23 +56,23 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|28|
+LingoLaugh|27|
 Energy|2000|
-ThighHigh Base|22|
+ThighHigh Base|3|
 ThighHigh Extra|0|
 LowerBodySize|2|
 Voice Pitch|4|
-HeadAccessoryColour|3|3|3|3|
+HeadAccessoryColour|0|0|0|0|
 OppaiSize|4|
-Lingo Very|6|
-Author|Syberian Orange|
-Description|A very rude music girl|
-Shirt_Colour|3|
+Lingo Very|16|
+Author|Syberian Inc|
+Description|A cute but surprisingly kuudere girl|
+Shirt_Colour|6|
 Shirt_Decal|13|
-Pants_Colour|16|
-WearDress%|98|
-Dress_Colour|8|
-Dress_Decal|18|
+Pants_Colour|26|
+WearDress%|31|
+Dress_Colour|6|
+Dress_Decal|14|
 Hygiene|10000|
 WearSchoolgirl%|0|
 Schoolgirl_Bow_Colour|1|
@@ -84,16 +84,16 @@ Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
 円|30000|
-FixedSexuality|True|
+FixedSexuality|False|
 Accent_Kansai|False|
 Accent_Valleyspeak|False|
 Accent_Lisp|False|
 Accent_Hewwo|False|
 Accent_Actually|False|
-Accent_Nyaccent|True|
+Accent_Nyaccent|False|
 Accent_FoulMouth|False|
 Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|
 Accent_Zombie|False|
-Age|22|
+Age|20|
 (╯°□°）╯You ruined it!! You killed the magic!!
