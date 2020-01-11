@@ -1,6 +1,4 @@
-# -+=<|Daigaku Gurashi Custom Student Database|>=+-
-
-<a href="https://www.patreon.com/YamiToastDev"><img src="https://cdn.discordapp.com/attachments/430213415663960084/510167658315120641/PatreonBanner4.png" title="Click here to go to the Daigaku Gurashi Patreon and download page!"></a>
+<img src="Banner.png" title="Welcome to the Daigaku Gurashi Custom Student Database!">
 
 ## Welcome to the Daigaku Gurashi Custom Student Database!
 
@@ -16,9 +14,13 @@ Just like the game, the Custom Student Database is a work in progress, so bear t
 
 --------
 
-### To-Do List
+If you haven't done so already, go check out the game Daigaku Gurashi! Click the banner below to go to the Patreon page.
 
-* Create banner for Custom Student Database
+<a href="https://www.patreon.com/YamiToastDev"><img src="https://cdn.discordapp.com/attachments/430213415663960084/510167658315120641/PatreonBanner4.png" title="Click here to go to the Daigaku Gurashi Patreon and download page!"></a>
+
+--------
+
+### To-Do List
 
 * Add Database ID value to student information pages
 
