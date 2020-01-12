@@ -1498,3 +1498,5 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 <a href="Students/Fart, Old (A creepy old man who tries to lewd younger girls at the school).md"><img src="Students/Files/Thumbs/Fart, Old (A creepy old man who tries to lewd younger girls at the school).png" height="100" width="100" title="Fart, Old (A creepy old man who tries to lewd younger girls at the school) - Astro, V0.47"></a><a href="Students/Fart, Old (A creepy old man who tries to lewd younger girls at the school).md"> Fart, Old (A creepy old man who tries to lewd younger girls at the school) - Astro, V0.47</a>
 
+<a href="Students/Shibata, Shoma (A revanent who still remains happy and carefree).md"><img src="Students/Files/Thumbs/Shibata, Shoma (A revanent who still remains happy and carefree).png" height="100" width="100" title="Shibata, Shoma (A revanent who still remains happy and carefree) - Midnight Kitsune, V0.47"></a><a href="Students/Shibata, Shoma (A revanent who still remains happy and carefree).md"> Shibata, Shoma (A revanent who still remains happy and carefree) - Midnight Kitsune, V0.47</a>
+
