@@ -30,6 +30,8 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 * Come up with better system for browsing/sorting/searching database
 
+* Maybe add my profile picture next to my 'signature'?
+
 --------
 
 #### Click on a student to view their information. You can download their respective .student file from there.
@@ -1493,4 +1495,6 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 <a href="Students/Enoshima, Jiin (A stressed out but dedicated fashionista).md"><img src="Students/Files/Thumbs/Enoshima, Jiin (A stressed out but dedicated fashionista).png" height="100" width="100" title="Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47"></a><a href="Students/Enoshima, Jiin (A stressed out but dedicated fashionista).md"> Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47</a>
 
 <a href="Students/Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses).md"><img src="Students/Files/Thumbs/Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses).png" height="100" width="100" title="Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses) - yogima, V0.47"></a><a href="Students/Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses).md"> Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses) - yogima, V0.47</a>
+
+<a href="Students/Fart, Old (A creepy old man who tries to lewd younger girls at the school).md"><img src="Students/Files/Thumbs/Fart, Old (A creepy old man who tries to lewd younger girls at the school).png" height="100" width="100" title="Fart, Old (A creepy old man who tries to lewd younger girls at the school) - Astro, V0.47"></a><a href="Students/Fart, Old (A creepy old man who tries to lewd younger girls at the school).md"> Fart, Old (A creepy old man who tries to lewd younger girls at the school) - Astro, V0.47</a>
 
