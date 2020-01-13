@@ -1,53 +1,53 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/10/2020 6:40:32 PM
+Last Modified: 1/12/2020 8:32:56 PM
 ------------------------------------------------------
-FirstName|Megami|
-Female|True|
-Penis|False|
-Hair|2|
-?|7|
+FirstName|Taro|
+Female|False|
+Penis|True|
+Hair|10|
+?|3|
 Ahoge|0|
 HairTails|0|
-HairPrimaryColour|24|
-HairSecondaryColour|24|
-Eyes|16|
+HairPrimaryColour|4|
+HairSecondaryColour|4|
+Eyes|36|
 Mouth|1|
 Skin|1|
 HeadAccessory|0|0|0|0|
 Eyewear|0|
-Pantsu|24|
+Pantsu|4|
 Sexual Preference|0|
-Family Name|Kamioka|
+Family Name|Yamada|
 Snootiness|50|
 Gossips|0|
 Kindness|40|
-Confidence|80|
-Intelligence|80|
-Dexterity|50|
+Confidence|40|
+Intelligence|0|
+Dexterity|0|
 Yandere|False|
 RandomBodyLanguage|False|
 Tsundere|0|
-LoveyDovey|30|
+LoveyDovey|0|
 ?|0|
 Masochist|False|
 HairTaste|0|
 Depression|0|
-LikesSchool|45|
-Athletic|850|
+LikesSchool|0|
+Athletic|0|
 LikesManga|45|
 LikesAnime|45|
-LikesBooks|45|
+LikesBooks|90|
 LikesVideoGames|45|
-LikesMusic|45|
+LikesMusic|0|
 Perverted|-90|
-LikesHumour|0|
+LikesHumour|45|
 LikesOccult|0|
 Alive|True|
 Kuudere|False|
 Loyal|False|
-Voice|2|
-Lingo Great|0|
-Lingo Crappy|0|
+Voice|1|
+Lingo Great|2|
+Lingo Crappy|2|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,34 +56,34 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|26|
+LingoLaugh|38|
 Energy|2000|
-ThighHigh Base|4|
+ThighHigh Base|1|
 ThighHigh Extra|0|
-LowerBodySize|0|
+LowerBodySize|2|
 Voice Pitch|2|
 HeadAccessoryColour|0|0|0|0|
-OppaiSize|4|
-Lingo Very|7|
+OppaiSize|0|
+Lingo Very|1|
 Author|Shadow|
-Description|A bright, mature woman|
-Shirt_Colour|23|
-Shirt_Decal|10|
-Pants_Colour|31|
-WearDress%|55|
-Dress_Colour|17|
-Dress_Decal|16|
+Description|A pretty okay dude|
+Shirt_Colour|21|
+Shirt_Decal|14|
+Pants_Colour|27|
+WearDress%|36|
+Dress_Colour|9|
+Dress_Decal|3|
 Hygiene|10000|
-WearSchoolgirl%|90|
-Schoolgirl_Bow_Colour|21|
-Schoolgirl_Collar_Colour|21|
-Schoolgirl_Cuffs_Colour|21|
+WearSchoolgirl%|0|
+Schoolgirl_Bow_Colour|1|
+Schoolgirl_Collar_Colour|1|
+Schoolgirl_Cuffs_Colour|1|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|21|
+Schoolgirl_Skirt_Colour|1|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
-円|15000|
+円|25000|
 FixedSexuality|False|
 Accent_Kansai|False|
 Accent_Valleyspeak|False|
@@ -95,5 +95,5 @@ Accent_FoulMouth|False|
 Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|
 Accent_Zombie|False|
-Age|24|
+Age|20|
 (╯°□°）╯You ruined it!! You killed the magic!!

@@ -1,53 +1,53 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/10/2020 6:40:32 PM
+Last Modified: 1/12/2020 8:32:56 PM
 ------------------------------------------------------
-FirstName|Osana|
+FirstName|Midori|
 Female|True|
 Penis|False|
-Hair|5|
-?|7|
+Hair|2|
+?|1|
 Ahoge|0|
-HairTails|1|
-HairPrimaryColour|10|
-HairSecondaryColour|18|
-Eyes|18|
-Mouth|2|
+HairTails|0|
+HairPrimaryColour|21|
+HairSecondaryColour|21|
+Eyes|43|
+Mouth|1|
 Skin|1|
-HeadAccessory|1|1|1|1|
+HeadAccessory|0|0|0|0|
 Eyewear|0|
-Pantsu|52|
+Pantsu|21|
 Sexual Preference|0|
-Family Name|Takemura|
-Snootiness|75|
+Family Name|Gurin|
+Snootiness|25|
 Gossips|0|
-Kindness|0|
-Confidence|80|
-Intelligence|0|
-Dexterity|0|
+Kindness|80|
+Confidence|0|
+Intelligence|-80|
+Dexterity|-50|
 Yandere|False|
 RandomBodyLanguage|False|
-Tsundere|70|
-LoveyDovey|60|
+Tsundere|0|
+LoveyDovey|30|
 ?|0|
 Masochist|False|
 HairTaste|0|
 Depression|0|
 LikesSchool|0|
-Athletic|0|
+Athletic|-250|
 LikesManga|45|
 LikesAnime|45|
-LikesBooks|0|
-LikesVideoGames|45|
+LikesBooks|45|
+LikesVideoGames|90|
 LikesMusic|45|
 Perverted|-45|
-LikesHumour|0|
-LikesOccult|-90|
+LikesHumour|45|
+LikesOccult|0|
 Alive|True|
 Kuudere|False|
 Loyal|False|
-Voice|2|
-Lingo Great|0|
-Lingo Crappy|0|
+Voice|0|
+Lingo Great|2|
+Lingo Crappy|2|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,23 +56,23 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|5|
+LingoLaugh|32|
 Energy|2000|
-ThighHigh Base|6|
-ThighHigh Extra|4|
+ThighHigh Base|21|
+ThighHigh Extra|12|
 LowerBodySize|0|
 Voice Pitch|3|
-HeadAccessoryColour|6|6|6|6|
+HeadAccessoryColour|0|0|0|0|
 OppaiSize|2|
 Lingo Very|4|
 Author|Shadow|
-Description|A cute, modest tsundere|
-Shirt_Colour|28|
-Shirt_Decal|4|
-Pants_Colour|28|
-WearDress%|99|
-Dress_Colour|24|
-Dress_Decal|14|
+Description|A cute, very green baka|
+Shirt_Colour|21|
+Shirt_Decal|1|
+Pants_Colour|21|
+WearDress%|88|
+Dress_Colour|21|
+Dress_Decal|17|
 Hygiene|10000|
 WearSchoolgirl%|0|
 Schoolgirl_Bow_Colour|1|
@@ -83,8 +83,8 @@ Schoolgirl_Skirt_Colour|1|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
-円|15000|
-FixedSexuality|False|
+円|40000|
+FixedSexuality|True|
 Accent_Kansai|False|
 Accent_Valleyspeak|False|
 Accent_Lisp|False|

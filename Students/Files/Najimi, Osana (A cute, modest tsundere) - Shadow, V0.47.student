@@ -1,52 +1,52 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/10/2020 6:40:32 PM
+Last Modified: 1/12/2020 8:32:56 PM
 ------------------------------------------------------
-FirstName|Asu|
+FirstName|Osana|
 Female|True|
 Penis|False|
-Hair|1|
-?|1|
-Ahoge|1|
-HairTails|0|
-HairPrimaryColour|14|
-HairSecondaryColour|14|
-Eyes|17|
+Hair|5|
+?|7|
+Ahoge|0|
+HairTails|1|
+HairPrimaryColour|10|
+HairSecondaryColour|18|
+Eyes|18|
 Mouth|2|
-Skin|3|
-HeadAccessory|0|0|0|0|
+Skin|1|
+HeadAccessory|1|1|1|1|
 Eyewear|0|
-Pantsu|18|
+Pantsu|52|
 Sexual Preference|0|
-Family Name|Kotara|
-Snootiness|50|
+Family Name|Najimi|
+Snootiness|75|
 Gossips|0|
-Kindness|40|
+Kindness|0|
 Confidence|80|
 Intelligence|0|
-Dexterity|50|
+Dexterity|0|
 Yandere|False|
 RandomBodyLanguage|False|
-Tsundere|0|
-LoveyDovey|30|
+Tsundere|70|
+LoveyDovey|60|
 ?|0|
 Masochist|False|
 HairTaste|0|
 Depression|0|
-LikesSchool|45|
-Athletic|850|
+LikesSchool|0|
+Athletic|0|
 LikesManga|45|
 LikesAnime|45|
-LikesBooks|45|
+LikesBooks|0|
 LikesVideoGames|45|
 LikesMusic|45|
 Perverted|-45|
-LikesHumour|45|
-LikesOccult|-45|
+LikesHumour|0|
+LikesOccult|-90|
 Alive|True|
 Kuudere|False|
 Loyal|False|
 Voice|2|
-Lingo Great|2|
+Lingo Great|0|
 Lingo Crappy|0|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
@@ -56,34 +56,34 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|53|
+LingoLaugh|5|
 Energy|2000|
-ThighHigh Base|18|
-ThighHigh Extra|2|
-LowerBodySize|1|
+ThighHigh Base|6|
+ThighHigh Extra|4|
+LowerBodySize|0|
 Voice Pitch|3|
-HeadAccessoryColour|1|1|1|1|
+HeadAccessoryColour|6|6|6|6|
 OppaiSize|2|
-Lingo Very|7|
+Lingo Very|4|
 Author|Shadow|
-Description|A content, sporty girl|
-Shirt_Colour|12|
+Description|A cute, modest tsundere|
+Shirt_Colour|28|
 Shirt_Decal|4|
-Pants_Colour|26|
-WearDress%|86|
-Dress_Colour|12|
-Dress_Decal|3|
+Pants_Colour|28|
+WearDress%|99|
+Dress_Colour|24|
+Dress_Decal|14|
 Hygiene|10000|
-WearSchoolgirl%|2|
-Schoolgirl_Bow_Colour|21|
-Schoolgirl_Collar_Colour|7|
-Schoolgirl_Cuffs_Colour|7|
+WearSchoolgirl%|0|
+Schoolgirl_Bow_Colour|1|
+Schoolgirl_Collar_Colour|1|
+Schoolgirl_Cuffs_Colour|1|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|7|
+Schoolgirl_Skirt_Colour|1|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
-円|10000|
+円|15000|
 FixedSexuality|False|
 Accent_Kansai|False|
 Accent_Valleyspeak|False|
