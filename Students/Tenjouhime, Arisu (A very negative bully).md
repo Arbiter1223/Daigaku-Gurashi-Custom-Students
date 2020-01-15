@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tenjouhime%2C%20Arisu%20(A%20very%20negative%20bully).png" title="Tenjouhime, Arisu (A very negative bully) - YamiToast, V0.47">
 
+**Database ID: 1**
+
 First Name: Arisu
 
 Last Name: Tenjouhime
