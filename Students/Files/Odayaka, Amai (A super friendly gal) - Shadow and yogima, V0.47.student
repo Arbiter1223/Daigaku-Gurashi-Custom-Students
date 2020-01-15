@@ -1,53 +1,53 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/12/2020 8:32:56 PM
+Last Modified: 1/15/2020 1:01:07 PM
 ------------------------------------------------------
-FirstName|Taro|
-Female|False|
-Penis|True|
-Hair|10|
-?|3|
+FirstName|Amai|
+Female|True|
+Penis|False|
+Hair|16|
+?|1|
 Ahoge|0|
 HairTails|0|
-HairPrimaryColour|4|
-HairSecondaryColour|4|
-Eyes|36|
+HairPrimaryColour|15|
+HairSecondaryColour|15|
+Eyes|43|
 Mouth|1|
 Skin|1|
-HeadAccessory|0|0|0|0|
+HeadAccessory|0|1|0|1|
 Eyewear|0|
-Pantsu|4|
+Pantsu|19|
 Sexual Preference|0|
-Family Name|Yamada|
-Snootiness|50|
+Family Name|Odayaka|
+Snootiness|0|
 Gossips|0|
-Kindness|40|
-Confidence|40|
+Kindness|80|
+Confidence|0|
 Intelligence|0|
-Dexterity|0|
+Dexterity|-50|
 Yandere|False|
 RandomBodyLanguage|False|
 Tsundere|0|
-LoveyDovey|0|
+LoveyDovey|60|
 ?|0|
 Masochist|False|
 HairTaste|0|
 Depression|0|
-LikesSchool|0|
+LikesSchool|45|
 Athletic|0|
-LikesManga|45|
-LikesAnime|45|
-LikesBooks|90|
-LikesVideoGames|45|
+LikesManga|0|
+LikesAnime|0|
+LikesBooks|45|
+LikesVideoGames|0|
 LikesMusic|0|
-Perverted|-90|
+Perverted|-45|
 LikesHumour|45|
-LikesOccult|0|
+LikesOccult|45|
 Alive|True|
 Kuudere|False|
-Loyal|False|
-Voice|1|
-Lingo Great|2|
-Lingo Crappy|2|
+Loyal|True|
+Voice|0|
+Lingo Great|4|
+Lingo Crappy|3|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,41 +56,41 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|38|
+LingoLaugh|0|
 Energy|2000|
-ThighHigh Base|1|
-ThighHigh Extra|0|
-LowerBodySize|2|
-Voice Pitch|2|
-HeadAccessoryColour|0|0|0|0|
+ThighHigh Base|22|
+ThighHigh Extra|7|
+LowerBodySize|1|
+Voice Pitch|3|
+HeadAccessoryColour|22|22|22|22|
 OppaiSize|0|
 Lingo Very|1|
-Author|Shadow|
-Description|A pretty okay dude|
-Shirt_Colour|21|
-Shirt_Decal|14|
-Pants_Colour|27|
-WearDress%|36|
-Dress_Colour|9|
-Dress_Decal|3|
+Author|Shadow and yogima|
+Description|A super friendly gal|
+Shirt_Colour|22|
+Shirt_Decal|4|
+Pants_Colour|17|
+WearDress%|0|
+Dress_Colour|22|
+Dress_Decal|8|
 Hygiene|10000|
 WearSchoolgirl%|0|
-Schoolgirl_Bow_Colour|1|
-Schoolgirl_Collar_Colour|1|
-Schoolgirl_Cuffs_Colour|1|
+Schoolgirl_Bow_Colour|9|
+Schoolgirl_Collar_Colour|25|
+Schoolgirl_Cuffs_Colour|25|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|1|
+Schoolgirl_Skirt_Colour|25|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
-円|25000|
+円|10000|
 FixedSexuality|False|
 Accent_Kansai|False|
 Accent_Valleyspeak|False|
 Accent_Lisp|False|
 Accent_Hewwo|False|
 Accent_Actually|False|
-Accent_Nyaccent|False|
+Accent_Nyaccent|True|
 Accent_FoulMouth|False|
 Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|

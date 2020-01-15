@@ -1,6 +1,6 @@
 # Odayaka, Amai (A super friendly gal)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Odayaka%2C%20Amai%20(A%20super%20friendly%20gal).png" title="Odayaka, Amai (A super friendly gal) - Shadow, V0.47">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Odayaka%2C%20Amai%20(A%20super%20friendly%20gal).png" title="Odayaka, Amai (A super friendly gal) - Shadow and yogima, V0.47">
 
 First Name: Amai
 
@@ -8,10 +8,10 @@ Last Name: Odayaka
 
 Description: A super friendly gal
 
-Author: Shadow
+Author: Shadow and yogima
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Odayaka%2C%20Amai%20(A%20super%20friendly%20gal)%20-%20Shadow%2C%20V0.47.student">Odayaka, Amai (A super friendly gal) - Shadow, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Odayaka%2C%20Amai%20(A%20super%20friendly%20gal)%20-%20Shadow%20and%20yogima%2C%20V0.47.student">Odayaka, Amai (A super friendly gal) - Shadow and yogima, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---

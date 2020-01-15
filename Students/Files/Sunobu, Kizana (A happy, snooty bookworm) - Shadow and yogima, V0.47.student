@@ -1,53 +1,53 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/12/2020 8:32:56 PM
+Last Modified: 1/15/2020 1:01:07 PM
 ------------------------------------------------------
 FirstName|Kizana|
 Female|True|
 Penis|False|
-Hair|10|
-?|0|
-Ahoge|0|
+Hair|1|
+?|2|
+Ahoge|7|
 HairTails|2|
 HairPrimaryColour|31|
-HairSecondaryColour|31|
-Eyes|15|
-Mouth|5|
+HairSecondaryColour|32|
+Eyes|22|
+Mouth|11|
 Skin|1|
-HeadAccessory|1|1|1|1|
+HeadAccessory|0|0|0|0|
 Eyewear|0|
-Pantsu|21|
-Sexual Preference|0|
+Pantsu|39|
+Sexual Preference|-1|
 Family Name|Sunobu|
-Snootiness|100|
+Snootiness|75|
 Gossips|0|
-Kindness|40|
+Kindness|-40|
 Confidence|80|
-Intelligence|0|
+Intelligence|-40|
 Dexterity|50|
 Yandere|False|
-RandomBodyLanguage|False|
+RandomBodyLanguage|True|
 Tsundere|0|
-LoveyDovey|60|
+LoveyDovey|30|
 ?|0|
 Masochist|False|
 HairTaste|0|
-Depression|0|
-LikesSchool|45|
+Depression|20|
+LikesSchool|-45|
 Athletic|0|
 LikesManga|0|
-LikesAnime|0|
+LikesAnime|45|
 LikesBooks|90|
-LikesVideoGames|0|
+LikesVideoGames|-45|
 LikesMusic|90|
 Perverted|0|
-LikesHumour|0|
+LikesHumour|-45|
 LikesOccult|-90|
 Alive|True|
 Kuudere|False|
 Loyal|False|
-Voice|0|
-Lingo Great|49|
-Lingo Crappy|22|
+Voice|3|
+Lingo Great|17|
+Lingo Crappy|36|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,40 +56,40 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|18|
+LingoLaugh|31|
 Energy|2000|
 ThighHigh Base|31|
 ThighHigh Extra|11|
-LowerBodySize|0|
-Voice Pitch|3|
-HeadAccessoryColour|9|9|9|9|
+LowerBodySize|2|
+Voice Pitch|1|
+HeadAccessoryColour|1|1|1|18|
 OppaiSize|4|
-Lingo Very|8|
-Author|Shadow|
+Lingo Very|9|
+Author|Shadow and yogima|
 Description|A happy, snooty bookworm|
-Shirt_Colour|32|
-Shirt_Decal|9|
-Pants_Colour|12|
-WearDress%|86|
-Dress_Colour|21|
-Dress_Decal|11|
+Shirt_Colour|6|
+Shirt_Decal|13|
+Pants_Colour|13|
+WearDress%|40|
+Dress_Colour|25|
+Dress_Decal|9|
 Hygiene|10000|
-WearSchoolgirl%|48|
-Schoolgirl_Bow_Colour|23|
-Schoolgirl_Collar_Colour|19|
-Schoolgirl_Cuffs_Colour|19|
+WearSchoolgirl%|10|
+Schoolgirl_Bow_Colour|9|
+Schoolgirl_Collar_Colour|25|
+Schoolgirl_Cuffs_Colour|25|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|19|
+Schoolgirl_Skirt_Colour|25|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
-円|25000|
-FixedSexuality|True|
-Accent_Kansai|False|
-Accent_Valleyspeak|False|
+円|10000|
+FixedSexuality|False|
+Accent_Kansai|True|
+Accent_Valleyspeak|True|
 Accent_Lisp|False|
 Accent_Hewwo|False|
-Accent_Actually|False|
+Accent_Actually|True|
 Accent_Nyaccent|False|
 Accent_FoulMouth|False|
 Accent_PoorGrammar|False|

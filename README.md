@@ -404,7 +404,7 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 <a href="Students/Iwasa, Gintoki (An extremely shy and depressed neko guy).md"><img src="Students/Files/Thumbs/Iwasa, Gintoki (An extremely shy and depressed neko guy).png" height="100" width="100" title="Iwasa, Gintoki (An extremely shy and depressed neko guy) - BenPupKao, V0.47"></a><a href="Students/Iwasa, Gintoki (An extremely shy and depressed neko guy).md"> Iwasa, Gintoki (An extremely shy and depressed neko guy) - BenPupKao, V0.47</a>
 
-<a href="Students/Najimi, Osana (A cute, modest tsundere).md"><img src="Students/Files/Thumbs/Najimi, Osana (A cute, modest tsundere).png" height="100" width="100" title="Najimi, Osana (A cute, modest tsundere) - Shadow, V0.47"></a><a href="Students/Najimi, Osana (A cute, modest tsundere).md"> Najimi, Osana (A cute, modest tsundere) - Shadow, V0.47</a>
+<a href="Students/Najimi, Osana (A cute, modest tsundere).md"><img src="Students/Files/Thumbs/Najimi, Osana (A cute, modest tsundere).png" height="100" width="100" title="Najimi, Osana (A cute, modest tsundere) - Shadow and yogima, V0.47"></a><a href="Students/Najimi, Osana (A cute, modest tsundere).md"> Najimi, Osana (A cute, modest tsundere) - Shadow and yogima, V0.47</a>
 
 <a href="Students/Ruto, Oka (A shy occult fanatic).md"><img src="Students/Files/Thumbs/Ruto, Oka (A shy occult fanatic).png" height="100" width="100" title="Ruto, Oka (A shy occult fanatic) - Shadow, V0.47"></a><a href="Students/Ruto, Oka (A shy occult fanatic).md"> Ruto, Oka (A shy occult fanatic) - Shadow, V0.47</a>
 
@@ -412,9 +412,9 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 <a href="Students/Sayuri, Sayori (A chipper, happy-go-lucky girl).md"><img src="Students/Files/Thumbs/Sayuri, Sayori (A chipper, happy-go-lucky girl).png" height="100" width="100" title="Sayuri, Sayori (A chipper, happy-go-lucky girl) - Aho-chan, V0.47"></a><a href="Students/Sayuri, Sayori (A chipper, happy-go-lucky girl).md"> Sayuri, Sayori (A chipper, happy-go-lucky girl) - Aho-chan, V0.47</a>
 
-<a href="Students/Sunobu, Kizana (A happy, snooty bookworm).md"><img src="Students/Files/Thumbs/Sunobu, Kizana (A happy, snooty bookworm).png" height="100" width="100" title="Sunobu, Kizana (A happy, snooty bookworm) - Shadow, V0.47"></a><a href="Students/Sunobu, Kizana (A happy, snooty bookworm).md"> Sunobu, Kizana (A happy, snooty bookworm) - Shadow, V0.47</a>
+<a href="Students/Sunobu, Kizana (A happy, snooty bookworm).md"><img src="Students/Files/Thumbs/Sunobu, Kizana (A happy, snooty bookworm).png" height="100" width="100" title="Sunobu, Kizana (A happy, snooty bookworm) - Shadow and yogima, V0.47"></a><a href="Students/Sunobu, Kizana (A happy, snooty bookworm).md"> Sunobu, Kizana (A happy, snooty bookworm) - Shadow and yogima, V0.47</a>
 
-<a href="Students/Odayaka, Amai (A super friendly gal).md"><img src="Students/Files/Thumbs/Odayaka, Amai (A super friendly gal).png" height="100" width="100" title="Odayaka, Amai (A super friendly gal) - Shadow, V0.47"></a><a href="Students/Odayaka, Amai (A super friendly gal).md"> Odayaka, Amai (A super friendly gal) - Shadow, V0.47</a>
+<a href="Students/Odayaka, Amai (A super friendly gal).md"><img src="Students/Files/Thumbs/Odayaka, Amai (A super friendly gal).png" height="100" width="100" title="Odayaka, Amai (A super friendly gal) - Shadow and yogima, V0.47"></a><a href="Students/Odayaka, Amai (A super friendly gal).md"> Odayaka, Amai (A super friendly gal) - Shadow and yogima, V0.47</a>
 
 <a href="Students/Rito, Asu (A content, sporty girl).md"><img src="Students/Files/Thumbs/Rito, Asu (A content, sporty girl).png" height="100" width="100" title="Rito, Asu (A content, sporty girl) - Shadow, V0.47"></a><a href="Students/Rito, Asu (A content, sporty girl).md"> Rito, Asu (A content, sporty girl) - Shadow, V0.47</a>
 
@@ -428,9 +428,9 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 <a href="Students/Saikou, Megami (A bright, mature woman).md"><img src="Students/Files/Thumbs/Saikou, Megami (A bright, mature woman).png" height="100" width="100" title="Saikou, Megami (A bright, mature woman) - Shadow, V0.47"></a><a href="Students/Saikou, Megami (A bright, mature woman).md"> Saikou, Megami (A bright, mature woman) - Shadow, V0.47</a>
 
-<a href="Students/Yamada, Taro (A pretty okay dude).md"><img src="Students/Files/Thumbs/Yamada, Taro (A pretty okay dude).png" height="100" width="100" title="Yamada, Taro (A pretty okay dude) - Shadow, V0.47"></a><a href="Students/Yamada, Taro (A pretty okay dude).md"> Yamada, Taro (A pretty okay dude) - Shadow, V0.47</a>
+<a href="Students/Yamada, Taro (A pretty okay dude).md"><img src="Students/Files/Thumbs/Yamada, Taro (A pretty okay dude).png" height="100" width="100" title="Yamada, Taro (A pretty okay dude) - Shadow and yogima, V0.47"></a><a href="Students/Yamada, Taro (A pretty okay dude).md"> Yamada, Taro (A pretty okay dude) - Shadow and yogima, V0.47</a>
 
-<a href="Students/Aishi, Ayano (An all-around nice gal).md"><img src="Students/Files/Thumbs/Aishi, Ayano (An all-around nice gal).png" height="100" width="100" title="Aishi, Ayano (An all-around nice gal) - Shadow, V0.47"></a><a href="Students/Aishi, Ayano (An all-around nice gal).md"> Aishi, Ayano (An all-around nice gal) - Shadow, V0.47</a>
+<a href="Students/Aishi, Ayano (An all-around nice gal).md"><img src="Students/Files/Thumbs/Aishi, Ayano (An all-around nice gal).png" height="100" width="100" title="Aishi, Ayano (An all-around nice gal) - Shadow and yogima, V0.47"></a><a href="Students/Aishi, Ayano (An all-around nice gal).md"> Aishi, Ayano (An all-around nice gal) - Shadow and yogima, V0.47</a>
 
 <a href="Students/Gurin, Midori (A cute, very green baka).md"><img src="Students/Files/Thumbs/Gurin, Midori (A cute, very green baka).png" height="100" width="100" title="Gurin, Midori (A cute, very green baka) - Shadow, V0.47"></a><a href="Students/Gurin, Midori (A cute, very green baka).md"> Gurin, Midori (A cute, very green baka) - Shadow, V0.47</a>
 
@@ -1499,4 +1499,6 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 <a href="Students/Fart, Old (A creepy old man who tries to lewd younger girls at the school).md"><img src="Students/Files/Thumbs/Fart, Old (A creepy old man who tries to lewd younger girls at the school).png" height="100" width="100" title="Fart, Old (A creepy old man who tries to lewd younger girls at the school) - Astro, V0.47"></a><a href="Students/Fart, Old (A creepy old man who tries to lewd younger girls at the school).md"> Fart, Old (A creepy old man who tries to lewd younger girls at the school) - Astro, V0.47</a>
 
 <a href="Students/Shibata, Shoma (A revanent who still remains happy and carefree).md"><img src="Students/Files/Thumbs/Shibata, Shoma (A revanent who still remains happy and carefree).png" height="100" width="100" title="Shibata, Shoma (A revanent who still remains happy and carefree) - Midnight Kitsune, V0.47"></a><a href="Students/Shibata, Shoma (A revanent who still remains happy and carefree).md"> Shibata, Shoma (A revanent who still remains happy and carefree) - Midnight Kitsune, V0.47</a>
+
+<a href="Students/Murasakino, Kosai (A guy who loves to tell stories).md"><img src="Students/Files/Thumbs/Murasakino, Kosai (A guy who loves to tell stories).png" height="100" width="100" title="Murasakino, Kosai (A guy who loves to tell stories) - screaming kiwi, V0.47"></a><a href="Students/Murasakino, Kosai (A guy who loves to tell stories).md"> Murasakino, Kosai (A guy who loves to tell stories) - screaming kiwi, V0.47</a>
 

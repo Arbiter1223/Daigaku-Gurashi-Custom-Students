@@ -1,6 +1,6 @@
 # Yamada, Taro (A pretty okay dude)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamada%2C%20Taro%20(A%20pretty%20okay%20dude).png" title="Yamada, Taro (A pretty okay dude) - Shadow, V0.47">
+<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamada%2C%20Taro%20(A%20pretty%20okay%20dude).png" title="Yamada, Taro (A pretty okay dude) - Shadow and yogima, V0.47">
 
 First Name: Taro
 
@@ -8,10 +8,10 @@ Last Name: Yamada
 
 Description: A pretty okay dude
 
-Author: Shadow
+Author: Shadow and yogima
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamada%2C%20Taro%20(A%20pretty%20okay%20dude)%20-%20Shadow%2C%20V0.47.student">Yamada, Taro (A pretty okay dude) - Shadow, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamada%2C%20Taro%20(A%20pretty%20okay%20dude)%20-%20Shadow%20and%20yogima%2C%20V0.47.student">Yamada, Taro (A pretty okay dude) - Shadow and yogima, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
