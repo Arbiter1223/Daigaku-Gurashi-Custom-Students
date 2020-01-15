@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/15/2020 1:01:08 PM
+Last Modified: 1/15/2020 2:31:17 PM
 ------------------------------------------------------
 FirstName|Carlos|
 Female|False|
@@ -47,7 +47,7 @@ Kuudere|False|
 Loyal|True|
 Voice|1|
 Lingo Great|3|
-Lingo Crappy|5|
+Lingo Crappy|14|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,7 +56,7 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|7|
+LingoLaugh|50|
 Energy|2000|
 ThighHigh Base|31|
 ThighHigh Extra|12|
@@ -66,7 +66,7 @@ HeadAccessoryColour|1|1|1|1|
 OppaiSize|0|
 Lingo Very|10|
 Author|screaming kiwi|
-Description|A mean tsundere guy|
+Description|A mean tsundere guy, AKA 'Lesser Arisu'|
 Shirt_Colour|12|
 Shirt_Decal|6|
 Pants_Colour|4|
@@ -95,5 +95,5 @@ Accent_FoulMouth|False|
 Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|
 Accent_Zombie|False|
-Age|22|
+Age|24|
 (╯°□°）╯You ruined it!! You killed the magic!!
