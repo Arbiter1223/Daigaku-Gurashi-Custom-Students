@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hisakawa%2C%20Tomohiro%20(The%20older%20half%20of%20the%20Hisakawa%20twins).png" title="Hisakawa, Tomohiro (The older half of the Hisakawa twins) - Midnight Kitsune, V0.47">
 
+**Database ID: 707**
+
 First Name: Tomohiro
 
 Last Name: Hisakawa

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Asuhara%2C%20Ochiyo%20(A%20peculiar%20girl%20who%20is%20sometimes%20mistaken%20for%20Kaito).png" title="Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito) - Rando Studenta, V0.47">
 
+**Database ID: 722**
+
 First Name: Ochiyo
 
 Last Name: Asuhara

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ohmae%2C%20Juro%20(A%20very%20perverted%20baka).png" title="Ohmae, Juro (A very perverted baka) - AjTheYandere, V0.47">
 
+**Database ID: 432**
+
 First Name: Juro
 
 Last Name: Ohmae

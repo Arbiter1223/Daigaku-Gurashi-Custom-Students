@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ishibashi%2C%20Kioshi%20(A%20very%20timid%20but%20nice%20boy).png" title="Ishibashi, Kioshi (A very timid but nice boy) - AjTheYandere, V0.47">
 
+**Database ID: 370**
+
 First Name: Kioshi
 
 Last Name: Ishibashi

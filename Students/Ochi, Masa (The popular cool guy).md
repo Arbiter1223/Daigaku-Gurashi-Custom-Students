@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ochi%2C%20Masa%20(The%20popular%20cool%20guy).png" title="Ochi, Masa (The popular cool guy) - Rando Studenta, V0.47">
 
+**Database ID: 138**
+
 First Name: Masa
 
 Last Name: Ochi

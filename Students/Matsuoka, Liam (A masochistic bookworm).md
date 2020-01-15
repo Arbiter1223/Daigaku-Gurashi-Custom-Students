@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Matsuoka%2C%20Liam%20(A%20masochistic%20bookworm).png" title="Matsuoka, Liam (A masochistic bookworm) - Shiny, V0.47">
 
+**Database ID: 600**
+
 First Name: Liam
 
 Last Name: Matsuoka

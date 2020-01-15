@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gensai%2C%20Takara%20(The%20anti-occult%20kuudere).png" title="Gensai, Takara (The anti-occult kuudere) - Aho-chan, V0.47">
 
+**Database ID: 345**
+
 First Name: Takara
 
 Last Name: Gensai

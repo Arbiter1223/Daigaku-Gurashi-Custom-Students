@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Najimi%2C%20Osana%20(A%20cute%2C%20modest%20tsundere).png" title="Najimi, Osana (A cute, modest tsundere) - Shadow and yogima, V0.47">
 
+**Database ID: 184**
+
 First Name: Osana
 
 Last Name: Najimi

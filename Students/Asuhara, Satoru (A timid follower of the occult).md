@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Asuhara%2C%20Satoru%20(A%20timid%20follower%20of%20the%20occult).png" title="Asuhara, Satoru (A timid follower of the occult) - AjTheYandere, V0.47">
 
+**Database ID: 469**
+
 First Name: Satoru
 
 Last Name: Asuhara

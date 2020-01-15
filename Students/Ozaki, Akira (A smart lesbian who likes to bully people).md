@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ozaki%2C%20Akira%20(A%20smart%20lesbian%20who%20likes%20to%20bully%20people).png" title="Ozaki, Akira (A smart lesbian who likes to bully people) - Mira, V0.47">
 
+**Database ID: 618**
+
 First Name: Akira
 
 Last Name: Ozaki

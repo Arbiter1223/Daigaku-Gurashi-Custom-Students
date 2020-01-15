@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Utama%2C%20Kebbi%20(A%20yandere%20catboy%20who%20has%20no%20sense%20of%20self%20worth).png" title="Utama, Kebbi (A yandere catboy who has no sense of self worth) - kami, V0.47">
 
+**Database ID: 631**
+
 First Name: Kebbi
 
 Last Name: Utama

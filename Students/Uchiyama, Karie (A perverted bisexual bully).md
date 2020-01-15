@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uchiyama%2C%20Karie%20(A%20perverted%20bisexual%20bully).png" title="Uchiyama, Karie (A perverted bisexual bully) - AjTheYandere, V0.47">
 
+**Database ID: 275**
+
 First Name: Karie
 
 Last Name: Uchiyama

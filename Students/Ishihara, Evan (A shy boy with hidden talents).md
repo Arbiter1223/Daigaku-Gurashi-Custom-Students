@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ishihara%2C%20Evan%20(A%20shy%20boy%20with%20hidden%20talents).png" title="Ishihara, Evan (A shy boy with hidden talents) - Heroic_Moron, V0.47">
 
+**Database ID: 70**
+
 First Name: Evan
 
 Last Name: Ishihara

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Orikitso%2C%20Yiku%20(A%20shy%20and%20depressed%20student).png" title="Orikitso, Yiku (A shy and depressed student) - screaming kiwi, V0.47">
 
+**Database ID: 709**
+
 First Name: Yiku
 
 Last Name: Orikitso

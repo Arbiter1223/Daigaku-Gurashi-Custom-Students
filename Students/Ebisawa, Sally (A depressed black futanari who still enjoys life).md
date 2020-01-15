@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ebisawa%2C%20Sally%20(A%20depressed%20black%20futanari%20who%20still%20enjoys%20life).png" title="Ebisawa, Sally (A depressed black futanari who still enjoys life) - Galaxy gurl, V0.47">
 
+**Database ID: 531**
+
 First Name: Sally
 
 Last Name: Ebisawa

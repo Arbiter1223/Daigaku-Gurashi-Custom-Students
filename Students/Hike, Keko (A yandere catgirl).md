@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hike%2C%20Keko%20(A%20yandere%20catgirl).png" title="Hike, Keko (A yandere catgirl) - Nyanako, V0.47">
 
+**Database ID: 172**
+
 First Name: Keko
 
 Last Name: Hike

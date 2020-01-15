@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Demon%2C%20Blu%20(A%20ruthless%20bully).png" title="Demon, Blu (A ruthless bully) - Camden, V0.47">
 
+**Database ID: 559**
+
 First Name: Blu
 
 Last Name: Demon

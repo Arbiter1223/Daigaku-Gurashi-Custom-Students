@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Konno%2C%20Junko%20(From%20ZombieLand%20Saga).png" title="Konno, Junko (From ZombieLand Saga) - sansrika, V0.47">
 
+**Database ID: 582**
+
 First Name: Junko
 
 Last Name: Konno

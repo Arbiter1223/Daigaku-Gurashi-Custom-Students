@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Karubo%2C%20Kamiko%20(A%20lazy%20Arisu%20cosplayer).png" title="Karubo, Kamiko (A lazy Arisu cosplayer) - Syberian Inc and Arbiter1223, V0.47">
 
+**Database ID: 23**
+
 First Name: Kamiko
 
 Last Name: Karubo

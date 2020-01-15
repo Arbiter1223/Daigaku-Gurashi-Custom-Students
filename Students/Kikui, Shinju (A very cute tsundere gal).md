@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kikui%2C%20Shinju%20(A%20very%20cute%20tsundere%20gal).png" title="Kikui, Shinju (A very cute tsundere gal) - AjTheYandere, V0.47">
 
+**Database ID: 378**
+
 First Name: Shinju
 
 Last Name: Kikui

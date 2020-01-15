@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hidaka%2C%20Masaaki%20(A%20brilliant%2C%20all-around%20popular%20guy).png" title="Hidaka, Masaaki (A brilliant, all-around popular guy) - Moon12299, V0.47">
 
+**Database ID: 139**
+
 First Name: Masaaki
 
 Last Name: Hidaka

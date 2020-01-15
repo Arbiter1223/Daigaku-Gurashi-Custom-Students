@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Rito%2C%20Asu%20(A%20content%2C%20sporty%20girl).png" title="Rito, Asu (A content, sporty girl) - Shadow, V0.47">
 
+**Database ID: 190**
+
 First Name: Asu
 
 Last Name: Rito

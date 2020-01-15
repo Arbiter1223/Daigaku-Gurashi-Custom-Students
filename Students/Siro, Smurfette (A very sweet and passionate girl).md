@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Siro%2C%20Smurfette%20(A%20very%20sweet%20and%20passionate%20girl).png" title="Siro, Smurfette (A very sweet and passionate girl) - Shiny, V0.47">
 
+**Database ID: 678**
+
 First Name: Smurfette
 
 Last Name: Siro

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Arakawa%2C%20Raven%20(A%20depressed%20antisocial%20girl).png" title="Arakawa, Raven (A depressed antisocial girl) - LivMoox, V0.47">
 
+**Database ID: 220**
+
 First Name: Raven
 
 Last Name: Arakawa

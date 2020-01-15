@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Arakaki%2C%20Kaori%20(A%20kuudere%20genius).png" title="Arakaki, Kaori (A kuudere genius) - Duck-chan, V0.47">
 
+**Database ID: 331**
+
 First Name: Kaori
 
 Last Name: Arakaki

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kori%2C%20Arachne%20(A%20gay%20zombie%20yandere).png" title="Kori, Arachne (A gay zombie yandere) - peraon, V0.47">
 
+**Database ID: 702**
+
 First Name: Arachne
 
 Last Name: Kori

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Brain%2C%20Verne%20(The%20intellectual%20side%20of%20the%20Brain%20sisters).png" title="Brain, Verne (The intellectual side of the Brain sisters) - AjTheYandere, V0.47">
 
+**Database ID: 285**
+
 First Name: Verne
 
 Last Name: Brain

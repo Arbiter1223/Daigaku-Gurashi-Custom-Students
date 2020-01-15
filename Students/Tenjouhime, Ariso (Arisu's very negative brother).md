@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tenjouhime%2C%20Ariso%20(Arisu's%20very%20negative%20brother).png" title="Tenjouhime, Ariso (Arisu's very negative brother) - AjTheYandere, V0.47">
 
+**Database ID: 325**
+
 First Name: Ariso
 
 Last Name: Tenjouhime

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shibanuma%2C%20Orangu%20(A%20more%20accurate%20Orangu).png" title="Shibanuma, Orangu (A more accurate Orangu) - Syberian Inc, V0.47">
 
+**Database ID: 29**
+
 First Name: Orangu
 
 Last Name: Shibanuma

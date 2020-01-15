@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kondo%2C%20Fumiko%20(A%20snooty%2C%20half-witted%20girl).png" title="Kondo, Fumiko (A snooty, half-witted girl) - Rando Studenta, V0.47">
 
+**Database ID: 117**
+
 First Name: Fumiko
 
 Last Name: Kondo

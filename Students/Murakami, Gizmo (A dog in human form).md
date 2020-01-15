@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Murakami%2C%20Gizmo%20(A%20dog%20in%20human%20form).png" title="Murakami, Gizmo (A dog in human form) - AjTheYandere, V0.47">
 
+**Database ID: 300**
+
 First Name: Gizmo
 
 Last Name: Murakami

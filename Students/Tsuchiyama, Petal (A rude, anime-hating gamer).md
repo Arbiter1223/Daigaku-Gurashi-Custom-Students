@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsuchiyama%2C%20Petal%20(A%20rude%2C%20anime-hating%20gamer).png" title="Tsuchiyama, Petal (A rude, anime-hating gamer) - BenPupKao, V0.47">
 
+**Database ID: 480**
+
 First Name: Petal
 
 Last Name: Tsuchiyama

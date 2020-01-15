@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miyoshi%2C%20Haruhi%20(A%20lazy%20and%20rude%20girl).png" title="Miyoshi, Haruhi (A lazy and rude girl) - AjTheYandere, V0.47">
 
+**Database ID: 422**
+
 First Name: Haruhi
 
 Last Name: Miyoshi

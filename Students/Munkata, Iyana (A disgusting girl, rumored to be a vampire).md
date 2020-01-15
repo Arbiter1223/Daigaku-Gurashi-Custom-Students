@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Munkata%2C%20Iyana%20(A%20disgusting%20girl%2C%20rumored%20to%20be%20a%20vampire).png" title="Munkata, Iyana (A disgusting girl, rumored to be a vampire) - Aho-chan, V0.47">
 
+**Database ID: 262**
+
 First Name: Iyana
 
 Last Name: Munkata

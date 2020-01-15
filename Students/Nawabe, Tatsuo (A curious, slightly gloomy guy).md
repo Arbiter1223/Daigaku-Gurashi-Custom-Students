@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nawabe%2C%20Tatsuo%20(A%20curious%2C%20slightly%20gloomy%20guy).png" title="Nawabe, Tatsuo (A curious, slightly gloomy guy) - Rando Studenta, V0.47">
 
+**Database ID: 151**
+
 First Name: Tatsuo
 
 Last Name: Nawabe

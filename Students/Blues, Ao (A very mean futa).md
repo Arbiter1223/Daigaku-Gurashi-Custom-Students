@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Blues%2C%20Ao%20(A%20very%20mean%20futa).png" title="Blues, Ao (A very mean futa) - Pitsies, V0.47">
 
+**Database ID: 681**
+
 First Name: Ao
 
 Last Name: Blues

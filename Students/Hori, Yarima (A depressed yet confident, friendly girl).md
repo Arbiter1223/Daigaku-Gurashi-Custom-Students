@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hori%2C%20Yarima%20(A%20depressed%20yet%20confident%2C%20friendly%20girl).png" title="Hori, Yarima (A depressed yet confident, friendly girl) - Syberian Inc, V0.47">
 
+**Database ID: 17**
+
 First Name: Yarima
 
 Last Name: Hori

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gorgonzola%2C%20Mozz%20(A%20generally%20popular%20guy).png" title="Gorgonzola, Mozz (A generally popular guy) - Nutmeg, V0.47">
 
+**Database ID: 200**
+
 First Name: Mozz
 
 Last Name: Gorgonzola

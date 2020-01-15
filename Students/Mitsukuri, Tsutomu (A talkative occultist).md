@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mitsukuri%2C%20Tsutomu%20(A%20talkative%20occultist).png" title="Mitsukuri, Tsutomu (A talkative occultist) - AjTheYandere, V0.47">
 
+**Database ID: 397**
+
 First Name: Tsutomu
 
 Last Name: Mitsukuri

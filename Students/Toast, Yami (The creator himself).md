@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toast%2C%20Yami%20(The%20creator%20himself).png" title="Toast, Yami (The creator himself) - Syberian Inc, V0.47">
 
+**Database ID: 53**
+
 First Name: Yami
 
 Last Name: Toast

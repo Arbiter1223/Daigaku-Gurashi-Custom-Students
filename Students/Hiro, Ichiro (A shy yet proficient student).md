@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hiro%2C%20Ichiro%20(A%20shy%20yet%20proficient%20student).png" title="Hiro, Ichiro (A shy yet proficient student) - Takumi, V0.47">
 
+**Database ID: 320**
+
 First Name: Ichiro
 
 Last Name: Hiro

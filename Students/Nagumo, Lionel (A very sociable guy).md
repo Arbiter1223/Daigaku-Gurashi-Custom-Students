@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nagumo%2C%20Lionel%20(A%20very%20sociable%20guy).png" title="Nagumo, Lionel (A very sociable guy) - Kana, V0.47">
 
+**Database ID: 347**
+
 First Name: Lionel
 
 Last Name: Nagumo

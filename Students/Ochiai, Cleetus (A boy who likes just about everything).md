@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ochiai%2C%20Cleetus%20(A%20boy%20who%20likes%20just%20about%20everything).png" title="Ochiai, Cleetus (A boy who likes just about everything) - AjTheYandere, V0.47">
 
+**Database ID: 556**
+
 First Name: Cleetus
 
 Last Name: Ochiai

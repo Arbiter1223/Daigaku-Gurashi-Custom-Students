@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sugai%2C%20Yukino%20(A%20nice%2C%20quiet%20bookworm).png" title="Sugai, Yukino (A nice, quiet bookworm) - AjTheYandere, V0.47">
 
+**Database ID: 401**
+
 First Name: Yukino
 
 Last Name: Sugai

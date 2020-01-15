@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Choshi%2C%20Takayuki%20(A%20reserved%2C%20modest%20boy).png" title="Choshi, Takayuki (A reserved, modest boy) - AjTheYandere, V0.47">
 
+**Database ID: 473**
+
 First Name: Takayuki
 
 Last Name: Choshi

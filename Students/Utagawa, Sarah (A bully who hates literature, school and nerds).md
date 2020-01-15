@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Utagawa%2C%20Sarah%20(A%20bully%20who%20hates%20literature%2C%20school%20and%20nerds).png" title="Utagawa, Sarah (A bully who hates literature, school and nerds) - Galaxy gurl, V0.47">
 
+**Database ID: 526**
+
 First Name: Sarah
 
 Last Name: Utagawa

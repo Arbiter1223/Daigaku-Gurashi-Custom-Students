@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fujishima%2C%20Ayame%20(A%20pretty%20shy%20baka).png" title="Fujishima, Ayame (A pretty shy baka) - AjTheYandere, V0.47">
 
+**Database ID: 352**
+
 First Name: Ayame
 
 Last Name: Fujishima

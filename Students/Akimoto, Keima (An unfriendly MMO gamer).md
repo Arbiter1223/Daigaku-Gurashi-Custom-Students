@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akimoto%2C%20Keima%20(An%20unfriendly%20MMO%20gamer).png" title="Akimoto, Keima (An unfriendly MMO gamer) - AjTheYandere, V0.47">
 
+**Database ID: 435**
+
 First Name: Keima
 
 Last Name: Akimoto

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kikkawa%2C%20Kiiro%20(A%20self-centered%20music%20boy).png" title="Kikkawa, Kiiro (A self-centered music boy) - Rando Studenta, V0.47">
 
+**Database ID: 129**
+
 First Name: Kiiro
 
 Last Name: Kikkawa

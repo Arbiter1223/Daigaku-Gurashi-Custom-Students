@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shibata%2C%20Shoma%20(A%20revanent%20who%20still%20remains%20happy%20and%20carefree).png" title="Shibata, Shoma (A revanent who still remains happy and carefree) - Midnight Kitsune, V0.47">
 
+**Database ID: 731**
+
 First Name: Shoma
 
 Last Name: Shibata

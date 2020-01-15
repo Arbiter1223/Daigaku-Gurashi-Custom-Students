@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsucgimoto%2C%20Chai%20(A%20very%20athletic%20occult%20follower).png" title="Tsucgimoto, Chai (A very athletic occult follower) - AjTheYandere, V0.47">
 
+**Database ID: 411**
+
 First Name: Chai
 
 Last Name: Tsucgimoto

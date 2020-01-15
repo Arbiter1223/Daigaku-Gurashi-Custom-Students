@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shirai%2C%20Takarra%20(A%20shy%2C%20sporty%2C%20anime%20girl).png" title="Shirai, Takarra (A shy, sporty, anime girl) - RainB, V0.47">
 
+**Database ID: 85**
+
 First Name: Takarra
 
 Last Name: Shirai

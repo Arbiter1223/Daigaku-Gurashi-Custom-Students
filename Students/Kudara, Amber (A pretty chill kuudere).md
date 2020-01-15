@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kudara%2C%20Amber%20(A%20pretty%20chill%20kuudere).png" title="Kudara, Amber (A pretty chill kuudere) - Shiny, V0.47">
 
+**Database ID: 596**
+
 First Name: Amber
 
 Last Name: Kudara

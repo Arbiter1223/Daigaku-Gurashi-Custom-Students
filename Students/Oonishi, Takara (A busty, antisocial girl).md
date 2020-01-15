@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Oonishi%2C%20Takara%20(A%20busty%2C%20antisocial%20girl).png" title="Oonishi, Takara (A busty, antisocial girl) - Rando Studenta, V0.47">
 
+**Database ID: 149**
+
 First Name: Takara
 
 Last Name: Oonishi

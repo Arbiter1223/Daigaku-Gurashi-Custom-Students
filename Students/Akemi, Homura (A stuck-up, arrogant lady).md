@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akemi%2C%20Homura%20(A%20stuck-up%2C%20arrogant%20lady).png" title="Akemi, Homura (A stuck-up, arrogant lady) - Cookie Boi, V0.47">
 
+**Database ID: 59**
+
 First Name: Homura
 
 Last Name: Akemi

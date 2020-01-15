@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimaoka%2C%20Konomi%20(Kimono's%20shy%2C%20kind%2C%20positive%20twin).png" title="Shimaoka, Konomi (Kimono's shy, kind, positive twin) - Cookie Boi, V0.47">
 
+**Database ID: 298**
+
 First Name: Konomi
 
 Last Name: Shimaoka

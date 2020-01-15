@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Narato%2C%20Nobuko%20(A%20reserved%20but%20confident%20bookworm).png" title="Narato, Nobuko (A reserved but confident bookworm) - Rando Studenta, V0.47">
 
+**Database ID: 280**
+
 First Name: Nobuko
 
 Last Name: Narato

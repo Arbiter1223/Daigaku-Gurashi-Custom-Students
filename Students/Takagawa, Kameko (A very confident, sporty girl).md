@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takagawa%2C%20Kameko%20(A%20very%20confident%2C%20sporty%20girl).png" title="Takagawa, Kameko (A very confident, sporty girl) - Rando Studenta, V0.47">
 
+**Database ID: 124**
+
 First Name: Kameko
 
 Last Name: Takagawa

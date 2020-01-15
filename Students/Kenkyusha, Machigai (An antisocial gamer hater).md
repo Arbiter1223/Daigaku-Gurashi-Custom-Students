@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kenkyusha%2C%20Machigai%20(An%20antisocial%20gamer%20hater).png" title="Kenkyusha, Machigai (An antisocial gamer hater) - BenPupKao, V0.47">
 
+**Database ID: 502**
+
 First Name: Machigai
 
 Last Name: Kenkyusha

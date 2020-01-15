@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kakutama%2C%20Yurei%20(A%20spooky%20kuudere%20girl%20that%20hates%20perverts).png" title="Kakutama, Yurei (A spooky kuudere girl that hates perverts) - sansrika, V0.47">
 
+**Database ID: 327**
+
 First Name: Yurei
 
 Last Name: Kakutama

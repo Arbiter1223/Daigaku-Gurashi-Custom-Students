@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kemi%2C%20Shiro%20(A%20gentle%20anime-loving%20angel%20boy%20who%20hates%20bullies).png" title="Kemi, Shiro (A gentle anime-loving angel boy who hates bullies) - kami, V0.47">
 
+**Database ID: 635**
+
 First Name: Shiro
 
 Last Name: Kemi

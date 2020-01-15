@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Chul%2C%20Young%20(An%20upbeat%20Korean%20idol).png" title="Chul, Young (An upbeat Korean idol) - Aho-chan, V0.47">
 
+**Database ID: 389**
+
 First Name: Young
 
 Last Name: Chul

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tatenaka%2C%20Yoshiyuki%20(A%20kind%20yet%20pretty%20dumb%20occult%20boy).png" title="Tatenaka, Yoshiyuki (A kind yet pretty dumb occult boy) - Rando Studenta, V0.47">
 
+**Database ID: 154**
+
 First Name: Yoshiyuki
 
 Last Name: Tatenaka

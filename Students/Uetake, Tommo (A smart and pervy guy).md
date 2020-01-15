@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uetake%2C%20Tommo%20(A%20smart%20and%20pervy%20guy).png" title="Uetake, Tommo (A smart and pervy guy) - BenPupKao, V0.47">
 
+**Database ID: 335**
+
 First Name: Tommo
 
 Last Name: Uetake

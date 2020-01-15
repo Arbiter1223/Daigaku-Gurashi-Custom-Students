@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawano%2C%20Kenichi%20(A%20friendly%2C%20brilliant%2C%20pervy%20guy).png" title="Kawano, Kenichi (A friendly, brilliant, pervy guy) - AjTheYandere, V0.47">
 
+**Database ID: 368**
+
 First Name: Kenichi
 
 Last Name: Kawano

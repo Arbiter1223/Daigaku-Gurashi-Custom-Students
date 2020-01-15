@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shiomi%2C%20Yuno%20(A%20timid%2C%20busty%20girl).png" title="Shiomi, Yuno (A timid, busty girl) - RainB, V0.47">
 
+**Database ID: 75**
+
 First Name: Yuno
 
 Last Name: Shiomi

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kamisaka%2C%20Koichi%20(An%20overly%20confident%20occultist).png" title="Kamisaka, Koichi (An overly confident occultist) - AjTheYandere, V0.47">
 
+**Database ID: 371**
+
 First Name: Koichi
 
 Last Name: Kamisaka

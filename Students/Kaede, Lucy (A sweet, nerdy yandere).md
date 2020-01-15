@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaede%2C%20Lucy%20(A%20sweet%2C%20nerdy%20yandere).png" title="Kaede, Lucy (A sweet, nerdy yandere) - Cookie Boi, V0.47">
 
+**Database ID: 65**
+
 First Name: Lucy
 
 Last Name: Kaede

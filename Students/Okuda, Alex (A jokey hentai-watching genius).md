@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okuda%2C%20Alex%20(A%20jokey%20hentai-watching%20genius).png" title="Okuda, Alex (A jokey hentai-watching genius) - Aho-chan, V0.47">
 
+**Database ID: 83**
+
 First Name: Alex
 
 Last Name: Okuda

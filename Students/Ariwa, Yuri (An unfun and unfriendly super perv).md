@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ariwa%2C%20Yuri%20(An%20unfun%20and%20unfriendly%20super%20perv).png" title="Ariwa, Yuri (An unfun and unfriendly super perv) - Camden, V0.47">
 
+**Database ID: 590**
+
 First Name: Yuri
 
 Last Name: Ariwa

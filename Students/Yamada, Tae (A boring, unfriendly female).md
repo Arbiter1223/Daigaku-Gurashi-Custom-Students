@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamada%2C%20Tae%20(A%20boring%2C%20unfriendly%20female).png" title="Yamada, Tae (A boring, unfriendly female) - sansrika, V0.47">
 
+**Database ID: 576**
+
 First Name: Tae
 
 Last Name: Yamada

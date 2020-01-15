@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akura%2C%20Katashi%20(A%20dumb%20blue%20gay%20boi).png" title="Akura, Katashi (A dumb blue gay boi) - screaming kiwi, V0.47">
 
+**Database ID: 685**
+
 First Name: Katashi
 
 Last Name: Akura

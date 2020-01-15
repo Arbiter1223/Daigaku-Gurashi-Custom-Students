@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nagako%2C%20Kisama%20(A%20very%20withdrawn%20baka).png" title="Nagako, Kisama (A very withdrawn baka) - Takumi, V0.47">
 
+**Database ID: 321**
+
 First Name: Kisama
 
 Last Name: Nagako

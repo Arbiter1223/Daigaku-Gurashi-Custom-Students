@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hinazuki%2C%20Kayo%20(A%20depressed%20yet%20gentle%20girl).png" title="Hinazuki, Kayo (A depressed yet gentle girl) - Cookie Boi, V0.47">
 
+**Database ID: 67**
+
 First Name: Kayo
 
 Last Name: Hinazuki

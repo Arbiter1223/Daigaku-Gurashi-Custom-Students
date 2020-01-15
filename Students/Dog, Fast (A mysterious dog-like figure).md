@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dog%2C%20Fast%20(A%20mysterious%20dog-like%20figure).png" title="Dog, Fast (A mysterious dog-like figure) - AjTheYandere, V0.47">
 
+**Database ID: 655**
+
 First Name: Fast
 
 Last Name: Dog

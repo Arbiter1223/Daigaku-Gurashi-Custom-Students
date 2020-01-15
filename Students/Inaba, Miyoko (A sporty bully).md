@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Inaba%2C%20Miyoko%20(A%20sporty%20bully).png" title="Inaba, Miyoko (A sporty bully) - Bubger Kirg, V0.47">
 
+**Database ID: 215**
+
 First Name: Miyoko
 
 Last Name: Inaba

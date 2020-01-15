@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akaike%2C%20Chara%20(A%20gloomy%2C%20unsociable%20girl).png" title="Akaike, Chara (A gloomy, unsociable girl) - CherryMaru, V0.47">
 
+**Database ID: 56**
+
 First Name: Chara
 
 Last Name: Akaike

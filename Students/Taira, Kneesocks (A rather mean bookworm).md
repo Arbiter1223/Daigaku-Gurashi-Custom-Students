@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taira%2C%20Kneesocks%20(A%20rather%20mean%20bookworm).png" title="Taira, Kneesocks (A rather mean bookworm) - Syberian Inc, V0.47">
 
+**Database ID: 568**
+
 First Name: Kneesocks
 
 Last Name: Taira

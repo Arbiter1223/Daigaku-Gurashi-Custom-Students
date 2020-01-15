@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kasai%2C%20Raiden%20(A%20hardened%2C%20rather%20crude%20guy).png" title="Kasai, Raiden (A hardened, rather crude guy) - Rando Studenta, V0.47">
 
+**Database ID: 141**
+
 First Name: Raiden
 
 Last Name: Kasai

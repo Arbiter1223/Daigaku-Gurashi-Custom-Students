@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Taki%2C%20Taro%20(A%20heartless%20and%20total%20dick).png" title="Taki, Taro (A heartless and total dick) - Snowy, V0.47">
 
+**Database ID: 659**
+
 First Name: Taro
 
 Last Name: Taki

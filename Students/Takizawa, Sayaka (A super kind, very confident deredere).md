@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takizawa%2C%20Sayaka%20(A%20super%20kind%2C%20very%20confident%20deredere).png" title="Takizawa, Sayaka (A super kind, very confident deredere) - Gurashidori, V0.47">
 
+**Database ID: 565**
+
 First Name: Sayaka
 
 Last Name: Takizawa

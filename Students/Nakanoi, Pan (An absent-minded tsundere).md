@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakanoi%2C%20Pan%20(An%20absent-minded%20tsundere).png" title="Nakanoi, Pan (An absent-minded tsundere) - Kana, V0.47">
 
+**Database ID: 230**
+
 First Name: Pan
 
 Last Name: Nakanoi

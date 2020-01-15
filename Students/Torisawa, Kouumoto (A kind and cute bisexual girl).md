@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Torisawa%2C%20Kouumoto%20(A%20kind%20and%20cute%20bisexual%20girl).png" title="Torisawa, Kouumoto (A kind and cute bisexual girl) - marvinjean9, V0.47">
 
+**Database ID: 157**
+
 First Name: Kouumoto
 
 Last Name: Torisawa

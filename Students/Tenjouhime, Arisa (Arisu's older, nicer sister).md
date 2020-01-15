@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tenjouhime%2C%20Arisa%20(Arisu's%20older%2C%20nicer%20sister).png" title="Tenjouhime, Arisa (Arisu's older, nicer sister) - Arbiter1223, V0.47">
 
+**Database ID: 16**
+
 First Name: Arisa
 
 Last Name: Tenjouhime

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toyonobu%2C%20Kurisu%20(A%20very%20kind%20athletic%20guy%20that%20sometimes%20crossdresses).png" title="Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses) - yogima, V0.47">
 
+**Database ID: 729**
+
 First Name: Kurisu
 
 Last Name: Toyonobu

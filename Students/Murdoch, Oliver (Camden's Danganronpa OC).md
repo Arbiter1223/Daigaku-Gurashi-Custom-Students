@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Murdoch%2C%20Oliver%20(Camden's%20Danganronpa%20OC).png" title="Murdoch, Oliver (Camden's Danganronpa OC) - Camden, V0.47">
 
+**Database ID: 626**
+
 First Name: Oliver
 
 Last Name: Murdoch

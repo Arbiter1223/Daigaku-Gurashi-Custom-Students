@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakatsuka%2C%20Natsuki%20(A%20cute%20tsundere%20futanari).png" title="Nakatsuka, Natsuki (A cute tsundere futanari) - Kitten, V0.47">
 
+**Database ID: 162**
+
 First Name: Natsuki
 
 Last Name: Nakatsuka

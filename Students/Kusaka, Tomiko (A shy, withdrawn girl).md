@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kusaka%2C%20Tomiko%20(A%20shy%2C%20withdrawn%20girl).png" title="Kusaka, Tomiko (A shy, withdrawn girl) - AjTheYandere, V0.47">
 
+**Database ID: 393**
+
 First Name: Tomiko
 
 Last Name: Kusaka

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Chino%2C%20Haruhi%20(A%20pretty%20dexterious%20and%20athletic%20gamer).png" title="Chino, Haruhi (A pretty dexterious and athletic gamer) - AjTheYandere, V0.47">
 
+**Database ID: 361**
+
 First Name: Haruhi
 
 Last Name: Chino

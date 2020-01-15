@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gensai%2C%20Yori%20(A%20strange%20girl%20with%20big%20fish%20lips).png" title="Gensai, Yori (A strange girl with big fish lips) - Rando Studenta, V0.47">
 
+**Database ID: 725**
+
 First Name: Yori
 
 Last Name: Gensai

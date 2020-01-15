@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tainaka%2C%20Ritsu%20(From%20K-ON!).png" title="Tainaka, Ritsu (From K-ON!) - Seiko, V0.47">
 
+**Database ID: 607**
+
 First Name: Ritsu
 
 Last Name: Tainaka

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kutsuna%2C%20Masato%20(An%20extremely%20shy%20schoolboy).png" title="Kutsuna, Masato (An extremely shy schoolboy) - AjTheYandere, V0.47">
 
+**Database ID: 447**
+
 First Name: Masato
 
 Last Name: Kutsuna

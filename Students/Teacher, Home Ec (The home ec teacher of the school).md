@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20Home%20Ec%20(The%20home%20ec%20teacher%20of%20the%20school).png" title="Teacher, Home Ec (The home ec teacher of the school) - AjTheYandere, V0.47">
 
+**Database ID: 293**
+
 First Name: Home Ec
 
 Last Name: Teacher

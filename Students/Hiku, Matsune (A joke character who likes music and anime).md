@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hiku%2C%20Matsune%20(A%20joke%20character%20who%20likes%20music%20and%20anime).png" title="Hiku, Matsune (A joke character who likes music and anime) - LowkeyHomo, V0.47">
 
+**Database ID: 498**
+
 First Name: Matsune
 
 Last Name: Hiku

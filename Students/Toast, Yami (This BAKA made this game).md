@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toast%2C%20Yami%20(This%20BAKA%20made%20this%20game).png" title="Toast, Yami (This BAKA made this game) - Syberian Inc, V0.47">
 
+**Database ID: 487**
+
 First Name: Yami
 
 Last Name: Toast

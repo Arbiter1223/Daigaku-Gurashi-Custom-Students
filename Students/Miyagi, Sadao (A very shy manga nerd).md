@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miyagi%2C%20Sadao%20(A%20very%20shy%20manga%20nerd).png" title="Miyagi, Sadao (A very shy manga nerd) - Rando Studenta, V0.47">
 
+**Database ID: 146**
+
 First Name: Sadao
 
 Last Name: Miyagi

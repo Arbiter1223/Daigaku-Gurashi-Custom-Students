@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gurin%2C%20Midori%20(A%20cute%2C%20very%20green%20baka).png" title="Gurin, Midori (A cute, very green baka) - Shadow, V0.47">
 
+**Database ID: 198**
+
 First Name: Midori
 
 Last Name: Gurin

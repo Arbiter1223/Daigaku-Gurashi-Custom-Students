@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hyobanshi%2C%20Candy%20(A%20sweet%2C%20bubbly%2C%20friendly%20girl).png" title="Hyobanshi, Candy (A sweet, bubbly, friendly girl) - Syberian Inc, V0.47">
 
+**Database ID: 40**
+
 First Name: Candy
 
 Last Name: Hyobanshi

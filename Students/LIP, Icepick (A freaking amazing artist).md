@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/LIP%2C%20Icepick%20(A%20freaking%20amazing%20artist).png" title="LIP, Icepick (A freaking amazing artist) - Lovesicepick, V0.47">
 
+**Database ID: 615**
+
 First Name: Icepick
 
 Last Name: LIP

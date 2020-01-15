@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sakanoue%2C%20Shinichi%20(A%20friendly%20otaku).png" title="Sakanoue, Shinichi (A friendly otaku) - Jefo, V0.47">
 
+**Database ID: 93**
+
 First Name: Shinichi
 
 Last Name: Sakanoue

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shidehara%2C%20Masahiko%20(A%20shy%2C%20composed%20boy).png" title="Shidehara, Masahiko (A shy, composed boy) - Bubger Kirg, V0.47">
 
+**Database ID: 214**
+
 First Name: Masahiko
 
 Last Name: Shidehara

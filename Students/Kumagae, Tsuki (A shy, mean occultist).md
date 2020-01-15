@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kumagae%2C%20Tsuki%20(A%20shy%2C%20mean%20occultist).png" title="Kumagae, Tsuki (A shy, mean occultist) - Syberian Inc, V0.47">
 
+**Database ID: 32**
+
 First Name: Tsuki
 
 Last Name: Kumagae

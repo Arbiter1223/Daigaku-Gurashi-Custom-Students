@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sakurai%2C%20Husky%20(A%20nice%20guy).png" title="Sakurai, Husky (A nice guy) - AjTheYandere, V0.47">
 
+**Database ID: 288**
+
 First Name: Husky
 
 Last Name: Sakurai

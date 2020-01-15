@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dog%2C%20The%20Fast%20(A%20very%20mean%20occult%20fanatic).png" title="Dog, The Fast (A very mean occult fanatic) - Syberian Inc, V0.47">
 
+**Database ID: 14**
+
 First Name: The Fast
 
 Last Name: Dog

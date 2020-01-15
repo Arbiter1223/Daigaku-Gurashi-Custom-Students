@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Irie%2C%20Kari%20(The%20leader%20of%20the%20Manga%20Club).png" title="Irie, Kari (The leader of the Manga Club) - AjTheYandere, V0.47">
 
+**Database ID: 381**
+
 First Name: Kari
 
 Last Name: Irie

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hikarenai%2C%20Seitekini%20(A%20super-duper%20kind%20and%20open-minded%20nerdy%20girl).png" title="Hikarenai, Seitekini (A super-duper kind and open-minded nerdy girl) - Sivin pas, V0.47">
 
+**Database ID: 690**
+
 First Name: Seitekini
 
 Last Name: Hikarenai

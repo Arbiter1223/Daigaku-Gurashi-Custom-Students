@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fart%2C%20Old%20(A%20creepy%20old%20man%20who%20tries%20to%20lewd%20younger%20girls%20at%20the%20school).png" title="Fart, Old (A creepy old man who tries to lewd younger girls at the school) - Astro, V0.47">
 
+**Database ID: 730**
+
 First Name: Old
 
 Last Name: Fart

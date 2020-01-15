@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mikura%2C%20Niko%20(A%20very%20depressed%20and%20reclusive%20catboy).png" title="Mikura, Niko (A very depressed and reclusive catboy) - kami, V0.47">
 
+**Database ID: 634**
+
 First Name: Niko
 
 Last Name: Mikura

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okanaya%2C%20Masahiko%20(A%20reserved%20individual).png" title="Okanaya, Masahiko (A reserved individual) - AjTheYandere, V0.47">
 
+**Database ID: 445**
+
 First Name: Masahiko
 
 Last Name: Okanaya

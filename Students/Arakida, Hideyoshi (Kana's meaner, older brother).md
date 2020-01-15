@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Arakida%2C%20Hideyoshi%20(Kana's%20meaner%2C%20older%20brother).png" title="Arakida, Hideyoshi (Kana's meaner, older brother) - Takumi, V0.47">
 
+**Database ID: 319**
+
 First Name: Hideyoshi
 
 Last Name: Arakida

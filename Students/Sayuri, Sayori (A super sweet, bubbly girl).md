@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sayuri%2C%20Sayori%20(A%20super%20sweet%2C%20bubbly%20girl).png" title="Sayuri, Sayori (A super sweet, bubbly girl) - Kitten, V0.47">
 
+**Database ID: 161**
+
 First Name: Sayori
 
 Last Name: Sayuri

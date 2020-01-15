@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Honda%2C%20Kaoru%20(An%20unfriendly%2C%20perverted%20athlete).png" title="Honda, Kaoru (An unfriendly, perverted athlete) - diskmister, V0.47">
 
+**Database ID: 90**
+
 First Name: Kaoru
 
 Last Name: Honda

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tanizaki%2C%20Ken%20(A%20kind%20but%20rather%20dumb%20guy).png" title="Tanizaki, Ken (A kind but rather dumb guy) - Rando Studenta, V0.47">
 
+**Database ID: 128**
+
 First Name: Ken
 
 Last Name: Tanizaki

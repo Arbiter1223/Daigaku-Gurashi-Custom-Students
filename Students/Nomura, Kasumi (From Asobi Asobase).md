@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nomura%2C%20Kasumi%20(From%20Asobi%20Asobase).png" title="Nomura, Kasumi (From Asobi Asobase) - sansrika, V0.47">
 
+**Database ID: 588**
+
 First Name: Kasumi
 
 Last Name: Nomura

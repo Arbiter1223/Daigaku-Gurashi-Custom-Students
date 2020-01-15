@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Konoe%2C%20Traxex%20(The%20Drow%20Ranger).png" title="Konoe, Traxex (The Drow Ranger) - Aho-chan, V0.47">
 
+**Database ID: 231**
+
 First Name: Traxex
 
 Last Name: Konoe

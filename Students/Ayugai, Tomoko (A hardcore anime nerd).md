@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ayugai%2C%20Tomoko%20(A%20hardcore%20anime%20nerd).png" title="Ayugai, Tomoko (A hardcore anime nerd) - AjTheYandere, V0.47">
 
+**Database ID: 394**
+
 First Name: Tomoko
 
 Last Name: Ayugai

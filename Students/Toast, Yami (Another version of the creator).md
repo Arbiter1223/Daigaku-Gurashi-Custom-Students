@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Toast%2C%20Yami%20(Another%20version%20of%20the%20creator).png" title="Toast, Yami (Another version of the creator) - IzzyStiks2.0, V0.47">
 
+**Database ID: 308**
+
 First Name: Yami
 
 Last Name: Toast

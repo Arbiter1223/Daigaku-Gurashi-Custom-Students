@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yuki%2C%20Zumz%20(A%20girl%20who%20is%20easy%20to%20get%20along%20with).png" title="Yuki, Zumz (A girl who is easy to get along with) - Azumi, V0.47">
 
+**Database ID: 617**
+
 First Name: Zumz
 
 Last Name: Yuki

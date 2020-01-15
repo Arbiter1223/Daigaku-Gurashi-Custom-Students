@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hatayama%2C%20Mia%20(A%20shy%20girl%20who%20has%20trust%20issues).png" title="Hatayama, Mia (A shy girl who has trust issues) - Izzyox, V0.47">
 
+**Database ID: 528**
+
 First Name: Mia
 
 Last Name: Hatayama

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nogushi%2C%20Kiwi%20(Strawberry's%20tsundere%20yet%20sweet%20girlfriend).png" title="Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend) - Chi, V0.47">
 
+**Database ID: 554**
+
 First Name: Kiwi
 
 Last Name: Nogushi

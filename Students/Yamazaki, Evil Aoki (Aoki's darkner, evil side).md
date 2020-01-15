@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamazaki%2C%20Evil%20Aoki%20(Aoki's%20darkner%2C%20evil%20side).png" title="Yamazaki, Evil Aoki (Aoki's darkner, evil side) - AjTheYandere, V0.47">
 
+**Database ID: 247**
+
 First Name: Evil Aoki
 
 Last Name: Yamazaki

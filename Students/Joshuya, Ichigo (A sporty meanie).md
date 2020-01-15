@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Joshuya%2C%20Ichigo%20(A%20sporty%20meanie).png" title="Joshuya, Ichigo (A sporty meanie) - AjTheYandere, V0.47">
 
+**Database ID: 428**
+
 First Name: Ichigo
 
 Last Name: Joshuya

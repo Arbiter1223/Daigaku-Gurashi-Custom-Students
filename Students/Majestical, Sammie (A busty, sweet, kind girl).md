@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Majestical%2C%20Sammie%20(A%20busty%2C%20sweet%2C%20kind%20girl).png" title="Majestical, Sammie (A busty, sweet, kind girl) - Retsuko and Arbiter1223, V0.47">
 
+**Database ID: 21**
+
 First Name: Sammie
 
 Last Name: Majestical

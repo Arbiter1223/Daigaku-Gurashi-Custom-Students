@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ekiguchi%2C%20Asuka%20(A%20confident%20tsundere%20gamer%20girl).png" title="Ekiguchi, Asuka (A confident tsundere gamer girl) - Liam Beets, V0.47">
 
+**Database ID: 159**
+
 First Name: Asuka
 
 Last Name: Ekiguchi

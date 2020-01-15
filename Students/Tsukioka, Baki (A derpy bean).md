@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsukioka%2C%20Baki%20(A%20derpy%20bean).png" title="Tsukioka, Baki (A derpy bean) - BenPupKao, V0.47">
 
+**Database ID: 107**
+
 First Name: Baki
 
 Last Name: Tsukioka

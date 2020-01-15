@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lytle%2C%20Daniel%20(A%20shy%20musician%20who%20struggles%20with%20depression).png" title="Lytle, Daniel (A shy musician who struggles with depression) - screaming kiwi, V0.47">
 
+**Database ID: 628**
+
 First Name: Daniel
 
 Last Name: Lytle

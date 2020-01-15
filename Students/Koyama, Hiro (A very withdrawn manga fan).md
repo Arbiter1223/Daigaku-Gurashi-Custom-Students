@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koyama%2C%20Hiro%20(A%20very%20withdrawn%20manga%20fan).png" title="Koyama, Hiro (A very withdrawn manga fan) - AjTheYandere, V0.47">
 
+**Database ID: 426**
+
 First Name: Hiro
 
 Last Name: Koyama

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nobunaga%2C%20Rylai%20(The%20Crystal%20Maiden).png" title="Nobunaga, Rylai (The Crystal Maiden) - Aho-chan, V0.47">
 
+**Database ID: 208**
+
 First Name: Rylai
 
 Last Name: Nobunaga

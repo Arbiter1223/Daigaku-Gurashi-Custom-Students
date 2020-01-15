@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tatsuno%2C%20Ritsu%20(A%20very%20smart%20and%20romantic%20bookworm).png" title="Tatsuno, Ritsu (A very smart and romantic bookworm) - AjTheYandere, V0.47">
 
+**Database ID: 463**
+
 First Name: Ritsu
 
 Last Name: Tatsuno

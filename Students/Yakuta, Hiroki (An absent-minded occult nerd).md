@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yakuta%2C%20Hiroki%20(An%20absent-minded%20occult%20nerd).png" title="Yakuta, Hiroki (An absent-minded occult nerd) - Clover, V0.47">
 
+**Database ID: 219**
+
 First Name: Hiroki
 
 Last Name: Yakuta

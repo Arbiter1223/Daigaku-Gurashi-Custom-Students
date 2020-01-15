@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sayaka%2C%20Rīki%20(A%20bisexual%20leek%20monster%20girl).png" title="Sayaka, Rīki (A bisexual leek monster girl) - brendon, V0.47">
 
+**Database ID: 712**
+
 First Name: Rīki
 
 Last Name: Sayaka

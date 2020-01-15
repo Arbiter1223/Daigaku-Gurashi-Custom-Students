@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Watabe%2C%20Rei%20(A%20pretty%20unfriendly%20masochist).png" title="Watabe, Rei (A pretty unfriendly masochist) - AjTheYandere, V0.47">
 
+**Database ID: 458**
+
 First Name: Rei
 
 Last Name: Watabe

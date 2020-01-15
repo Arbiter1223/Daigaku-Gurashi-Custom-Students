@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Genda%2C%20Sayori%20(A%20very%20well-educated%20gamer%20girl).png" title="Genda, Sayori (A very well-educated gamer girl) - Duck-chan, V0.47">
 
+**Database ID: 330**
+
 First Name: Sayori
 
 Last Name: Genda

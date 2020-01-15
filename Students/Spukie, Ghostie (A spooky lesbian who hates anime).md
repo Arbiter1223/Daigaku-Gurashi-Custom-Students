@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Spukie%2C%20Ghostie%20(A%20spooky%20lesbian%20who%20hates%20anime).png" title="Spukie, Ghostie (A spooky lesbian who hates anime) - sansrika, V0.47">
 
+**Database ID: 326**
+
 First Name: Ghostie
 
 Last Name: Spukie

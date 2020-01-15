@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Komatsuzaki%2C%20Tomiko%20(A%20very%20sporty%20tsundere%20girl).png" title="Komatsuzaki, Tomiko (A very sporty tsundere girl) - BenPupKao, V0.47">
 
+**Database ID: 334**
+
 First Name: Tomiko
 
 Last Name: Komatsuzaki

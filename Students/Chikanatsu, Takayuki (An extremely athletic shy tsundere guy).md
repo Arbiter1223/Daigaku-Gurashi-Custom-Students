@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Chikanatsu%2C%20Takayuki%20(An%20extremely%20athletic%20shy%20tsundere%20guy).png" title="Chikanatsu, Takayuki (An extremely athletic shy tsundere guy) - Rando Studenta, V0.47">
 
+**Database ID: 150**
+
 First Name: Takayuki
 
 Last Name: Chikanatsu

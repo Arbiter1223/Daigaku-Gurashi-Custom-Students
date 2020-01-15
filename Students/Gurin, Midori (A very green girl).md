@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gurin%2C%20Midori%20(A%20very%20green%20girl).png" title="Gurin, Midori (A very green girl) - Galaxy gurl, V0.47">
 
+**Database ID: 532**
+
 First Name: Midori
 
 Last Name: Gurin

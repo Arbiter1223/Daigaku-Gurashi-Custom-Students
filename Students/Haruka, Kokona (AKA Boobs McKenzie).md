@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Haruka%2C%20Kokona%20(AKA%20Boobs%20McKenzie).png" title="Haruka, Kokona (AKA Boobs McKenzie) - Camden, V0.47">
 
+**Database ID: 522**
+
 First Name: Kokona
 
 Last Name: Haruka

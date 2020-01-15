@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Can%2C%20Trash%20(A%20nice%20girl%20who%20is%20often%20treated%20like%20garbage).png" title="Can, Trash (A nice girl who is often treated like garbage) - Galaxy gurl, V0.47">
 
+**Database ID: 505**
+
 First Name: Trash
 
 Last Name: Can

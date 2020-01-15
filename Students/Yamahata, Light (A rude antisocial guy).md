@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamahata%2C%20Light%20(A%20rude%20antisocial%20guy).png" title="Yamahata, Light (A rude antisocial guy) - AjTheYandere, V0.47">
 
+**Database ID: 442**
+
 First Name: Light
 
 Last Name: Yamahata

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimizu%2C%20Masanori%20(A%20loving%20and%20incredibly%20nice%20boy).png" title="Shimizu, Masanori (A loving and incredibly nice boy) - AjTheYandere, V0.47">
 
+**Database ID: 446**
+
 First Name: Masanori
 
 Last Name: Shimizu

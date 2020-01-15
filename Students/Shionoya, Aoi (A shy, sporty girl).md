@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shionoya%2C%20Aoi%20(A%20shy%2C%20sporty%20girl).png" title="Shionoya, Aoi (A shy, sporty girl) - AjTheYandere, V0.47">
 
+**Database ID: 349**
+
 First Name: Aoi
 
 Last Name: Shionoya

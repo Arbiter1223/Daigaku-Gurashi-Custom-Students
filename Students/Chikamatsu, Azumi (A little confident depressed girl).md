@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Chikamatsu%2C%20Azumi%20(A%20little%20confident%20depressed%20girl).png" title="Chikamatsu, Azumi (A little confident depressed girl) - Azumi, V0.47">
 
+**Database ID: 42**
+
 First Name: Azumi
 
 Last Name: Chikamatsu

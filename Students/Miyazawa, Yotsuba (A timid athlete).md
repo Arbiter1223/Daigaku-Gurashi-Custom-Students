@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miyazawa%2C%20Yotsuba%20(A%20timid%20athlete).png" title="Miyazawa, Yotsuba (A timid athlete) - AjTheYandere, V0.47">
 
+**Database ID: 400**
+
 First Name: Yotsuba
 
 Last Name: Miyazawa

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hamaguchi%2C%20Chako%20(A%20cold-hearted%20tsundere%20bully).png" title="Hamaguchi, Chako (A cold-hearted tsundere bully) - AjTheYandere, V0.47">
 
+**Database ID: 412**
+
 First Name: Chako
 
 Last Name: Hamaguchi

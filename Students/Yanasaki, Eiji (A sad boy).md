@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yanasaki%2C%20Eiji%20(A%20sad%20boy).png" title="Yanasaki, Eiji (A sad boy) - Syberian Inc, V0.47">
 
+**Database ID: 37**
+
 First Name: Eiji
 
 Last Name: Yanasaki

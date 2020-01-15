@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Minobe%2C%20Sisyphus%20(A%20conspiracy-obsessed%20occult%20fanatic).png" title="Minobe, Sisyphus (A conspiracy-obsessed occult fanatic) - BenPupKao, V0.47">
 
+**Database ID: 506**
+
 First Name: Sisyphus
 
 Last Name: Minobe

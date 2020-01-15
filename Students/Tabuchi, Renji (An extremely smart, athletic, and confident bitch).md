@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tabuchi%2C%20Renji%20(An%20extremely%20smart%2C%20athletic%2C%20and%20confident%20bitch).png" title="Tabuchi, Renji (An extremely smart, athletic, and confident bitch) - Nyanako, V0.47">
 
+**Database ID: 175**
+
 First Name: Renji
 
 Last Name: Tabuchi

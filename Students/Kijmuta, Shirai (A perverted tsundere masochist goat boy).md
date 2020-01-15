@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kijmuta%2C%20Shirai%20(A%20perverted%20tsundere%20masochist%20goat%20boy).png" title="Kijmuta, Shirai (A perverted tsundere masochist goat boy) - AjTheYandere, V0.47">
 
+**Database ID: 274**
+
 First Name: Shirai
 
 Last Name: Kijmuta

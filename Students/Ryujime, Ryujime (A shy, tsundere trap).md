@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ryujime%2C%20Ryujime%20(A%20shy%2C%20tsundere%20trap).png" title="Ryujime, Ryujime (A shy, tsundere trap) - Ryujime, V0.47">
 
+**Database ID: 621**
+
 First Name: Ryujime
 
 Last Name: Ryujime

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Horiuchi%2C%20Naoki%20(An%20intelligent%2C%20agile%20gamer).png" title="Horiuchi, Naoki (An intelligent, agile gamer) - Rando Studenta, V0.47">
 
+**Database ID: 140**
+
 First Name: Naoki
 
 Last Name: Horiuchi

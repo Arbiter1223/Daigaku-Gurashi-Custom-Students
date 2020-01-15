@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20Science%20(The%20science%20teacher%20of%20the%20school).png" title="Teacher, Science (The science teacher of the school) - AjTheYandere, V0.47">
 
+**Database ID: 292**
+
 First Name: Science
 
 Last Name: Teacher

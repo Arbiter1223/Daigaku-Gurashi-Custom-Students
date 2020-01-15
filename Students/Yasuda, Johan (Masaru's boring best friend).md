@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasuda%2C%20Johan%20(Masaru's%20boring%20best%20friend).png" title="Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.47">
 
+**Database ID: 264**
+
 First Name: Johan
 
 Last Name: Yasuda

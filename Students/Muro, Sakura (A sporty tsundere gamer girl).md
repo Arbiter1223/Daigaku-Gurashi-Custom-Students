@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Muro%2C%20Sakura%20(A%20sporty%20tsundere%20gamer%20girl).png" title="Muro, Sakura (A sporty tsundere gamer girl) - AjTheYandere, V0.47">
 
+**Database ID: 467**
+
 First Name: Sakura
 
 Last Name: Muro

@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yonai%2C%20Murasaki%20(An%20alternate%20rock%20geek%20girl).png" title="Yonai, Murasaki (An alternate rock geek girl) - Syberian Inc, V0.47">
 
+**Database ID: 26**
+
 First Name: Murasaki
 
 Last Name: Yonai

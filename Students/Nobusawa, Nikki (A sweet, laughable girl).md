@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nobusawa%2C%20Nikki%20(A%20sweet%2C%20laughable%20girl).png" title="Nobusawa, Nikki (A sweet, laughable girl) - Nightara, V0.47">
 
+**Database ID: 243**
+
 First Name: Nikki
 
 Last Name: Nobusawa
