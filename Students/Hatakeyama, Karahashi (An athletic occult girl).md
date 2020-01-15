@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hatakeyama%2C%20Karahashi%20(An%20athletic%20occult%20girl).png" title="Hatakeyama, Karahashi (An athletic occult girl) - AjTheYandere, V0.47">
 
-**Database ID: 250**
+**Database ID: #250**
 
 First Name: Karahashi
 

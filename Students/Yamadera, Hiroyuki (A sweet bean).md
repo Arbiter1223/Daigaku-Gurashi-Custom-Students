@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamadera%2C%20Hiroyuki%20(A%20sweet%20bean).png" title="Yamadera, Hiroyuki (A sweet bean) - Azumi, V0.47">
 
-**Database ID: 38**
+**Database ID: #038**
 
 First Name: Hiroyuki
 

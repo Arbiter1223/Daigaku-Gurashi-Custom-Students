@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shirakawa%2C%20Koko%20(A%20funny%2C%20friendly%20gamer).png" title="Shirakawa, Koko (A funny, friendly gamer) - BenPupKao, V0.47">
 
-**Database ID: 344**
+**Database ID: #344**
 
 First Name: Koko
 

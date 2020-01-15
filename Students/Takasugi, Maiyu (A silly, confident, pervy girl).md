@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takasugi%2C%20Maiyu%20(A%20silly%2C%20confident%2C%20pervy%20girl).png" title="Takasugi, Maiyu (A silly, confident, pervy girl) - Cookie Boi, V0.47">
 
-**Database ID: 301**
+**Database ID: #301**
 
 First Name: Maiyu
 

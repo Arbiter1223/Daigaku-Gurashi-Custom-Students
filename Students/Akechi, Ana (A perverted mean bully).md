@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Akechi%2C%20Ana%20(A%20perverted%20mean%20bully).png" title="Akechi, Ana (A perverted mean bully) - Bubger Kirg, V0.47">
 
-**Database ID: 223**
+**Database ID: #223**
 
 First Name: Ana
 

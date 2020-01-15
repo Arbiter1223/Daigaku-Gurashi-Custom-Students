@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Grandma%2C%20Kipali%20(A%20self-insert%20who%20actually%20wears%20glasses%20a%20fifth%20of%20the%20time).png" title="Grandma, Kipali (A self-insert who actually wears glasses a fifth of the time) - Grandma Kipali, V0.47">
 
-**Database ID: 657**
+**Database ID: #657**
 
 First Name: Kipali
 

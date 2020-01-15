@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shintaro%2C%20Vash%20(A%20boy%20with%20anger%20issues).png" title="Shintaro, Vash (A boy with anger issues) - AjTheYandere, V0.47">
 
-**Database ID: 399**
+**Database ID: #399**
 
 First Name: Vash
 

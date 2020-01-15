@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hiraoka%2C%20Kurumi%20(A%20shy%2C%20depressed%20young%20woman).png" title="Hiraoka, Kurumi (A shy, depressed young woman) - Nyanako, V0.47">
 
-**Database ID: 91**
+**Database ID: #091**
 
 First Name: Kurumi
 

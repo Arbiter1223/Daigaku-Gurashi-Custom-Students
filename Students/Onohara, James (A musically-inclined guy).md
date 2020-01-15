@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Onohara%2C%20James%20(A%20musically-inclined%20guy).png" title="Onohara, James (A musically-inclined guy) - Shiny, V0.47">
 
-**Database ID: 598**
+**Database ID: #598**
 
 First Name: James
 

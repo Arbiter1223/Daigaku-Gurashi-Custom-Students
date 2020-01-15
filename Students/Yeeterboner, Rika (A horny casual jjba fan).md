@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yeeterboner%2C%20Rika%20(A%20horny%20casual%20jjba%20fan).png" title="Yeeterboner, Rika (A horny casual jjba fan) - sansrika, V0.47">
 
-**Database ID: 591**
+**Database ID: #591**
 
 First Name: Rika
 

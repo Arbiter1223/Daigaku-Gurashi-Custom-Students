@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ichiro%2C%20Otaka%20(A%20yandere%20futanari).png" title="Ichiro, Otaka (A yandere futanari) - Leah-Nya, V0.47">
 
-**Database ID: 113**
+**Database ID: #113**
 
 First Name: Otaka
 

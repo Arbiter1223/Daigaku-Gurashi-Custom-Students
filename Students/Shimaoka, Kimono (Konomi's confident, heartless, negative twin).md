@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimaoka%2C%20Kimono%20(Konomi's%20confident%2C%20heartless%2C%20negative%20twin).png" title="Shimaoka, Kimono (Konomi's confident, heartless, negative twin) - Cookie Boi, V0.47">
 
-**Database ID: 299**
+**Database ID: #299**
 
 First Name: Kimono
 

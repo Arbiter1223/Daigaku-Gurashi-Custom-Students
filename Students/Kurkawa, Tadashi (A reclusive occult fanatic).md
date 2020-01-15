@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kurkawa%2C%20Tadashi%20(A%20reclusive%20occult%20fanatic).png" title="Kurkawa, Tadashi (A reclusive occult fanatic) - Rando Studenta, V0.47">
 
-**Database ID: 147**
+**Database ID: #147**
 
 First Name: Tadashi
 

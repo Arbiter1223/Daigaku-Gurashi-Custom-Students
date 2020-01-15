@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Joyce%2C%20Olive%20(A%20strange%2C%20perverted%20student).png" title="Joyce, Olive (A strange, perverted student) - Shiny, V0.47">
 
-**Database ID: 664**
+**Database ID: #664**
 
 First Name: Olive
 

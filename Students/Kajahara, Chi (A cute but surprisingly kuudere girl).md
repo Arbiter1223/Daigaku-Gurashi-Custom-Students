@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kajahara%2C%20Chi%20(A%20cute%20but%20surprisingly%20kuudere%20girl).png" title="Kajahara, Chi (A cute but surprisingly kuudere girl) - Syberian Inc, V0.47">
 
-**Database ID: 30**
+**Database ID: #030**
 
 First Name: Chi
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ernst%2C%20Diana%20(A%20very%20serious%20German%20girl).png" title="Ernst, Diana (A very serious German girl) - Aho-chan, V0.47">
 
-**Database ID: 484**
+**Database ID: #484**
 
 First Name: Diana
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Matchami%2C%20Hiro%20(An%20anti-horny%20student).png" title="Matchami, Hiro (An anti-horny student) - junie, V0.47">
 
-**Database ID: 694**
+**Database ID: #694**
 
 First Name: Hiro
 

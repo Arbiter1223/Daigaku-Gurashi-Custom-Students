@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hasegawa%2C%20Kiki%20(A%20neko%20racoon%20girl).png" title="Hasegawa, Kiki (A neko racoon girl) - AjTheYandere, V0.47">
 
-**Database ID: 251**
+**Database ID: #251**
 
 First Name: Kiki
 

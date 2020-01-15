@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miyake%2C%20Chitoge%20(An%20athletic%20kuudere%20gal).png" title="Miyake, Chitoge (An athletic kuudere gal) - AjTheYandere, V0.47">
 
-**Database ID: 357**
+**Database ID: #357**
 
 First Name: Chitoge
 

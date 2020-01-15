@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sammich%2C%20Butter%20(The%20youngest%20of%20the%20Sammich%20Sisters%2C%20a%20very%20boring%20girl).png" title="Sammich, Butter (The youngest of the Sammich Sisters, a very boring girl) - AjTheYandere, V0.47">
 
-**Database ID: 651**
+**Database ID: #651**
 
 First Name: Butter
 

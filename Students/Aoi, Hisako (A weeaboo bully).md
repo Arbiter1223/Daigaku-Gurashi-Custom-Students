@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Aoi%2C%20Hisako%20(A%20weeaboo%20bully).png" title="Aoi, Hisako (A weeaboo bully) - Syberian Inc, V0.47">
 
-**Database ID: 34**
+**Database ID: #034**
 
 First Name: Hisako
 

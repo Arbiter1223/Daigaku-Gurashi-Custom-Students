@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaminaga%2C%20Nico%20(A%20cheerful%2C%20klutzy%20anime%20fan).png" title="Kaminaga, Nico (A cheerful, klutzy anime fan) - LowkeyHomo, V0.47">
 
-**Database ID: 492**
+**Database ID: #492**
 
 First Name: Nico
 

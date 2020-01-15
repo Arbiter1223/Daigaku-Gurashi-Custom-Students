@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Matsushita%2C%20Yukiko%20(A%20rude%20anime%20girl).png" title="Matsushita, Yukiko (A rude anime girl) - AjTheYandere, V0.47">
 
-**Database ID: 380**
+**Database ID: #380**
 
 First Name: Yukiko
 

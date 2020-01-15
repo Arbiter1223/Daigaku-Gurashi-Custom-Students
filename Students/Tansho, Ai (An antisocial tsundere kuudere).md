@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tansho%2C%20Ai%20(An%20antisocial%20tsundere%20kuudere).png" title="Tansho, Ai (An antisocial tsundere kuudere) - AjTheYandere, V0.47">
 
-**Database ID: 403**
+**Database ID: #403**
 
 First Name: Ai
 

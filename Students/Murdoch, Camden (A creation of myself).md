@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Murdoch%2C%20Camden%20(A%20creation%20of%20myself).png" title="Murdoch, Camden (A creation of myself) - Camden, V0.47">
 
-**Database ID: 524**
+**Database ID: #524**
 
 First Name: Camden
 

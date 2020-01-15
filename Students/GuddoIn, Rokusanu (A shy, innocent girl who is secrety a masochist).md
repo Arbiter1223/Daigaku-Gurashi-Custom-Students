@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/GuddoIn%2C%20Rokusanu%20(A%20shy%2C%20innocent%20girl%20who%20is%20secrety%20a%20masochist).png" title="GuddoIn, Rokusanu (A shy, innocent girl who is secrety a masochist) - Camden, V0.47">
 
-**Database ID: 612**
+**Database ID: #612**
 
 First Name: Rokusanu
 

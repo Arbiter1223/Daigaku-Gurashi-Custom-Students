@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ningen%2C%20Chara%20(It's%20you).png" title="Ningen, Chara (It's you) - Camden, V0.47">
 
-**Database ID: 563**
+**Database ID: #563**
 
 First Name: Chara
 

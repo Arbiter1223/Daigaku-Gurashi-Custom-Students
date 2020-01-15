@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hisako%2C%20Aoi%20(Easiest%20girlfriend%20ever).png" title="Hisako, Aoi (Easiest girlfriend ever) - Syberian Inc, V0.47">
 
-**Database ID: 33**
+**Database ID: #033**
 
 First Name: Aoi
 

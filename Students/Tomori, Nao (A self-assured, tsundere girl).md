@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tomori%2C%20Nao%20(A%20self-assured%2C%20tsundere%20girl).png" title="Tomori, Nao (A self-assured, tsundere girl) - Cookie Boi, V0.47">
 
-**Database ID: 66**
+**Database ID: #066**
 
 First Name: Nao
 

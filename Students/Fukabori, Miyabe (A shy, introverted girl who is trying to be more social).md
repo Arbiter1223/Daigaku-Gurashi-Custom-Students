@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Fukabori%2C%20Miyabe%20(A%20shy%2C%20introverted%20girl%20who%20is%20trying%20to%20be%20more%20social).png" title="Fukabori, Miyabe (A shy, introverted girl who is trying to be more social) - yogima, V0.47">
 
-**Database ID: 716**
+**Database ID: #716**
 
 First Name: Miyabe
 

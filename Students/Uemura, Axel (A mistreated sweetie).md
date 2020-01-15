@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uemura%2C%20Axel%20(A%20mistreated%20sweetie).png" title="Uemura, Axel (A mistreated sweetie) - Azumi, V0.47">
 
-**Database ID: 12**
+**Database ID: #012**
 
 First Name: Axel
 

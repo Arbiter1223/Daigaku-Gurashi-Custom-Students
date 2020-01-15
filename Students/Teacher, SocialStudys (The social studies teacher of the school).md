@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20SocialStudys%20(The%20social%20studies%20teacher%20of%20the%20school).png" title="Teacher, SocialStudys (The social studies teacher of the school) - AjTheYandere, V0.47">
 
-**Database ID: 294**
+**Database ID: #294**
 
 First Name: SocialStudys
 

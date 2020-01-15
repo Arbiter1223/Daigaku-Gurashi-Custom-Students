@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sallya%2C%20Tharja%20(From%20Fire%20Emblem%20Awakening).png" title="Sallya, Tharja (From Fire Emblem Awakening) - Ryujime, V0.47">
 
-**Database ID: 622**
+**Database ID: #622**
 
 First Name: Tharja
 

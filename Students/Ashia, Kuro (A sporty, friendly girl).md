@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ashia%2C%20Kuro%20(A%20sporty%2C%20friendly%20girl).png" title="Ashia, Kuro (A sporty, friendly girl) - Nyanako, V0.47">
 
-**Database ID: 174**
+**Database ID: #174**
 
 First Name: Kuro
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kashiwabara%2C%20Junko%20(A%20happy-go-lucky%20airhead).png" title="Kashiwabara, Junko (A happy-go-lucky airhead) - Duck-chan, V0.47">
 
-**Database ID: 329**
+**Database ID: #329**
 
 First Name: Junko
 

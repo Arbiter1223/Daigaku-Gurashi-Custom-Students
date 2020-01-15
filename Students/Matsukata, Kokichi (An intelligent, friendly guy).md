@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Matsukata%2C%20Kokichi%20(An%20intelligent%2C%20friendly%20guy).png" title="Matsukata, Kokichi (An intelligent, friendly guy) - xabbynip09, V0.47">
 
-**Database ID: 212**
+**Database ID: #212**
 
 First Name: Kokichi
 

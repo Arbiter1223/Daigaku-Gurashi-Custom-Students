@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Matsuda%2C%20Lucy%20(A%20very%20rude%20music%20girl).png" title="Matsuda, Lucy (A very rude music girl) - Syberian Inc, V0.47">
 
-**Database ID: 46**
+**Database ID: #046**
 
 First Name: Lucy
 

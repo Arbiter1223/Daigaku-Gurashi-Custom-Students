@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ogata%2C%20Hatsune%20(A%20smart%2C%20friendly%2C%20and%20charming%20girl).png" title="Ogata, Hatsune (A smart, friendly, and charming girl) - Hatsune, V0.47">
 
-**Database ID: 54**
+**Database ID: #054**
 
 First Name: Hatsune
 

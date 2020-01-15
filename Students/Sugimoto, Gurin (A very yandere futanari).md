@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sugimoto%2C%20Gurin%20(A%20very%20yandere%20futanari).png" title="Sugimoto, Gurin (A very yandere futanari) - AjTheYandere, V0.47">
 
-**Database ID: 418**
+**Database ID: #418**
 
 First Name: Gurin
 

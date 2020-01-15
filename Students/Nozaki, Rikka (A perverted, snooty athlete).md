@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nozaki%2C%20Rikka%20(A%20perverted%2C%20snooty%20athlete).png" title="Nozaki, Rikka (A perverted, snooty athlete) - AjTheYandere, V0.47">
 
-**Database ID: 461**
+**Database ID: #461**
 
 First Name: Rikka
 

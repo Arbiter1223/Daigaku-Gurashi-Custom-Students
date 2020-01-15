@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Onohara%2C%20Amane%20(A%20big%2C%20super%20sweet%20anime%20fan).png" title="Onohara, Amane (A big, super sweet anime fan) - peraon, V0.47">
 
-**Database ID: 703**
+**Database ID: #703**
 
 First Name: Amane
 

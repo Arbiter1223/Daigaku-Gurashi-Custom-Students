@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Urogataya%2C%20Strawberry%20(Kiwi's%20kuudere%20yet%20sweet%20boyfriend).png" title="Urogataya, Strawberry (Kiwi's kuudere yet sweet boyfriend) - Chi, V0.47">
 
-**Database ID: 555**
+**Database ID: #555**
 
 First Name: Strawberry
 

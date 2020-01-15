@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ishimura%2C%20Cookie%20(A%20sweet%20boy%20who%20loves%20baking).png" title="Ishimura, Cookie (A sweet boy who loves baking) - BenPupKao, V0.47">
 
-**Database ID: 99**
+**Database ID: #099**
 
 First Name: Cookie
 

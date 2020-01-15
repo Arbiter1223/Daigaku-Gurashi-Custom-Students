@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ika%2C%20Fukami%20(An%20antisocial%20kuudere%20recluse).png" title="Ika, Fukami (An antisocial kuudere recluse) - sansrika, V0.47">
 
-**Database ID: 605**
+**Database ID: #605**
 
 First Name: Fukami
 

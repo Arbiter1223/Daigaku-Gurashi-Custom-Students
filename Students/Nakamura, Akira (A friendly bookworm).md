@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakamura%2C%20Akira%20(A%20friendly%20bookworm).png" title="Nakamura, Akira (A friendly bookworm) - Obese Cat, V0.47">
 
-**Database ID: 666**
+**Database ID: #666**
 
 First Name: Akira
 

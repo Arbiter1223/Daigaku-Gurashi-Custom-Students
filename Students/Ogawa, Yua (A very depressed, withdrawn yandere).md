@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ogawa%2C%20Yua%20(A%20very%20depressed%2C%20withdrawn%20yandere).png" title="Ogawa, Yua (A very depressed, withdrawn yandere) - Rando Studenta, V0.47">
 
-**Database ID: 155**
+**Database ID: #155**
 
 First Name: Yua
 

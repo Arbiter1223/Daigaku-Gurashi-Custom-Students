@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tenjorubo%2C%20Ariko%20(A%20mashup%20of%20Kamiko%20and%20Arisu).png" title="Tenjorubo, Ariko (A mashup of Kamiko and Arisu) - AjTheYandere, V0.47">
 
-**Database ID: 382**
+**Database ID: #382**
 
 First Name: Ariko
 

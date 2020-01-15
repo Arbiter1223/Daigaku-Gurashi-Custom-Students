@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nose%2C%20Daisuke%20(A%20flirty%20yet%20modest%20guy).png" title="Nose, Daisuke (A flirty yet modest guy) - BenPupKao, V0.47">
 
-**Database ID: 341**
+**Database ID: #341**
 
 First Name: Daisuke
 

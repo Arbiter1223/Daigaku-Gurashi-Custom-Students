@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawaguchi%2C%20Momoko%20(An%20anime-loving%20cat%20girl).png" title="Kawaguchi, Momoko (An anime-loving cat girl) - undercover fox, V0.47">
 
-**Database ID: 73**
+**Database ID: #073**
 
 First Name: Momoko
 

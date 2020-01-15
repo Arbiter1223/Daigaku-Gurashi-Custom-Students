@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sonoda%2C%20Riko%20(A%20secluded%20anime%20NEET).png" title="Sonoda, Riko (A secluded anime NEET) - AjTheYandere, V0.47">
 
-**Database ID: 462**
+**Database ID: #462**
 
 First Name: Riko
 

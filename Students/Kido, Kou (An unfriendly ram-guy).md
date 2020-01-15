@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kido%2C%20Kou%20(An%20unfriendly%20ram-guy).png" title="Kido, Kou (An unfriendly ram-guy) - Nepeta, V0.47">
 
-**Database ID: 81**
+**Database ID: #081**
 
 First Name: Kou
 

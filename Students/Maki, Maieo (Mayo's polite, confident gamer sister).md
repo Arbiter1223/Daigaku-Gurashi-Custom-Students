@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Maki%2C%20Maieo%20(Mayo's%20polite%2C%20confident%20gamer%20sister).png" title="Maki, Maieo (Mayo's polite, confident gamer sister) - Cookie Boi, V0.47">
 
-**Database ID: 303**
+**Database ID: #303**
 
 First Name: Maieo
 

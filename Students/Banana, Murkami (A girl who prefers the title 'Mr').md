@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Banana%2C%20Murkami%20(A%20girl%20who%20prefers%20the%20title%20'Mr').png" title="Banana, Murkami (A girl who prefers the title 'Mr') - Clover, V0.47">
 
-**Database ID: 74**
+**Database ID: #074**
 
 First Name: Murkami
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Teacher%2C%20Japanese%20(The%20Japanese%20teacher%20of%20the%20school).png" title="Teacher, Japanese (The Japanese teacher of the school) - AjTheYandere, V0.47">
 
-**Database ID: 295**
+**Database ID: #295**
 
 First Name: Japanese
 

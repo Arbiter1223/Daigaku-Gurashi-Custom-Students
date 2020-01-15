@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ito%2C%20Mirai%20(A%20lovey-dovey%20occult%20girl).png" title="Ito, Mirai (A lovey-dovey occult girl) - witcharies, V0.47">
 
-**Database ID: 671**
+**Database ID: #671**
 
 First Name: Mirai
 

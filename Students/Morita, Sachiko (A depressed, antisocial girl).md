@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Morita%2C%20Sachiko%20(A%20depressed%2C%20antisocial%20girl).png" title="Morita, Sachiko (A depressed, antisocial girl) - Gurashidori, V0.47">
 
-**Database ID: 566**
+**Database ID: #566**
 
 First Name: Sachiko
 

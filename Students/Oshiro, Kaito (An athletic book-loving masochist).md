@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Oshiro%2C%20Kaito%20(An%20athletic%20book-loving%20masochist).png" title="Oshiro, Kaito (An athletic book-loving masochist) - YamiToast, V0.47">
 
-**Database ID: 6**
+**Database ID: #006**
 
 First Name: Kaito
 

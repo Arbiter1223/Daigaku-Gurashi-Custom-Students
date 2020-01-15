@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mori%2C%20Goth%20(A%20stereotypical%20gothic%20guy).png" title="Mori, Goth (A stereotypical gothic guy) - azure, V0.47">
 
-**Database ID: 18**
+**Database ID: #018**
 
 First Name: Goth
 

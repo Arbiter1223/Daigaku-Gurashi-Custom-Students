@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yokoyama%2C%20Ayumi%20(A%20weird%20girl%20who%20loves%20anime%20and%20manga%20way%20too%20much).png" title="Yokoyama, Ayumi (A weird girl who loves anime and manga way too much) - Midnight Kitsune, V0.47">
 
-**Database ID: 700**
+**Database ID: #700**
 
 First Name: Ayumi
 

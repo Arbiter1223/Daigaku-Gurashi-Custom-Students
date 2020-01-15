@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ozu%2C%20Maru%20(A%20friendly%2C%20cherry%20girl).png" title="Ozu, Maru (A friendly, cherry girl) - CherryMaru, V0.47">
 
-**Database ID: 52**
+**Database ID: #052**
 
 First Name: Maru
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimada%2C%20Ko%20(A%20rather%20unpleasant%20tsundere).png" title="Shimada, Ko (A rather unpleasant tsundere) - Rando Studenta, V0.47">
 
-**Database ID: 132**
+**Database ID: #132**
 
 First Name: Ko
 

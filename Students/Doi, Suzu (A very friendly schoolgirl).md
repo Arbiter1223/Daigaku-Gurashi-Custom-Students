@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Doi%2C%20Suzu%20(A%20very%20friendly%20schoolgirl).png" title="Doi, Suzu (A very friendly schoolgirl) - skylight, V0.47">
 
-**Database ID: 84**
+**Database ID: #084**
 
 First Name: Suzu
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okajima%2C%20Yuri%20(A%20quiet%2C%20intelligent%20bookworm).png" title="Okajima, Yuri (A quiet, intelligent bookworm) - Kitten, V0.47">
 
-**Database ID: 163**
+**Database ID: #163**
 
 First Name: Yuri
 

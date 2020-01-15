@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Retsuko%2C%20RedPanda%20(An%20innocent%2C%20cheerful%20girl).png" title="Retsuko, RedPanda (An innocent, cheerful girl) - Retsuko and Arbiter1223, V0.47">
 
-**Database ID: 20**
+**Database ID: #020**
 
 First Name: RedPanda
 

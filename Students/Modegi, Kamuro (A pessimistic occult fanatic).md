@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Modegi%2C%20Kamuro%20(A%20pessimistic%20occult%20fanatic).png" title="Modegi, Kamuro (A pessimistic occult fanatic) - Rando Studenta, V0.47">
 
-**Database ID: 125**
+**Database ID: #125**
 
 First Name: Kamuro
 

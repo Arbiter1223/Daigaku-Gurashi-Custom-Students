@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mizuno%2C%20Ai%20(From%20ZombieLand%20Saga).png" title="Mizuno, Ai (From ZombieLand Saga) - sansrika, V0.47">
 
-**Database ID: 581**
+**Database ID: #581**
 
 First Name: Ai
 

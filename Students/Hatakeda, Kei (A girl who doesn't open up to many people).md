@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hatakeda%2C%20Kei%20(A%20girl%20who%20doesn't%20open%20up%20to%20many%20people).png" title="Hatakeda, Kei (A girl who doesn't open up to many people) - AjTheYandere, V0.47">
 
-**Database ID: 367**
+**Database ID: #367**
 
 First Name: Kei
 

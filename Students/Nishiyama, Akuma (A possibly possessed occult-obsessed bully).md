@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nishiyama%2C%20Akuma%20(A%20possibly%20possessed%20occult-obsessed%20bully).png" title="Nishiyama, Akuma (A possibly possessed occult-obsessed bully) - BenPupKao, V0.47">
 
-**Database ID: 337**
+**Database ID: #337**
 
 First Name: Akuma
 

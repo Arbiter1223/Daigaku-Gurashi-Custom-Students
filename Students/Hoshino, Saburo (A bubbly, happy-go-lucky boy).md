@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hoshino%2C%20Saburo%20(A%20bubbly%2C%20happy-go-lucky%20boy).png" title="Hoshino, Saburo (A bubbly, happy-go-lucky boy) - Rando Studenta, V0.47">
 
-**Database ID: 145**
+**Database ID: #145**
 
 First Name: Saburo
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tanuma%2C%20Ren%20(A%20very%20friendly%2C%20flirty%20girl).png" title="Tanuma, Ren (A very friendly, flirty girl) - Rando Studenta, V0.47">
 
-**Database ID: 143**
+**Database ID: #143**
 
 First Name: Ren
 

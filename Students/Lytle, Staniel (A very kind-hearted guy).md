@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lytle%2C%20Staniel%20(A%20very%20kind-hearted%20guy).png" title="Lytle, Staniel (A very kind-hearted guy) - screaming kiwi, V0.47">
 
-**Database ID: 652**
+**Database ID: #652**
 
 First Name: Staniel
 

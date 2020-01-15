@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kinkle%2C%20Chloe%20(A%20super-perverted%20bully%20who%20enjoys%20videogames%20and%20anime).png" title="Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime) - yogima, V0.47">
 
-**Database ID: 719**
+**Database ID: #719**
 
 First Name: Chloe
 

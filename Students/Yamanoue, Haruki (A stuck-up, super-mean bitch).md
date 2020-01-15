@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamanoue%2C%20Haruki%20(A%20stuck-up%2C%20super-mean%20bitch).png" title="Yamanoue, Haruki (A stuck-up, super-mean bitch) - Rando Studenta, V0.47">
 
-**Database ID: 118**
+**Database ID: #118**
 
 First Name: Haruki
 

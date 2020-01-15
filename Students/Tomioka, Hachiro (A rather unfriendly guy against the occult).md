@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tomioka%2C%20Hachiro%20(A%20rather%20unfriendly%20guy%20against%20the%20occult).png" title="Tomioka, Hachiro (A rather unfriendly guy against the occult) - AjTheYandere, V0.47">
 
-**Database ID: 360**
+**Database ID: #360**
 
 First Name: Hachiro
 

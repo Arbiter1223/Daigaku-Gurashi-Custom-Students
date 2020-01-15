@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Konda%2C%20Paige%20(A%20cool%20kuudere%20anime%20fan).png" title="Konda, Paige (A cool kuudere anime fan) - Shiny, V0.47">
 
-**Database ID: 602**
+**Database ID: #602**
 
 First Name: Paige
 

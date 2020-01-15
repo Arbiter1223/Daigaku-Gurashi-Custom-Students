@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shosuke%2C%20Kuemon%20(A%20normal%2C%20positive%20guy%20who%20is%20slightly%20smarter%20than%20his%20peers).png" title="Shosuke, Kuemon (A normal, positive guy who is slightly smarter than his peers) - yogima, V0.47">
 
-**Database ID: 720**
+**Database ID: #720**
 
 First Name: Kuemon
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasutake%2C%20Talon%20(A%20very%20mean%20bully).png" title="Yasutake, Talon (A very mean bully) - BenPupKao, V0.47">
 
-**Database ID: 333**
+**Database ID: #333**
 
 First Name: Talon
 

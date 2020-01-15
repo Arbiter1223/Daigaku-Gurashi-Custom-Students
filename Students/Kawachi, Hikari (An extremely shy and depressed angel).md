@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawachi%2C%20Hikari%20(An%20extremely%20shy%20and%20depressed%20angel).png" title="Kawachi, Hikari (An extremely shy and depressed angel) - Rando Studenta, V0.47">
 
-**Database ID: 120**
+**Database ID: #120**
 
 First Name: Hikari
 

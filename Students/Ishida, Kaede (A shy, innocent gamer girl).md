@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ishida%2C%20Kaede%20(A%20shy%2C%20innocent%20gamer%20girl).png" title="Ishida, Kaede (A shy, innocent gamer girl) - ClownPrinceOfLies, V0.47">
 
-**Database ID: 48**
+**Database ID: #048**
 
 First Name: Kaede
 

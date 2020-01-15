@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsurimi%2C%20Natsu%20(...in%20April%20Fool's%20colors!).png" title="Tsurimi, Natsu (...in April Fool's colors!) - LowkeyHomo, V0.47">
 
-**Database ID: 509**
+**Database ID: #509**
 
 First Name: Natsu
 

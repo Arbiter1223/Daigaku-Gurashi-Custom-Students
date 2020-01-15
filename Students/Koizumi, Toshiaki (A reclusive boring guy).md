@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Koizumi%2C%20Toshiaki%20(A%20reclusive%20boring%20guy).png" title="Koizumi, Toshiaki (A reclusive boring guy) - AjTheYandere, V0.47">
 
-**Database ID: 395**
+**Database ID: #395**
 
 First Name: Toshiaki
 

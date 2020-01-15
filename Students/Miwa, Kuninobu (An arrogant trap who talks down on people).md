@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miwa%2C%20Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people).png" title="Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.47">
 
-**Database ID: 203**
+**Database ID: #203**
 
 First Name: Kuninobu
 

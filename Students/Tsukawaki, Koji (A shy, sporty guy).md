@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tsukawaki%2C%20Koji%20(A%20shy%2C%20sporty%20guy).png" title="Tsukawaki, Koji (A shy, sporty guy) - AjTheYandere, V0.47">
 
-**Database ID: 439**
+**Database ID: #439**
 
 First Name: Koji
 

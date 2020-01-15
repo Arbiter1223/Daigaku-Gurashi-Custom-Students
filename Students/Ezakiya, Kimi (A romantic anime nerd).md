@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ezakiya%2C%20Kimi%20(A%20romantic%20anime%20nerd).png" title="Ezakiya, Kimi (A romantic anime nerd) - AjTheYandere, V0.47">
 
-**Database ID: 437**
+**Database ID: #437**
 
 First Name: Kimi
 

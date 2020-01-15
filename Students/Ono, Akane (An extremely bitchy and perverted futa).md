@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ono%2C%20Akane%20(An%20extremely%20bitchy%20and%20perverted%20futa).png" title="Ono, Akane (An extremely bitchy and perverted futa) - Nyanako, V0.47">
 
-**Database ID: 173**
+**Database ID: #173**
 
 First Name: Akane
 

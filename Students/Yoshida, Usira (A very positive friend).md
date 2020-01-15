@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yoshida%2C%20Usira%20(A%20very%20positive%20friend).png" title="Yoshida, Usira (A very positive friend) - Camden, V0.47">
 
-**Database ID: 595**
+**Database ID: #595**
 
 First Name: Usira
 

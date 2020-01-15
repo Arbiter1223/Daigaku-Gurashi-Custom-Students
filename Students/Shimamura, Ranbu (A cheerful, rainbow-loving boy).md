@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shimamura%2C%20Ranbu%20(A%20cheerful%2C%20rainbow-loving%20boy).png" title="Shimamura, Ranbu (A cheerful, rainbow-loving boy) - LowkeyHomo, V0.47">
 
-**Database ID: 496**
+**Database ID: #496**
 
 First Name: Ranbu
 

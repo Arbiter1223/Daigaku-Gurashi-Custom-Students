@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/One%2C%20Player%20(A%20girl%20who%20likes%20to%20play%20anime%20social%20simulators).png" title="One, Player (A girl who likes to play anime social simulators) - AjTheYandere, V0.47">
 
-**Database ID: 254**
+**Database ID: #254**
 
 First Name: Player
 

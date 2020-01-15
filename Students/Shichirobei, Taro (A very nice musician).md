@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shichirobei%2C%20Taro%20(A%20very%20nice%20musician).png" title="Shichirobei, Taro (A very nice musician) - AjTheYandere, V0.47">
 
-**Database ID: 391**
+**Database ID: #391**
 
 First Name: Taro
 

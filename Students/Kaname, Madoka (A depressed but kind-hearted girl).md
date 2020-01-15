@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaname%2C%20Madoka%20(A%20depressed%20but%20kind-hearted%20girl).png" title="Kaname, Madoka (A depressed but kind-hearted girl) - Cookie Boi, V0.47">
 
-**Database ID: 58**
+**Database ID: #058**
 
 First Name: Madoka
 

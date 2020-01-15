@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Umemoto%2C%20Toast%20(From%20the%20Taco%20Masters).png" title="Umemoto, Toast (From the Taco Masters) - Toast, V0.47">
 
-**Database ID: 310**
+**Database ID: #310**
 
 First Name: Toast
 

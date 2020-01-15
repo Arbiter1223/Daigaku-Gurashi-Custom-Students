@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawai%2C%20Naoki%20(A%20shy%20but%20talented%20athlete).png" title="Kawai, Naoki (A shy but talented athlete) - AjTheYandere, V0.47">
 
-**Database ID: 452**
+**Database ID: #452**
 
 First Name: Naoki
 

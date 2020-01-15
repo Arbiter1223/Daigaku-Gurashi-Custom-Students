@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shirasu%2C%20Gonta%20(A%20nice%20but%20kinda%20dumb%20guy).png" title="Shirasu, Gonta (A nice but kinda dumb guy) - ClownPrinceOfLies, V0.47">
 
-**Database ID: 50**
+**Database ID: #050**
 
 First Name: Gonta
 

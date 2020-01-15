@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kobayashi%2C%20Ayumi%20(An%20anime-obsessed%20fangirl).png" title="Kobayashi, Ayumi (An anime-obsessed fangirl) - Midnight Kitsune, V0.47">
 
-**Database ID: 682**
+**Database ID: #682**
 
 First Name: Ayumi
 

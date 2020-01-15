@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Minamoto%2C%20Sakura%20(From%20ZombieLand%20Saga).png" title="Minamoto, Sakura (From ZombieLand Saga) - sansrika, V0.47">
 
-**Database ID: 583**
+**Database ID: #583**
 
 First Name: Sakura
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miyazaki%2C%20Chiasa%20(A%20confident%2C%20sporty%20tsundere).png" title="Miyazaki, Chiasa (A confident, sporty tsundere) - AjTheYandere, V0.47">
 
-**Database ID: 354**
+**Database ID: #354**
 
 First Name: Chiasa
 

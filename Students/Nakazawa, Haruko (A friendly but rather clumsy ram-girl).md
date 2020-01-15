@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakazawa%2C%20Haruko%20(A%20friendly%20but%20rather%20clumsy%20ram-girl).png" title="Nakazawa, Haruko (A friendly but rather clumsy ram-girl) - Rando Studenta, V0.47">
 
-**Database ID: 119**
+**Database ID: #119**
 
 First Name: Haruko
 

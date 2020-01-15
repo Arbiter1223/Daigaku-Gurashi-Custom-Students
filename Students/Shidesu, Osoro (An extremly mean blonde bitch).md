@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shidesu%2C%20Osoro%20(An%20extremly%20mean%20blonde%20bitch).png" title="Shidesu, Osoro (An extremly mean blonde bitch) - Shadow, V0.47">
 
-**Database ID: 193**
+**Database ID: #193**
 
 First Name: Osoro
 

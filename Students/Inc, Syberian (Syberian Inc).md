@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Inc%2C%20Syberian%20(Syberian%20Inc).png" title="Inc, Syberian (Syberian Inc) - Syberian Inc, V0.47">
 
-**Database ID: 488**
+**Database ID: #488**
 
 First Name: Syberian
 

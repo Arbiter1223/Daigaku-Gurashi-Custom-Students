@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Itami%2C%20Owoki%20(A%20kind%20anime%20enthusiast).png" title="Itami, Owoki (A kind anime enthusiast) - BenPupKao, V0.47">
 
-**Database ID: 550**
+**Database ID: #550**
 
 First Name: Owoki
 

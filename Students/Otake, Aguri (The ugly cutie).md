@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Otake%2C%20Aguri%20(The%20ugly%20cutie).png" title="Otake, Aguri (The ugly cutie) - Aho-chan, V0.47">
 
-**Database ID: 343**
+**Database ID: #343**
 
 First Name: Aguri
 

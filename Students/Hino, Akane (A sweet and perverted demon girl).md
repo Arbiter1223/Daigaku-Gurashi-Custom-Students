@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hino%2C%20Akane%20(A%20sweet%20and%20perverted%20demon%20girl).png" title="Hino, Akane (A sweet and perverted demon girl) - witcharies, V0.47">
 
-**Database ID: 677**
+**Database ID: #677**
 
 First Name: Akane
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okabe%2C%20Akane%20(A%20clumsy%20'Dubs%20Over%20Subs'%20anime%20lover).png" title="Okabe, Akane (A clumsy 'Dubs Over Subs' anime lover) - AjTheYandere, V0.47">
 
-**Database ID: 404**
+**Database ID: #404**
 
 First Name: Akane
 

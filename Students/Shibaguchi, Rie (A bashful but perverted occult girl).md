@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shibaguchi%2C%20Rie%20(A%20bashful%20but%20perverted%20occult%20girl).png" title="Shibaguchi, Rie (A bashful but perverted occult girl) - Rando Studenta, V0.47">
 
-**Database ID: 144**
+**Database ID: #144**
 
 First Name: Rie
 

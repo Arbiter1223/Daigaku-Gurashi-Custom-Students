@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Dan%2C%20Hiroshi%20(An%20overconfident%20but%20smart%20child).png" title="Dan, Hiroshi (An overconfident but smart child) - Camden, V0.47">
 
-**Database ID: 552**
+**Database ID: #552**
 
 First Name: Hiroshi
 

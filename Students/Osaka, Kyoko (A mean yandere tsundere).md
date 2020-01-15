@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Osaka%2C%20Kyoko%20(A%20mean%20yandere%20tsundere).png" title="Osaka, Kyoko (A mean yandere tsundere) - AjTheYandere, V0.47">
 
-**Database ID: 441**
+**Database ID: #441**
 
 First Name: Kyoko
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Masuda%2C%20Kantaro%20(A%20very%20snooty%20baka).png" title="Masuda, Kantaro (A very snooty baka) - AjTheYandere, V0.47">
 
-**Database ID: 669**
+**Database ID: #669**
 
 First Name: Kantaro
 

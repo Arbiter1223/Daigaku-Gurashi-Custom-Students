@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawagishi%2C%20Kuina%20(A%20shy%20but%20super%20nice%20cutie).png" title="Kawagishi, Kuina (A shy but super nice cutie) - Rando Studenta, V0.47">
 
-**Database ID: 724**
+**Database ID: #724**
 
 First Name: Kuina
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sunobu%2C%20Kizana%20(A%20happy%2C%20snooty%20bookworm).png" title="Sunobu, Kizana (A happy, snooty bookworm) - Shadow and yogima, V0.47">
 
-**Database ID: 188**
+**Database ID: #188**
 
 First Name: Kizana
 

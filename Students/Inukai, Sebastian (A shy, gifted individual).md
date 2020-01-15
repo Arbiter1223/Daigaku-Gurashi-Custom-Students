@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Inukai%2C%20Sebastian%20(A%20shy%2C%20gifted%20individual).png" title="Inukai, Sebastian (A shy, gifted individual) - Nightara, V0.47">
 
-**Database ID: 102**
+**Database ID: #102**
 
 First Name: Sebastian
 

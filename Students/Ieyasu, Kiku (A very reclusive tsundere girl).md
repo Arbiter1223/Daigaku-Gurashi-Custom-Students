@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ieyasu%2C%20Kiku%20(A%20very%20reclusive%20tsundere%20girl).png" title="Ieyasu, Kiku (A very reclusive tsundere girl) - Rando Studenta, V0.47">
 
-**Database ID: 130**
+**Database ID: #130**
 
 First Name: Kiku
 

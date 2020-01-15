@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kurusu%2C%20Lainey%20(A%20friendly%20airhead).png" title="Kurusu, Lainey (A friendly airhead) - Hatsune, V0.47">
 
-**Database ID: 45**
+**Database ID: #045**
 
 First Name: Lainey
 

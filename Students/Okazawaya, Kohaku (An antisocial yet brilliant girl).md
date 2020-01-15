@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okazawaya%2C%20Kohaku%20(An%20antisocial%20yet%20brilliant%20girl).png" title="Okazawaya, Kohaku (An antisocial yet brilliant girl) - Rando Studenta, V0.47">
 
-**Database ID: 133**
+**Database ID: #133**
 
 First Name: Kohaku
 

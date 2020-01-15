@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Otake%2C%20Rukia%20(Aguri's%20weird%20younger%20sister).png" title="Otake, Rukia (Aguri's weird younger sister) - Aho-chan, V0.47">
 
-**Database ID: 390**
+**Database ID: #390**
 
 First Name: Rukia
 

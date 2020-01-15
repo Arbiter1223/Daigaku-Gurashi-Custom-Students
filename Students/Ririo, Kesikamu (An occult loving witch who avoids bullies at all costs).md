@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ririo%2C%20Kesikamu%20(An%20occult%20loving%20witch%20who%20avoids%20bullies%20at%20all%20costs).png" title="Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs) - kami, V0.47">
 
-**Database ID: 638**
+**Database ID: #638**
 
 First Name: Kesikamu
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shoda%2C%20Arata%20(A%20not%20so%20loyal%20gamer).png" title="Shoda, Arata (A not so loyal gamer) - AjTheYandere, V0.47">
 
-**Database ID: 408**
+**Database ID: #408**
 
 First Name: Arata
 

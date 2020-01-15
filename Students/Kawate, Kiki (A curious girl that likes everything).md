@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kawate%2C%20Kiki%20(A%20curious%20girl%20that%20likes%20everything).png" title="Kawate, Kiki (A curious girl that likes everything) - Nightara, V0.47">
 
-**Database ID: 489**
+**Database ID: #489**
 
 First Name: Kiki
 

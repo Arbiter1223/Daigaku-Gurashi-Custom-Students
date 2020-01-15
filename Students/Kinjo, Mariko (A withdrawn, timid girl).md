@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kinjo%2C%20Mariko%20(A%20withdrawn%2C%20timid%20girl).png" title="Kinjo, Mariko (A withdrawn, timid girl) - AjTheYandere, V0.47">
 
-**Database ID: 444**
+**Database ID: #444**
 
 First Name: Mariko
 

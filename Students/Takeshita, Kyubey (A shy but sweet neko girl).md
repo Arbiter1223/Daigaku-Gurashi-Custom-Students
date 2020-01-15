@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takeshita%2C%20Kyubey%20(A%20shy%20but%20sweet%20neko%20girl).png" title="Takeshita, Kyubey (A shy but sweet neko girl) - Cookie Boi, V0.47">
 
-**Database ID: 63**
+**Database ID: #063**
 
 First Name: Kyubey
 

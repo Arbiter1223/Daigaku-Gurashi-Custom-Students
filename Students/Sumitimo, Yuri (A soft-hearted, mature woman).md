@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sumitimo%2C%20Yuri%20(A%20soft-hearted%2C%20mature%20woman).png" title="Sumitimo, Yuri (A soft-hearted, mature woman) - Aho-chan, V0.47">
 
-**Database ID: 186**
+**Database ID: #186**
 
 First Name: Yuri
 

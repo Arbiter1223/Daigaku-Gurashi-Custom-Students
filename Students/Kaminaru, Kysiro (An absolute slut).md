@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kaminaru%2C%20Kysiro%20(An%20absolute%20slut).png" title="Kaminaru, Kysiro (An absolute slut) - kami, V0.47">
 
-**Database ID: 639**
+**Database ID: #639**
 
 First Name: Kysiro
 

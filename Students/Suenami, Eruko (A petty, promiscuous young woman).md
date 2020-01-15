@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Suenami%2C%20Eruko%20(A%20petty%2C%20promiscuous%20young%20woman).png" title="Suenami, Eruko (A petty, promiscuous young woman) - Nyanako, V0.47">
 
-**Database ID: 171**
+**Database ID: #171**
 
 First Name: Eruko
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miki%2C%20Gemin%20(A%20somewhat%20pervy%20gamer).png" title="Miki, Gemin (A somewhat pervy gamer) - BenPupKao, V0.47">
 
-**Database ID: 482**
+**Database ID: #482**
 
 First Name: Gemin
 

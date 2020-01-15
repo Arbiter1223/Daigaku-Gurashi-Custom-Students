@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miura%2C%20Brea%20(An%20unfriendly%20tsundere%20futa).png" title="Miura, Brea (An unfriendly tsundere futa) - Nightara, V0.47">
 
-**Database ID: 100**
+**Database ID: #100**
 
 First Name: Brea
 

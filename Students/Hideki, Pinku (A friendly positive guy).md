@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hideki%2C%20Pinku%20(A%20friendly%20positive%20guy).png" title="Hideki, Pinku (A friendly positive guy) - YamiToast, V0.47">
 
-**Database ID: 5**
+**Database ID: #005**
 
 First Name: Pinku
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jukodo%2C%20Mirana%20(Princess%20of%20the%20Moon).png" title="Jukodo, Mirana (Princess of the Moon) - Aho-chan, V0.47">
 
-**Database ID: 226**
+**Database ID: #226**
 
 First Name: Mirana
 

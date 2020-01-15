@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Hideki%2C%20Shikuro%20(A%20very%20sad%20boy).png" title="Hideki, Shikuro (A very sad boy) - screaming kiwi, V0.47">
 
-**Database ID: 676**
+**Database ID: #676**
 
 First Name: Shikuro
 

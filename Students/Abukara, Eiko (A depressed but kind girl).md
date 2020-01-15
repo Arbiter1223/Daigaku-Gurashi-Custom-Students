@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Abukara%2C%20Eiko%20(A%20depressed%20but%20kind%20girl).png" title="Abukara, Eiko (A depressed but kind girl) - Hatsune, V0.47">
 
-**Database ID: 35**
+**Database ID: #035**
 
 First Name: Eiko
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tagawa%2C%20Manami%20(A%20bullied%20athlete%2C%20Murasaki's%20childhood%20friend).png" title="Tagawa, Manami (A bullied athlete, Murasaki's childhood friend) - Aho-chan, V0.47">
 
-**Database ID: 270**
+**Database ID: #270**
 
 First Name: Manami
 

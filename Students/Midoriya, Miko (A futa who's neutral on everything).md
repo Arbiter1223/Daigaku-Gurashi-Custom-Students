@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Midoriya%2C%20Miko%20(A%20futa%20who's%20neutral%20on%20everything).png" title="Midoriya, Miko (A futa who's neutral on everything) - kami, V0.47">
 
-**Database ID: 632**
+**Database ID: #632**
 
 First Name: Miko
 

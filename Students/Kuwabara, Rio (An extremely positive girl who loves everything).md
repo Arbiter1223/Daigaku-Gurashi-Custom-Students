@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kuwabara%2C%20Rio%20(An%20extremely%20positive%20girl%20who%20loves%20everything).png" title="Kuwabara, Rio (An extremely positive girl who loves everything) - Syberian Inc, V0.47">
 
-**Database ID: 564**
+**Database ID: #564**
 
 First Name: Rio
 

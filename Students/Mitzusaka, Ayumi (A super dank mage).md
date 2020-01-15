@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mitzusaka%2C%20Ayumi%20(A%20super%20dank%20mage).png" title="Mitzusaka, Ayumi (A super dank mage) - Nyanako, V0.47">
 
-**Database ID: 182**
+**Database ID: #182**
 
 First Name: Ayumi
 

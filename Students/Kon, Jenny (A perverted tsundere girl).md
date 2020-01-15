@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kon%2C%20Jenny%20(A%20perverted%20tsundere%20girl).png" title="Kon, Jenny (A perverted tsundere girl) - AjTheYandere, V0.47">
 
-**Database ID: 456**
+**Database ID: #456**
 
 First Name: Jenny
 

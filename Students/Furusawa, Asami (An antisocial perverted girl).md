@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Furusawa%2C%20Asami%20(An%20antisocial%20perverted%20girl).png" title="Furusawa, Asami (An antisocial perverted girl) - AjTheYandere, V0.47">
 
-**Database ID: 350**
+**Database ID: #350**
 
 First Name: Asami
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Mangetsu%2C%20Kisame%20(A%20very%20smart%20masochistic%20guy).png" title="Mangetsu, Kisame (A very smart masochistic guy) - kami, V0.47">
 
-**Database ID: 673**
+**Database ID: #673**
 
 First Name: Kisame
 

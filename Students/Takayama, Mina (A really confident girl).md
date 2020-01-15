@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takayama%2C%20Mina%20(A%20really%20confident%20girl).png" title="Takayama, Mina (A really confident girl) - Bubger Kirg, V0.47">
 
-**Database ID: 257**
+**Database ID: #257**
 
 First Name: Mina
 

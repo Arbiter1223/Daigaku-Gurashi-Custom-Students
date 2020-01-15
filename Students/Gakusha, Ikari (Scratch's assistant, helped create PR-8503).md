@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Gakusha%2C%20Ikari%20(Scratch's%20assistant%2C%20helped%20create%20PR-8503).png" title="Gakusha, Ikari (Scratch's assistant, helped create PR-8503) - AjTheYandere, V0.47">
 
-**Database ID: 385**
+**Database ID: #385**
 
 First Name: Ikari
 

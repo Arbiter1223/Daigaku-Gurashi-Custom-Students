@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Togami%2C%20Byakuya%20(A%20snuffy%20rich%20kid).png" title="Togami, Byakuya (A snuffy rich kid) - Camden, V0.47">
 
-**Database ID: 610**
+**Database ID: #610**
 
 First Name: Byakuya
 

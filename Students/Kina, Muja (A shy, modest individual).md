@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kina%2C%20Muja%20(A%20shy%2C%20modest%20individual).png" title="Kina, Muja (A shy, modest individual) - Shadow, V0.47">
 
-**Database ID: 191**
+**Database ID: #191**
 
 First Name: Muja
 

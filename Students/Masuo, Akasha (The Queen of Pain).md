@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Masuo%2C%20Akasha%20(The%20Queen%20of%20Pain).png" title="Masuo, Akasha (The Queen of Pain) - Aho-chan, V0.47">
 
-**Database ID: 229**
+**Database ID: #229**
 
 First Name: Akasha
 

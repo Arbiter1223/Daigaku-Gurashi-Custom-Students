@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Okimoto%2C%20Chie%20(A%20sweet%20occult%20clover).png" title="Okimoto, Chie (A sweet occult clover) - Nyanako, V0.47">
 
-**Database ID: 176**
+**Database ID: #176**
 
 First Name: Chie
 

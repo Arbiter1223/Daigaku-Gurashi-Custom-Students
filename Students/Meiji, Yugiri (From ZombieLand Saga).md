@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Meiji%2C%20Yugiri%20(From%20ZombieLand%20Saga).png" title="Meiji, Yugiri (From ZombieLand Saga) - sansrika, V0.47">
 
-**Database ID: 579**
+**Database ID: #579**
 
 First Name: Yugiri
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamada%2C%20Taro%20(A%20pretty%20okay%20dude).png" title="Yamada, Taro (A pretty okay dude) - Shadow and yogima, V0.47">
 
-**Database ID: 196**
+**Database ID: #196**
 
 First Name: Taro
 

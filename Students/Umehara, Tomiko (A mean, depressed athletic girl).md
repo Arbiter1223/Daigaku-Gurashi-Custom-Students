@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Umehara%2C%20Tomiko%20(A%20mean%2C%20depressed%20athletic%20girl).png" title="Umehara, Tomiko (A mean, depressed athletic girl) - Retsuko, V0.47">
 
-**Database ID: 36**
+**Database ID: #036**
 
 First Name: Tomiko
 

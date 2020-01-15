@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Aida%2C%20Mason%20(A%20bit%20of%20a%20sporty%20baka).png" title="Aida, Mason (A bit of a sporty baka) - Shiny, V0.47">
 
-**Database ID: 601**
+**Database ID: #601**
 
 First Name: Mason
 

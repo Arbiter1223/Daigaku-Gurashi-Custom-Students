@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Takekawa%2C%20Akira%20(A%20sad%2C%20somewhat%20unfriendly%20boy).png" title="Takekawa, Akira (A sad, somewhat unfriendly boy) - BenPupKao, V0.47">
 
-**Database ID: 340**
+**Database ID: #340**
 
 First Name: Akira
 

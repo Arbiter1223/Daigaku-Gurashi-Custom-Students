@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Miyajima%2C%20Date%20(An%20anti-social%20yandere%20masochist).png" title="Miyajima, Date (An anti-social yandere masochist) - Duck-chan, V0.47">
 
-**Database ID: 110**
+**Database ID: #110**
 
 First Name: Date
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Horigome%2C%20Chiyo%20(A%20girl%20who%20excels%20in%20her%20schoolwork%20and%20athletics).png" title="Horigome, Chiyo (A girl who excels in her schoolwork and athletics) - AjTheYandere, V0.47">
 
-**Database ID: 414**
+**Database ID: #414**
 
 First Name: Chiyo
 

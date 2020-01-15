@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kahae%2C%20Sango%20(A%20sweet%20anime%20fangirl).png" title="Kahae, Sango (A sweet anime fangirl) - AjTheYandere, V0.47">
 
-**Database ID: 468**
+**Database ID: #468**
 
 First Name: Sango
 

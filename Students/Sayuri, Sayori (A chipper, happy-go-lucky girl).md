@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sayuri%2C%20Sayori%20(A%20chipper%2C%20happy-go-lucky%20girl).png" title="Sayuri, Sayori (A chipper, happy-go-lucky girl) - Aho-chan, V0.47">
 
-**Database ID: 187**
+**Database ID: #187**
 
 First Name: Sayori
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Morimoto%2C%20Mimi%20(A%20shy%20tsundere%20girl).png" title="Morimoto, Mimi (A shy tsundere girl) - Duck-chan, V0.47">
 
-**Database ID: 92**
+**Database ID: #092**
 
 First Name: Mimi
 

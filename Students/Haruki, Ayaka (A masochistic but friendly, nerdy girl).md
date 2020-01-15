@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Haruki%2C%20Ayaka%20(A%20masochistic%20but%20friendly%2C%20nerdy%20girl).png" title="Haruki, Ayaka (A masochistic but friendly, nerdy girl) - ghoul, V0.47">
 
-**Database ID: 624**
+**Database ID: #624**
 
 First Name: Ayaka
 

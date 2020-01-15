@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nakadan%2C%20Katsuo%20(An%20unsociable%20but%20intelligent%20scholar).png" title="Nakadan, Katsuo (An unsociable but intelligent scholar) - AjTheYandere, V0.47">
 
-**Database ID: 365**
+**Database ID: #365**
 
 First Name: Katsuo
 

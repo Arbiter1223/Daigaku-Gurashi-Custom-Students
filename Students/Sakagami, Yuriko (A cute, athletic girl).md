@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sakagami%2C%20Yuriko%20(A%20cute%2C%20athletic%20girl).png" title="Sakagami, Yuriko (A cute, athletic girl) - Azumi, V0.47">
 
-**Database ID: 87**
+**Database ID: #087**
 
 First Name: Yuriko
 

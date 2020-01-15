@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Doki%2C%20Natsuki%20(Best%20Doki%2C%20no%20questions%20asked).png" title="Doki, Natsuki (Best Doki, no questions asked) - AjTheYandere, V0.47">
 
-**Database ID: 663**
+**Database ID: #663**
 
 First Name: Natsuki
 

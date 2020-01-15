@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Araki%2C%20Jolyne%20(An%20idiotic%20Tumblr%20girl%20sterotype).png" title="Araki, Jolyne (An idiotic Tumblr girl sterotype) - Aho-chan, V0.47">
 
-**Database ID: 272**
+**Database ID: #272**
 
 First Name: Jolyne
 

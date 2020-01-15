@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamanouchi%2C%20Hana%20(A%20psychotic%20occult%20fanatic).png" title="Yamanouchi, Hana (A psychotic occult fanatic) - AjTheYandere, V0.47">
 
-**Database ID: 420**
+**Database ID: #420**
 
 First Name: Hana
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Korasama%2C%20Meloka%20(A%20stylish%20girl%20who%20shows%20a%20great%20interest%20in%20the%20occult).png" title="Korasama, Meloka (A stylish girl who shows a great interest in the occult) - chalk_girl, V0.47">
 
-**Database ID: 713**
+**Database ID: #713**
 
 First Name: Meloka
 

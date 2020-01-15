@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ohira%2C%20Naomi%20(A%20friendly%20but%20clingy%20tsundere).png" title="Ohira, Naomi (A friendly but clingy tsundere) - RainB, V0.47">
 
-**Database ID: 76**
+**Database ID: #076**
 
 First Name: Naomi
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Coochieki%2C%20Mira%20(A%20shy%20but%20sweet%20guy).png" title="Coochieki, Mira (A shy but sweet guy) - Mira, V0.47">
 
-**Database ID: 614**
+**Database ID: #614**
 
 First Name: Mira
 
