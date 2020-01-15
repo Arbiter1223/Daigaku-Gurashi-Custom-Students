@@ -8,9 +8,10 @@ If you would like to contribute to the Custom Student Database, you may do so on
 
 As Daigaku Gurashi is updated, the students in the database are also updated to be compatible with the latest version. This means that you don't have to worry about manually updating the student(s) you upload, but it also means there's a chance your student(s) may be updated in a way you do not like. If you would like to personally update your student in the database, simply upload the updated .student file as you would with a new student, and be sure to mention that it is an update for your preexisting student. All changes by the original authors supersede any changes I make in the updating process, so you can make sure your students in the database are exactly the way you want them to be.
 
-Just like the game, the Custom Student Database is a work in progress, so bear that in mind for the moment as you browse through the students. ALL students are up-to-date, however, and are ready to be downloaded and used in the game. Thank you, and enjoy your new classmates!
+Just like Daigaku Gurashi, the Custom Student Database is a work in progress, so bear that in mind for the moment as you browse through the students. ALL students are up-to-date, however, and are ready to be downloaded and used in the game. Thank you, and enjoy your new classmates!
 
 ### -Arbiter1223
+<img src="Arbiter1223.png" height="150" width="150" title="Hey, that's me! :D">
 
 --------
 
@@ -22,15 +23,13 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 ### To-Do List
 
-* Add Database ID value to student information pages
-
 * Figure out system for siblings/related characters
 
 * Possibly add Additional Information section to student information pages?
 
 * Come up with better system for browsing/sorting/searching database
 
-* Maybe add my profile picture next to my 'signature'?
+* Remove any duplicate students in database
 
 --------
 
