@@ -18,5 +18,6 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
-#### Related Students
+### Related Students
 
+-none-
