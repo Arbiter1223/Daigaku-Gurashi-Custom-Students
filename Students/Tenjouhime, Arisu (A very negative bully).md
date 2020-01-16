@@ -18,7 +18,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
-#### Related Students
+### Related Students
 
 <a href="Tenjouhime, Arisa (Arisu's older, nicer sister).md"><img src="Files/Thumbs/Tenjouhime, Arisa (Arisu's older, nicer sister).png" height="100" width="100" title="Tenjouhime, Arisa (Arisu's older, nicer sister) - Arbiter1223, V0.47"></a><a href="Tenjouhime, Arisa (Arisu's older, nicer sister).md"> Arisa - Sister (unofficial)</a>
 
