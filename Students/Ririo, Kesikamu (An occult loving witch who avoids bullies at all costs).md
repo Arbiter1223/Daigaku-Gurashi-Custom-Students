@@ -1,8 +1,8 @@
 # Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ririo%2C%20Kesikamu%20(An%20occult%20loving%20witch%20who%20avoids%20bullies%20at%20all%20costs).png" title="Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs) - kami, V0.47">
+<img src="Files/Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs).png" title="Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs) - kami, V0.47">
 
-**Database ID: #638**
+**Database ID: #637**
 
 First Name: Kesikamu
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Ririo%2C%20Kesikamu%20(An%20occult%20loving%20witch%20who%20avoids%20bullies%20at%20all%20costs)%20-%20kami%2C%20V0.47.student">Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs) - kami, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

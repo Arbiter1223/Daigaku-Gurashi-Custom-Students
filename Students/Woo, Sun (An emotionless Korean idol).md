@@ -1,6 +1,6 @@
 # Woo, Sun (An emotionless Korean idol)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Woo%2C%20Sun%20(An%20emotionless%20Korean%20idol).png" title="Woo, Sun (An emotionless Korean idol) - Aho-chan, V0.47">
+<img src="Files/Woo, Sun (An emotionless Korean idol).png" title="Woo, Sun (An emotionless Korean idol) - Aho-chan, V0.47">
 
 **Database ID: #388**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Woo%2C%20Sun%20(An%20emotionless%20Korean%20idol)%20-%20Aho-chan%2C%20V0.47.student">Woo, Sun (An emotionless Korean idol) - Aho-chan, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

@@ -1,6 +1,6 @@
 # Kikkawa, Kiiro (A self-centered music boy)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kikkawa%2C%20Kiiro%20(A%20self-centered%20music%20boy).png" title="Kikkawa, Kiiro (A self-centered music boy) - Rando Studenta, V0.47">
+<img src="Files/Kikkawa, Kiiro (A self-centered music boy).png" title="Kikkawa, Kiiro (A self-centered music boy) - Rando Studenta, V0.47">
 
 **Database ID: #129**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kikkawa%2C%20Kiiro%20(A%20self-centered%20music%20boy)%20-%20Rando%20Studenta%2C%20V0.47.student">Kikkawa, Kiiro (A self-centered music boy) - Rando Studenta, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

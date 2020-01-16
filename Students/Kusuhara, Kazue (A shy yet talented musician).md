@@ -1,6 +1,6 @@
 # Kusuhara, Kazue (A shy yet talented musician)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kusuhara%2C%20Kazue%20(A%20shy%20yet%20talented%20musician).png" title="Kusuhara, Kazue (A shy yet talented musician) - AjTheYandere, V0.47">
+<img src="Files/Kusuhara, Kazue (A shy yet talented musician).png" title="Kusuhara, Kazue (A shy yet talented musician) - AjTheYandere, V0.47">
 
 **Database ID: #366**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kusuhara%2C%20Kazue%20(A%20shy%20yet%20talented%20musician)%20-%20AjTheYandere%2C%20V0.47.student">Kusuhara, Kazue (A shy yet talented musician) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

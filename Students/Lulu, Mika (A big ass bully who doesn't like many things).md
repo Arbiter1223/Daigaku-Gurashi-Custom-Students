@@ -1,8 +1,8 @@
 # Lulu, Mika (A big ass bully who doesn't like many things)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lulu%2C%20Mika%20(A%20big%20ass%20bully%20who%20doesn't%20like%20many%20things).png" title="Lulu, Mika (A big ass bully who doesn't like many things) - oqndy, V0.47">
+<img src="Files/Lulu, Mika (A big ass bully who doesn't like many things).png" title="Lulu, Mika (A big ass bully who doesn't like many things) - oqndy, V0.47">
 
-**Database ID: #660**
+**Database ID: #659**
 
 First Name: Mika
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Lulu%2C%20Mika%20(A%20big%20ass%20bully%20who%20doesn't%20like%20many%20things)%20-%20oqndy%2C%20V0.47.student">Lulu, Mika (A big ass bully who doesn't like many things) - oqndy, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

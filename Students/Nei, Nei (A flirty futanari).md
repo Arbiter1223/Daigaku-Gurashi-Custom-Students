@@ -1,6 +1,6 @@
 # Nei, Nei (A flirty futanari)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nei%2C%20Nei%20(A%20flirty%20futanari).png" title="Nei, Nei (A flirty futanari) - Nei, V0.47">
+<img src="Files/Nei, Nei (A flirty futanari).png" title="Nei, Nei (A flirty futanari) - Nei, V0.47">
 
 **Database ID: #009**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Nei%2C%20Nei%20(A%20flirty%20futanari)%20-%20Nei%2C%20V0.47.student">Nei, Nei (A flirty futanari) - Nei, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

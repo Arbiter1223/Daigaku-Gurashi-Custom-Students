@@ -1,6 +1,6 @@
 # Kenkyusha, Machigai (An antisocial gamer hater)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kenkyusha%2C%20Machigai%20(An%20antisocial%20gamer%20hater).png" title="Kenkyusha, Machigai (An antisocial gamer hater) - BenPupKao, V0.47">
+<img src="Files/Kenkyusha, Machigai (An antisocial gamer hater).png" title="Kenkyusha, Machigai (An antisocial gamer hater) - BenPupKao, V0.47">
 
 **Database ID: #502**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kenkyusha%2C%20Machigai%20(An%20antisocial%20gamer%20hater)%20-%20BenPupKao%2C%20V0.47.student">Kenkyusha, Machigai (An antisocial gamer hater) - BenPupKao, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

@@ -1,6 +1,6 @@
 # Kakinomoto, Takko (A gay pervert that always wears a dress)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kakinomoto%2C%20Takko%20(A%20gay%20pervert%20that%20always%20wears%20a%20dress).png" title="Kakinomoto, Takko (A gay pervert that always wears a dress) - LowkeyHomo, V0.47">
+<img src="Files/Kakinomoto, Takko (A gay pervert that always wears a dress).png" title="Kakinomoto, Takko (A gay pervert that always wears a dress) - LowkeyHomo, V0.47">
 
 **Database ID: #573**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Kakinomoto%2C%20Takko%20(A%20gay%20pervert%20that%20always%20wears%20a%20dress)%20-%20LowkeyHomo%2C%20V0.47.student">Kakinomoto, Takko (A gay pervert that always wears a dress) - LowkeyHomo, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

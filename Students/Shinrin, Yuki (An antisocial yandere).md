@@ -1,8 +1,8 @@
 # Shinrin, Yuki (An antisocial yandere)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shinrin%2C%20Yuki%20(An%20antisocial%20yandere).png" title="Shinrin, Yuki (An antisocial yandere) - snowy, V0.47">
+<img src="Files/Shinrin, Yuki (An antisocial yandere).png" title="Shinrin, Yuki (An antisocial yandere) - snowy, V0.47">
 
-**Database ID: #695**
+**Database ID: #694**
 
 First Name: Yuki
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shinrin%2C%20Yuki%20(An%20antisocial%20yandere)%20-%20snowy%2C%20V0.47.student">Shinrin, Yuki (An antisocial yandere) - snowy, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

@@ -1,6 +1,6 @@
 # Tamuro, Zane (A no-nonsense kind of guy)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tamuro%2C%20Zane%20(A%20no-nonsense%20kind%20of%20guy).png" title="Tamuro, Zane (A no-nonsense kind of guy) - Arbiter1223, V0.47">
+<img src="Files/Tamuro, Zane (A no-nonsense kind of guy).png" title="Tamuro, Zane (A no-nonsense kind of guy) - Arbiter1223, V0.47">
 
 **Database ID: #156**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Tamuro%2C%20Zane%20(A%20no-nonsense%20kind%20of%20guy)%20-%20Arbiter1223%2C%20V0.47.student">Tamuro, Zane (A no-nonsense kind of guy) - Arbiter1223, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

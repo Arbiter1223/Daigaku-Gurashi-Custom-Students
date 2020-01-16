@@ -1,6 +1,6 @@
 # Yasutake, Talon (A very mean bully)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasutake%2C%20Talon%20(A%20very%20mean%20bully).png" title="Yasutake, Talon (A very mean bully) - BenPupKao, V0.47">
+<img src="Files/Yasutake, Talon (A very mean bully).png" title="Yasutake, Talon (A very mean bully) - BenPupKao, V0.47">
 
 **Database ID: #333**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yasutake%2C%20Talon%20(A%20very%20mean%20bully)%20-%20BenPupKao%2C%20V0.47.student">Yasutake, Talon (A very mean bully) - BenPupKao, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

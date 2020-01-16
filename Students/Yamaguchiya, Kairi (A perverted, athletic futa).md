@@ -1,6 +1,6 @@
 # Yamaguchiya, Kairi (A perverted, athletic futa)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamaguchiya%2C%20Kairi%20(A%20perverted%2C%20athletic%20futa).png" title="Yamaguchiya, Kairi (A perverted, athletic futa) - RainB, V0.47">
+<img src="Files/Yamaguchiya, Kairi (A perverted, athletic futa).png" title="Yamaguchiya, Kairi (A perverted, athletic futa) - RainB, V0.47">
 
 **Database ID: #078**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Yamaguchiya%2C%20Kairi%20(A%20perverted%2C%20athletic%20futa)%20-%20RainB%2C%20V0.47.student">Yamaguchiya, Kairi (A perverted, athletic futa) - RainB, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

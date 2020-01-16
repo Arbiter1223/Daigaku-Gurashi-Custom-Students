@@ -1,6 +1,6 @@
 # Oushima, Callie (A dirty-minded guy)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Oushima%2C%20Callie%20(A%20dirty-minded%20guy).png" title="Oushima, Callie (A dirty-minded guy) - BurntWaffles, V0.47">
+<img src="Files/Oushima, Callie (A dirty-minded guy).png" title="Oushima, Callie (A dirty-minded guy) - BurntWaffles, V0.47">
 
 **Database ID: #079**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Oushima%2C%20Callie%20(A%20dirty-minded%20guy)%20-%20BurntWaffles%2C%20V0.47.student">Oushima, Callie (A dirty-minded guy) - BurntWaffles, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

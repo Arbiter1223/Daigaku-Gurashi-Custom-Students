@@ -1,6 +1,6 @@
 # Uboshita, Aiko (A fun perverted futanari)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uboshita%2C%20Aiko%20(A%20fun%20perverted%20futanari).png" title="Uboshita, Aiko (A fun perverted futanari) - Chi, V0.47">
+<img src="Files/Uboshita, Aiko (A fun perverted futanari).png" title="Uboshita, Aiko (A fun perverted futanari) - Chi, V0.47">
 
 **Database ID: #533**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Uboshita%2C%20Aiko%20(A%20fun%20perverted%20futanari)%20-%20Chi%2C%20V0.47.student">Uboshita, Aiko (A fun perverted futanari) - Chi, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

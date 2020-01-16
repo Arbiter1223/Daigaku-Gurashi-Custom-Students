@@ -1,6 +1,6 @@
 # Jun, Ha (A positive Korean idol)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jun%2C%20Ha%20(A%20positive%20Korean%20idol).png" title="Jun, Ha (A positive Korean idol) - Aho-chan, V0.47">
+<img src="Files/Jun, Ha (A positive Korean idol).png" title="Jun, Ha (A positive Korean idol) - Aho-chan, V0.47">
 
 **Database ID: #112**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Jun%2C%20Ha%20(A%20positive%20Korean%20idol)%20-%20Aho-chan%2C%20V0.47.student">Jun, Ha (A positive Korean idol) - Aho-chan, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

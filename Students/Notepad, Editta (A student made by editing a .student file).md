@@ -1,6 +1,6 @@
 # Notepad, Editta (A student made by editing a .student file)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Notepad%2C%20Editta%20(A%20student%20made%20by%20editing%20a%20.student%20file).png" title="Notepad, Editta (A student made by editing a .student file) - AjTheYandere, V0.47">
+<img src="Files/Notepad, Editta (A student made by editing a .student file).png" title="Notepad, Editta (A student made by editing a .student file) - AjTheYandere, V0.47">
 
 **Database ID: #476**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Notepad%2C%20Editta%20(A%20student%20made%20by%20editing%20a%20.student%20file)%20-%20AjTheYandere%2C%20V0.47.student">Notepad, Editta (A student made by editing a .student file) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

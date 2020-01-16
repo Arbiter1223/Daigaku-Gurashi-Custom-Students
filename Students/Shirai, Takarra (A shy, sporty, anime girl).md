@@ -1,6 +1,6 @@
 # Shirai, Takarra (A shy, sporty, anime girl)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shirai%2C%20Takarra%20(A%20shy%2C%20sporty%2C%20anime%20girl).png" title="Shirai, Takarra (A shy, sporty, anime girl) - RainB, V0.47">
+<img src="Files/Shirai, Takarra (A shy, sporty, anime girl).png" title="Shirai, Takarra (A shy, sporty, anime girl) - RainB, V0.47">
 
 **Database ID: #085**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Shirai%2C%20Takarra%20(A%20shy%2C%20sporty%2C%20anime%20girl)%20-%20RainB%2C%20V0.47.student">Shirai, Takarra (A shy, sporty, anime girl) - RainB, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

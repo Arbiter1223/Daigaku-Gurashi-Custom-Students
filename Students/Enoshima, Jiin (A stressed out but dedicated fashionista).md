@@ -1,8 +1,8 @@
 # Enoshima, Jiin (A stressed out but dedicated fashionista)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Enoshima%2C%20Jiin%20(A%20stressed%20out%20but%20dedicated%20fashionista).png" title="Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47">
+<img src="Files/Enoshima, Jiin (A stressed out but dedicated fashionista).png" title="Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47">
 
-**Database ID: #728**
+**Database ID: #727**
 
 First Name: Jiin
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Enoshima%2C%20Jiin%20(A%20stressed%20out%20but%20dedicated%20fashionista)%20-%2009.36am%2C%20V0.47.student">Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

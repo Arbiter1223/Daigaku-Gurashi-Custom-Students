@@ -1,6 +1,6 @@
 # Sayuri, Sayori (A chipper, happy-go-lucky girl)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sayuri%2C%20Sayori%20(A%20chipper%2C%20happy-go-lucky%20girl).png" title="Sayuri, Sayori (A chipper, happy-go-lucky girl) - Aho-chan, V0.47">
+<img src="Files/Sayuri, Sayori (A chipper, happy-go-lucky girl).png" title="Sayuri, Sayori (A chipper, happy-go-lucky girl) - Aho-chan, V0.47">
 
 **Database ID: #187**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Sayuri%2C%20Sayori%20(A%20chipper%2C%20happy-go-lucky%20girl)%20-%20Aho-chan%2C%20V0.47.student">Sayuri, Sayori (A chipper, happy-go-lucky girl) - Aho-chan, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

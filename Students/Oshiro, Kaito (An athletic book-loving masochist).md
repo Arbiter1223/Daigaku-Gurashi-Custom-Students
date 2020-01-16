@@ -1,6 +1,6 @@
 # Oshiro, Kaito (An athletic book-loving masochist)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Oshiro%2C%20Kaito%20(An%20athletic%20book-loving%20masochist).png" title="Oshiro, Kaito (An athletic book-loving masochist) - YamiToast, V0.47">
+<img src="Files/Oshiro, Kaito (An athletic book-loving masochist).png" title="Oshiro, Kaito (An athletic book-loving masochist) - YamiToast, V0.47">
 
 **Database ID: #006**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Oshiro%2C%20Kaito%20(An%20athletic%20book-loving%20masochist)%20-%20YamiToast%2C%20V0.47.student">Oshiro, Kaito (An athletic book-loving masochist) - YamiToast, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+

@@ -1,6 +1,6 @@
 # Horri, Tara (A rather large, warm-hearted futanari)
 
-<img src="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Horri%2C%20Tara%20(A%20rather%20large%2C%20warm-hearted%20futanari).png" title="Horri, Tara (A rather large, warm-hearted futanari) - Nightara, V0.47">
+<img src="Files/Horri, Tara (A rather large, warm-hearted futanari).png" title="Horri, Tara (A rather large, warm-hearted futanari) - Nightara, V0.47">
 
 **Database ID: #103**
 
@@ -17,3 +17,6 @@ Version: V0.47
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Students/Files/Horri%2C%20Tara%20(A%20rather%20large%2C%20warm-hearted%20futanari)%20-%20Nightara%2C%20V0.47.student">Horri, Tara (A rather large, warm-hearted futanari) - Nightara, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+#### Related Students
+
