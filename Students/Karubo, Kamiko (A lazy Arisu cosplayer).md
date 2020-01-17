@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Tenjouhime, Arisu (A very negative bully).md"><img src="Files/Thumbs/Tenjouhime, Arisu (A very negative bully).png" height="100" width="100" title="Tenjouhime, Arisu (A very negative bully) - YamiToast, V0.47"></a><a href="Tenjouhime, Arisu (A very negative bully).md"> Arisu - Cosplay subject (unofficial)</a>
+

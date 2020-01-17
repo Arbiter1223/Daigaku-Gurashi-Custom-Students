@@ -24,3 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 <a href="Tenjouhime, Ariso (Arisu's very negative brother).md"><img src="Files/Thumbs/Tenjouhime, Ariso (Arisu's very negative brother).png" height="100" width="100" title="Tenjouhime, Ariso (Arisu's very negative brother) - AjTheYandere, V0.47"></a><a href="Tenjouhime, Ariso (Arisu's very negative brother).md"> Ariso - Brother (unofficial)</a>
 
+<a href="Karubo, Kamiko (A lazy Arisu cosplayer).md"><img src="Files/Thumbs/Karubo, Kamiko (A lazy Arisu cosplayer).png" height="100" width="100" title="Karubo, Kamiko (A lazy Arisu cosplayer) - Syberian Inc and Arbiter1223, V0.47"></a><a href="Karubo, Kamiko (A lazy Arisu cosplayer).md"> Kamiko - Cosplayer (unofficial)</a>
+

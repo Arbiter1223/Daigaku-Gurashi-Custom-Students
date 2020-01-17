@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Sammich, Jellie (The middle child of the Sammich Sisters, a very optimistic girl that likes everything).md"><img src="Files/Thumbs/Sammich, Jellie (The middle child of the Sammich Sisters, a very optimistic girl that likes everything).png" height="100" width="100" title="Sammich, Jellie (The middle child of the Sammich Sisters, a very optimistic girl that likes everything) - AjTheYandere, V0.47"></a><a href="Sammich, Jellie (The middle child of the Sammich Sisters, a very optimistic girl that likes everything).md"> Jellie - Sister</a>
+
+<a href="Sammich, Butter (The youngest of the Sammich Sisters, a very boring girl).md"><img src="Files/Thumbs/Sammich, Butter (The youngest of the Sammich Sisters, a very boring girl).png" height="100" width="100" title="Sammich, Butter (The youngest of the Sammich Sisters, a very boring girl) - AjTheYandere, V0.47"></a><a href="Sammich, Butter (The youngest of the Sammich Sisters, a very boring girl).md"> Butter - Sister</a>
+

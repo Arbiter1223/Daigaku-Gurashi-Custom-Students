@@ -20,4 +20,9 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Kotoku, Natsuki (A cute tsundere girl who loves to bake).md"><img src="Files/Thumbs/Kotoku, Natsuki (A cute tsundere girl who loves to bake).png" height="100" width="100" title="Kotoku, Natsuki (A cute tsundere girl who loves to bake) - Aho-chan, V0.47"></a><a href="Kotoku, Natsuki (A cute tsundere girl who loves to bake).md"> Natsuki - Friend</a>
+
+<a href="Sayuri, Sayori (A chipper, happy-go-lucky girl).md"><img src="Files/Thumbs/Sayuri, Sayori (A chipper, happy-go-lucky girl).png" height="100" width="100" title="Sayuri, Sayori (A chipper, happy-go-lucky girl) - Aho-chan, V0.47"></a><a href="Sayuri, Sayori (A chipper, happy-go-lucky girl).md"> Sayori - Friend</a>
+
+<a href="Ashcraft, Monika (President of the Literature Club).md"><img src="Files/Thumbs/Ashcraft, Monika (President of the Literature Club).png" height="100" width="100" title="Ashcraft, Monika (President of the Literature Club) - Aho-chan, V0.47"></a><a href="Ashcraft, Monika (President of the Literature Club).md"> Monika - Friend</a>
+

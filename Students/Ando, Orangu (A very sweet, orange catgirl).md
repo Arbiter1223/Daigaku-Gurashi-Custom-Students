@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Nyanako, Jennyafur (A cheerful blonde neko girl).md"><img src="Files/Thumbs/Nyanako, Jennyafur (A cheerful blonde neko girl).png" height="100" width="100" title="Nyanako, Jennyafur (A cheerful blonde neko girl) - Arbiter1223, V0.47"></a><a href="Nyanako, Jennyafur (A cheerful blonde neko girl).md"> Jennyafur - Best friend</a>
+

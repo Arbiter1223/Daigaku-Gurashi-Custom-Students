@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Ui, Hotaru (July's festive girlfriend).md"><img src="Files/Thumbs/Ui, Hotaru (July's festive girlfriend).png" height="100" width="100" title="Ui, Hotaru (July's festive girlfriend) - Syberian Inc, V0.47"></a><a href="Ui, Hotaru (July's festive girlfriend).md"> Hotaru - Girlfriend</a>
+

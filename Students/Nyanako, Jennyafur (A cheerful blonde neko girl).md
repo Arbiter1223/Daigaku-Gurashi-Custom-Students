@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Ando, Orangu (A very sweet, orange catgirl).md"><img src="Files/Thumbs/Ando, Orangu (A very sweet, orange catgirl).png" height="100" width="100" title="Ando, Orangu (A very sweet, orange catgirl) - Retsuko and Arbiter1223, V0.47"></a><a href="Ando, Orangu (A very sweet, orange catgirl).md"> Orangu - Best friend</a>
+
