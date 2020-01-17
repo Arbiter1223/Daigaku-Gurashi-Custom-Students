@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Zombie, Suiren (A zombie version of Suiren).md"><img src="Files/Thumbs/Zombie, Suiren (A zombie version of Suiren).png" height="100" width="100" title="Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.47"></a><a href="Zombie, Suiren (A zombie version of Suiren).md"> Suiren - Zombie variant</a>
+

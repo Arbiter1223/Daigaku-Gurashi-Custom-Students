@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Hisakawa, Tomohiro (The older half of the Hisakawa twins).md"><img src="Files/Thumbs/Hisakawa, Tomohiro (The older half of the Hisakawa twins).png" height="100" width="100" title="Hisakawa, Tomohiro (The older half of the Hisakawa twins) - Midnight Kitsune, V0.47"></a><a href="Hisakawa, Tomohiro (The older half of the Hisakawa twins).md"> Tomohiro - Twin brother</a>
+

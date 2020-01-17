@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Yamazaki, Aoki (A bubbly, optimistic girl).md"><img src="Files/Thumbs/Yamazaki, Aoki (A bubbly, optimistic girl).png" height="100" width="100" title="Yamazaki, Aoki (A bubbly, optimistic girl) - AjTheYandere, V0.47"></a><a href="Yamazaki, Aoki (A bubbly, optimistic girl).md"> Aoki - Good side</a>
+

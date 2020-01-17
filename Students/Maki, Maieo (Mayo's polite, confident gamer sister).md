@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Maki, Mayo (A kuudere with ram-horns).md"><img src="Files/Thumbs/Maki, Mayo (A kuudere with ram-horns).png" height="100" width="100" title="Maki, Mayo (A kuudere with ram-horns) - YamiToast, V0.47"></a><a href="Maki, Mayo (A kuudere with ram-horns).md"> Mayo - Sister (unofficial)</a>
+

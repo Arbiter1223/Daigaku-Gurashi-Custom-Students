@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Squarepants, Spongebob (A very energetic and upbeat individual).md"><img src="Files/Thumbs/Squarepants, Spongebob (A very energetic and upbeat individual).png" height="100" width="100" title="Squarepants, Spongebob (A very energetic and upbeat individual) - LowkeyHomo, V0.47"></a><a href="Squarepants, Spongebob (A very energetic and upbeat individual).md"> Spongebob - Best friend</a>
+
+<a href="Tentacles, Squidward (A pessimistic clarinet player).md"><img src="Files/Thumbs/Tentacles, Squidward (A pessimistic clarinet player).png" height="100" width="100" title="Tentacles, Squidward (A pessimistic clarinet player) - LowkeyHomo, V0.47"></a><a href="Tentacles, Squidward (A pessimistic clarinet player).md"> Squidward - Friend</a>
+

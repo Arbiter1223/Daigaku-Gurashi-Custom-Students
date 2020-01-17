@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Yamazaki, Evil Aoki (Aoki's darkner, evil side).md"><img src="Files/Thumbs/Yamazaki, Evil Aoki (Aoki's darkner, evil side).png" height="100" width="100" title="Yamazaki, Evil Aoki (Aoki's darkner, evil side) - AjTheYandere, V0.47"></a><a href="Yamazaki, Evil Aoki (Aoki's darkner, evil side).md"> Evil Aoki - Evil side</a>
+

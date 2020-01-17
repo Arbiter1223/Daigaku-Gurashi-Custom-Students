@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Oshiro, Kaito (An athletic book-loving masochist).md"><img src="Files/Thumbs/Oshiro, Kaito (An athletic book-loving masochist).png" height="100" width="100" title="Oshiro, Kaito (An athletic book-loving masochist) - YamiToast, V0.47"></a><a href="Oshiro, Kaito (An athletic book-loving masochist).md"> Kaito - Look-a-like</a>
+

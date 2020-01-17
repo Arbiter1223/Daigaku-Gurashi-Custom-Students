@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Hideki, Minto (Pinku's shy, friendly bookworm sister).md"><img src="Files/Thumbs/Hideki, Minto (Pinku's shy, friendly bookworm sister).png" height="100" width="100" title="Hideki, Minto (Pinku's shy, friendly bookworm sister) - Cookie Boi, V0.47"></a><a href="Hideki, Minto (Pinku's shy, friendly bookworm sister).md"> Minto - Sister (unofficial)</a>
+
+<a href="Saionji, Hajime (A crappy Pinku look-a-like).md"><img src="Files/Thumbs/Saionji, Hajime (A crappy Pinku look-a-like).png" height="100" width="100" title="Saionji, Hajime (A crappy Pinku look-a-like) - Cookie Boi, V0.47"></a><a href="Saionji, Hajime (A crappy Pinku look-a-like).md"> Hajime - Look-a-like (unofficial)</a>
+

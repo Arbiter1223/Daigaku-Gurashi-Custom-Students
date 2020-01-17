@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Kubota, Megan (Jasmine's tsundere best friend).md"><img src="Files/Thumbs/Kubota, Megan (Jasmine's tsundere best friend).png" height="100" width="100" title="Kubota, Megan (Jasmine's tsundere best friend) - AjTheYandere, V0.47"></a><a href="Kubota, Megan (Jasmine's tsundere best friend).md"> Megan - Best friend</a>
+

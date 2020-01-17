@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Kasamatsu, Scratch (A smart student with a lisp).md"><img src="Files/Thumbs/Kasamatsu, Scratch (A smart student with a lisp).png" height="100" width="100" title="Kasamatsu, Scratch (A smart student with a lisp) - AjTheYandere, V0.47"></a><a href="Kasamatsu, Scratch (A smart student with a lisp).md"> Scratch - Senior creator</a>
+
+<a href="Gakusha, Ikari (Scratch's assistant, helped create PR-8503).md"><img src="Files/Thumbs/Gakusha, Ikari (Scratch's assistant, helped create PR-8503).png" height="100" width="100" title="Gakusha, Ikari (Scratch's assistant, helped create PR-8503) - AjTheYandere, V0.47"></a><a href="Gakusha, Ikari (Scratch's assistant, helped create PR-8503).md"> Ikari - Creator</a>
+

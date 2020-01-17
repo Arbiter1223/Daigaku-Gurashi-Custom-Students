@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Shima, Siggi (A distant bitchy cousin of Gorgonzola).md"><img src="Files/Thumbs/Shima, Siggi (A distant bitchy cousin of Gorgonzola).png" height="100" width="100" title="Shima, Siggi (A distant bitchy cousin of Gorgonzola) - Nutmeg, V0.47"></a><a href="Shima, Siggi (A distant bitchy cousin of Gorgonzola).md"> Siggi - Distant cousin</a>
+

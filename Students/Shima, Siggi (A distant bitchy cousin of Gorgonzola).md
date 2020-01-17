@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Gorgonzola, Mozz (A generally popular guy).md"><img src="Files/Thumbs/Gorgonzola, Mozz (A generally popular guy).png" height="100" width="100" title="Gorgonzola, Mozz (A generally popular guy) - Nutmeg, V0.47"></a><a href="Gorgonzola, Mozz (A generally popular guy).md"> Mozz - Distant cousin</a>
+

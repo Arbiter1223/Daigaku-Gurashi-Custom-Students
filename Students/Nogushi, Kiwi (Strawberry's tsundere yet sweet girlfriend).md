@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Urogataya, Strawberry (Kiwi's kuudere yet sweet boyfriend).md"><img src="Files/Thumbs/Urogataya, Strawberry (Kiwi's kuudere yet sweet boyfriend).png" height="100" width="100" title="Urogataya, Strawberry (Kiwi's kuudere yet sweet boyfriend) - Chi, V0.47"></a><a href="Urogataya, Strawberry (Kiwi's kuudere yet sweet boyfriend).md"> Strawberry - Boyfriend</a>
+

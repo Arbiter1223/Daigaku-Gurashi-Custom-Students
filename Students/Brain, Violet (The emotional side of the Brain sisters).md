@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Brain, Verne (The intellectual side of the Brain sisters).md"><img src="Files/Thumbs/Brain, Verne (The intellectual side of the Brain sisters).png" height="100" width="100" title="Brain, Verne (The intellectual side of the Brain sisters) - AjTheYandere, V0.47"></a><a href="Brain, Verne (The intellectual side of the Brain sisters).md"> Verne - Sister</a>
+

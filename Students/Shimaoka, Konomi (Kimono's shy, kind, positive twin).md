@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Shimaoka, Kimono (Konomi's confident, heartless, negative twin).md"><img src="Files/Thumbs/Shimaoka, Kimono (Konomi's confident, heartless, negative twin).png" height="100" width="100" title="Shimaoka, Kimono (Konomi's confident, heartless, negative twin) - Cookie Boi, V0.47"></a><a href="Shimaoka, Kimono (Konomi's confident, heartless, negative twin).md"> Kimono - Twin sister</a>
+

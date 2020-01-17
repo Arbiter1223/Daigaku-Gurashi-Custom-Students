@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito).md"><img src="Files/Thumbs/Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito).png" height="100" width="100" title="Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito) - Rando Studenta, V0.47"></a><a href="Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito).md"> Ochiyo - Look-a-like (unofficial)</a>
+

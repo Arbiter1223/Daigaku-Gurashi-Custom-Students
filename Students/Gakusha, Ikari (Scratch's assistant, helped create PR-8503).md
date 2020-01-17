@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Kasamatsu, Scratch (A smart student with a lisp).md"><img src="Files/Thumbs/Kasamatsu, Scratch (A smart student with a lisp).png" height="100" width="100" title="Kasamatsu, Scratch (A smart student with a lisp) - AjTheYandere, V0.47"></a><a href="Kasamatsu, Scratch (A smart student with a lisp).md"> Scratch - Senior researcher</a>
+
+<a href="PR-8503, Unit (An AI created by Scratch to do many things).md"><img src="Files/Thumbs/PR-8503, Unit (An AI created by Scratch to do many things).png" height="100" width="100" title="PR-8503, Unit (An AI created by Scratch to do many things) - AjTheYandere, V0.47"></a><a href="PR-8503, Unit (An AI created by Scratch to do many things).md"> Unit - Creation</a>
+

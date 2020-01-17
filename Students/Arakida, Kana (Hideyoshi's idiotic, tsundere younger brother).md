@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Arakida, Hideyoshi (Kana's meaner, older brother).md"><img src="Files/Thumbs/Arakida, Hideyoshi (Kana's meaner, older brother).png" height="100" width="100" title="Arakida, Hideyoshi (Kana's meaner, older brother) - Takumi, V0.47"></a><a href="Arakida, Hideyoshi (Kana's meaner, older brother).md"> Hideyoshi - Brother</a>
+

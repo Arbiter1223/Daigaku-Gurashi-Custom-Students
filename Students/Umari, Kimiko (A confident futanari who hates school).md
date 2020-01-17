@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Kashiwagi, Nanami (Kimiko's masochistic best friend).md"><img src="Files/Thumbs/Kashiwagi, Nanami (Kimiko's masochistic best friend).png" height="100" width="100" title="Kashiwagi, Nanami (Kimiko's masochistic best friend) - CookieBoi, V0.47"></a><a href="Kashiwagi, Nanami (Kimiko's masochistic best friend).md"> Nanami - Best friend</a>
+

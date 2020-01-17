@@ -20,4 +20,9 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Saitoh, Michio (An athletic anime fan, Murasaki's twin brother).md"><img src="Files/Thumbs/Saitoh, Michio (An athletic anime fan, Murasaki's twin brother).png" height="100" width="100" title="Saitoh, Michio (An athletic anime fan, Murasaki's twin brother) - Aho-chan, V0.47"></a><a href="Saitoh, Michio (An athletic anime fan, Murasaki's twin brother).md"> Michio - Twin brother</a>
+
+<a href="Saitoh, Michi (A gaming schoolworm, Michio's cousin).md"><img src="Files/Thumbs/Saitoh, Michi (A gaming schoolworm, Michio's cousin).png" height="100" width="100" title="Saitoh, Michi (A gaming schoolworm, Michio's cousin) - Aho-chan, V0.47"></a><a href="Saitoh, Michi (A gaming schoolworm, Michio's cousin).md"> Michi - Cousin</a>
+
+<a href="Tagawa, Manami (A bullied athlete, Murasaki's childhood friend).md"><img src="Files/Thumbs/Tagawa, Manami (A bullied athlete, Murasaki's childhood friend).png" height="100" width="100" title="Tagawa, Manami (A bullied athlete, Murasaki's childhood friend) - Aho-chan, V0.47"></a><a href="Tagawa, Manami (A bullied athlete, Murasaki's childhood friend).md"> Manami - Childhood friend</a>
+

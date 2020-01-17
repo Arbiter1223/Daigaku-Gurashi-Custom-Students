@@ -20,4 +20,9 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Terauchi, Yuri (From DDLC, a busty, soft-spoken bookworm).md"><img src="Files/Thumbs/Terauchi, Yuri (From DDLC, a busty, soft-spoken bookworm).png" height="100" width="100" title="Terauchi, Yuri (From DDLC, a busty, soft-spoken bookworm) - LowkeyHomo, V0.47"></a><a href="Terauchi, Yuri (From DDLC, a busty, soft-spoken bookworm).md"> Yuri - Friend</a>
+
+<a href="Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal).md"><img src="Files/Thumbs/Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal).png" height="100" width="100" title="Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal) - LowkeyHomo, V0.47"></a><a href="Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal).md"> Sayori - Friend</a>
+
+<a href="Ashcraft, Monika (From DDLC, a sweet and charming leader).md"><img src="Files/Thumbs/Ashcraft, Monika (From DDLC, a sweet and charming leader).png" height="100" width="100" title="Ashcraft, Monika (From DDLC, a sweet and charming leader) - LowkeyHomo, V0.47"></a><a href="Ashcraft, Monika (From DDLC, a sweet and charming leader).md"> Monika - Friend</a>
+

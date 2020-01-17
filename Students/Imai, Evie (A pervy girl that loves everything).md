@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Imai, Evie (Evie in another form).md"><img src="Files/Thumbs/Imai, Evie (Evie in another form).png" height="100" width="100" title="Imai, Evie (Evie in another form) - Galaxy gurl, V0.47"></a><a href="Imai, Evie (Evie in another form).md"> Evie - Alternate variant</a>
+

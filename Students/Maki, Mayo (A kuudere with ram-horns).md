@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Maki, Maieo (Mayo's polite, confident gamer sister).md"><img src="Files/Thumbs/Maki, Maieo (Mayo's polite, confident gamer sister).png" height="100" width="100" title="Maki, Maieo (Mayo's polite, confident gamer sister) - Cookie Boi, V0.47"></a><a href="Maki, Maieo (Mayo's polite, confident gamer sister).md"> Maieo - Sister (unofficial)</a>
+
+<a href="Maki, Maya (A kuudere ram-futa).md"><img src="Files/Thumbs/Maki, Maya (A kuudere ram-futa).png" height="100" width="100" title="Maki, Maya (A kuudere ram-futa) - Arbiter1223, V0.47"></a><a href="Maki, Maya (A kuudere ram-futa).md"> Maya - Futa variant</a>
+

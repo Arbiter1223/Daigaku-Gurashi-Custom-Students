@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Shimaoka, Konomi (Kimono's shy, kind, positive twin).md"><img src="Files/Thumbs/Shimaoka, Konomi (Kimono's shy, kind, positive twin).png" height="100" width="100" title="Shimaoka, Konomi (Kimono's shy, kind, positive twin) - Cookie Boi, V0.47"></a><a href="Shimaoka, Konomi (Kimono's shy, kind, positive twin).md"> Konomi - Twin sister</a>
+

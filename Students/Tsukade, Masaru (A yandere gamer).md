@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Tsukade, Akeno (Masaru's older, spoiled sister).md"><img src="Files/Thumbs/Tsukade, Akeno (Masaru's older, spoiled sister).png" height="100" width="100" title="Tsukade, Akeno (Masaru's older, spoiled sister) - Aho-chan, V0.47"></a><a href="Tsukade, Akeno (Masaru's older, spoiled sister).md"> Akeno - Sister</a>
+
+<a href="Yasuda, Johan (Masaru's boring best friend).md"><img src="Files/Thumbs/Yasuda, Johan (Masaru's boring best friend).png" height="100" width="100" title="Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.47"></a><a href="Yasuda, Johan (Masaru's boring best friend).md"> Johan - Best friend</a>
+

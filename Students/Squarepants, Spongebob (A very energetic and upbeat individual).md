@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Star, Patrick (A baka who lives under a rock).md"><img src="Files/Thumbs/Star, Patrick (A baka who lives under a rock).png" height="100" width="100" title="Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.47"></a><a href="Star, Patrick (A baka who lives under a rock).md"> Patrick - Best friend</a>
+
+<a href="Tentacles, Squidward (A pessimistic clarinet player).md"><img src="Files/Thumbs/Tentacles, Squidward (A pessimistic clarinet player).png" height="100" width="100" title="Tentacles, Squidward (A pessimistic clarinet player) - LowkeyHomo, V0.47"></a><a href="Tentacles, Squidward (A pessimistic clarinet player).md"> Squidward - Friend</a>
+

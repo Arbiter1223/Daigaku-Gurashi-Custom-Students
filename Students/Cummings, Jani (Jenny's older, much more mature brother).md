@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Cummings, Jenny (A fun and friendly pervert).md"><img src="Files/Thumbs/Cummings, Jenny (A fun and friendly pervert).png" height="100" width="100" title="Cummings, Jenny (A fun and friendly pervert) - YamiToast, V0.47"></a><a href="Cummings, Jenny (A fun and friendly pervert).md"> Jenny - Sister (unofficial)</a>
+

@@ -515,7 +515,7 @@
 508|Original character|509|April Fool's variant|510|Christmas variant|511|Easter variant|512|Halloween variant|513|Hanukkah variant|514|Kwanzaa variant|516|Saint Patrick's Day variant|517|Thanksgiving variant|518|Valentine's Day variant
 508|Original character|509|April Fool's variant|510|Christmas variant|511|Easter variant|512|Halloween variant|513|Hanukkah variant|514|Kwanzaa variant|515|New Year's variant|517|Thanksgiving variant|518|Valentine's Day variant
 508|Original character|509|April Fool's variant|510|Christmas variant|511|Easter variant|512|Halloween variant|513|Hanukkah variant|514|Kwanzaa variant|515|New Year's variant|516|Saint Patrick's Day variant|518|Valentine's Day variant
-508|Original character|509|April Fool's variant|510|Christmas variant|511|Easter variant|512|Halloween variant|513|Hanukkah variant|514|Kwanzaa variant|515|New Year's variant|516|Saint Patrick's Day variant|517|Thanksgiving variant|
+508|Original character|509|April Fool's variant|510|Christmas variant|511|Easter variant|512|Halloween variant|513|Hanukkah variant|514|Kwanzaa variant|515|New Year's variant|516|Saint Patrick's Day variant|517|Thanksgiving variant
 -none-
 -none-
 -none-
@@ -535,10 +535,10 @@
 -none-
 -none-
 -none-
-|539|Friend|540|Friend|541|Friend
-538|Friend||540|Friend|541|Friend
-538|Friend|539|Friend||541|Friend
-538|Friend|539|Friend|540|Friend|
+539|Friend|540|Friend|541|Friend
+538|Friend|540|Friend|541|Friend
+538|Friend|539|Friend|541|Friend
+538|Friend|539|Friend|540|Friend
 543|Best friend|544|Friend
 542|Best friend|544|Friend
 542|Coworker|543|Neighbor

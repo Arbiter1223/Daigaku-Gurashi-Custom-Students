@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="OwO, UwU (A cute girl who isn't afraid to get pervy).md"><img src="Files/Thumbs/OwO, UwU (A cute girl who isn't afraid to get pervy).png" height="100" width="100" title="OwO, UwU (A cute girl who isn't afraid to get pervy) - Chi, V0.47"></a><a href="OwO, UwU (A cute girl who isn't afraid to get pervy).md"> UwU - Sister</a>
+

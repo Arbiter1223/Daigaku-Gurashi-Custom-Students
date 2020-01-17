@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Squarepants, Spongebob (An opptimistic but somewhat annoying guy).md"><img src="Files/Thumbs/Squarepants, Spongebob (An opptimistic but somewhat annoying guy).png" height="100" width="100" title="Squarepants, Spongebob (An opptimistic but somewhat annoying guy) - Izzyox, V0.47"></a><a href="Squarepants, Spongebob (An opptimistic but somewhat annoying guy).md"> Spongebob - Coworker</a>
+
+<a href="Star, Patrick (Spongebob's idiotic best friend).md"><img src="Files/Thumbs/Star, Patrick (Spongebob's idiotic best friend).png" height="100" width="100" title="Star, Patrick (Spongebob's idiotic best friend) - Izzyox, V0.47"></a><a href="Star, Patrick (Spongebob's idiotic best friend).md"> Patrick - Neighbor</a>
+

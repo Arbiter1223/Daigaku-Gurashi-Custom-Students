@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Moto, Pasta (Axei's antisocial lesser-known little brother).md"><img src="Files/Thumbs/Moto, Pasta (Axei's antisocial lesser-known little brother).png" height="100" width="100" title="Moto, Pasta (Axei's antisocial lesser-known little brother) - BenPupKao, V0.47"></a><a href="Moto, Pasta (Axei's antisocial lesser-known little brother).md"> Pasta - Brother</a>
+
+<a href="Moto, Hattie (Axei and Pasta's kind older sister).md"><img src="Files/Thumbs/Moto, Hattie (Axei and Pasta's kind older sister).png" height="100" width="100" title="Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.47"></a><a href="Moto, Hattie (Axei and Pasta's kind older sister).md"> Hattie - Sister</a>
+

@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Star, Patrick (Spongebob's idiotic best friend).md"><img src="Files/Thumbs/Star, Patrick (Spongebob's idiotic best friend).png" height="100" width="100" title="Star, Patrick (Spongebob's idiotic best friend) - Izzyox, V0.47"></a><a href="Star, Patrick (Spongebob's idiotic best friend).md"> Patrick - Best friend</a>
+
+<a href="Tentacles, Squidward (A rather mean restaurant cashier).md"><img src="Files/Thumbs/Tentacles, Squidward (A rather mean restaurant cashier).png" height="100" width="100" title="Tentacles, Squidward (A rather mean restaurant cashier) - Izzyox, V0.47"></a><a href="Tentacles, Squidward (A rather mean restaurant cashier).md"> Squidward - Friend</a>
+

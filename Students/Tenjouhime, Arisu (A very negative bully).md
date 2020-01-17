@@ -26,3 +26,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 <a href="Karubo, Kamiko (A lazy Arisu cosplayer).md"><img src="Files/Thumbs/Karubo, Kamiko (A lazy Arisu cosplayer).png" height="100" width="100" title="Karubo, Kamiko (A lazy Arisu cosplayer) - Syberian Inc and Arbiter1223, V0.47"></a><a href="Karubo, Kamiko (A lazy Arisu cosplayer).md"> Kamiko - Cosplayer (unofficial)</a>
 
+<a href="Karubo, Yumiko ('Wal-Mart' Arisu, Kamiko's sister).md"><img src="Files/Thumbs/Karubo, Yumiko ('Wal-Mart' Arisu, Kamiko's sister).png" height="100" width="100" title="Karubo, Yumiko ('Wal-Mart' Arisu, Kamiko's sister) - AjTheYandere and Arbiter1223, V0.47"></a><a href="Karubo, Yumiko ('Wal-Mart' Arisu, Kamiko's sister).md"> Yumiko - Look-a-like (unofficial)</a>
+

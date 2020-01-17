@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Tagawa, Bunko (A yandere genius, Manami's older sister).md"><img src="Files/Thumbs/Tagawa, Bunko (A yandere genius, Manami's older sister).png" height="100" width="100" title="Tagawa, Bunko (A yandere genius, Manami's older sister) - Aho-chan, V0.47"></a><a href="Tagawa, Bunko (A yandere genius, Manami's older sister).md"> Bunko - Sister</a>
+
+<a href="Saitoh, Murasaki (Michio's athletic occultist twin).md"><img src="Files/Thumbs/Saitoh, Murasaki (Michio's athletic occultist twin).png" height="100" width="100" title="Saitoh, Murasaki (Michio's athletic occultist twin) - Aho-chan, V0.47"></a><a href="Saitoh, Murasaki (Michio's athletic occultist twin).md"> Murasaki - Childhood friend</a>
+

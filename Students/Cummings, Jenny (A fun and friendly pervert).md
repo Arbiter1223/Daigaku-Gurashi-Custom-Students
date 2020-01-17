@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Cummings, Jani (Jenny's older, much more mature brother).md"><img src="Files/Thumbs/Cummings, Jani (Jenny's older, much more mature brother).png" height="100" width="100" title="Cummings, Jani (Jenny's older, much more mature brother) - Cookie Boi, V0.47"></a><a href="Cummings, Jani (Jenny's older, much more mature brother).md"> Jani - Brother (unofficial)</a>
+

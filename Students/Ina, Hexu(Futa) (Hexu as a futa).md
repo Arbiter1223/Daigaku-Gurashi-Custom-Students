@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Ina, Hexu(Female) (Hexu as a female).md"><img src="Files/Thumbs/Ina, Hexu(Female) (Hexu as a female).png" height="100" width="100" title="Ina, Hexu(Female) (Hexu as a female) - AjTheYandere, V0.47"></a><a href="Ina, Hexu(Female) (Hexu as a female).md"> Hexu(Female) - Female variant</a>
+
+<a href="Ina, Hexu(Male) (Hexu as a male).md"><img src="Files/Thumbs/Ina, Hexu(Male) (Hexu as a male).png" height="100" width="100" title="Ina, Hexu(Male) (Hexu as a male) - AjTheYandere, V0.47"></a><a href="Ina, Hexu(Male) (Hexu as a male).md"> Hexu(Male) - Male variant</a>
+

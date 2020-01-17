@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Mazaki, AltKuninobu (An alternate version of Kuninobu).md"><img src="Files/Thumbs/Mazaki, AltKuninobu (An alternate version of Kuninobu).png" height="100" width="100" title="Mazaki, AltKuninobu (An alternate version of Kuninobu) - AjTheYandere, V0.47"></a><a href="Mazaki, AltKuninobu (An alternate version of Kuninobu).md"> AltKuninobu - Alternate variant</a>
+

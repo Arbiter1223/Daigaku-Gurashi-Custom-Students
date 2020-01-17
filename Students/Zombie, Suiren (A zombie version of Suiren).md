@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Sakura, Suiren (An extremely bullied girl).md"><img src="Files/Thumbs/Sakura, Suiren (An extremely bullied girl).png" height="100" width="100" title="Sakura, Suiren (An extremely bullied girl) - AjTheYandere, V0.47"></a><a href="Sakura, Suiren (An extremely bullied girl).md"> Suiren - Original character</a>
+

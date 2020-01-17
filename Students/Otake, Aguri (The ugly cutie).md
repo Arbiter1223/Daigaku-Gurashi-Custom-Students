@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Otake, Rukia (Aguri's weird younger sister).md"><img src="Files/Thumbs/Otake, Rukia (Aguri's weird younger sister).png" height="100" width="100" title="Otake, Rukia (Aguri's weird younger sister) - Aho-chan, V0.47"></a><a href="Otake, Rukia (Aguri's weird younger sister).md"> Rukia - Sister</a>
+

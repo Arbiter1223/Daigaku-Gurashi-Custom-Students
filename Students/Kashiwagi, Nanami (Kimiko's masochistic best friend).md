@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Umari, Kimiko (A confident futanari who hates school).md"><img src="Files/Thumbs/Umari, Kimiko (A confident futanari who hates school).png" height="100" width="100" title="Umari, Kimiko (A confident futanari who hates school) - CookieBoi, V0.47"></a><a href="Umari, Kimiko (A confident futanari who hates school).md"> Kimiko - Best friend</a>
+

@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Fujimori, Solis (Luna's caring brother).md"><img src="Files/Thumbs/Fujimori, Solis (Luna's caring brother).png" height="100" width="100" title="Fujimori, Solis (Luna's caring brother) - Mira, V0.47"></a><a href="Fujimori, Solis (Luna's caring brother).md"> Solis - Brother</a>
+

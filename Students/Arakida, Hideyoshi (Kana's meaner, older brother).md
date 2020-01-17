@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Arakida, Kana (Hideyoshi's idiotic, tsundere younger brother).md"><img src="Files/Thumbs/Arakida, Kana (Hideyoshi's idiotic, tsundere younger brother).png" height="100" width="100" title="Arakida, Kana (Hideyoshi's idiotic, tsundere younger brother) - Takumi, V0.47"></a><a href="Arakida, Kana (Hideyoshi's idiotic, tsundere younger brother).md"> Kana - Brother</a>
+

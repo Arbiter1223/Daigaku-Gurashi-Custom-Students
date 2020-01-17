@@ -20,4 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Squarepants, Spongebob (An opptimistic but somewhat annoying guy).md"><img src="Files/Thumbs/Squarepants, Spongebob (An opptimistic but somewhat annoying guy).png" height="100" width="100" title="Squarepants, Spongebob (An opptimistic but somewhat annoying guy) - Izzyox, V0.47"></a><a href="Squarepants, Spongebob (An opptimistic but somewhat annoying guy).md"> Spongebob - Best friend</a>
+
+<a href="Tentacles, Squidward (A rather mean restaurant cashier).md"><img src="Files/Thumbs/Tentacles, Squidward (A rather mean restaurant cashier).png" height="100" width="100" title="Tentacles, Squidward (A rather mean restaurant cashier) - Izzyox, V0.47"></a><a href="Tentacles, Squidward (A rather mean restaurant cashier).md"> Squidward - Friend</a>
+
