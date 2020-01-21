@@ -1,0 +1,23 @@
+# Dog, Fast (A blind, unfriendly occult fanatic)
+
+<img src="Files/Dog, Fast (A blind, unfriendly occult fanatic).png" title="Dog, Fast (A blind, unfriendly occult fanatic) - AjTheYandere, V0.47">
+
+**Database ID: #0238**
+
+First Name: Fast
+
+Last Name: Dog
+
+Description: A blind, unfriendly occult fanatic
+
+Author: AjTheYandere
+
+Version: V0.47
+
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Dog%2C%20Fast%20(A%20blind%2C%20unfriendly%20occult%20fanatic)%20-%20AjTheYandere%2C%20V0.47.student">Dog, Fast (A blind, unfriendly occult fanatic) - AjTheYandere, V0.47.student</a>
+
+### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+### Related Students
+
+-none-
