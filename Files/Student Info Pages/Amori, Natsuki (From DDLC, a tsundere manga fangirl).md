@@ -1,6 +1,6 @@
 # Amori, Natsuki (From DDLC, a tsundere manga fangirl)
 
-<img src="Files/Amori, Natsuki (From DDLC, a tsundere manga fangirl).png" title="Amori, Natsuki (From DDLC, a tsundere manga fangirl) - LowkeyHomo, V0.47">
+<img src="Files/Images/Amori, Natsuki (From DDLC, a tsundere manga fangirl).png" title="Amori, Natsuki (From DDLC, a tsundere manga fangirl) - LowkeyHomo, V0.47">
 
 **Database ID: #0538**
 
@@ -14,7 +14,7 @@ Author: LowkeyHomo
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Amori%2C%20Natsuki%20(From%20DDLC%2C%20a%20tsundere%20manga%20fangirl)%20-%20LowkeyHomo%2C%20V0.47.student">Amori, Natsuki (From DDLC, a tsundere manga fangirl) - LowkeyHomo, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Amori%2C%20Natsuki%20(From%20DDLC%2C%20a%20tsundere%20manga%20fangirl)%20-%20LowkeyHomo%2C%20V0.47.student">Amori, Natsuki (From DDLC, a tsundere manga fangirl) - LowkeyHomo, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

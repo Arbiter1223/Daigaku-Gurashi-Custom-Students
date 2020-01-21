@@ -1,6 +1,6 @@
 # Imai, Evie (Evie in another form)
 
-<img src="Files/Imai, Evie (Evie in another form).png" title="Imai, Evie (Evie in another form) - Galaxy gurl, V0.47">
+<img src="Files/Images/Imai, Evie (Evie in another form).png" title="Imai, Evie (Evie in another form) - Galaxy gurl, V0.47">
 
 **Database ID: #0571**
 
@@ -14,7 +14,7 @@ Author: Galaxy gurl
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Imai%2C%20Evie%20(Evie%20in%20another%20form)%20-%20Galaxy%20gurl%2C%20V0.47.student">Imai, Evie (Evie in another form) - Galaxy gurl, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Imai%2C%20Evie%20(Evie%20in%20another%20form)%20-%20Galaxy%20gurl%2C%20V0.47.student">Imai, Evie (Evie in another form) - Galaxy gurl, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

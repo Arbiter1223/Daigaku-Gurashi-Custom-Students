@@ -1,6 +1,6 @@
 # Kaminaga, Nico (A cheerful, klutzy anime fan)
 
-<img src="Files/Kaminaga, Nico (A cheerful, klutzy anime fan).png" title="Kaminaga, Nico (A cheerful, klutzy anime fan) - LowkeyHomo, V0.47">
+<img src="Files/Images/Kaminaga, Nico (A cheerful, klutzy anime fan).png" title="Kaminaga, Nico (A cheerful, klutzy anime fan) - LowkeyHomo, V0.47">
 
 **Database ID: #0492**
 
@@ -14,7 +14,7 @@ Author: LowkeyHomo
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Kaminaga%2C%20Nico%20(A%20cheerful%2C%20klutzy%20anime%20fan)%20-%20LowkeyHomo%2C%20V0.47.student">Kaminaga, Nico (A cheerful, klutzy anime fan) - LowkeyHomo, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Kaminaga%2C%20Nico%20(A%20cheerful%2C%20klutzy%20anime%20fan)%20-%20LowkeyHomo%2C%20V0.47.student">Kaminaga, Nico (A cheerful, klutzy anime fan) - LowkeyHomo, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

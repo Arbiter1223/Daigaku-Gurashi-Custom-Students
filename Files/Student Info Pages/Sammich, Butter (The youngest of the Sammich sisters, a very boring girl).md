@@ -1,6 +1,6 @@
 # Sammich, Butter (The youngest of the Sammich sisters, a very boring girl)
 
-<img src="Files/Sammich, Butter (The youngest of the Sammich sisters, a very boring girl).png" title="Sammich, Butter (The youngest of the Sammich sisters, a very boring girl) - AjTheYandere, V0.47">
+<img src="Files/Images/Sammich, Butter (The youngest of the Sammich sisters, a very boring girl).png" title="Sammich, Butter (The youngest of the Sammich sisters, a very boring girl) - AjTheYandere, V0.47">
 
 **Database ID: #0650**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Sammich%2C%20Butter%20(The%20youngest%20of%20the%20Sammich%20sisters%2C%20a%20very%20boring%20girl)%20-%20AjTheYandere%2C%20V0.47.student">Sammich, Butter (The youngest of the Sammich sisters, a very boring girl) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Sammich%2C%20Butter%20(The%20youngest%20of%20the%20Sammich%20sisters%2C%20a%20very%20boring%20girl)%20-%20AjTheYandere%2C%20V0.47.student">Sammich, Butter (The youngest of the Sammich sisters, a very boring girl) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

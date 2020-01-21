@@ -1,6 +1,6 @@
 # Miwa, Kuninobu (An arrogant trap who talks down on people)
 
-<img src="Files/Miwa, Kuninobu (An arrogant trap who talks down on people).png" title="Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.47">
+<img src="Files/Images/Miwa, Kuninobu (An arrogant trap who talks down on people).png" title="Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.47">
 
 **Database ID: #0203**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Miwa%2C%20Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people)%20-%20AjTheYandere%2C%20V0.47.student">Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Miwa%2C%20Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people)%20-%20AjTheYandere%2C%20V0.47.student">Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

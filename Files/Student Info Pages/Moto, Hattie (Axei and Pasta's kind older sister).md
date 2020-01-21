@@ -1,6 +1,6 @@
 # Moto, Hattie (Axei and Pasta's kind older sister)
 
-<img src="Files/Moto, Hattie (Axei and Pasta's kind older sister).png" title="Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.47">
+<img src="Files/Images/Moto, Hattie (Axei and Pasta's kind older sister).png" title="Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.47">
 
 **Database ID: #0523**
 
@@ -14,7 +14,7 @@ Author: BenPupKao
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Moto%2C%20Hattie%20(Axei%20and%20Pasta's%20kind%20older%20sister)%20-%20BenPupKao%2C%20V0.47.student">Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Moto%2C%20Hattie%20(Axei%20and%20Pasta's%20kind%20older%20sister)%20-%20BenPupKao%2C%20V0.47.student">Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

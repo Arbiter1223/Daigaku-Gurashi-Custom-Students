@@ -1,6 +1,6 @@
 # Sayaka, Rīki (A bisexual leek monster girl)
 
-<img src="Files/Sayaka, Rīki (A bisexual leek monster girl).png" title="Sayaka, Rīki (A bisexual leek monster girl) - brendon, V0.47">
+<img src="Files/Images/Sayaka, Rīki (A bisexual leek monster girl).png" title="Sayaka, Rīki (A bisexual leek monster girl) - brendon, V0.47">
 
 **Database ID: #0711**
 
@@ -14,7 +14,7 @@ Author: brendon
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Sayaka%2C%20Rīki%20(A%20bisexual%20leek%20monster%20girl)%20-%20brendon%2C%20V0.47.student">Sayaka, Rīki (A bisexual leek monster girl) - brendon, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Sayaka%2C%20Rīki%20(A%20bisexual%20leek%20monster%20girl)%20-%20brendon%2C%20V0.47.student">Sayaka, Rīki (A bisexual leek monster girl) - brendon, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

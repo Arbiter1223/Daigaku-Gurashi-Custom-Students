@@ -1,6 +1,6 @@
 # Irie, Kari (The leader of the Manga Club)
 
-<img src="Files/Irie, Kari (The leader of the Manga Club).png" title="Irie, Kari (The leader of the Manga Club) - AjTheYandere, V0.47">
+<img src="Files/Images/Irie, Kari (The leader of the Manga Club).png" title="Irie, Kari (The leader of the Manga Club) - AjTheYandere, V0.47">
 
 **Database ID: #0381**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Irie%2C%20Kari%20(The%20leader%20of%20the%20Manga%20Club)%20-%20AjTheYandere%2C%20V0.47.student">Irie, Kari (The leader of the Manga Club) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Irie%2C%20Kari%20(The%20leader%20of%20the%20Manga%20Club)%20-%20AjTheYandere%2C%20V0.47.student">Irie, Kari (The leader of the Manga Club) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

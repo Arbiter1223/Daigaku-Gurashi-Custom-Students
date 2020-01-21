@@ -1,6 +1,6 @@
 # Ochiai, Cleetus (A boy who likes just about everything)
 
-<img src="Files/Ochiai, Cleetus (A boy who likes just about everything).png" title="Ochiai, Cleetus (A boy who likes just about everything) - AjTheYandere, V0.47">
+<img src="Files/Images/Ochiai, Cleetus (A boy who likes just about everything).png" title="Ochiai, Cleetus (A boy who likes just about everything) - AjTheYandere, V0.47">
 
 **Database ID: #0556**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Ochiai%2C%20Cleetus%20(A%20boy%20who%20likes%20just%20about%20everything)%20-%20AjTheYandere%2C%20V0.47.student">Ochiai, Cleetus (A boy who likes just about everything) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Ochiai%2C%20Cleetus%20(A%20boy%20who%20likes%20just%20about%20everything)%20-%20AjTheYandere%2C%20V0.47.student">Ochiai, Cleetus (A boy who likes just about everything) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Sakura, Suiren (An extremely bullied girl)
 
-<img src="Files/Sakura, Suiren (An extremely bullied girl).png" title="Sakura, Suiren (An extremely bullied girl) - AjTheYandere, V0.47">
+<img src="Files/Images/Sakura, Suiren (An extremely bullied girl).png" title="Sakura, Suiren (An extremely bullied girl) - AjTheYandere, V0.47">
 
 **Database ID: #0283**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Sakura%2C%20Suiren%20(An%20extremely%20bullied%20girl)%20-%20AjTheYandere%2C%20V0.47.student">Sakura, Suiren (An extremely bullied girl) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Sakura%2C%20Suiren%20(An%20extremely%20bullied%20girl)%20-%20AjTheYandere%2C%20V0.47.student">Sakura, Suiren (An extremely bullied girl) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

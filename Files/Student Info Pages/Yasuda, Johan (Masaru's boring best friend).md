@@ -1,6 +1,6 @@
 # Yasuda, Johan (Masaru's boring best friend)
 
-<img src="Files/Yasuda, Johan (Masaru's boring best friend).png" title="Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.47">
+<img src="Files/Images/Yasuda, Johan (Masaru's boring best friend).png" title="Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.47">
 
 **Database ID: #0264**
 
@@ -14,7 +14,7 @@ Author: Aho-chan
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Yasuda%2C%20Johan%20(Masaru's%20boring%20best%20friend)%20-%20Aho-chan%2C%20V0.47.student">Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Yasuda%2C%20Johan%20(Masaru's%20boring%20best%20friend)%20-%20Aho-chan%2C%20V0.47.student">Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

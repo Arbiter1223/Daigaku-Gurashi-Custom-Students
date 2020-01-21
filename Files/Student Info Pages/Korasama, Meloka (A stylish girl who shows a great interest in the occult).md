@@ -1,6 +1,6 @@
 # Korasama, Meloka (A stylish girl who shows a great interest in the occult)
 
-<img src="Files/Korasama, Meloka (A stylish girl who shows a great interest in the occult).png" title="Korasama, Meloka (A stylish girl who shows a great interest in the occult) - chalk_girl, V0.47">
+<img src="Files/Images/Korasama, Meloka (A stylish girl who shows a great interest in the occult).png" title="Korasama, Meloka (A stylish girl who shows a great interest in the occult) - chalk_girl, V0.47">
 
 **Database ID: #0712**
 
@@ -14,7 +14,7 @@ Author: chalk_girl
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Korasama%2C%20Meloka%20(A%20stylish%20girl%20who%20shows%20a%20great%20interest%20in%20the%20occult)%20-%20chalk_girl%2C%20V0.47.student">Korasama, Meloka (A stylish girl who shows a great interest in the occult) - chalk_girl, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Korasama%2C%20Meloka%20(A%20stylish%20girl%20who%20shows%20a%20great%20interest%20in%20the%20occult)%20-%20chalk_girl%2C%20V0.47.student">Korasama, Meloka (A stylish girl who shows a great interest in the occult) - chalk_girl, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

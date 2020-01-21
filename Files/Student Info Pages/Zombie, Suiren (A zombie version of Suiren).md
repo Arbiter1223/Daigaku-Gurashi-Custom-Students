@@ -1,6 +1,6 @@
 # Zombie, Suiren (A zombie version of Suiren)
 
-<img src="Files/Zombie, Suiren (A zombie version of Suiren).png" title="Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.47">
+<img src="Files/Images/Zombie, Suiren (A zombie version of Suiren).png" title="Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.47">
 
 **Database ID: #0664**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Zombie%2C%20Suiren%20(A%20zombie%20version%20of%20Suiren)%20-%20AjTheYandere%2C%20V0.47.student">Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Zombie%2C%20Suiren%20(A%20zombie%20version%20of%20Suiren)%20-%20AjTheYandere%2C%20V0.47.student">Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

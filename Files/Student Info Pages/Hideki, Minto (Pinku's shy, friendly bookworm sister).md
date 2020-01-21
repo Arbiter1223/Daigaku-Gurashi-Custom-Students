@@ -1,6 +1,6 @@
 # Hideki, Minto (Pinku's shy, friendly bookworm sister)
 
-<img src="Files/Hideki, Minto (Pinku's shy, friendly bookworm sister).png" title="Hideki, Minto (Pinku's shy, friendly bookworm sister) - Cookie Boi, V0.47">
+<img src="Files/Images/Hideki, Minto (Pinku's shy, friendly bookworm sister).png" title="Hideki, Minto (Pinku's shy, friendly bookworm sister) - Cookie Boi, V0.47">
 
 **Database ID: #0304**
 
@@ -14,7 +14,7 @@ Author: Cookie Boi
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Hideki%2C%20Minto%20(Pinku's%20shy%2C%20friendly%20bookworm%20sister)%20-%20Cookie%20Boi%2C%20V0.47.student">Hideki, Minto (Pinku's shy, friendly bookworm sister) - Cookie Boi, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Hideki%2C%20Minto%20(Pinku's%20shy%2C%20friendly%20bookworm%20sister)%20-%20Cookie%20Boi%2C%20V0.47.student">Hideki, Minto (Pinku's shy, friendly bookworm sister) - Cookie Boi, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

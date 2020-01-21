@@ -1,6 +1,6 @@
 # Tsukade, Masaru (A yandere gamer)
 
-<img src="Files/Tsukade, Masaru (A yandere gamer).png" title="Tsukade, Masaru (A yandere gamer) - Aho-chan, V0.47">
+<img src="Files/Images/Tsukade, Masaru (A yandere gamer).png" title="Tsukade, Masaru (A yandere gamer) - Aho-chan, V0.47">
 
 **Database ID: #0263**
 
@@ -14,7 +14,7 @@ Author: Aho-chan
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Tsukade%2C%20Masaru%20(A%20yandere%20gamer)%20-%20Aho-chan%2C%20V0.47.student">Tsukade, Masaru (A yandere gamer) - Aho-chan, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Tsukade%2C%20Masaru%20(A%20yandere%20gamer)%20-%20Aho-chan%2C%20V0.47.student">Tsukade, Masaru (A yandere gamer) - Aho-chan, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

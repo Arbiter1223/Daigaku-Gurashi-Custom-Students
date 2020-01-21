@@ -1,6 +1,6 @@
 # Oshiro, Kaita (A female athletic book-loving masochist)
 
-<img src="Files/Oshiro, Kaita (A female athletic book-loving masochist).png" title="Oshiro, Kaita (A female athletic book-loving masochist) - Camden, V0.47">
+<img src="Files/Images/Oshiro, Kaita (A female athletic book-loving masochist).png" title="Oshiro, Kaita (A female athletic book-loving masochist) - Camden, V0.47">
 
 **Database ID: #0682**
 
@@ -14,7 +14,7 @@ Author: Camden
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Oshiro%2C%20Kaita%20(A%20female%20athletic%20book-loving%20masochist)%20-%20Camden%2C%20V0.47.student">Oshiro, Kaita (A female athletic book-loving masochist) - Camden, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Oshiro%2C%20Kaita%20(A%20female%20athletic%20book-loving%20masochist)%20-%20Camden%2C%20V0.47.student">Oshiro, Kaita (A female athletic book-loving masochist) - Camden, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

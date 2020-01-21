@@ -1,6 +1,6 @@
 # Ina, Hexu(Male) (Hexu as a male)
 
-<img src="Files/Ina, Hexu(Male) (Hexu as a male).png" title="Ina, Hexu(Male) (Hexu as a male) - AjTheYandere, V0.47">
+<img src="Files/Images/Ina, Hexu(Male) (Hexu as a male).png" title="Ina, Hexu(Male) (Hexu as a male) - AjTheYandere, V0.47">
 
 **Database ID: #0261**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Ina%2C%20Hexu(Male)%20(Hexu%20as%20a%20male)%20-%20AjTheYandere%2C%20V0.47.student">Ina, Hexu(Male) (Hexu as a male) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Ina%2C%20Hexu(Male)%20(Hexu%20as%20a%20male)%20-%20AjTheYandere%2C%20V0.47.student">Ina, Hexu(Male) (Hexu as a male) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

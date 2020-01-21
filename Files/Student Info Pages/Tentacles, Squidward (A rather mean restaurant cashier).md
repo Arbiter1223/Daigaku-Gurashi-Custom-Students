@@ -1,6 +1,6 @@
 # Tentacles, Squidward (A rather mean restaurant cashier)
 
-<img src="Files/Tentacles, Squidward (A rather mean restaurant cashier).png" title="Tentacles, Squidward (A rather mean restaurant cashier) - Izzyox, V0.47">
+<img src="Files/Images/Tentacles, Squidward (A rather mean restaurant cashier).png" title="Tentacles, Squidward (A rather mean restaurant cashier) - Izzyox, V0.47">
 
 **Database ID: #0547**
 
@@ -14,7 +14,7 @@ Author: Izzyox
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Tentacles%2C%20Squidward%20(A%20rather%20mean%20restaurant%20cashier)%20-%20Izzyox%2C%20V0.47.student">Tentacles, Squidward (A rather mean restaurant cashier) - Izzyox, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Tentacles%2C%20Squidward%20(A%20rather%20mean%20restaurant%20cashier)%20-%20Izzyox%2C%20V0.47.student">Tentacles, Squidward (A rather mean restaurant cashier) - Izzyox, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

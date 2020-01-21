@@ -1,6 +1,6 @@
 # Ashcraft, Monika (President of the Literature Club)
 
-<img src="Files/Ashcraft, Monika (President of the Literature Club).png" title="Ashcraft, Monika (President of the Literature Club) - Aho-chan, V0.47">
+<img src="Files/Images/Ashcraft, Monika (President of the Literature Club).png" title="Ashcraft, Monika (President of the Literature Club) - Aho-chan, V0.47">
 
 **Database ID: #0258**
 
@@ -14,7 +14,7 @@ Author: Aho-chan
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Ashcraft%2C%20Monika%20(President%20of%20the%20Literature%20Club)%20-%20Aho-chan%2C%20V0.47.student">Ashcraft, Monika (President of the Literature Club) - Aho-chan, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Ashcraft%2C%20Monika%20(President%20of%20the%20Literature%20Club)%20-%20Aho-chan%2C%20V0.47.student">Ashcraft, Monika (President of the Literature Club) - Aho-chan, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

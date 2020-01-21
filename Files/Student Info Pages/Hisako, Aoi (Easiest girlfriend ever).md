@@ -1,6 +1,6 @@
 # Hisako, Aoi (Easiest girlfriend ever)
 
-<img src="Files/Hisako, Aoi (Easiest girlfriend ever).png" title="Hisako, Aoi (Easiest girlfriend ever) - Syberian Inc, V0.47">
+<img src="Files/Images/Hisako, Aoi (Easiest girlfriend ever).png" title="Hisako, Aoi (Easiest girlfriend ever) - Syberian Inc, V0.47">
 
 **Database ID: #0033**
 
@@ -14,7 +14,7 @@ Author: Syberian Inc
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Hisako%2C%20Aoi%20(Easiest%20girlfriend%20ever)%20-%20Syberian%20Inc%2C%20V0.47.student">Hisako, Aoi (Easiest girlfriend ever) - Syberian Inc, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Hisako%2C%20Aoi%20(Easiest%20girlfriend%20ever)%20-%20Syberian%20Inc%2C%20V0.47.student">Hisako, Aoi (Easiest girlfriend ever) - Syberian Inc, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

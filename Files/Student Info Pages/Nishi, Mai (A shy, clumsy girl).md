@@ -1,6 +1,6 @@
 # Nishi, Mai (A shy, clumsy girl)
 
-<img src="Files/Nishi, Mai (A shy, clumsy girl).png" title="Nishi, Mai (A shy, clumsy girl) - AjTheYandere, V0.47">
+<img src="Files/Images/Nishi, Mai (A shy, clumsy girl).png" title="Nishi, Mai (A shy, clumsy girl) - AjTheYandere, V0.47">
 
 **Database ID: #0375**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Nishi%2C%20Mai%20(A%20shy%2C%20clumsy%20girl)%20-%20AjTheYandere%2C%20V0.47.student">Nishi, Mai (A shy, clumsy girl) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Nishi%2C%20Mai%20(A%20shy%2C%20clumsy%20girl)%20-%20AjTheYandere%2C%20V0.47.student">Nishi, Mai (A shy, clumsy girl) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

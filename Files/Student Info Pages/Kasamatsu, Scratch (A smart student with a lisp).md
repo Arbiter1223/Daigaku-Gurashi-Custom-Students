@@ -1,6 +1,6 @@
 # Kasamatsu, Scratch (A smart student with a lisp)
 
-<img src="Files/Kasamatsu, Scratch (A smart student with a lisp).png" title="Kasamatsu, Scratch (A smart student with a lisp) - AjTheYandere, V0.47">
+<img src="Files/Images/Kasamatsu, Scratch (A smart student with a lisp).png" title="Kasamatsu, Scratch (A smart student with a lisp) - AjTheYandere, V0.47">
 
 **Database ID: #0256**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Kasamatsu%2C%20Scratch%20(A%20smart%20student%20with%20a%20lisp)%20-%20AjTheYandere%2C%20V0.47.student">Kasamatsu, Scratch (A smart student with a lisp) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Kasamatsu%2C%20Scratch%20(A%20smart%20student%20with%20a%20lisp)%20-%20AjTheYandere%2C%20V0.47.student">Kasamatsu, Scratch (A smart student with a lisp) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Tsutomu, Reiko (A well-admired occultist)
 
-<img src="Files/Tsutomu, Reiko (A well-admired occultist).png" title="Tsutomu, Reiko (A well-admired occultist) - AjTheYandere, V0.47">
+<img src="Files/Images/Tsutomu, Reiko (A well-admired occultist).png" title="Tsutomu, Reiko (A well-admired occultist) - AjTheYandere, V0.47">
 
 **Database ID: #0459**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Tsutomu%2C%20Reiko%20(A%20well-admired%20occultist)%20-%20AjTheYandere%2C%20V0.47.student">Tsutomu, Reiko (A well-admired occultist) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Tsutomu%2C%20Reiko%20(A%20well-admired%20occultist)%20-%20AjTheYandere%2C%20V0.47.student">Tsutomu, Reiko (A well-admired occultist) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

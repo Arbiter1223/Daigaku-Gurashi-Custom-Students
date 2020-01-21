@@ -1,6 +1,6 @@
 # Michener, Cory (A friendly computer geek)
 
-<img src="Files/Michener, Cory (A friendly computer geek).png" title="Michener, Cory (A friendly computer geek) - Arbiter1223, V0.47">
+<img src="Files/Images/Michener, Cory (A friendly computer geek).png" title="Michener, Cory (A friendly computer geek) - Arbiter1223, V0.47">
 
 **Database ID: #0116**
 
@@ -14,7 +14,7 @@ Author: Arbiter1223
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Michener%2C%20Cory%20(A%20friendly%20computer%20geek)%20-%20Arbiter1223%2C%20V0.47.student">Michener, Cory (A friendly computer geek) - Arbiter1223, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Michener%2C%20Cory%20(A%20friendly%20computer%20geek)%20-%20Arbiter1223%2C%20V0.47.student">Michener, Cory (A friendly computer geek) - Arbiter1223, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

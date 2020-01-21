@@ -1,6 +1,6 @@
 # PR-8503, Unit (An AI created by Scratch to do many things)
 
-<img src="Files/PR-8503, Unit (An AI created by Scratch to do many things).png" title="PR-8503, Unit (An AI created by Scratch to do many things) - AjTheYandere, V0.47">
+<img src="Files/Images/PR-8503, Unit (An AI created by Scratch to do many things).png" title="PR-8503, Unit (An AI created by Scratch to do many things) - AjTheYandere, V0.47">
 
 **Database ID: #0383**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/PR-8503%2C%20Unit%20(An%20AI%20created%20by%20Scratch%20to%20do%20many%20things)%20-%20AjTheYandere%2C%20V0.47.student">PR-8503, Unit (An AI created by Scratch to do many things) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/PR-8503%2C%20Unit%20(An%20AI%20created%20by%20Scratch%20to%20do%20many%20things)%20-%20AjTheYandere%2C%20V0.47.student">PR-8503, Unit (An AI created by Scratch to do many things) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend)
 
-<img src="Files/Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend).png" title="Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend) - Chi, V0.47">
+<img src="Files/Images/Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend).png" title="Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend) - Chi, V0.47">
 
 **Database ID: #0554**
 
@@ -14,7 +14,7 @@ Author: Chi
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Nogushi%2C%20Kiwi%20(Strawberry's%20tsundere%20yet%20sweet%20girlfriend)%20-%20Chi%2C%20V0.47.student">Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend) - Chi, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Nogushi%2C%20Kiwi%20(Strawberry's%20tsundere%20yet%20sweet%20girlfriend)%20-%20Chi%2C%20V0.47.student">Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend) - Chi, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

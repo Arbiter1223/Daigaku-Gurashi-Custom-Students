@@ -1,6 +1,6 @@
 # Gensai, Takara (The anti-occult kuudere)
 
-<img src="Files/Gensai, Takara (The anti-occult kuudere).png" title="Gensai, Takara (The anti-occult kuudere) - Aho-chan, V0.47">
+<img src="Files/Images/Gensai, Takara (The anti-occult kuudere).png" title="Gensai, Takara (The anti-occult kuudere) - Aho-chan, V0.47">
 
 **Database ID: #0345**
 
@@ -14,7 +14,7 @@ Author: Aho-chan
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Gensai%2C%20Takara%20(The%20anti-occult%20kuudere)%20-%20Aho-chan%2C%20V0.47.student">Gensai, Takara (The anti-occult kuudere) - Aho-chan, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Gensai%2C%20Takara%20(The%20anti-occult%20kuudere)%20-%20Aho-chan%2C%20V0.47.student">Gensai, Takara (The anti-occult kuudere) - Aho-chan, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

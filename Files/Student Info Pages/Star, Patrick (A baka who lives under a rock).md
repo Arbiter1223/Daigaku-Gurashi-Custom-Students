@@ -1,6 +1,6 @@
 # Star, Patrick (A baka who lives under a rock)
 
-<img src="Files/Star, Patrick (A baka who lives under a rock).png" title="Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.47">
+<img src="Files/Images/Star, Patrick (A baka who lives under a rock).png" title="Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.47">
 
 **Database ID: #0542**
 
@@ -14,7 +14,7 @@ Author: LowkeyHomo
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Star%2C%20Patrick%20(A%20baka%20who%20lives%20under%20a%20rock)%20-%20LowkeyHomo%2C%20V0.47.student">Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Star%2C%20Patrick%20(A%20baka%20who%20lives%20under%20a%20rock)%20-%20LowkeyHomo%2C%20V0.47.student">Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

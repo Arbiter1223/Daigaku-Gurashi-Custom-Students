@@ -1,6 +1,6 @@
 # Kusumoto, Light (A boy with a vast imagination)
 
-<img src="Files/Kusumoto, Light (A boy with a vast imagination).png" title="Kusumoto, Light (A boy with a vast imagination) - AjTheYandere, V0.47">
+<img src="Files/Images/Kusumoto, Light (A boy with a vast imagination).png" title="Kusumoto, Light (A boy with a vast imagination) - AjTheYandere, V0.47">
 
 **Database ID: #0374**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Kusumoto%2C%20Light%20(A%20boy%20with%20a%20vast%20imagination)%20-%20AjTheYandere%2C%20V0.47.student">Kusumoto, Light (A boy with a vast imagination) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Kusumoto%2C%20Light%20(A%20boy%20with%20a%20vast%20imagination)%20-%20AjTheYandere%2C%20V0.47.student">Kusumoto, Light (A boy with a vast imagination) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

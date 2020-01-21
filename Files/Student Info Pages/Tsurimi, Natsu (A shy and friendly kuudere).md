@@ -1,6 +1,6 @@
 # Tsurimi, Natsu (A shy and friendly kuudere)
 
-<img src="Files/Tsurimi, Natsu (A shy and friendly kuudere).png" title="Tsurimi, Natsu (A shy and friendly kuudere) - LowkeyHomo, V0.47">
+<img src="Files/Images/Tsurimi, Natsu (A shy and friendly kuudere).png" title="Tsurimi, Natsu (A shy and friendly kuudere) - LowkeyHomo, V0.47">
 
 **Database ID: #0508**
 
@@ -14,7 +14,7 @@ Author: LowkeyHomo
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Tsurimi%2C%20Natsu%20(A%20shy%20and%20friendly%20kuudere)%20-%20LowkeyHomo%2C%20V0.47.student">Tsurimi, Natsu (A shy and friendly kuudere) - LowkeyHomo, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Tsurimi%2C%20Natsu%20(A%20shy%20and%20friendly%20kuudere)%20-%20LowkeyHomo%2C%20V0.47.student">Tsurimi, Natsu (A shy and friendly kuudere) - LowkeyHomo, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

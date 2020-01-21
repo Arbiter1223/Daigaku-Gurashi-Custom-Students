@@ -1,6 +1,6 @@
 # Komatsu, Charlie (Aj's pet cat)
 
-<img src="Files/Komatsu, Charlie (Aj's pet cat).png" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.47">
+<img src="Files/Images/Komatsu, Charlie (Aj's pet cat).png" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.47">
 
 **Database ID: #0339**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Komatsu%2C%20Charlie%20(Aj's%20pet%20cat)%20-%20AjTheYandere%2C%20V0.47.student">Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Komatsu%2C%20Charlie%20(Aj's%20pet%20cat)%20-%20AjTheYandere%2C%20V0.47.student">Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

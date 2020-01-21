@@ -1,6 +1,6 @@
 # Tahio, Cassie (A dumb tsundere pervert)
 
-<img src="Files/Tahio, Cassie (A dumb tsundere pervert).png" title="Tahio, Cassie (A dumb tsundere pervert) - PoodgeYT, V0.47">
+<img src="Files/Images/Tahio, Cassie (A dumb tsundere pervert).png" title="Tahio, Cassie (A dumb tsundere pervert) - PoodgeYT, V0.47">
 
 **Database ID: #0613**
 
@@ -14,7 +14,7 @@ Author: PoodgeYT
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Tahio%2C%20Cassie%20(A%20dumb%20tsundere%20pervert)%20-%20PoodgeYT%2C%20V0.47.student">Tahio, Cassie (A dumb tsundere pervert) - PoodgeYT, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Tahio%2C%20Cassie%20(A%20dumb%20tsundere%20pervert)%20-%20PoodgeYT%2C%20V0.47.student">Tahio, Cassie (A dumb tsundere pervert) - PoodgeYT, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

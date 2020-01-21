@@ -1,6 +1,6 @@
 # Kanagaki, Bob (A really mean baka)
 
-<img src="Files/Kanagaki, Bob (A really mean baka).png" title="Kanagaki, Bob (A really mean baka) - Shiny, V0.47">
+<img src="Files/Images/Kanagaki, Bob (A really mean baka).png" title="Kanagaki, Bob (A really mean baka) - Shiny, V0.47">
 
 **Database ID: #0597**
 
@@ -14,7 +14,7 @@ Author: Shiny
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Kanagaki%2C%20Bob%20(A%20really%20mean%20baka)%20-%20Shiny%2C%20V0.47.student">Kanagaki, Bob (A really mean baka) - Shiny, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Kanagaki%2C%20Bob%20(A%20really%20mean%20baka)%20-%20Shiny%2C%20V0.47.student">Kanagaki, Bob (A really mean baka) - Shiny, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Ui, Hotaru (July's festive girlfriend)
 
-<img src="Files/Ui, Hotaru (July's festive girlfriend).png" title="Ui, Hotaru (July's festive girlfriend) - Syberian Inc, V0.47">
+<img src="Files/Images/Ui, Hotaru (July's festive girlfriend).png" title="Ui, Hotaru (July's festive girlfriend) - Syberian Inc, V0.47">
 
 **Database ID: #0028**
 
@@ -14,7 +14,7 @@ Author: Syberian Inc
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Ui%2C%20Hotaru%20(July's%20festive%20girlfriend)%20-%20Syberian%20Inc%2C%20V0.47.student">Ui, Hotaru (July's festive girlfriend) - Syberian Inc, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Ui%2C%20Hotaru%20(July's%20festive%20girlfriend)%20-%20Syberian%20Inc%2C%20V0.47.student">Ui, Hotaru (July's festive girlfriend) - Syberian Inc, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Squarepants, Spongebob (An opptimistic but somewhat annoying guy)
 
-<img src="Files/Squarepants, Spongebob (An opptimistic but somewhat annoying guy).png" title="Squarepants, Spongebob (An opptimistic but somewhat annoying guy) - Izzyox, V0.47">
+<img src="Files/Images/Squarepants, Spongebob (An opptimistic but somewhat annoying guy).png" title="Squarepants, Spongebob (An opptimistic but somewhat annoying guy) - Izzyox, V0.47">
 
 **Database ID: #0545**
 
@@ -14,7 +14,7 @@ Author: Izzyox
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student Files/Squarepants%2C%20Spongebob%20(An%20opptimistic%20but%20somewhat%20annoying%20guy)%20-%20Izzyox%2C%20V0.47.student">Squarepants, Spongebob (An opptimistic but somewhat annoying guy) - Izzyox, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Squarepants%2C%20Spongebob%20(An%20opptimistic%20but%20somewhat%20annoying%20guy)%20-%20Izzyox%2C%20V0.47.student">Squarepants, Spongebob (An opptimistic but somewhat annoying guy) - Izzyox, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
