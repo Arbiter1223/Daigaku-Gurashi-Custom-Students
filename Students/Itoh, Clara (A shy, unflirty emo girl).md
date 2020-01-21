@@ -2,7 +2,7 @@
 
 <img src="Files/Itoh, Clara (A shy, unflirty emo girl).png" title="Itoh, Clara (A shy, unflirty emo girl) - Cookie Boi, V0.47">
 
-**Database ID: #111**
+**Database ID: #0111**
 
 First Name: Clara
 

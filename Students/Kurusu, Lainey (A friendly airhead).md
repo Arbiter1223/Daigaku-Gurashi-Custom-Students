@@ -2,7 +2,7 @@
 
 <img src="Files/Kurusu, Lainey (A friendly airhead).png" title="Kurusu, Lainey (A friendly airhead) - Hatsune, V0.47">
 
-**Database ID: #045**
+**Database ID: #0045**
 
 First Name: Lainey
 

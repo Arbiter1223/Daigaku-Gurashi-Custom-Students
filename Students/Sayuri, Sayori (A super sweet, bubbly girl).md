@@ -2,7 +2,7 @@
 
 <img src="Files/Sayuri, Sayori (A super sweet, bubbly girl).png" title="Sayuri, Sayori (A super sweet, bubbly girl) - Kitten, V0.47">
 
-**Database ID: #161**
+**Database ID: #0161**
 
 First Name: Sayori
 

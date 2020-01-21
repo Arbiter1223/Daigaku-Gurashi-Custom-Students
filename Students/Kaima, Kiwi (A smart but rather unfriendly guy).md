@@ -2,7 +2,7 @@
 
 <img src="Files/Kaima, Kiwi (A smart but rather unfriendly guy).png" title="Kaima, Kiwi (A smart but rather unfriendly guy) - BenPupKao, V0.47">
 
-**Database ID: #332**
+**Database ID: #0332**
 
 First Name: Kiwi
 

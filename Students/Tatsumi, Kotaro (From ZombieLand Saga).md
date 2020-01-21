@@ -2,7 +2,7 @@
 
 <img src="Files/Tatsumi, Kotaro (From ZombieLand Saga).png" title="Tatsumi, Kotaro (From ZombieLand Saga) - sansrika, V0.47">
 
-**Database ID: #585**
+**Database ID: #0585**
 
 First Name: Kotaro
 

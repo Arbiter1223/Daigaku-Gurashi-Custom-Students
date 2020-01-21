@@ -2,7 +2,7 @@
 
 <img src="Files/Fukumoto, Eikichi (A masochistic tsundere athlete).png" title="Fukumoto, Eikichi (A masochistic tsundere athlete) - AjTheYandere, V0.47">
 
-**Database ID: #417**
+**Database ID: #0417**
 
 First Name: Eikichi
 

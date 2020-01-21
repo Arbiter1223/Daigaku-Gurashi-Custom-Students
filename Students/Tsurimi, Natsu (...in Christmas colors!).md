@@ -2,7 +2,7 @@
 
 <img src="Files/Tsurimi, Natsu (...in Christmas colors!).png" title="Tsurimi, Natsu (...in Christmas colors!) - LowkeyHomo, V0.47">
 
-**Database ID: #510**
+**Database ID: #0510**
 
 First Name: Natsu
 

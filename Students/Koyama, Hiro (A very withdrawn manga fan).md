@@ -2,7 +2,7 @@
 
 <img src="Files/Koyama, Hiro (A very withdrawn manga fan).png" title="Koyama, Hiro (A very withdrawn manga fan) - AjTheYandere, V0.47">
 
-**Database ID: #426**
+**Database ID: #0426**
 
 First Name: Hiro
 

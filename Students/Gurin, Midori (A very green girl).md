@@ -2,7 +2,7 @@
 
 <img src="Files/Gurin, Midori (A very green girl).png" title="Gurin, Midori (A very green girl) - Galaxy gurl, V0.47">
 
-**Database ID: #532**
+**Database ID: #0532**
 
 First Name: Midori
 

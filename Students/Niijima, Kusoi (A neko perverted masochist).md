@@ -2,7 +2,7 @@
 
 <img src="Files/Niijima, Kusoi (A neko perverted masochist).png" title="Niijima, Kusoi (A neko perverted masochist) - AjTheYandere, V0.47">
 
-**Database ID: #273**
+**Database ID: #0273**
 
 First Name: Kusoi
 

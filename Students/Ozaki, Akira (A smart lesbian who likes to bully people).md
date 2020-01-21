@@ -2,7 +2,7 @@
 
 <img src="Files/Ozaki, Akira (A smart lesbian who likes to bully people).png" title="Ozaki, Akira (A smart lesbian who likes to bully people) - Mira, V0.47">
 
-**Database ID: #618**
+**Database ID: #0618**
 
 First Name: Akira
 

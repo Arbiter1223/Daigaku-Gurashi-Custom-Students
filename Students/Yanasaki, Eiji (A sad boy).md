@@ -2,7 +2,7 @@
 
 <img src="Files/Yanasaki, Eiji (A sad boy).png" title="Yanasaki, Eiji (A sad boy) - Syberian Inc, V0.47">
 
-**Database ID: #037**
+**Database ID: #0037**
 
 First Name: Eiji
 

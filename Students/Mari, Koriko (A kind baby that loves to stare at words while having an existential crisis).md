@@ -2,7 +2,7 @@
 
 <img src="Files/Mari, Koriko (A kind baby that loves to stare at words while having an existential crisis).png" title="Mari, Koriko (A kind baby that loves to stare at words while having an existential crisis) - screaming kiwi, V0.47">
 
-**Database ID: #732**
+**Database ID: #0732**
 
 First Name: Koriko
 

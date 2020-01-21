@@ -2,7 +2,7 @@
 
 <img src="Files/Sugisata, Nico (A cute, petite girl).png" title="Sugisata, Nico (A cute, petite girl) - AjTheYandere, V0.47">
 
-**Database ID: #204**
+**Database ID: #0204**
 
 First Name: Nico
 

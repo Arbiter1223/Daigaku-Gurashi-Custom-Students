@@ -2,7 +2,7 @@
 
 <img src="Files/Tsubouchi, Kichiro (A perverted pessimist).png" title="Tsubouchi, Kichiro (A perverted pessimist) - Aho-chan, V0.47">
 
-**Database ID: #268**
+**Database ID: #0268**
 
 First Name: Kichiro
 

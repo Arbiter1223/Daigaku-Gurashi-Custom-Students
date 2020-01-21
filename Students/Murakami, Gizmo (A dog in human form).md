@@ -2,7 +2,7 @@
 
 <img src="Files/Murakami, Gizmo (A dog in human form).png" title="Murakami, Gizmo (A dog in human form) - AjTheYandere, V0.47">
 
-**Database ID: #300**
+**Database ID: #0300**
 
 First Name: Gizmo
 

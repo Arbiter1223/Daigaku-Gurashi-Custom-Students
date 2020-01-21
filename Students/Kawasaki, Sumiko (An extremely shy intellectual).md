@@ -2,7 +2,7 @@
 
 <img src="Files/Kawasaki, Sumiko (An extremely shy intellectual).png" title="Kawasaki, Sumiko (An extremely shy intellectual) - A silverfirelily, V0.47">
 
-**Database ID: #108**
+**Database ID: #0108**
 
 First Name: Sumiko
 

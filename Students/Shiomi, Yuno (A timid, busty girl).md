@@ -2,7 +2,7 @@
 
 <img src="Files/Shiomi, Yuno (A timid, busty girl).png" title="Shiomi, Yuno (A timid, busty girl) - RainB, V0.47">
 
-**Database ID: #075**
+**Database ID: #0075**
 
 First Name: Yuno
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Mazaki, AltKuninobu (An alternate version of Kuninobu).png" title="Mazaki, AltKuninobu (An alternate version of Kuninobu) - AjTheYandere, V0.47">
 
-**Database ID: #338**
+**Database ID: #0338**
 
 First Name: AltKuninobu
 

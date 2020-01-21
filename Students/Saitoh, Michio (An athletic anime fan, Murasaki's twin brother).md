@@ -2,7 +2,7 @@
 
 <img src="Files/Saitoh, Michio (An athletic anime fan, Murasaki's twin brother).png" title="Saitoh, Michio (An athletic anime fan, Murasaki's twin brother) - Aho-chan, V0.47">
 
-**Database ID: #266**
+**Database ID: #0266**
 
 First Name: Michio
 

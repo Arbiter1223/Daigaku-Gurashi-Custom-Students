@@ -2,7 +2,7 @@
 
 <img src="Files/Ekiguchi, Asuka (A confident tsundere gamer girl).png" title="Ekiguchi, Asuka (A confident tsundere gamer girl) - Liam Beets, V0.47">
 
-**Database ID: #159**
+**Database ID: #0159**
 
 First Name: Asuka
 

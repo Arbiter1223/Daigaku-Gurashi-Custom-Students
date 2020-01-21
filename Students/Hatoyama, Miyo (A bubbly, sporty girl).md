@@ -2,7 +2,7 @@
 
 <img src="Files/Hatoyama, Miyo (A bubbly, sporty girl).png" title="Hatoyama, Miyo (A bubbly, sporty girl) - Toast and Shifted, V0.47">
 
-**Database ID: #312**
+**Database ID: #0312**
 
 First Name: Miyo
 

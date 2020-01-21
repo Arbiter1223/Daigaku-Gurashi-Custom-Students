@@ -2,7 +2,7 @@
 
 <img src="Files/Takagawa, Kameko (A very confident, sporty girl).png" title="Takagawa, Kameko (A very confident, sporty girl) - Rando Studenta, V0.47">
 
-**Database ID: #124**
+**Database ID: #0124**
 
 First Name: Kameko
 

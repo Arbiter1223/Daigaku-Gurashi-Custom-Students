@@ -2,7 +2,7 @@
 
 <img src="Files/Yamada, Taro (A pretty okay dude).png" title="Yamada, Taro (A pretty okay dude) - Shadow and yogima, V0.47">
 
-**Database ID: #196**
+**Database ID: #0196**
 
 First Name: Taro
 

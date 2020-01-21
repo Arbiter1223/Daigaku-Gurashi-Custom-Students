@@ -2,7 +2,7 @@
 
 <img src="Files/Ito, Mirai (A lovey-dovey occult girl).png" title="Ito, Mirai (A lovey-dovey occult girl) - witcharies, V0.47">
 
-**Database ID: #670**
+**Database ID: #0670**
 
 First Name: Mirai
 

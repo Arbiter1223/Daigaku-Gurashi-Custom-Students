@@ -2,7 +2,7 @@
 
 <img src="Files/Shosuke, Kuemon (A normal, positive guy who is slightly smarter than his peers).png" title="Shosuke, Kuemon (A normal, positive guy who is slightly smarter than his peers) - yogima, V0.47">
 
-**Database ID: #719**
+**Database ID: #0719**
 
 First Name: Kuemon
 

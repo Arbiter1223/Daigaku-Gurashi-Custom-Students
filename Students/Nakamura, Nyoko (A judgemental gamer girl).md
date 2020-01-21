@@ -2,7 +2,7 @@
 
 <img src="Files/Nakamura, Nyoko (A judgemental gamer girl).png" title="Nakamura, Nyoko (A judgemental gamer girl) - witcharies, V0.47">
 
-**Database ID: #674**
+**Database ID: #0674**
 
 First Name: Nyoko
 

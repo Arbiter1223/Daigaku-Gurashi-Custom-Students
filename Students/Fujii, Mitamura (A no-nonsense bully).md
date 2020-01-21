@@ -2,7 +2,7 @@
 
 <img src="Files/Fujii, Mitamura (A no-nonsense bully).png" title="Fujii, Mitamura (A no-nonsense bully) - AjTheYandere, V0.47">
 
-**Database ID: #253**
+**Database ID: #0253**
 
 First Name: Mitamura
 

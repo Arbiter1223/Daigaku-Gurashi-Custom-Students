@@ -2,7 +2,7 @@
 
 <img src="Files/Palm, Grace (A bully who hates everything).png" title="Palm, Grace (A bully who hates everything) - GracePalm, V0.47">
 
-**Database ID: #695**
+**Database ID: #0695**
 
 First Name: Grace
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Wong, Sumting (A very... strange anomaly of nature).png" title="Wong, Sumting (A very... strange anomaly of nature) - Rando Studenta, V0.47">
 
-**Database ID: #722**
+**Database ID: #0722**
 
 First Name: Sumting
 

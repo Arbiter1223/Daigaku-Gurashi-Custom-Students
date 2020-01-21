@@ -2,7 +2,7 @@
 
 <img src="Files/Ko, Gintoki (An insecure, talkative guy).png" title="Ko, Gintoki (An insecure, talkative guy) - AjTheYandere, V0.47">
 
-**Database ID: #359**
+**Database ID: #0359**
 
 First Name: Gintoki
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Urogataya, Strawberry (Kiwi's kuudere yet sweet boyfriend).png" title="Urogataya, Strawberry (Kiwi's kuudere yet sweet boyfriend) - Chi, V0.47">
 
-**Database ID: #555**
+**Database ID: #0555**
 
 First Name: Strawberry
 

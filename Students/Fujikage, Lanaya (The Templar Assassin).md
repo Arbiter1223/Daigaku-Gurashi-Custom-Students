@@ -2,7 +2,7 @@
 
 <img src="Files/Fujikage, Lanaya (The Templar Assassin).png" title="Fujikage, Lanaya (The Templar Assassin) - Aho-chan, V0.47">
 
-**Database ID: #236**
+**Database ID: #0236**
 
 First Name: Lanaya
 

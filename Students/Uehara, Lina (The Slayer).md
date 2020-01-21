@@ -2,7 +2,7 @@
 
 <img src="Files/Uehara, Lina (The Slayer).png" title="Uehara, Lina (The Slayer) - Aho-chan, V0.47">
 
-**Database ID: #207**
+**Database ID: #0207**
 
 First Name: Lina
 

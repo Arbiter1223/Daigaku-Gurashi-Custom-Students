@@ -2,7 +2,7 @@
 
 <img src="Files/Akaike, Chara (A gloomy, unsociable girl).png" title="Akaike, Chara (A gloomy, unsociable girl) - CherryMaru, V0.47">
 
-**Database ID: #056**
+**Database ID: #0056**
 
 First Name: Chara
 

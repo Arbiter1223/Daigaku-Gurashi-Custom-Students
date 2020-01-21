@@ -2,7 +2,7 @@
 
 <img src="Files/Kusonoki, Renji (A humorless, sub-average guy).png" title="Kusonoki, Renji (A humorless, sub-average guy) - AjTheYandere, V0.47">
 
-**Database ID: #460**
+**Database ID: #0460**
 
 First Name: Renji
 

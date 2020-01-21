@@ -2,7 +2,7 @@
 
 <img src="Files/Hakamada, Latoria (A sad but fun girl).png" title="Hakamada, Latoria (A sad but fun girl) - Latoria clayton, V0.47">
 
-**Database ID: #316**
+**Database ID: #0316**
 
 First Name: Latoria
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Torisawa, Kouumoto (A kind and cute bisexual girl).png" title="Torisawa, Kouumoto (A kind and cute bisexual girl) - marvinjean9, V0.47">
 
-**Database ID: #157**
+**Database ID: #0157**
 
 First Name: Kouumoto
 

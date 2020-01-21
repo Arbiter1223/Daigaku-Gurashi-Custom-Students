@@ -2,7 +2,7 @@
 
 <img src="Files/Oonishi, Takara (A busty, antisocial girl).png" title="Oonishi, Takara (A busty, antisocial girl) - Rando Studenta, V0.47">
 
-**Database ID: #149**
+**Database ID: #0149**
 
 First Name: Takara
 

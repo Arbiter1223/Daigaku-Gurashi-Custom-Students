@@ -2,7 +2,7 @@
 
 <img src="Files/Tanizaki, Ken (A kind but rather dumb guy).png" title="Tanizaki, Ken (A kind but rather dumb guy) - Rando Studenta, V0.47">
 
-**Database ID: #128**
+**Database ID: #0128**
 
 First Name: Ken
 

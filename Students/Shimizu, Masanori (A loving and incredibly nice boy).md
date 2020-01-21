@@ -2,7 +2,7 @@
 
 <img src="Files/Shimizu, Masanori (A loving and incredibly nice boy).png" title="Shimizu, Masanori (A loving and incredibly nice boy) - AjTheYandere, V0.47">
 
-**Database ID: #446**
+**Database ID: #0446**
 
 First Name: Masanori
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Hidaka, Masaaki (A brilliant, all-around popular guy).png" title="Hidaka, Masaaki (A brilliant, all-around popular guy) - Moon12299, V0.47">
 
-**Database ID: #139**
+**Database ID: #0139**
 
 First Name: Masaaki
 

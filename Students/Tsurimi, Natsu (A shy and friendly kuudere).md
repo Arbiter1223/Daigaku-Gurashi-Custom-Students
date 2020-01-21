@@ -2,7 +2,7 @@
 
 <img src="Files/Tsurimi, Natsu (A shy and friendly kuudere).png" title="Tsurimi, Natsu (A shy and friendly kuudere) - LowkeyHomo, V0.47">
 
-**Database ID: #508**
+**Database ID: #0508**
 
 First Name: Natsu
 

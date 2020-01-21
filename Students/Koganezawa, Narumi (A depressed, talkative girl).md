@@ -2,7 +2,7 @@
 
 <img src="Files/Koganezawa, Narumi (A depressed, talkative girl).png" title="Koganezawa, Narumi (A depressed, talkative girl) - Rando Studenta, V0.47">
 
-**Database ID: #278**
+**Database ID: #0278**
 
 First Name: Narumi
 

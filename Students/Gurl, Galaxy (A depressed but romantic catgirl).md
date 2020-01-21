@@ -2,7 +2,7 @@
 
 <img src="Files/Gurl, Galaxy (A depressed but romantic catgirl).png" title="Gurl, Galaxy (A depressed but romantic catgirl) - Galaxy gurl, V0.47">
 
-**Database ID: #529**
+**Database ID: #0529**
 
 First Name: Galaxy
 

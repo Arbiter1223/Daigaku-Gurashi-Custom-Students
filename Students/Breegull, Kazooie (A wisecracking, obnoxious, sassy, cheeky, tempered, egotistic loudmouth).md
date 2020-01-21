@@ -2,7 +2,7 @@
 
 <img src="Files/Breegull, Kazooie (A wisecracking, obnoxious, sassy, cheeky, tempered, egotistic loudmouth).png" title="Breegull, Kazooie (A wisecracking, obnoxious, sassy, cheeky, tempered, egotistic loudmouth) - Camden, V0.47">
 
-**Database ID: #703**
+**Database ID: #0703**
 
 First Name: Kazooie
 

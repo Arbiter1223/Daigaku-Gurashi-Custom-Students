@@ -2,7 +2,7 @@
 
 <img src="Files/Strider, Dave (A rather average guy).png" title="Strider, Dave (A rather average guy) - Camden, V0.47">
 
-**Database ID: #669**
+**Database ID: #0669**
 
 First Name: Dave
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Teacher, Art (Another version of the Art Teacher).png" title="Teacher, Art (Another version of the Art Teacher) - LowkeyHomo, V0.47">
 
-**Database ID: #520**
+**Database ID: #0520**
 
 First Name: Art
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Fukumitsu, Kichiro (A pretty mean occult fanatic).png" title="Fukumitsu, Kichiro (A pretty mean occult fanatic) - AjTheYandere, V0.47">
 
-**Database ID: #369**
+**Database ID: #0369**
 
 First Name: Kichiro
 

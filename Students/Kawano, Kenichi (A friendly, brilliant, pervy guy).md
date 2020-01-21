@@ -2,7 +2,7 @@
 
 <img src="Files/Kawano, Kenichi (A friendly, brilliant, pervy guy).png" title="Kawano, Kenichi (A friendly, brilliant, pervy guy) - AjTheYandere, V0.47">
 
-**Database ID: #368**
+**Database ID: #0368**
 
 First Name: Kenichi
 

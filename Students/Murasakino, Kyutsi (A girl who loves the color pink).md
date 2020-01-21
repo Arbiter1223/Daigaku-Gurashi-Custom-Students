@@ -2,7 +2,7 @@
 
 <img src="Files/Murasakino, Kyutsi (A girl who loves the color pink).png" title="Murasakino, Kyutsi (A girl who loves the color pink) - screaming kiwi, V0.47">
 
-**Database ID: #679**
+**Database ID: #0679**
 
 First Name: Kyutsi
 

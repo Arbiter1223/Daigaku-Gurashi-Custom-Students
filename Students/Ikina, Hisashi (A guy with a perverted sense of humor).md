@@ -2,7 +2,7 @@
 
 <img src="Files/Ikina, Hisashi (A guy with a perverted sense of humor).png" title="Ikina, Hisashi (A guy with a perverted sense of humor) - AjTheYandere, V0.47">
 
-**Database ID: #427**
+**Database ID: #0427**
 
 First Name: Hisashi
 

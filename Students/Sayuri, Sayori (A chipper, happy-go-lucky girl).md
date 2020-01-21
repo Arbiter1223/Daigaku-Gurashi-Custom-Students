@@ -2,7 +2,7 @@
 
 <img src="Files/Sayuri, Sayori (A chipper, happy-go-lucky girl).png" title="Sayuri, Sayori (A chipper, happy-go-lucky girl) - Aho-chan, V0.47">
 
-**Database ID: #187**
+**Database ID: #0187**
 
 First Name: Sayori
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Aoki, Shino (Your average, normal girl).png" title="Aoki, Shino (Your average, normal girl) - LowkeyHomo, V0.47">
 
-**Database ID: #491**
+**Database ID: #0491**
 
 First Name: Shino
 

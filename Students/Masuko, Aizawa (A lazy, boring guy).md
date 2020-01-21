@@ -2,7 +2,7 @@
 
 <img src="Files/Masuko, Aizawa (A lazy, boring guy).png" title="Masuko, Aizawa (A lazy, boring guy) - ClownPrinceOfLies, V0.47">
 
-**Database ID: #057**
+**Database ID: #0057**
 
 First Name: Aizawa
 

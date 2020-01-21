@@ -2,7 +2,7 @@
 
 <img src="Files/Kawaguchi, Momoko (An anime-loving cat girl).png" title="Kawaguchi, Momoko (An anime-loving cat girl) - undercover fox, V0.47">
 
-**Database ID: #073**
+**Database ID: #0073**
 
 First Name: Momoko
 

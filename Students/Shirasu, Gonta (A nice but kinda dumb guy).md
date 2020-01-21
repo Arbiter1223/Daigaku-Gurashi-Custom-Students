@@ -2,7 +2,7 @@
 
 <img src="Files/Shirasu, Gonta (A nice but kinda dumb guy).png" title="Shirasu, Gonta (A nice but kinda dumb guy) - ClownPrinceOfLies, V0.47">
 
-**Database ID: #050**
+**Database ID: #0050**
 
 First Name: Gonta
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Ebisawa, Sally (A depressed black futanari who still enjoys life).png" title="Ebisawa, Sally (A depressed black futanari who still enjoys life) - Galaxy gurl, V0.47">
 
-**Database ID: #531**
+**Database ID: #0531**
 
 First Name: Sally
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Fukunaka, Mika (A rude baka with no sense of humor).png" title="Fukunaka, Mika (A rude baka with no sense of humor) - AjTheYandere, V0.47">
 
-**Database ID: #449**
+**Database ID: #0449**
 
 First Name: Mika
 

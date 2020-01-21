@@ -2,7 +2,7 @@
 
 <img src="Files/Gensai, Takara (The anti-occult kuudere).png" title="Gensai, Takara (The anti-occult kuudere) - Aho-chan, V0.47">
 
-**Database ID: #345**
+**Database ID: #0345**
 
 First Name: Takara
 

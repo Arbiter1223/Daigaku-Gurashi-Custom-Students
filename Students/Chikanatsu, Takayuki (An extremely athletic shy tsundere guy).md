@@ -2,7 +2,7 @@
 
 <img src="Files/Chikanatsu, Takayuki (An extremely athletic shy tsundere guy).png" title="Chikanatsu, Takayuki (An extremely athletic shy tsundere guy) - Rando Studenta, V0.47">
 
-**Database ID: #150**
+**Database ID: #0150**
 
 First Name: Takayuki
 

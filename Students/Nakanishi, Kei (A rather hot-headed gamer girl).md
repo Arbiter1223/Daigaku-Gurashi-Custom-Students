@@ -2,7 +2,7 @@
 
 <img src="Files/Nakanishi, Kei (A rather hot-headed gamer girl).png" title="Nakanishi, Kei (A rather hot-headed gamer girl) - Rando Studenta, V0.47">
 
-**Database ID: #127**
+**Database ID: #0127**
 
 First Name: Kei
 

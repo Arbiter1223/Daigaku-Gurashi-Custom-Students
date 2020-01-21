@@ -2,7 +2,7 @@
 
 <img src="Files/Tomori, Nao (A self-assured, tsundere girl).png" title="Tomori, Nao (A self-assured, tsundere girl) - Cookie Boi, V0.47">
 
-**Database ID: #066**
+**Database ID: #0066**
 
 First Name: Nao
 

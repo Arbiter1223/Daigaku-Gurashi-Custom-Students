@@ -2,7 +2,7 @@
 
 <img src="Files/Tatenaka, Yoshiyuki (A kind yet pretty dumb occult boy).png" title="Tatenaka, Yoshiyuki (A kind yet pretty dumb occult boy) - Rando Studenta, V0.47">
 
-**Database ID: #154**
+**Database ID: #0154**
 
 First Name: Yoshiyuki
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Horiuchi, Naoki (An intelligent, agile gamer).png" title="Horiuchi, Naoki (An intelligent, agile gamer) - Rando Studenta, V0.47">
 
-**Database ID: #140**
+**Database ID: #0140**
 
 First Name: Naoki
 

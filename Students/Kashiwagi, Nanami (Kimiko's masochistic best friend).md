@@ -2,7 +2,7 @@
 
 <img src="Files/Kashiwagi, Nanami (Kimiko's masochistic best friend).png" title="Kashiwagi, Nanami (Kimiko's masochistic best friend) - CookieBoi, V0.47">
 
-**Database ID: #501**
+**Database ID: #0501**
 
 First Name: Nanami
 

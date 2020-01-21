@@ -2,7 +2,7 @@
 
 <img src="Files/Egami, Tamura (A modest, content boy).png" title="Egami, Tamura (A modest, content boy) - Bubger Kirg, V0.47">
 
-**Database ID: #234**
+**Database ID: #0234**
 
 First Name: Tamura
 

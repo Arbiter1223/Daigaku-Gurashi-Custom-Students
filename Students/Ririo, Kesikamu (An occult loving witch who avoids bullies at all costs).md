@@ -2,7 +2,7 @@
 
 <img src="Files/Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs).png" title="Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs) - kami, V0.47">
 
-**Database ID: #637**
+**Database ID: #0637**
 
 First Name: Kesikamu
 

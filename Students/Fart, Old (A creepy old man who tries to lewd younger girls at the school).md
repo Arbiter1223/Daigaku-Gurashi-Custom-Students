@@ -2,7 +2,7 @@
 
 <img src="Files/Fart, Old (A creepy old man who tries to lewd younger girls at the school).png" title="Fart, Old (A creepy old man who tries to lewd younger girls at the school) - Astro, V0.47">
 
-**Database ID: #729**
+**Database ID: #0729**
 
 First Name: Old
 

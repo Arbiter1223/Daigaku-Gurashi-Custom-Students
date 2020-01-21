@@ -2,7 +2,7 @@
 
 <img src="Files/Yakuta, Hiroki (An absent-minded occult nerd).png" title="Yakuta, Hiroki (An absent-minded occult nerd) - Clover, V0.47">
 
-**Database ID: #219**
+**Database ID: #0219**
 
 First Name: Hiroki
 

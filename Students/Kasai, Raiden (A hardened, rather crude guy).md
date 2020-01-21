@@ -2,7 +2,7 @@
 
 <img src="Files/Kasai, Raiden (A hardened, rather crude guy).png" title="Kasai, Raiden (A hardened, rather crude guy) - Rando Studenta, V0.47">
 
-**Database ID: #141**
+**Database ID: #0141**
 
 First Name: Raiden
 

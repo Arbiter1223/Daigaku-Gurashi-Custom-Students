@@ -2,7 +2,7 @@
 
 <img src="Files/Yamagata, Taiyo (A popular judgemental pervert).png" title="Yamagata, Taiyo (A popular judgemental pervert) - Syberian Inc, V0.47">
 
-**Database ID: #031**
+**Database ID: #0031**
 
 First Name: Taiyo
 

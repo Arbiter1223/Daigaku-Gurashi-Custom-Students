@@ -2,7 +2,7 @@
 
 <img src="Files/Jolly, Holly (A Christmas-themed character).png" title="Jolly, Holly (A Christmas-themed character) - YamiToast, V0.47">
 
-**Database ID: #578**
+**Database ID: #0578**
 
 First Name: Holly
 

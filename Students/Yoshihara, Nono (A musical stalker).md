@@ -2,7 +2,7 @@
 
 <img src="Files/Yoshihara, Nono (A musical stalker).png" title="Yoshihara, Nono (A musical stalker) - AjTheYandere, V0.47">
 
-**Database ID: #454**
+**Database ID: #0454**
 
 First Name: Nono
 

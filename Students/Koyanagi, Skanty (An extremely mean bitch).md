@@ -2,7 +2,7 @@
 
 <img src="Files/Koyanagi, Skanty (An extremely mean bitch).png" title="Koyanagi, Skanty (An extremely mean bitch) - Syberian Inc, V0.47">
 
-**Database ID: #567**
+**Database ID: #0567**
 
 First Name: Skanty
 

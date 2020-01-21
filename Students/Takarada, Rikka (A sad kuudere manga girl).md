@@ -2,7 +2,7 @@
 
 <img src="Files/Takarada, Rikka (A sad kuudere manga girl).png" title="Takarada, Rikka (A sad kuudere manga girl) - Cookie Boi, V0.47">
 
-**Database ID: #068**
+**Database ID: #0068**
 
 First Name: Rikka
 

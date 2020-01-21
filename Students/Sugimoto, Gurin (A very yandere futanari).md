@@ -2,7 +2,7 @@
 
 <img src="Files/Sugimoto, Gurin (A very yandere futanari).png" title="Sugimoto, Gurin (A very yandere futanari) - AjTheYandere, V0.47">
 
-**Database ID: #418**
+**Database ID: #0418**
 
 First Name: Gurin
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Yamada, Hanako (A very sweet and caring girl).png" title="Yamada, Hanako (A very sweet and caring girl) - Shadow, V0.47">
 
-**Database ID: #194**
+**Database ID: #0194**
 
 First Name: Hanako
 

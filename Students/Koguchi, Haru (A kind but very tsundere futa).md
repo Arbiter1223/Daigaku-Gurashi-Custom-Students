@@ -2,7 +2,7 @@
 
 <img src="Files/Koguchi, Haru (A kind but very tsundere futa).png" title="Koguchi, Haru (A kind but very tsundere futa) - Nyanako, V0.47">
 
-**Database ID: #242**
+**Database ID: #0242**
 
 First Name: Haru
 

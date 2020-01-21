@@ -2,7 +2,7 @@
 
 <img src="Files/Dog, Fast (A mysterious dog-like figure).png" title="Dog, Fast (A mysterious dog-like figure) - AjTheYandere, V0.47">
 
-**Database ID: #654**
+**Database ID: #0654**
 
 First Name: Fast
 

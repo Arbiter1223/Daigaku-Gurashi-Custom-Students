@@ -2,7 +2,7 @@
 
 <img src="Files/Sunobu, Kizana (A happy, snooty bookworm).png" title="Sunobu, Kizana (A happy, snooty bookworm) - Shadow and yogima, V0.47">
 
-**Database ID: #188**
+**Database ID: #0188**
 
 First Name: Kizana
 

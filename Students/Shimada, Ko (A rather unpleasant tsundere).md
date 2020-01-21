@@ -2,7 +2,7 @@
 
 <img src="Files/Shimada, Ko (A rather unpleasant tsundere).png" title="Shimada, Ko (A rather unpleasant tsundere) - Rando Studenta, V0.47">
 
-**Database ID: #132**
+**Database ID: #0132**
 
 First Name: Ko
 

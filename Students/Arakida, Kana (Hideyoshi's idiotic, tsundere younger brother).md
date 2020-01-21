@@ -2,7 +2,7 @@
 
 <img src="Files/Arakida, Kana (Hideyoshi's idiotic, tsundere younger brother).png" title="Arakida, Kana (Hideyoshi's idiotic, tsundere younger brother) - Takumi, V0.47">
 
-**Database ID: #318**
+**Database ID: #0318**
 
 First Name: Kana
 

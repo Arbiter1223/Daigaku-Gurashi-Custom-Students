@@ -2,7 +2,7 @@
 
 <img src="Files/Nagako, Kisama (A very withdrawn baka).png" title="Nagako, Kisama (A very withdrawn baka) - Takumi, V0.47">
 
-**Database ID: #321**
+**Database ID: #0321**
 
 First Name: Kisama
 

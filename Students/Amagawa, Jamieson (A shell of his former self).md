@@ -2,7 +2,7 @@
 
 <img src="Files/Amagawa, Jamieson (A shell of his former self).png" title="Amagawa, Jamieson (A shell of his former self) - BenPupKao, V0.47">
 
-**Database ID: #478**
+**Database ID: #0478**
 
 First Name: Jamieson
 

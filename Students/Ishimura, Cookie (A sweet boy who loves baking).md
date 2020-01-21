@@ -2,7 +2,7 @@
 
 <img src="Files/Ishimura, Cookie (A sweet boy who loves baking).png" title="Ishimura, Cookie (A sweet boy who loves baking) - BenPupKao, V0.47">
 
-**Database ID: #099**
+**Database ID: #0099**
 
 First Name: Cookie
 

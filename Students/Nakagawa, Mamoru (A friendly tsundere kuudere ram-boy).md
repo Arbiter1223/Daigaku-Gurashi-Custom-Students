@@ -2,7 +2,7 @@
 
 <img src="Files/Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy).png" title="Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy) - Rando Studenta, V0.47">
 
-**Database ID: #137**
+**Database ID: #0137**
 
 First Name: Mamoru
 

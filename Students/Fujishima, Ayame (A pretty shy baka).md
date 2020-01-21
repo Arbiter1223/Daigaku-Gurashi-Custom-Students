@@ -2,7 +2,7 @@
 
 <img src="Files/Fujishima, Ayame (A pretty shy baka).png" title="Fujishima, Ayame (A pretty shy baka) - AjTheYandere, V0.47">
 
-**Database ID: #352**
+**Database ID: #0352**
 
 First Name: Ayame
 

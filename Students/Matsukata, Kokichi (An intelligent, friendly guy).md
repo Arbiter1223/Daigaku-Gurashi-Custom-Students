@@ -2,7 +2,7 @@
 
 <img src="Files/Matsukata, Kokichi (An intelligent, friendly guy).png" title="Matsukata, Kokichi (An intelligent, friendly guy) - xabbynip09, V0.47">
 
-**Database ID: #212**
+**Database ID: #0212**
 
 First Name: Kokichi
 

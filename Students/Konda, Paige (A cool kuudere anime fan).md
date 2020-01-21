@@ -2,7 +2,7 @@
 
 <img src="Files/Konda, Paige (A cool kuudere anime fan).png" title="Konda, Paige (A cool kuudere anime fan) - Shiny, V0.47">
 
-**Database ID: #602**
+**Database ID: #0602**
 
 First Name: Paige
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Wakai, Morgan (A shy but nice yandere).png" title="Wakai, Morgan (A shy but nice yandere) - Nightara, V0.47">
 
-**Database ID: #206**
+**Database ID: #0206**
 
 First Name: Morgan
 

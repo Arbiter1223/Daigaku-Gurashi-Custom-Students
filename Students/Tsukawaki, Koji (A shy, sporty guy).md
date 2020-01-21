@@ -2,7 +2,7 @@
 
 <img src="Files/Tsukawaki, Koji (A shy, sporty guy).png" title="Tsukawaki, Koji (A shy, sporty guy) - AjTheYandere, V0.47">
 
-**Database ID: #439**
+**Database ID: #0439**
 
 First Name: Koji
 

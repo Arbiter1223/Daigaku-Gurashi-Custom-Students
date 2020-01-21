@@ -2,7 +2,7 @@
 
 <img src="Files/Yamazaki, Evil Aoki (Aoki's darkner, evil side).png" title="Yamazaki, Evil Aoki (Aoki's darkner, evil side) - AjTheYandere, V0.47">
 
-**Database ID: #247**
+**Database ID: #0247**
 
 First Name: Evil Aoki
 

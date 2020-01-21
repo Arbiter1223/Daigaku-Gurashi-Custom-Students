@@ -2,7 +2,7 @@
 
 <img src="Files/Yeeterboner, Rika (A horny casual jjba fan).png" title="Yeeterboner, Rika (A horny casual jjba fan) - sansrika, V0.47">
 
-**Database ID: #591**
+**Database ID: #0591**
 
 First Name: Rika
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Ajibana, Sachiko (A shy but very active girl).png" title="Ajibana, Sachiko (A shy but very active girl) - AjTheYandere, V0.47">
 
-**Database ID: #466**
+**Database ID: #0466**
 
 First Name: Sachiko
 

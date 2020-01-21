@@ -2,7 +2,7 @@
 
 <img src="Files/Hideki, Pinku (A friendly positive guy).png" title="Hideki, Pinku (A friendly positive guy) - YamiToast, V0.47">
 
-**Database ID: #005**
+**Database ID: #0005**
 
 First Name: Pinku
 

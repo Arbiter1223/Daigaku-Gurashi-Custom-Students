@@ -2,7 +2,7 @@
 
 <img src="Files/Hisako, Aoi (Easiest girlfriend ever).png" title="Hisako, Aoi (Easiest girlfriend ever) - Syberian Inc, V0.47">
 
-**Database ID: #033**
+**Database ID: #0033**
 
 First Name: Aoi
 

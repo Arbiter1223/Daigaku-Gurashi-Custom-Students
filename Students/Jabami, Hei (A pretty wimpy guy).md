@@ -2,7 +2,7 @@
 
 <img src="Files/Jabami, Hei (A pretty wimpy guy).png" title="Jabami, Hei (A pretty wimpy guy) - AjTheYandere, V0.47">
 
-**Database ID: #424**
+**Database ID: #0424**
 
 First Name: Hei
 

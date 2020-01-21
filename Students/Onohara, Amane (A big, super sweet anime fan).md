@@ -2,7 +2,7 @@
 
 <img src="Files/Onohara, Amane (A big, super sweet anime fan).png" title="Onohara, Amane (A big, super sweet anime fan) - peraon, V0.47">
 
-**Database ID: #702**
+**Database ID: #0702**
 
 First Name: Amane
 

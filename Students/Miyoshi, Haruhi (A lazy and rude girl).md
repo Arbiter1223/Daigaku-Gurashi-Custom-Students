@@ -2,7 +2,7 @@
 
 <img src="Files/Miyoshi, Haruhi (A lazy and rude girl).png" title="Miyoshi, Haruhi (A lazy and rude girl) - AjTheYandere, V0.47">
 
-**Database ID: #422**
+**Database ID: #0422**
 
 First Name: Haruhi
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Shobo, Hai (A shy girl who likes anime social simulators).png" title="Shobo, Hai (A shy girl who likes anime social simulators) - AjTheYandere, V0.47">
 
-**Database ID: #419**
+**Database ID: #0419**
 
 First Name: Hai
 

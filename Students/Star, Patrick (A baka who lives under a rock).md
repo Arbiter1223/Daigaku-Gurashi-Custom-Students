@@ -2,7 +2,7 @@
 
 <img src="Files/Star, Patrick (A baka who lives under a rock).png" title="Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.47">
 
-**Database ID: #542**
+**Database ID: #0542**
 
 First Name: Patrick
 

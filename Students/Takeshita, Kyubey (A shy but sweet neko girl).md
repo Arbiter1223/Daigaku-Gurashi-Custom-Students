@@ -2,7 +2,7 @@
 
 <img src="Files/Takeshita, Kyubey (A shy but sweet neko girl).png" title="Takeshita, Kyubey (A shy but sweet neko girl) - Cookie Boi, V0.47">
 
-**Database ID: #063**
+**Database ID: #0063**
 
 First Name: Kyubey
 

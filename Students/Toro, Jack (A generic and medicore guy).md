@@ -2,7 +2,7 @@
 
 <img src="Files/Toro, Jack (A generic and medicore guy).png" title="Toro, Jack (A generic and medicore guy) - Generic-kun, V0.47">
 
-**Database ID: #688**
+**Database ID: #0688**
 
 First Name: Jack
 

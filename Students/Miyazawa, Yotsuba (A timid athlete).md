@@ -2,7 +2,7 @@
 
 <img src="Files/Miyazawa, Yotsuba (A timid athlete).png" title="Miyazawa, Yotsuba (A timid athlete) - AjTheYandere, V0.47">
 
-**Database ID: #400**
+**Database ID: #0400**
 
 First Name: Yotsuba
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Mayuzumi, Rei (A shy, boring kuudere girl).png" title="Mayuzumi, Rei (A shy, boring kuudere girl) - Liam Beets, V0.47">
 
-**Database ID: #158**
+**Database ID: #0158**
 
 First Name: Rei
 

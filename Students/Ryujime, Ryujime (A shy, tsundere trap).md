@@ -2,7 +2,7 @@
 
 <img src="Files/Ryujime, Ryujime (A shy, tsundere trap).png" title="Ryujime, Ryujime (A shy, tsundere trap) - Ryujime, V0.47">
 
-**Database ID: #621**
+**Database ID: #0621**
 
 First Name: Ryujime
 

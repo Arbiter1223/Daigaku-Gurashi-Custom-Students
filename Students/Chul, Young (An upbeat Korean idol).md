@@ -2,7 +2,7 @@
 
 <img src="Files/Chul, Young (An upbeat Korean idol).png" title="Chul, Young (An upbeat Korean idol) - Aho-chan, V0.47">
 
-**Database ID: #389**
+**Database ID: #0389**
 
 First Name: Young
 

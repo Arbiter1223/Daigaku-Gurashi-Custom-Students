@@ -2,7 +2,7 @@
 
 <img src="Files/Karube, Teresa (A heartless yandere bully).png" title="Karube, Teresa (A heartless yandere bully) - AjTheYandere, V0.47">
 
-**Database ID: #284**
+**Database ID: #0284**
 
 First Name: Teresa
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Utagawa, Sarah (A bully who hates literature, school and nerds).png" title="Utagawa, Sarah (A bully who hates literature, school and nerds) - Galaxy gurl, V0.47">
 
-**Database ID: #526**
+**Database ID: #0526**
 
 First Name: Sarah
 

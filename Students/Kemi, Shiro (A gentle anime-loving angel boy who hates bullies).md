@@ -2,7 +2,7 @@
 
 <img src="Files/Kemi, Shiro (A gentle anime-loving angel boy who hates bullies).png" title="Kemi, Shiro (A gentle anime-loving angel boy who hates bullies) - kami, V0.47">
 
-**Database ID: #634**
+**Database ID: #0634**
 
 First Name: Shiro
 

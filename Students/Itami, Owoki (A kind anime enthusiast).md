@@ -2,7 +2,7 @@
 
 <img src="Files/Itami, Owoki (A kind anime enthusiast).png" title="Itami, Owoki (A kind anime enthusiast) - BenPupKao, V0.47">
 
-**Database ID: #550**
+**Database ID: #0550**
 
 First Name: Owoki
 

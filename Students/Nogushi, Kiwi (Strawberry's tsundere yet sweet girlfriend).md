@@ -2,7 +2,7 @@
 
 <img src="Files/Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend).png" title="Nogushi, Kiwi (Strawberry's tsundere yet sweet girlfriend) - Chi, V0.47">
 
-**Database ID: #554**
+**Database ID: #0554**
 
 First Name: Kiwi
 

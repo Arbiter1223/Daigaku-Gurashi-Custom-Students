@@ -2,7 +2,7 @@
 
 <img src="Files/Ichisada, Rimurensu (A masochistic occult girl).png" title="Ichisada, Rimurensu (A masochistic occult girl) - Astronomical, V0.47">
 
-**Database ID: #311**
+**Database ID: #0311**
 
 First Name: Rimurensu
 

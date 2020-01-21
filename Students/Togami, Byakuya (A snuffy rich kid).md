@@ -2,7 +2,7 @@
 
 <img src="Files/Togami, Byakuya (A snuffy rich kid).png" title="Togami, Byakuya (A snuffy rich kid) - Camden, V0.47">
 
-**Database ID: #610**
+**Database ID: #0610**
 
 First Name: Byakuya
 

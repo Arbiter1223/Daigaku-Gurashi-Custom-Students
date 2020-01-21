@@ -2,7 +2,7 @@
 
 <img src="Files/Doi, Suzu (A very friendly schoolgirl).png" title="Doi, Suzu (A very friendly schoolgirl) - skylight, V0.47">
 
-**Database ID: #084**
+**Database ID: #0084**
 
 First Name: Suzu
 

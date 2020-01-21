@@ -2,7 +2,7 @@
 
 <img src="Files/Fukusaku, Yume (A stupid, sporty attention whore).png" title="Fukusaku, Yume (A stupid, sporty attention whore) - Aho-chan, V0.47">
 
-**Database ID: #237**
+**Database ID: #0237**
 
 First Name: Yume
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Shibaguchi, Rie (A bashful but perverted occult girl).png" title="Shibaguchi, Rie (A bashful but perverted occult girl) - Rando Studenta, V0.47">
 
-**Database ID: #144**
+**Database ID: #0144**
 
 First Name: Rie
 

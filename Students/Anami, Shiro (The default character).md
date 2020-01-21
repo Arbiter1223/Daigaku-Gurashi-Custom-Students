@@ -2,7 +2,7 @@
 
 <img src="Files/Anami, Shiro (The default character).png" title="Anami, Shiro (The default character) - YamiToast, V0.47">
 
-**Database ID: #007**
+**Database ID: #0007**
 
 First Name: Shiro
 

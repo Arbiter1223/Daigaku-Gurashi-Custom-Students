@@ -2,7 +2,7 @@
 
 <img src="Files/Kurokami, Ale (A nerdy, non-binary student who is laid-back and has an accent).png" title="Kurokami, Ale (A nerdy, non-binary student who is laid-back and has an accent) - Aho-chan, V0.47">
 
-**Database ID: #704**
+**Database ID: #0704**
 
 First Name: Ale
 

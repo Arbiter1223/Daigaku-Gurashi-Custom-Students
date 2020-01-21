@@ -2,7 +2,7 @@
 
 <img src="Files/Rona, Nakana (A popular athletic girl who is slightly judgemental towards lazy people).png" title="Rona, Nakana (A popular athletic girl who is slightly judgemental towards lazy people) - yogima, V0.47">
 
-**Database ID: #716**
+**Database ID: #0716**
 
 First Name: Nakana
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Nishiyama, Akuma (A possibly possessed occult-obsessed bully).png" title="Nishiyama, Akuma (A possibly possessed occult-obsessed bully) - BenPupKao, V0.47">
 
-**Database ID: #337**
+**Database ID: #0337**
 
 First Name: Akuma
 

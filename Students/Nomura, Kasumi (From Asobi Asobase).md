@@ -2,7 +2,7 @@
 
 <img src="Files/Nomura, Kasumi (From Asobi Asobase).png" title="Nomura, Kasumi (From Asobi Asobase) - sansrika, V0.47">
 
-**Database ID: #588**
+**Database ID: #0588**
 
 First Name: Kasumi
 

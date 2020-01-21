@@ -2,7 +2,7 @@
 
 <img src="Files/Saitoh, Michi (A gaming schoolworm, Michio's cousin).png" title="Saitoh, Michi (A gaming schoolworm, Michio's cousin) - Aho-chan, V0.47">
 
-**Database ID: #267**
+**Database ID: #0267**
 
 First Name: Michi
 

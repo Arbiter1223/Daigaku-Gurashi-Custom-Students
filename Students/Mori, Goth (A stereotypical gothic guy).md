@@ -2,7 +2,7 @@
 
 <img src="Files/Mori, Goth (A stereotypical gothic guy).png" title="Mori, Goth (A stereotypical gothic guy) - azure, V0.47">
 
-**Database ID: #018**
+**Database ID: #0018**
 
 First Name: Goth
 

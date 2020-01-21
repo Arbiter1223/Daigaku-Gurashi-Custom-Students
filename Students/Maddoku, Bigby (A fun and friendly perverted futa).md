@@ -2,7 +2,7 @@
 
 <img src="Files/Maddoku, Bigby (A fun and friendly perverted futa).png" title="Maddoku, Bigby (A fun and friendly perverted futa) - Camden, V0.47">
 
-**Database ID: #503**
+**Database ID: #0503**
 
 First Name: Bigby
 

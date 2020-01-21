@@ -2,7 +2,7 @@
 
 <img src="Files/Sawamatsu, Kanna (A quiet, reserved bookworm).png" title="Sawamatsu, Kanna (A quiet, reserved bookworm) - Rando Studenta, V0.47">
 
-**Database ID: #126**
+**Database ID: #0126**
 
 First Name: Kanna
 

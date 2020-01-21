@@ -2,7 +2,7 @@
 
 <img src="Files/Kawachi, Hikari (An extremely shy and depressed angel).png" title="Kawachi, Hikari (An extremely shy and depressed angel) - Rando Studenta, V0.47">
 
-**Database ID: #120**
+**Database ID: #0120**
 
 First Name: Hikari
 

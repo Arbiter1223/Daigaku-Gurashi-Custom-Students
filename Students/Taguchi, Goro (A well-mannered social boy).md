@@ -2,7 +2,7 @@
 
 <img src="Files/Taguchi, Goro (A well-mannered social boy).png" title="Taguchi, Goro (A well-mannered social boy) - Chi, V0.47">
 
-**Database ID: #534**
+**Database ID: #0534**
 
 First Name: Goro
 

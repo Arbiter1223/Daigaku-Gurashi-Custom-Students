@@ -2,7 +2,7 @@
 
 <img src="Files/Aj, Aj (The person who had 91 random students for the database).png" title="Aj, Aj (The person who had 91 random students for the database) - AjTheYandere, V0.47">
 
-**Database ID: #648**
+**Database ID: #0648**
 
 First Name: Aj
 

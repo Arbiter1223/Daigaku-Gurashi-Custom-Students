@@ -2,7 +2,7 @@
 
 <img src="Files/Okano, Koichi (A funny, brilliant guy).png" title="Okano, Koichi (A funny, brilliant guy) - Bubger Kirg, V0.47">
 
-**Database ID: #235**
+**Database ID: #0235**
 
 First Name: Koichi
 

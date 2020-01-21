@@ -2,7 +2,7 @@
 
 <img src="Files/Marubeni, Hisashi (A shy tsundere neko boy).png" title="Marubeni, Hisashi (A shy tsundere neko boy) - Rando Studenta, V0.47">
 
-**Database ID: #121**
+**Database ID: #0121**
 
 First Name: Hisashi
 

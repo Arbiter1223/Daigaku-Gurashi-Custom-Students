@@ -2,7 +2,7 @@
 
 <img src="Files/Korasama, Meloka (A stylish girl who shows a great interest in the occult).png" title="Korasama, Meloka (A stylish girl who shows a great interest in the occult) - chalk_girl, V0.47">
 
-**Database ID: #712**
+**Database ID: #0712**
 
 First Name: Meloka
 

@@ -2,7 +2,7 @@
 
 <img src="Files/One, Player (A girl who likes to play anime social simulators).png" title="One, Player (A girl who likes to play anime social simulators) - AjTheYandere, V0.47">
 
-**Database ID: #254**
+**Database ID: #0254**
 
 First Name: Player
 

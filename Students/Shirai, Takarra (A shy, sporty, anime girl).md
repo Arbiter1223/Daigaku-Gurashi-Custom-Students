@@ -2,7 +2,7 @@
 
 <img src="Files/Shirai, Takarra (A shy, sporty, anime girl).png" title="Shirai, Takarra (A shy, sporty, anime girl) - RainB, V0.47">
 
-**Database ID: #085**
+**Database ID: #0085**
 
 First Name: Takarra
 

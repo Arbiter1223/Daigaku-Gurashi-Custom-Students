@@ -2,7 +2,7 @@
 
 <img src="Files/Takabe, Toga (A smart, masochistic yandere).png" title="Takabe, Toga (A smart, masochistic yandere) - ClownPrinceOfLies, V0.47">
 
-**Database ID: #064**
+**Database ID: #0064**
 
 First Name: Toga
 

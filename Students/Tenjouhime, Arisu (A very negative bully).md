@@ -2,7 +2,7 @@
 
 <img src="Files/Tenjouhime, Arisu (A very negative bully).png" title="Tenjouhime, Arisu (A very negative bully) - YamiToast, V0.47">
 
-**Database ID: #001**
+**Database ID: #0001**
 
 First Name: Arisu
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Nakazawa, Haruko (A friendly but rather clumsy ram-girl).png" title="Nakazawa, Haruko (A friendly but rather clumsy ram-girl) - Rando Studenta, V0.47">
 
-**Database ID: #119**
+**Database ID: #0119**
 
 First Name: Haruko
 

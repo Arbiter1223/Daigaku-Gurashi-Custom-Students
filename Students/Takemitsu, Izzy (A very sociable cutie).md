@@ -2,7 +2,7 @@
 
 <img src="Files/Takemitsu, Izzy (A very sociable cutie).png" title="Takemitsu, Izzy (A very sociable cutie) - Izzabella, V0.47">
 
-**Database ID: #222**
+**Database ID: #0222**
 
 First Name: Izzy
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Mitzusaka, Ayumi (A super dank mage).png" title="Mitzusaka, Ayumi (A super dank mage) - Nyanako, V0.47">
 
-**Database ID: #182**
+**Database ID: #0182**
 
 First Name: Ayumi
 

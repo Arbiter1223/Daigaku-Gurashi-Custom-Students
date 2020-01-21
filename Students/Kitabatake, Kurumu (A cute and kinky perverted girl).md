@@ -2,7 +2,7 @@
 
 <img src="Files/Kitabatake, Kurumu (A cute and kinky perverted girl).png" title="Kitabatake, Kurumu (A cute and kinky perverted girl) - Syberian Inc, V0.47">
 
-**Database ID: #047**
+**Database ID: #0047**
 
 First Name: Kurumu
 

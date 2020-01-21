@@ -2,7 +2,7 @@
 
 <img src="Files/Ohishi, Haruo (A rather unfriendly baka).png" title="Ohishi, Haruo (A rather unfriendly baka) - AjTheYandere, V0.47">
 
-**Database ID: #423**
+**Database ID: #0423**
 
 First Name: Haruo
 

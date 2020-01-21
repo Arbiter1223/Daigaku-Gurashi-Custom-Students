@@ -2,7 +2,7 @@
 
 <img src="Files/Toast, Yami (This BAKA made this game).png" title="Toast, Yami (This BAKA made this game) - Syberian Inc, V0.47">
 
-**Database ID: #487**
+**Database ID: #0487**
 
 First Name: Yami
 

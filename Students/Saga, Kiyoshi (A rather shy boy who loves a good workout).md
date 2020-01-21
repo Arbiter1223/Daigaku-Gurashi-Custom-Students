@@ -2,7 +2,7 @@
 
 <img src="Files/Saga, Kiyoshi (A rather shy boy who loves a good workout).png" title="Saga, Kiyoshi (A rather shy boy who loves a good workout) - Rando Studenta, V0.47">
 
-**Database ID: #131**
+**Database ID: #0131**
 
 First Name: Kiyoshi
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Matsuda, Lucy (A very rude music girl).png" title="Matsuda, Lucy (A very rude music girl) - Syberian Inc, V0.47">
 
-**Database ID: #046**
+**Database ID: #0046**
 
 First Name: Lucy
 

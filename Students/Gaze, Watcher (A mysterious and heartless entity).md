@@ -2,7 +2,7 @@
 
 <img src="Files/Gaze, Watcher (A mysterious and heartless entity).png" title="Gaze, Watcher (A mysterious and heartless entity) - AjTheYandere, V0.47">
 
-**Database ID: #282**
+**Database ID: #0282**
 
 First Name: Watcher
 

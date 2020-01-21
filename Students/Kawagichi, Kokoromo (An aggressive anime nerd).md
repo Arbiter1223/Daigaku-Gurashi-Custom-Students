@@ -2,7 +2,7 @@
 
 <img src="Files/Kawagichi, Kokoromo (An aggressive anime nerd).png" title="Kawagichi, Kokoromo (An aggressive anime nerd) - BenPupKao, V0.47">
 
-**Database ID: #562**
+**Database ID: #0562**
 
 First Name: Kokoromo
 

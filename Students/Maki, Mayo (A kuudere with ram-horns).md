@@ -2,7 +2,7 @@
 
 <img src="Files/Maki, Mayo (A kuudere with ram-horns).png" title="Maki, Mayo (A kuudere with ram-horns) - YamiToast, V0.47">
 
-**Database ID: #004**
+**Database ID: #0004**
 
 First Name: Mayo
 

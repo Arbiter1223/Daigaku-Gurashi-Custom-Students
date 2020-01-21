@@ -2,7 +2,7 @@
 
 <img src="Files/Someya, Max (A gay, depressed and bullied boy).png" title="Someya, Max (A gay, depressed and bullied boy) - Galaxy gurl, V0.47">
 
-**Database ID: #527**
+**Database ID: #0527**
 
 First Name: Max
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Ernst, Diana (A very serious German girl).png" title="Ernst, Diana (A very serious German girl) - Aho-chan, V0.47">
 
-**Database ID: #484**
+**Database ID: #0484**
 
 First Name: Diana
 

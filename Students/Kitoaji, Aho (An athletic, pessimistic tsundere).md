@@ -2,7 +2,7 @@
 
 <img src="Files/Kitoaji, Aho (An athletic, pessimistic tsundere).png" title="Kitoaji, Aho (An athletic, pessimistic tsundere) - Aho-chan, V0.47">
 
-**Database ID: #082**
+**Database ID: #0082**
 
 First Name: Aho
 

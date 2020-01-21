@@ -2,7 +2,7 @@
 
 <img src="Files/Shima, Siggi (A distant bitchy cousin of Gorgonzola).png" title="Shima, Siggi (A distant bitchy cousin of Gorgonzola) - Nutmeg, V0.47">
 
-**Database ID: #548**
+**Database ID: #0548**
 
 First Name: Siggi
 

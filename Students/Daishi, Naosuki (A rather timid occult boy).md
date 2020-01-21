@@ -2,7 +2,7 @@
 
 <img src="Files/Daishi, Naosuki (A rather timid occult boy).png" title="Daishi, Naosuki (A rather timid occult boy) - Rando Studenta, V0.47">
 
-**Database ID: #142**
+**Database ID: #0142**
 
 First Name: Naosuki
 

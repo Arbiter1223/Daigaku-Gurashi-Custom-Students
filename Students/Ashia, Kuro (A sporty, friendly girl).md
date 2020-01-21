@@ -2,7 +2,7 @@
 
 <img src="Files/Ashia, Kuro (A sporty, friendly girl).png" title="Ashia, Kuro (A sporty, friendly girl) - Nyanako, V0.47">
 
-**Database ID: #174**
+**Database ID: #0174**
 
 First Name: Kuro
 

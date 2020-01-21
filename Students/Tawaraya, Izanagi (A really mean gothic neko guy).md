@@ -2,7 +2,7 @@
 
 <img src="Files/Tawaraya, Izanagi (A really mean gothic neko guy).png" title="Tawaraya, Izanagi (A really mean gothic neko guy) - Rando Studenta, V0.47">
 
-**Database ID: #122**
+**Database ID: #0122**
 
 First Name: Izanagi
 

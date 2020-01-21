@@ -2,7 +2,7 @@
 
 <img src="Files/Ozaki, Cho (A smart, lovey-dovey guy).png" title="Ozaki, Cho (A smart, lovey-dovey guy) - AjTheYandere, V0.47">
 
-**Database ID: #415**
+**Database ID: #0415**
 
 First Name: Cho
 

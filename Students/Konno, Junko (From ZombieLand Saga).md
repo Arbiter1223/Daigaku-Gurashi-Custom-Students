@@ -2,7 +2,7 @@
 
 <img src="Files/Konno, Junko (From ZombieLand Saga).png" title="Konno, Junko (From ZombieLand Saga) - sansrika, V0.47">
 
-**Database ID: #582**
+**Database ID: #0582**
 
 First Name: Junko
 

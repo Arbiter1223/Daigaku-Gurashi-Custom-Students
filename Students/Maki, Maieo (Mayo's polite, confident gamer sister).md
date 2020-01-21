@@ -2,7 +2,7 @@
 
 <img src="Files/Maki, Maieo (Mayo's polite, confident gamer sister).png" title="Maki, Maieo (Mayo's polite, confident gamer sister) - Cookie Boi, V0.47">
 
-**Database ID: #303**
+**Database ID: #0303**
 
 First Name: Maieo
 

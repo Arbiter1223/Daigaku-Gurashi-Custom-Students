@@ -2,7 +2,7 @@
 
 <img src="Files/Tenjouhime, Ariso (Arisu's very negative brother).png" title="Tenjouhime, Ariso (Arisu's very negative brother) - AjTheYandere, V0.47">
 
-**Database ID: #325**
+**Database ID: #0325**
 
 First Name: Ariso
 

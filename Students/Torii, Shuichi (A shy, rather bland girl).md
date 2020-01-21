@@ -2,7 +2,7 @@
 
 <img src="Files/Torii, Shuichi (A shy, rather bland girl).png" title="Torii, Shuichi (A shy, rather bland girl) - ClownPrinceOfLies, V0.47">
 
-**Database ID: #049**
+**Database ID: #0049**
 
 First Name: Shuichi
 

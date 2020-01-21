@@ -2,7 +2,7 @@
 
 <img src="Files/Tsuchiyama, Petal (A rude, anime-hating gamer).png" title="Tsuchiyama, Petal (A rude, anime-hating gamer) - BenPupKao, V0.47">
 
-**Database ID: #480**
+**Database ID: #0480**
 
 First Name: Petal
 

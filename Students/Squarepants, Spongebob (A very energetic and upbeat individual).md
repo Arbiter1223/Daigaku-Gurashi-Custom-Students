@@ -2,7 +2,7 @@
 
 <img src="Files/Squarepants, Spongebob (A very energetic and upbeat individual).png" title="Squarepants, Spongebob (A very energetic and upbeat individual) - LowkeyHomo, V0.47">
 
-**Database ID: #543**
+**Database ID: #0543**
 
 First Name: Spongebob
 

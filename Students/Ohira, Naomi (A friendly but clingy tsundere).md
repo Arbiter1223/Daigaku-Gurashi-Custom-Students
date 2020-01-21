@@ -2,7 +2,7 @@
 
 <img src="Files/Ohira, Naomi (A friendly but clingy tsundere).png" title="Ohira, Naomi (A friendly but clingy tsundere) - RainB, V0.47">
 
-**Database ID: #076**
+**Database ID: #0076**
 
 First Name: Naomi
 

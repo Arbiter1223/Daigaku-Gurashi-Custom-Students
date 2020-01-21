@@ -2,7 +2,7 @@
 
 <img src="Files/Kina, Muja (A shy, modest individual).png" title="Kina, Muja (A shy, modest individual) - Shadow, V0.47">
 
-**Database ID: #191**
+**Database ID: #0191**
 
 First Name: Muja
 

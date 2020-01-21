@@ -2,7 +2,7 @@
 
 <img src="Files/Takayama, Mina (A really confident girl).png" title="Takayama, Mina (A really confident girl) - Bubger Kirg, V0.47">
 
-**Database ID: #257**
+**Database ID: #0257**
 
 First Name: Mina
 

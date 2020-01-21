@@ -2,7 +2,7 @@
 
 <img src="Files/Yasuhiro, Momo (A shy, timid girl).png" title="Yasuhiro, Momo (A shy, timid girl) - CherryMaru, V0.47">
 
-**Database ID: #055**
+**Database ID: #0055**
 
 First Name: Momo
 

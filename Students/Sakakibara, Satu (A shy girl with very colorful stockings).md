@@ -2,7 +2,7 @@
 
 <img src="Files/Sakakibara, Satu (A shy girl with very colorful stockings).png" title="Sakakibara, Satu (A shy girl with very colorful stockings) - chalk_girl, V0.47">
 
-**Database ID: #713**
+**Database ID: #0713**
 
 First Name: Satu
 

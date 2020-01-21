@@ -2,7 +2,7 @@
 
 <img src="Files/Adachi, Reka (A typical schoolgirl).png" title="Adachi, Reka (A typical schoolgirl) - RainB, V0.47">
 
-**Database ID: #089**
+**Database ID: #0089**
 
 First Name: Reka
 

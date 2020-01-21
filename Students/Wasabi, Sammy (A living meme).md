@@ -2,7 +2,7 @@
 
 <img src="Files/Wasabi, Sammy (A living meme).png" title="Wasabi, Sammy (A living meme) - Karma, V0.47">
 
-**Database ID: #678**
+**Database ID: #0678**
 
 First Name: Sammy
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Miyazaki, Chiasa (A confident, sporty tsundere).png" title="Miyazaki, Chiasa (A confident, sporty tsundere) - AjTheYandere, V0.47">
 
-**Database ID: #354**
+**Database ID: #0354**
 
 First Name: Chiasa
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Minamoto, Miyi (A witch with a green thumb and purple panties).png" title="Minamoto, Miyi (A witch with a green thumb and purple panties) - Grandma Kipali, V0.47">
 
-**Database ID: #687**
+**Database ID: #0687**
 
 First Name: Miyi
 

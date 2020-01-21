@@ -2,7 +2,7 @@
 
 <img src="Files/Toast, Yami (Another version of the creator).png" title="Toast, Yami (Another version of the creator) - IzzyStiks2.0, V0.47">
 
-**Database ID: #308**
+**Database ID: #0308**
 
 First Name: Yami
 

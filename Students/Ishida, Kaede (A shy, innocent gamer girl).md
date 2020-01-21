@@ -2,7 +2,7 @@
 
 <img src="Files/Ishida, Kaede (A shy, innocent gamer girl).png" title="Ishida, Kaede (A shy, innocent gamer girl) - ClownPrinceOfLies, V0.47">
 
-**Database ID: #048**
+**Database ID: #0048**
 
 First Name: Kaede
 

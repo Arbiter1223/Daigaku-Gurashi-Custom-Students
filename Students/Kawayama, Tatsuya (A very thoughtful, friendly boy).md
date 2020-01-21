@@ -2,7 +2,7 @@
 
 <img src="Files/Kawayama, Tatsuya (A very thoughtful, friendly boy).png" title="Kawayama, Tatsuya (A very thoughtful, friendly boy) - Rando Studenta, V0.47">
 
-**Database ID: #152**
+**Database ID: #0152**
 
 First Name: Tatsuya
 

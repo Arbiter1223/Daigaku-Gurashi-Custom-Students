@@ -2,7 +2,7 @@
 
 <img src="Files/Kon, Jenny (A perverted tsundere girl).png" title="Kon, Jenny (A perverted tsundere girl) - AjTheYandere, V0.47">
 
-**Database ID: #456**
+**Database ID: #0456**
 
 First Name: Jenny
 

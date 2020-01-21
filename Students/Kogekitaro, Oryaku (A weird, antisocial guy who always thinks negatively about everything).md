@@ -2,7 +2,7 @@
 
 <img src="Files/Kogekitaro, Oryaku (A weird, antisocial guy who always thinks negatively about everything).png" title="Kogekitaro, Oryaku (A weird, antisocial guy who always thinks negatively about everything) - yogima, V0.47">
 
-**Database ID: #717**
+**Database ID: #0717**
 
 First Name: Oryaku
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Arai, Amaya (A perverted baka).png" title="Arai, Amaya (A perverted baka) - AjTheYandere, V0.47">
 
-**Database ID: #406**
+**Database ID: #0406**
 
 First Name: Amaya
 

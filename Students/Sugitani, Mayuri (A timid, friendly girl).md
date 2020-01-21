@@ -2,7 +2,7 @@
 
 <img src="Files/Sugitani, Mayuri (A timid, friendly girl).png" title="Sugitani, Mayuri (A timid, friendly girl) - Antartix Pevori, V0.47">
 
-**Database ID: #227**
+**Database ID: #0227**
 
 First Name: Mayuri
 

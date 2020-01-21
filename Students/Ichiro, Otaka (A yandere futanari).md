@@ -2,7 +2,7 @@
 
 <img src="Files/Ichiro, Otaka (A yandere futanari).png" title="Ichiro, Otaka (A yandere futanari) - Leah-Nya, V0.47">
 
-**Database ID: #113**
+**Database ID: #0113**
 
 First Name: Otaka
 

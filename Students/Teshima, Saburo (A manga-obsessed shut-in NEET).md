@@ -2,7 +2,7 @@
 
 <img src="Files/Teshima, Saburo (A manga-obsessed shut-in NEET).png" title="Teshima, Saburo (A manga-obsessed shut-in NEET) - AjTheYandere, V0.47">
 
-**Database ID: #465**
+**Database ID: #0465**
 
 First Name: Saburo
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Miki, Gemin (A somewhat pervy gamer).png" title="Miki, Gemin (A somewhat pervy gamer) - BenPupKao, V0.47">
 
-**Database ID: #482**
+**Database ID: #0482**
 
 First Name: Gemin
 

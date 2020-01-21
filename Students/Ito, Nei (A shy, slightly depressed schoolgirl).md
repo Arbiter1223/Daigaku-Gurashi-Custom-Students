@@ -2,7 +2,7 @@
 
 <img src="Files/Ito, Nei (A shy, slightly depressed schoolgirl).png" title="Ito, Nei (A shy, slightly depressed schoolgirl) - AjTheYandere, V0.47">
 
-**Database ID: #453**
+**Database ID: #0453**
 
 First Name: Nei
 

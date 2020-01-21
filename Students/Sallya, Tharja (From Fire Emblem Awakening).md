@@ -2,7 +2,7 @@
 
 <img src="Files/Sallya, Tharja (From Fire Emblem Awakening).png" title="Sallya, Tharja (From Fire Emblem Awakening) - Ryujime, V0.47">
 
-**Database ID: #622**
+**Database ID: #0622**
 
 First Name: Tharja
 

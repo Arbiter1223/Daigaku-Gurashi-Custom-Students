@@ -2,7 +2,7 @@
 
 <img src="Files/Enoki, Souda (The school's trap).png" title="Enoki, Souda (The school's trap) - KGMN01, V0.47">
 
-**Database ID: #213**
+**Database ID: #0213**
 
 First Name: Souda
 

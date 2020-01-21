@@ -2,7 +2,7 @@
 
 <img src="Files/Tarumi, Haru (A girl who loves a good workout).png" title="Tarumi, Haru (A girl who loves a good workout) - AjTheYandere, V0.47">
 
-**Database ID: #421**
+**Database ID: #0421**
 
 First Name: Haru
 

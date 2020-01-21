@@ -2,7 +2,7 @@
 
 <img src="Files/Shibue, Lum (An extrememly friendly, busty manga girl).png" title="Shibue, Lum (An extrememly friendly, busty manga girl) - Nyanako, V0.47">
 
-**Database ID: #179**
+**Database ID: #0179**
 
 First Name: Lum
 

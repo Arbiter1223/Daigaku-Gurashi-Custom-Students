@@ -2,7 +2,7 @@
 
 <img src="Files/Kondo, Fumiko (A snooty, half-witted girl).png" title="Kondo, Fumiko (A snooty, half-witted girl) - Rando Studenta, V0.47">
 
-**Database ID: #117**
+**Database ID: #0117**
 
 First Name: Fumiko
 

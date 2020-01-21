@@ -2,7 +2,7 @@
 
 <img src="Files/Shimedzu, Chiharu (A sweet but timid anime girl).png" title="Shimedzu, Chiharu (A sweet but timid anime girl) - AjTheYandere, V0.47">
 
-**Database ID: #413**
+**Database ID: #0413**
 
 First Name: Chiharu
 

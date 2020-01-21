@@ -2,7 +2,7 @@
 
 <img src="Files/Uemura, Axel (A mistreated sweetie).png" title="Uemura, Axel (A mistreated sweetie) - Azumi, V0.47">
 
-**Database ID: #012**
+**Database ID: #0012**
 
 First Name: Axel
 

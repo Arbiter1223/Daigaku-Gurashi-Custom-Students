@@ -2,7 +2,7 @@
 
 <img src="Files/Tsukamoto, Natsu (A boy who loves manga).png" title="Tsukamoto, Natsu (A boy who loves manga) - Bubger Kirg, V0.47">
 
-**Database ID: #218**
+**Database ID: #0218**
 
 First Name: Natsu
 

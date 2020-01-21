@@ -2,7 +2,7 @@
 
 <img src="Files/Fukuoka, Katsuki (A mean, snooty, stuck-up guy).png" title="Fukuoka, Katsuki (A mean, snooty, stuck-up guy) - ClownPrinceOfLies, V0.47">
 
-**Database ID: #051**
+**Database ID: #0051**
 
 First Name: Katsuki
 

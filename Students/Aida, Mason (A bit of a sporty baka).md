@@ -2,7 +2,7 @@
 
 <img src="Files/Aida, Mason (A bit of a sporty baka).png" title="Aida, Mason (A bit of a sporty baka) - Shiny, V0.47">
 
-**Database ID: #601**
+**Database ID: #0601**
 
 First Name: Mason
 

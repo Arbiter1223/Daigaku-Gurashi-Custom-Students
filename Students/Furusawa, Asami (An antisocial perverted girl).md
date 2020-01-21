@@ -2,7 +2,7 @@
 
 <img src="Files/Furusawa, Asami (An antisocial perverted girl).png" title="Furusawa, Asami (An antisocial perverted girl) - AjTheYandere, V0.47">
 
-**Database ID: #350**
+**Database ID: #0350**
 
 First Name: Asami
 

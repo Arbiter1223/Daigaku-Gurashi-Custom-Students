@@ -2,7 +2,7 @@
 
 <img src="Files/Hanari, Takako (A snooty, unsocial occult follower).png" title="Hanari, Takako (A snooty, unsocial occult follower) - Rando Studenta, V0.47">
 
-**Database ID: #148**
+**Database ID: #0148**
 
 First Name: Takako
 

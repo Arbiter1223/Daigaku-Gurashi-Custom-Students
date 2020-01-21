@@ -2,7 +2,7 @@
 
 <img src="Files/OwO, QwQ (UwU's judgemental but friendly brother).png" title="OwO, QwQ (UwU's judgemental but friendly brother) - Chi, V0.47">
 
-**Database ID: #553**
+**Database ID: #0553**
 
 First Name: QwQ
 

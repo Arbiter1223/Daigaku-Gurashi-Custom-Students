@@ -2,7 +2,7 @@
 
 <img src="Files/Hideka, Pinka (A friendly, positive girl).png" title="Hideka, Pinka (A friendly, positive girl) - Hatsune, V0.47">
 
-**Database ID: #044**
+**Database ID: #0044**
 
 First Name: Pinka
 

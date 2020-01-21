@@ -2,7 +2,7 @@
 
 <img src="Files/Yokoyama, Ayumi (A weird girl who loves anime and manga way too much).png" title="Yokoyama, Ayumi (A weird girl who loves anime and manga way too much) - Midnight Kitsune, V0.47">
 
-**Database ID: #699**
+**Database ID: #0699**
 
 First Name: Ayumi
 

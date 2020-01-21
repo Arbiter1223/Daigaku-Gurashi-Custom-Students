@@ -2,7 +2,7 @@
 
 <img src="Files/Okajima, Yuri (A quiet, intelligent bookworm).png" title="Okajima, Yuri (A quiet, intelligent bookworm) - Kitten, V0.47">
 
-**Database ID: #163**
+**Database ID: #0163**
 
 First Name: Yuri
 

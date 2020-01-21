@@ -2,7 +2,7 @@
 
 <img src="Files/Tsuruga, Shizuko (A very confident, forward girl).png" title="Tsuruga, Shizuko (A very confident, forward girl) - Heroic_Moron, V0.47">
 
-**Database ID: #109**
+**Database ID: #0109**
 
 First Name: Shizuko
 

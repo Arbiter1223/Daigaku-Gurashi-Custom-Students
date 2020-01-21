@@ -2,7 +2,7 @@
 
 <img src="Files/Aoi, Hisako (A weeaboo bully).png" title="Aoi, Hisako (A weeaboo bully) - Syberian Inc, V0.47">
 
-**Database ID: #034**
+**Database ID: #0034**
 
 First Name: Hisako
 

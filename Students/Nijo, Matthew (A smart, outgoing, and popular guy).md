@@ -2,7 +2,7 @@
 
 <img src="Files/Nijo, Matthew (A smart, outgoing, and popular guy).png" title="Nijo, Matthew (A smart, outgoing, and popular guy) - Heroic_Moron, V0.47">
 
-**Database ID: #080**
+**Database ID: #0080**
 
 First Name: Matthew
 

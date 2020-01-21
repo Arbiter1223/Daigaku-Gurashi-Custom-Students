@@ -2,7 +2,7 @@
 
 <img src="Files/Nyanako, Jennyafur (A cheerful blonde neko girl).png" title="Nyanako, Jennyafur (A cheerful blonde neko girl) - Arbiter1223, V0.47">
 
-**Database ID: #024**
+**Database ID: #0024**
 
 First Name: Jennyafur
 

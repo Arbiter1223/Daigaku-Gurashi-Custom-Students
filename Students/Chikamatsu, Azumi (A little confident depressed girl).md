@@ -2,7 +2,7 @@
 
 <img src="Files/Chikamatsu, Azumi (A little confident depressed girl).png" title="Chikamatsu, Azumi (A little confident depressed girl) - Azumi, V0.47">
 
-**Database ID: #042**
+**Database ID: #0042**
 
 First Name: Azumi
 

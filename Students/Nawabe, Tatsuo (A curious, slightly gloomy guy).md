@@ -2,7 +2,7 @@
 
 <img src="Files/Nawabe, Tatsuo (A curious, slightly gloomy guy).png" title="Nawabe, Tatsuo (A curious, slightly gloomy guy) - Rando Studenta, V0.47">
 
-**Database ID: #151**
+**Database ID: #0151**
 
 First Name: Tatsuo
 

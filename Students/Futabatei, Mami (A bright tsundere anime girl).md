@@ -2,7 +2,7 @@
 
 <img src="Files/Futabatei, Mami (A bright tsundere anime girl).png" title="Futabatei, Mami (A bright tsundere anime girl) - Rando Studenta, V0.47">
 
-**Database ID: #136**
+**Database ID: #0136**
 
 First Name: Mami
 

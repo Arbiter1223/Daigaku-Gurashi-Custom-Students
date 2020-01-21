@@ -2,7 +2,7 @@
 
 <img src="Files/Sakubara, Maiko (A sporty but pessemistic girl).png" title="Sakubara, Maiko (A sporty but pessemistic girl) - AjTheYandere, V0.47">
 
-**Database ID: #443**
+**Database ID: #0443**
 
 First Name: Maiko
 

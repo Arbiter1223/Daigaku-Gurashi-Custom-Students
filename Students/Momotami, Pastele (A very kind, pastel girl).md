@@ -2,7 +2,7 @@
 
 <img src="Files/Momotami, Pastele (A very kind, pastel girl).png" title="Momotami, Pastele (A very kind, pastel girl) - Azumi, V0.47">
 
-**Database ID: #086**
+**Database ID: #0086**
 
 First Name: Pastele
 

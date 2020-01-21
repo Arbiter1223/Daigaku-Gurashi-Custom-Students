@@ -2,7 +2,7 @@
 
 <img src="Files/Kurkawa, Tadashi (A reclusive occult fanatic).png" title="Kurkawa, Tadashi (A reclusive occult fanatic) - Rando Studenta, V0.47">
 
-**Database ID: #147**
+**Database ID: #0147**
 
 First Name: Tadashi
 

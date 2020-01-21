@@ -2,7 +2,7 @@
 
 <img src="Files/Asuhara, Satoru (A timid follower of the occult).png" title="Asuhara, Satoru (A timid follower of the occult) - AjTheYandere, V0.47">
 
-**Database ID: #469**
+**Database ID: #0469**
 
 First Name: Satoru
 

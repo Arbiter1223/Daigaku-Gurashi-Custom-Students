@@ -2,7 +2,7 @@
 
 <img src="Files/Nagashima, Eiko (A very smart person).png" title="Nagashima, Eiko (A very smart person) - Sky Zatsune, V0.47">
 
-**Database ID: #205**
+**Database ID: #0205**
 
 First Name: Eiko
 

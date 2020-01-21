@@ -2,7 +2,7 @@
 
 <img src="Files/Ruto, Oka (A shy occult fanatic).png" title="Ruto, Oka (A shy occult fanatic) - Shadow, V0.47">
 
-**Database ID: #185**
+**Database ID: #0185**
 
 First Name: Oka
 

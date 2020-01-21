@@ -2,7 +2,7 @@
 
 <img src="Files/Kanagaki, Bob (A really mean baka).png" title="Kanagaki, Bob (A really mean baka) - Shiny, V0.47">
 
-**Database ID: #597**
+**Database ID: #0597**
 
 First Name: Bob
 

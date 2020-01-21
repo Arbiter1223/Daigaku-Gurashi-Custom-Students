@@ -2,7 +2,7 @@
 
 <img src="Files/Hoshino, Saburo (A bubbly, happy-go-lucky boy).png" title="Hoshino, Saburo (A bubbly, happy-go-lucky boy) - Rando Studenta, V0.47">
 
-**Database ID: #145**
+**Database ID: #0145**
 
 First Name: Saburo
 

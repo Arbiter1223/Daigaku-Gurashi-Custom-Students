@@ -2,7 +2,7 @@
 
 <img src="Files/Ogawa, Yua (A very depressed, withdrawn yandere).png" title="Ogawa, Yua (A very depressed, withdrawn yandere) - Rando Studenta, V0.47">
 
-**Database ID: #155**
+**Database ID: #0155**
 
 First Name: Yua
 

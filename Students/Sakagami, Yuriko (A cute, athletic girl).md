@@ -2,7 +2,7 @@
 
 <img src="Files/Sakagami, Yuriko (A cute, athletic girl).png" title="Sakagami, Yuriko (A cute, athletic girl) - Azumi, V0.47">
 
-**Database ID: #087**
+**Database ID: #0087**
 
 First Name: Yuriko
 

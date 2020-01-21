@@ -2,7 +2,7 @@
 
 <img src="Files/Dan, Hiroshi (An overconfident but smart child).png" title="Dan, Hiroshi (An overconfident but smart child) - Camden, V0.47">
 
-**Database ID: #552**
+**Database ID: #0552**
 
 First Name: Hiroshi
 

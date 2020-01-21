@@ -2,7 +2,7 @@
 
 <img src="Files/Ui, Hotaru (July's festive girlfriend).png" title="Ui, Hotaru (July's festive girlfriend) - Syberian Inc, V0.47">
 
-**Database ID: #028**
+**Database ID: #0028**
 
 First Name: Hotaru
 

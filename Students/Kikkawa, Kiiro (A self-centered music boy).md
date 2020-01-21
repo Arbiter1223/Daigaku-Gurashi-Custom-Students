@@ -2,7 +2,7 @@
 
 <img src="Files/Kikkawa, Kiiro (A self-centered music boy).png" title="Kikkawa, Kiiro (A self-centered music boy) - Rando Studenta, V0.47">
 
-**Database ID: #129**
+**Database ID: #0129**
 
 First Name: Kiiro
 

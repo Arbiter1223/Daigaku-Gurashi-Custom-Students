@@ -2,7 +2,7 @@
 
 <img src="Files/Obinata, Zohra (A sad but sporty gal).png" title="Obinata, Zohra (A sad but sporty gal) - AjTheYandere, V0.47">
 
-**Database ID: #306**
+**Database ID: #0306**
 
 First Name: Zohra
 

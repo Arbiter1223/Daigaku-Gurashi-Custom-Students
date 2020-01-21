@@ -2,7 +2,7 @@
 
 <img src="Files/Nakahara, Momo (A very timid occult nerd).png" title="Nakahara, Momo (A very timid occult nerd) - AjTheYandere, V0.47">
 
-**Database ID: #451**
+**Database ID: #0451**
 
 First Name: Momo
 

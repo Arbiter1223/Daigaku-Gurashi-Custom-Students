@@ -2,7 +2,7 @@
 
 <img src="Files/Choshi, Takayuki (A reserved, modest boy).png" title="Choshi, Takayuki (A reserved, modest boy) - AjTheYandere, V0.47">
 
-**Database ID: #473**
+**Database ID: #0473**
 
 First Name: Takayuki
 

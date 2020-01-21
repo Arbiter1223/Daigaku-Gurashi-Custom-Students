@@ -2,7 +2,7 @@
 
 <img src="Files/Tsukade, Masaru (A yandere gamer).png" title="Tsukade, Masaru (A yandere gamer) - Aho-chan, V0.47">
 
-**Database ID: #263**
+**Database ID: #0263**
 
 First Name: Masaru
 

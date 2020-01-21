@@ -2,7 +2,7 @@
 
 <img src="Files/Chino, Haruhi (A pretty dexterious and athletic gamer).png" title="Chino, Haruhi (A pretty dexterious and athletic gamer) - AjTheYandere, V0.47">
 
-**Database ID: #361**
+**Database ID: #0361**
 
 First Name: Haruhi
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Higashiyama, Neo (A very friendly, outgoing neko guy).png" title="Higashiyama, Neo (A very friendly, outgoing neko guy) - Nightara, V0.47">
 
-**Database ID: #101**
+**Database ID: #0101**
 
 First Name: Neo
 

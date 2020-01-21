@@ -2,7 +2,7 @@
 
 <img src="Files/Kusatsu, Shika (An unfriendly and pretty stupid anime nerd).png" title="Kusatsu, Shika (An unfriendly and pretty stupid anime nerd) - AjTheYandere, V0.47">
 
-**Database ID: #377**
+**Database ID: #0377**
 
 First Name: Shika
 

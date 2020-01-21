@@ -2,7 +2,7 @@
 
 <img src="Files/Hee, Chung (The Korean group leader).png" title="Hee, Chung (The Korean group leader) - Aho-chan, V0.47">
 
-**Database ID: #386**
+**Database ID: #0386**
 
 First Name: Chung
 

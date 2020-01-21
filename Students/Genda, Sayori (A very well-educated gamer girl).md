@@ -2,7 +2,7 @@
 
 <img src="Files/Genda, Sayori (A very well-educated gamer girl).png" title="Genda, Sayori (A very well-educated gamer girl) - Duck-chan, V0.47">
 
-**Database ID: #330**
+**Database ID: #0330**
 
 First Name: Sayori
 

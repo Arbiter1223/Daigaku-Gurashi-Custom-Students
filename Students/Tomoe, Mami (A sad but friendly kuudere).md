@@ -2,7 +2,7 @@
 
 <img src="Files/Tomoe, Mami (A sad but friendly kuudere).png" title="Tomoe, Mami (A sad but friendly kuudere) - Cookie Boi, V0.47">
 
-**Database ID: #062**
+**Database ID: #0062**
 
 First Name: Mami
 

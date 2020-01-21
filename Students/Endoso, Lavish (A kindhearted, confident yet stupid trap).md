@@ -2,7 +2,7 @@
 
 <img src="Files/Endoso, Lavish (A kindhearted, confident yet stupid trap).png" title="Endoso, Lavish (A kindhearted, confident yet stupid trap) - Azumi, V0.47">
 
-**Database ID: #485**
+**Database ID: #0485**
 
 First Name: Lavish
 

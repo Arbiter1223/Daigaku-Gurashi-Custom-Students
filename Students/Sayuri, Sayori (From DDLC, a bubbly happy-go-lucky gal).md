@@ -2,7 +2,7 @@
 
 <img src="Files/Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal).png" title="Sayuri, Sayori (From DDLC, a bubbly happy-go-lucky gal) - LowkeyHomo, V0.47">
 
-**Database ID: #540**
+**Database ID: #0540**
 
 First Name: Sayori
 

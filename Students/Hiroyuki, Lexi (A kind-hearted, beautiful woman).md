@@ -2,7 +2,7 @@
 
 <img src="Files/Hiroyuki, Lexi (A kind-hearted, beautiful woman).png" title="Hiroyuki, Lexi (A kind-hearted, beautiful woman) - Lexi, V0.47">
 
-**Database ID: #069**
+**Database ID: #0069**
 
 First Name: Lexi
 

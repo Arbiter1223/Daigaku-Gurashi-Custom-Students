@@ -2,7 +2,7 @@
 
 <img src="Files/Mochizuki, Misaki (The leader of the Occult Club).png" title="Mochizuki, Misaki (The leader of the Occult Club) - Aho-chan, V0.47">
 
-**Database ID: #346**
+**Database ID: #0346**
 
 First Name: Misaki
 

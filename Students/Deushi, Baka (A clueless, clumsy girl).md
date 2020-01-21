@@ -2,7 +2,7 @@
 
 <img src="Files/Deushi, Baka (A clueless, clumsy girl).png" title="Deushi, Baka (A clueless, clumsy girl) - Aho-chan, V0.47">
 
-**Database ID: #160**
+**Database ID: #0160**
 
 First Name: Baka
 

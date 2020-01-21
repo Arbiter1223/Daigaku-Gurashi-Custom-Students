@@ -2,7 +2,7 @@
 
 <img src="Files/Zombie, Suiren (A zombie version of Suiren).png" title="Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.47">
 
-**Database ID: #664**
+**Database ID: #0664**
 
 First Name: Suiren
 

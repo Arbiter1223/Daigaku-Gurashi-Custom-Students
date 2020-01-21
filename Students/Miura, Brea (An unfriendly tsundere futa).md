@@ -2,7 +2,7 @@
 
 <img src="Files/Miura, Brea (An unfriendly tsundere futa).png" title="Miura, Brea (An unfriendly tsundere futa) - Nightara, V0.47">
 
-**Database ID: #100**
+**Database ID: #0100**
 
 First Name: Brea
 

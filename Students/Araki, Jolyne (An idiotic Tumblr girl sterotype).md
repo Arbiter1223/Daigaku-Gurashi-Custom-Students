@@ -2,7 +2,7 @@
 
 <img src="Files/Araki, Jolyne (An idiotic Tumblr girl sterotype).png" title="Araki, Jolyne (An idiotic Tumblr girl sterotype) - Aho-chan, V0.47">
 
-**Database ID: #272**
+**Database ID: #0272**
 
 First Name: Jolyne
 

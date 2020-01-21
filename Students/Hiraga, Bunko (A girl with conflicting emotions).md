@@ -2,7 +2,7 @@
 
 <img src="Files/Hiraga, Bunko (A girl with conflicting emotions).png" title="Hiraga, Bunko (A girl with conflicting emotions) - AjTheYandere, V0.47">
 
-**Database ID: #410**
+**Database ID: #0410**
 
 First Name: Bunko
 

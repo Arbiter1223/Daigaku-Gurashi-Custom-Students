@@ -2,7 +2,7 @@
 
 <img src="Files/Haru, Wakabayashi (A perverted and clingy bully).png" title="Haru, Wakabayashi (A perverted and clingy bully) - kami, V0.47">
 
-**Database ID: #628**
+**Database ID: #0628**
 
 First Name: Wakabayashi
 

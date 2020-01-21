@@ -2,7 +2,7 @@
 
 <img src="Files/Kishi, Lyralei (The Windranger).png" title="Kishi, Lyralei (The Windranger) - Aho-chan, V0.47">
 
-**Database ID: #228**
+**Database ID: #0228**
 
 First Name: Lyralei
 

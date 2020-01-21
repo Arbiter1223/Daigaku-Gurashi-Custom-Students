@@ -2,7 +2,7 @@
 
 <img src="Files/Osaragi, Asuka (A snooty yandere futa).png" title="Osaragi, Asuka (A snooty yandere futa) - AjTheYandere, V0.47">
 
-**Database ID: #409**
+**Database ID: #0409**
 
 First Name: Asuka
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Sammiya, Nori (A bitter, unsociable guy).png" title="Sammiya, Nori (A bitter, unsociable guy) - AjTheYandere, V0.47">
 
-**Database ID: #455**
+**Database ID: #0455**
 
 First Name: Nori
 

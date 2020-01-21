@@ -2,7 +2,7 @@
 
 <img src="Files/Moto, Pasta (Axei's antisocial lesser-known little brother).png" title="Moto, Pasta (Axei's antisocial lesser-known little brother) - BenPupKao, V0.47">
 
-**Database ID: #507**
+**Database ID: #0507**
 
 First Name: Pasta
 

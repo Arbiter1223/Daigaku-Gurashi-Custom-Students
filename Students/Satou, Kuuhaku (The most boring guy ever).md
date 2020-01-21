@@ -2,7 +2,7 @@
 
 <img src="Files/Satou, Kuuhaku (The most boring guy ever).png" title="Satou, Kuuhaku (The most boring guy ever) - YamiToast, V0.47">
 
-**Database ID: #003**
+**Database ID: #0003**
 
 First Name: Kuuhaku
 

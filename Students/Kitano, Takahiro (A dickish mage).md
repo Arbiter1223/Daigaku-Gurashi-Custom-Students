@@ -2,7 +2,7 @@
 
 <img src="Files/Kitano, Takahiro (A dickish mage).png" title="Kitano, Takahiro (A dickish mage) - Nyanako, V0.47">
 
-**Database ID: #180**
+**Database ID: #0180**
 
 First Name: Takahiro
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Kawagishi, Prism (A well-rounded tsundere intellectual).png" title="Kawagishi, Prism (A well-rounded tsundere intellectual) - Prism~Cloud, V0.47">
 
-**Database ID: #224**
+**Database ID: #0224**
 
 First Name: Prism
 

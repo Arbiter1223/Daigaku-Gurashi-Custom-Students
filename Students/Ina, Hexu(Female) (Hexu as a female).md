@@ -2,7 +2,7 @@
 
 <img src="Files/Ina, Hexu(Female) (Hexu as a female).png" title="Ina, Hexu(Female) (Hexu as a female) - AjTheYandere, V0.47">
 
-**Database ID: #259**
+**Database ID: #0259**
 
 First Name: Hexu(Female)
 

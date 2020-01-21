@@ -2,7 +2,7 @@
 
 <img src="Files/Kuroki, Baitlyn (A very shy weeb gamer).png" title="Kuroki, Baitlyn (A very shy weeb gamer) - Baitlyn, V0.47">
 
-**Database ID: #166**
+**Database ID: #0166**
 
 First Name: Baitlyn
 

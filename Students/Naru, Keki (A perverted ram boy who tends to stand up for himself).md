@@ -2,7 +2,7 @@
 
 <img src="Files/Naru, Keki (A perverted ram boy who tends to stand up for himself).png" title="Naru, Keki (A perverted ram boy who tends to stand up for himself) - kami, V0.47">
 
-**Database ID: #636**
+**Database ID: #0636**
 
 First Name: Keki
 

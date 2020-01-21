@@ -2,7 +2,7 @@
 
 <img src="Files/Kurogane, Jin (A gloomy, intelligent masochist).png" title="Kurogane, Jin (A gloomy, intelligent masochist) - Cookie Boi, V0.47">
 
-**Database ID: #096**
+**Database ID: #0096**
 
 First Name: Jin
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Irie, Kari (The leader of the Manga Club).png" title="Irie, Kari (The leader of the Manga Club) - AjTheYandere, V0.47">
 
-**Database ID: #381**
+**Database ID: #0381**
 
 First Name: Kari
 

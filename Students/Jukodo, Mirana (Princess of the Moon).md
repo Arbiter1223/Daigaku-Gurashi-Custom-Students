@@ -2,7 +2,7 @@
 
 <img src="Files/Jukodo, Mirana (Princess of the Moon).png" title="Jukodo, Mirana (Princess of the Moon) - Aho-chan, V0.47">
 
-**Database ID: #226**
+**Database ID: #0226**
 
 First Name: Mirana
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Tanaka, Hiroki (An athletic student who wants to race against the Fast Dog).png" title="Tanaka, Hiroki (An athletic student who wants to race against the Fast Dog) - Midnight Kitsune, V0.47">
 
-**Database ID: #700**
+**Database ID: #0700**
 
 First Name: Hiroki
 

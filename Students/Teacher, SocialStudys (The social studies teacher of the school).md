@@ -2,7 +2,7 @@
 
 <img src="Files/Teacher, SocialStudys (The social studies teacher of the school).png" title="Teacher, SocialStudys (The social studies teacher of the school) - AjTheYandere, V0.47">
 
-**Database ID: #294**
+**Database ID: #0294**
 
 First Name: SocialStudys
 

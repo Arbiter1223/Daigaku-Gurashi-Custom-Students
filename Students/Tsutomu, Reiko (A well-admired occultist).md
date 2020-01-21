@@ -2,7 +2,7 @@
 
 <img src="Files/Tsutomu, Reiko (A well-admired occultist).png" title="Tsutomu, Reiko (A well-admired occultist) - AjTheYandere, V0.47">
 
-**Database ID: #459**
+**Database ID: #0459**
 
 First Name: Reiko
 

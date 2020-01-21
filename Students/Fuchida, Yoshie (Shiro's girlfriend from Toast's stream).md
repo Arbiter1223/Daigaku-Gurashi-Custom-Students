@@ -2,7 +2,7 @@
 
 <img src="Files/Fuchida, Yoshie (Shiro's girlfriend from Toast's stream).png" title="Fuchida, Yoshie (Shiro's girlfriend from Toast's stream) - Toast, V0.47">
 
-**Database ID: #071**
+**Database ID: #0071**
 
 First Name: Yoshie
 

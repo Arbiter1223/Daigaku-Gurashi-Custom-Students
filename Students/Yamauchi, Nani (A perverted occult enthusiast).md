@@ -2,7 +2,7 @@
 
 <img src="Files/Yamauchi, Nani (A perverted occult enthusiast).png" title="Yamauchi, Nani (A perverted occult enthusiast) - BenPupKao, V0.47">
 
-**Database ID: #549**
+**Database ID: #0549**
 
 First Name: Nani
 

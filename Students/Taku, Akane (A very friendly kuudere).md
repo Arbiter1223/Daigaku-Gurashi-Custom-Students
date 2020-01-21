@@ -2,7 +2,7 @@
 
 <img src="Files/Taku, Akane (A very friendly kuudere).png" title="Taku, Akane (A very friendly kuudere) - Aho-chan, V0.47">
 
-**Database ID: #269**
+**Database ID: #0269**
 
 First Name: Akane
 

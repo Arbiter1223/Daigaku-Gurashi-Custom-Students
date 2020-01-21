@@ -2,7 +2,7 @@
 
 <img src="Files/Fujimori, Solis (Luna's caring brother).png" title="Fujimori, Solis (Luna's caring brother) - Mira, V0.47">
 
-**Database ID: #696**
+**Database ID: #0696**
 
 First Name: Solis
 

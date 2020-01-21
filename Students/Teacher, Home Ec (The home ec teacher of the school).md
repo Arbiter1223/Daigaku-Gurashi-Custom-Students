@@ -2,7 +2,7 @@
 
 <img src="Files/Teacher, Home Ec (The home ec teacher of the school).png" title="Teacher, Home Ec (The home ec teacher of the school) - AjTheYandere, V0.47">
 
-**Database ID: #293**
+**Database ID: #0293**
 
 First Name: Home Ec
 

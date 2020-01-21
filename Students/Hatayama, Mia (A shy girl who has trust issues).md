@@ -2,7 +2,7 @@
 
 <img src="Files/Hatayama, Mia (A shy girl who has trust issues).png" title="Hatayama, Mia (A shy girl who has trust issues) - Izzyox, V0.47">
 
-**Database ID: #528**
+**Database ID: #0528**
 
 First Name: Mia
 

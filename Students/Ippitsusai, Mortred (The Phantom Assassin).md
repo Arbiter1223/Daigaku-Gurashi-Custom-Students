@@ -2,7 +2,7 @@
 
 <img src="Files/Ippitsusai, Mortred (The Phantom Assassin).png" title="Ippitsusai, Mortred (The Phantom Assassin) - Aho-chan, V0.47">
 
-**Database ID: #232**
+**Database ID: #0232**
 
 First Name: Mortred
 

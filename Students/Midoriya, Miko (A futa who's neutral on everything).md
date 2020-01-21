@@ -2,7 +2,7 @@
 
 <img src="Files/Midoriya, Miko (A futa who's neutral on everything).png" title="Midoriya, Miko (A futa who's neutral on everything) - kami, V0.47">
 
-**Database ID: #631**
+**Database ID: #0631**
 
 First Name: Miko
 

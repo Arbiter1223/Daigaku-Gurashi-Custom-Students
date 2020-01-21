@@ -2,7 +2,7 @@
 
 <img src="Files/Matsuoka, Liam (A masochistic bookworm).png" title="Matsuoka, Liam (A masochistic bookworm) - Shiny, V0.47">
 
-**Database ID: #600**
+**Database ID: #0600**
 
 First Name: Liam
 

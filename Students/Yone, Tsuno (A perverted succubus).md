@@ -2,7 +2,7 @@
 
 <img src="Files/Yone, Tsuno (A perverted succubus).png" title="Yone, Tsuno (A perverted succubus) - Shadow, V0.47">
 
-**Database ID: #106**
+**Database ID: #0106**
 
 First Name: Tsuno
 

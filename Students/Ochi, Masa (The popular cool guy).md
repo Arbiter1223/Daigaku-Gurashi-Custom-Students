@@ -2,7 +2,7 @@
 
 <img src="Files/Ochi, Masa (The popular cool guy).png" title="Ochi, Masa (The popular cool guy) - Rando Studenta, V0.47">
 
-**Database ID: #138**
+**Database ID: #0138**
 
 First Name: Masa
 

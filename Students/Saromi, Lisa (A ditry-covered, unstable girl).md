@@ -2,7 +2,7 @@
 
 <img src="Files/Saromi, Lisa (A ditry-covered, unstable girl).png" title="Saromi, Lisa (A ditry-covered, unstable girl) - Camden, V0.47">
 
-**Database ID: #603**
+**Database ID: #0603**
 
 First Name: Lisa
 

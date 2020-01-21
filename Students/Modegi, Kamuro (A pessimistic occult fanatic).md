@@ -2,7 +2,7 @@
 
 <img src="Files/Modegi, Kamuro (A pessimistic occult fanatic).png" title="Modegi, Kamuro (A pessimistic occult fanatic) - Rando Studenta, V0.47">
 
-**Database ID: #125**
+**Database ID: #0125**
 
 First Name: Kamuro
 

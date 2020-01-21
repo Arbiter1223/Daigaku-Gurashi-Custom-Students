@@ -2,7 +2,7 @@
 
 <img src="Files/Natsume, Ayako (A very cheerful, outgoing girl).png" title="Natsume, Ayako (A very cheerful, outgoing girl) - AjTheYandere, V0.47">
 
-**Database ID: #351**
+**Database ID: #0351**
 
 First Name: Ayako
 

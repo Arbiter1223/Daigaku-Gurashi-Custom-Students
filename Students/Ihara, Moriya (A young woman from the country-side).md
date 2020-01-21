@@ -2,7 +2,7 @@
 
 <img src="Files/Ihara, Moriya (A young woman from the country-side).png" title="Ihara, Moriya (A young woman from the country-side) - Nyanako, V0.47">
 
-**Database ID: #170**
+**Database ID: #0170**
 
 First Name: Moriya
 

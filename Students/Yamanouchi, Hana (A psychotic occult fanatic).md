@@ -2,7 +2,7 @@
 
 <img src="Files/Yamanouchi, Hana (A psychotic occult fanatic).png" title="Yamanouchi, Hana (A psychotic occult fanatic) - AjTheYandere, V0.47">
 
-**Database ID: #420**
+**Database ID: #0420**
 
 First Name: Hana
 

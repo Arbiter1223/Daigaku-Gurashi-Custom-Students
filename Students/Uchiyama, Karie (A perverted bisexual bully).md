@@ -2,7 +2,7 @@
 
 <img src="Files/Uchiyama, Karie (A perverted bisexual bully).png" title="Uchiyama, Karie (A perverted bisexual bully) - AjTheYandere, V0.47">
 
-**Database ID: #275**
+**Database ID: #0275**
 
 First Name: Karie
 

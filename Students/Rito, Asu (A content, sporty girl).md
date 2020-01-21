@@ -2,7 +2,7 @@
 
 <img src="Files/Rito, Asu (A content, sporty girl).png" title="Rito, Asu (A content, sporty girl) - Shadow, V0.47">
 
-**Database ID: #190**
+**Database ID: #0190**
 
 First Name: Asu
 

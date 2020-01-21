@@ -2,7 +2,7 @@
 
 <img src="Files/Yamura, Sei (A smart, friendly guy).png" title="Yamura, Sei (A smart, friendly guy) - Retsuko, V0.47">
 
-**Database ID: #019**
+**Database ID: #0019**
 
 First Name: Sei
 

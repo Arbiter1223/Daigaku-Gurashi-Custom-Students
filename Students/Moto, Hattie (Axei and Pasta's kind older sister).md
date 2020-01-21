@@ -2,7 +2,7 @@
 
 <img src="Files/Moto, Hattie (Axei and Pasta's kind older sister).png" title="Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.47">
 
-**Database ID: #523**
+**Database ID: #0523**
 
 First Name: Hattie
 

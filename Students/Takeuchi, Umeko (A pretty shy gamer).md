@@ -2,7 +2,7 @@
 
 <img src="Files/Takeuchi, Umeko (A pretty shy gamer).png" title="Takeuchi, Umeko (A pretty shy gamer) - AjTheYandere, V0.47">
 
-**Database ID: #398**
+**Database ID: #0398**
 
 First Name: Umeko
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Saigo, Takako (An artistic and creative girl).png" title="Saigo, Takako (An artistic and creative girl) - AjTheYandere, V0.47">
 
-**Database ID: #472**
+**Database ID: #0472**
 
 First Name: Takako
 

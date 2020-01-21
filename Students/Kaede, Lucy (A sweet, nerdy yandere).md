@@ -2,7 +2,7 @@
 
 <img src="Files/Kaede, Lucy (A sweet, nerdy yandere).png" title="Kaede, Lucy (A sweet, nerdy yandere) - Cookie Boi, V0.47">
 
-**Database ID: #065**
+**Database ID: #0065**
 
 First Name: Lucy
 

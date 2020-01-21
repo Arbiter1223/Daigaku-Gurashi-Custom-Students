@@ -2,7 +2,7 @@
 
 <img src="Files/Kumagae, Tsuki (A shy, mean occultist).png" title="Kumagae, Tsuki (A shy, mean occultist) - Syberian Inc, V0.47">
 
-**Database ID: #032**
+**Database ID: #0032**
 
 First Name: Tsuki
 

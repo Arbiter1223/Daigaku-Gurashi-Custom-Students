@@ -2,7 +2,7 @@
 
 <img src="Files/Shoda, Arata (A not so loyal gamer).png" title="Shoda, Arata (A not so loyal gamer) - AjTheYandere, V0.47">
 
-**Database ID: #408**
+**Database ID: #0408**
 
 First Name: Arata
 

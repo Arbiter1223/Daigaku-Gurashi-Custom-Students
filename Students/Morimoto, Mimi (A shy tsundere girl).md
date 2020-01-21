@@ -2,7 +2,7 @@
 
 <img src="Files/Morimoto, Mimi (A shy tsundere girl).png" title="Morimoto, Mimi (A shy tsundere girl) - Duck-chan, V0.47">
 
-**Database ID: #092**
+**Database ID: #0092**
 
 First Name: Mimi
 

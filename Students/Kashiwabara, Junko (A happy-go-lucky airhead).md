@@ -2,7 +2,7 @@
 
 <img src="Files/Kashiwabara, Junko (A happy-go-lucky airhead).png" title="Kashiwabara, Junko (A happy-go-lucky airhead) - Duck-chan, V0.47">
 
-**Database ID: #329**
+**Database ID: #0329**
 
 First Name: Junko
 

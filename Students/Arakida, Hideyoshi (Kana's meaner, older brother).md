@@ -2,7 +2,7 @@
 
 <img src="Files/Arakida, Hideyoshi (Kana's meaner, older brother).png" title="Arakida, Hideyoshi (Kana's meaner, older brother) - Takumi, V0.47">
 
-**Database ID: #319**
+**Database ID: #0319**
 
 First Name: Hideyoshi
 

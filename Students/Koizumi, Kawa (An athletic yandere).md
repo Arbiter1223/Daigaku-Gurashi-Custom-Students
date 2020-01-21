@@ -2,7 +2,7 @@
 
 <img src="Files/Koizumi, Kawa (An athletic yandere).png" title="Koizumi, Kawa (An athletic yandere) - witcharies, V0.47">
 
-**Database ID: #671**
+**Database ID: #0671**
 
 First Name: Kawa
 

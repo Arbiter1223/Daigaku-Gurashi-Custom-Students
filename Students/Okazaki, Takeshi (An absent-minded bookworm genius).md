@@ -2,7 +2,7 @@
 
 <img src="Files/Okazaki, Takeshi (An absent-minded bookworm genius).png" title="Okazaki, Takeshi (An absent-minded bookworm genius) - AjTheYandere, V0.47">
 
-**Database ID: #474**
+**Database ID: #0474**
 
 First Name: Takeshi
 

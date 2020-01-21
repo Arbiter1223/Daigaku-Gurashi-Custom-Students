@@ -2,7 +2,7 @@
 
 <img src="Files/Fyukishima, Yuto (A precious goat man).png" title="Fyukishima, Yuto (A precious goat man) - screaming kiwi, V0.47">
 
-**Database ID: #683**
+**Database ID: #0683**
 
 First Name: Yuto
 

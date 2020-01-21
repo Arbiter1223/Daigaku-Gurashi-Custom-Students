@@ -2,7 +2,7 @@
 
 <img src="Files/Sako, Haga (A harsh metal punk).png" title="Sako, Haga (A harsh metal punk) - Nyanako, V0.47">
 
-**Database ID: #239**
+**Database ID: #0239**
 
 First Name: Haga
 

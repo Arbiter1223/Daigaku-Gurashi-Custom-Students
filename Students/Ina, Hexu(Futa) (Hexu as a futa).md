@@ -2,7 +2,7 @@
 
 <img src="Files/Ina, Hexu(Futa) (Hexu as a futa).png" title="Ina, Hexu(Futa) (Hexu as a futa) - AjTheYandere, V0.47">
 
-**Database ID: #260**
+**Database ID: #0260**
 
 First Name: Hexu(Futa)
 

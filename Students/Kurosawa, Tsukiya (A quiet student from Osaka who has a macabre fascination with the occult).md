@@ -2,7 +2,7 @@
 
 <img src="Files/Kurosawa, Tsukiya (A quiet student from Osaka who has a macabre fascination with the occult).png" title="Kurosawa, Tsukiya (A quiet student from Osaka who has a macabre fascination with the occult) - Midnight Kitsune, V0.47">
 
-**Database ID: #010**
+**Database ID: #0010**
 
 First Name: Tsukiya
 

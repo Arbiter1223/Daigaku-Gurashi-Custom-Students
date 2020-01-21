@@ -2,7 +2,7 @@
 
 <img src="Files/Star, Patrick (Spongebob's idiotic best friend).png" title="Star, Patrick (Spongebob's idiotic best friend) - Izzyox, V0.47">
 
-**Database ID: #546**
+**Database ID: #0546**
 
 First Name: Patrick
 

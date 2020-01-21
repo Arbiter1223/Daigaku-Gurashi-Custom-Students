@@ -2,7 +2,7 @@
 
 <img src="Files/Akimoto, Keima (An unfriendly MMO gamer).png" title="Akimoto, Keima (An unfriendly MMO gamer) - AjTheYandere, V0.47">
 
-**Database ID: #435**
+**Database ID: #0435**
 
 First Name: Keima
 

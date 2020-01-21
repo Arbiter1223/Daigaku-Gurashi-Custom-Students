@@ -2,7 +2,7 @@
 
 <img src="Files/Han, Koichi (A perverted, athletic boy).png" title="Han, Koichi (A perverted, athletic boy) - Rando Studenta, V0.47">
 
-**Database ID: #134**
+**Database ID: #0134**
 
 First Name: Koichi
 

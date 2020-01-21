@@ -2,7 +2,7 @@
 
 <img src="Files/Teacher, Art (A stern and very strict teacher).png" title="Teacher, Art (A stern and very strict teacher) - AjTheYandere, V0.47">
 
-**Database ID: #202**
+**Database ID: #0202**
 
 First Name: Art
 

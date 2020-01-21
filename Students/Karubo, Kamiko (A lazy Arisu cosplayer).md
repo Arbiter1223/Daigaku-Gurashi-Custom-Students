@@ -2,7 +2,7 @@
 
 <img src="Files/Karubo, Kamiko (A lazy Arisu cosplayer).png" title="Karubo, Kamiko (A lazy Arisu cosplayer) - Syberian Inc and Arbiter1223, V0.47">
 
-**Database ID: #023**
+**Database ID: #0023**
 
 First Name: Kamiko
 

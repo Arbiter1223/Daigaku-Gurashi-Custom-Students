@@ -2,7 +2,7 @@
 
 <img src="Files/Shiraishi, Chisame (A very reclusive bookworm).png" title="Shiraishi, Chisame (A very reclusive bookworm) - AjTheYandere, V0.47">
 
-**Database ID: #356**
+**Database ID: #0356**
 
 First Name: Chisame
 

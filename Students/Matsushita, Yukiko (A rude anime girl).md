@@ -2,7 +2,7 @@
 
 <img src="Files/Matsushita, Yukiko (A rude anime girl).png" title="Matsushita, Yukiko (A rude anime girl) - AjTheYandere, V0.47">
 
-**Database ID: #380**
+**Database ID: #0380**
 
 First Name: Yukiko
 

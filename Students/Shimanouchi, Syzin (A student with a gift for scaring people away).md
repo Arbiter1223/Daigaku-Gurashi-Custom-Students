@@ -2,7 +2,7 @@
 
 <img src="Files/Shimanouchi, Syzin (A student with a gift for scaring people away).png" title="Shimanouchi, Syzin (A student with a gift for scaring people away) - BenPupKao, V0.47">
 
-**Database ID: #479**
+**Database ID: #0479**
 
 First Name: Syzin
 

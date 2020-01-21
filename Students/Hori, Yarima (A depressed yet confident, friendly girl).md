@@ -2,7 +2,7 @@
 
 <img src="Files/Hori, Yarima (A depressed yet confident, friendly girl).png" title="Hori, Yarima (A depressed yet confident, friendly girl) - Syberian Inc, V0.47">
 
-**Database ID: #017**
+**Database ID: #0017**
 
 First Name: Yarima
 

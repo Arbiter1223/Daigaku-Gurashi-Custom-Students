@@ -2,7 +2,7 @@
 
 <img src="Files/Tabuchi, Renji (An extremely smart, athletic, and confident bitch).png" title="Tabuchi, Renji (An extremely smart, athletic, and confident bitch) - Nyanako, V0.47">
 
-**Database ID: #175**
+**Database ID: #0175**
 
 First Name: Renji
 

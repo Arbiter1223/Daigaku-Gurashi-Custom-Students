@@ -2,7 +2,7 @@
 
 <img src="Files/Tamuro, Zane (A no-nonsense kind of guy).png" title="Tamuro, Zane (A no-nonsense kind of guy) - Arbiter1223, V0.47">
 
-**Database ID: #156**
+**Database ID: #0156**
 
 First Name: Zane
 

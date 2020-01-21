@@ -2,7 +2,7 @@
 
 <img src="Files/Terauchi, Yuri (From DDLC, a busty, soft-spoken bookworm).png" title="Terauchi, Yuri (From DDLC, a busty, soft-spoken bookworm) - LowkeyHomo, V0.47">
 
-**Database ID: #539**
+**Database ID: #0539**
 
 First Name: Yuri
 

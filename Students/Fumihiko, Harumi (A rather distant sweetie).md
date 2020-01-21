@@ -2,7 +2,7 @@
 
 <img src="Files/Fumihiko, Harumi (A rather distant sweetie).png" title="Fumihiko, Harumi (A rather distant sweetie) - AjTheYandere, V0.47">
 
-**Database ID: #362**
+**Database ID: #0362**
 
 First Name: Harumi
 

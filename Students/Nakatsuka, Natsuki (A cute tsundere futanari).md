@@ -2,7 +2,7 @@
 
 <img src="Files/Nakatsuka, Natsuki (A cute tsundere futanari).png" title="Nakatsuka, Natsuki (A cute tsundere futanari) - Kitten, V0.47">
 
-**Database ID: #162**
+**Database ID: #0162**
 
 First Name: Natsuki
 

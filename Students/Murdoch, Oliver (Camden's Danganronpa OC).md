@@ -2,7 +2,7 @@
 
 <img src="Files/Murdoch, Oliver (Camden's Danganronpa OC).png" title="Murdoch, Oliver (Camden's Danganronpa OC) - Camden, V0.47">
 
-**Database ID: #626**
+**Database ID: #0626**
 
 First Name: Oliver
 

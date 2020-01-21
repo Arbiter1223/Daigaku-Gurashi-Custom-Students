@@ -2,7 +2,7 @@
 
 <img src="Files/Takei, Luna (The Moon Rider).png" title="Takei, Luna (The Moon Rider) - Aho-chan, V0.47">
 
-**Database ID: #209**
+**Database ID: #0209**
 
 First Name: Luna
 

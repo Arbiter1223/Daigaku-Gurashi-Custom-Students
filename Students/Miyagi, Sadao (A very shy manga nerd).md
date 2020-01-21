@@ -2,7 +2,7 @@
 
 <img src="Files/Miyagi, Sadao (A very shy manga nerd).png" title="Miyagi, Sadao (A very shy manga nerd) - Rando Studenta, V0.47">
 
-**Database ID: #146**
+**Database ID: #0146**
 
 First Name: Sadao
 

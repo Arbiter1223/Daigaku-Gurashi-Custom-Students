@@ -2,7 +2,7 @@
 
 <img src="Files/TheYandere, Aj (A very antisocial guy).png" title="TheYandere, Aj (A very antisocial guy) - AjTheYandere, V0.47">
 
-**Database ID: #244**
+**Database ID: #0244**
 
 First Name: Aj
 

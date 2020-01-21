@@ -2,7 +2,7 @@
 
 <img src="Files/Doki, Natsuki (Best Doki, no questions asked).png" title="Doki, Natsuki (Best Doki, no questions asked) - AjTheYandere, V0.47">
 
-**Database ID: #662**
+**Database ID: #0662**
 
 First Name: Natsuki
 

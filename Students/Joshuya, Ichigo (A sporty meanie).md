@@ -2,7 +2,7 @@
 
 <img src="Files/Joshuya, Ichigo (A sporty meanie).png" title="Joshuya, Ichigo (A sporty meanie) - AjTheYandere, V0.47">
 
-**Database ID: #428**
+**Database ID: #0428**
 
 First Name: Ichigo
 

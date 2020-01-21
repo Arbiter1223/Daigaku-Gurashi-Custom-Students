@@ -2,7 +2,7 @@
 
 <img src="Files/Tentacles, Squidward (A rather mean restaurant cashier).png" title="Tentacles, Squidward (A rather mean restaurant cashier) - Izzyox, V0.47">
 
-**Database ID: #547**
+**Database ID: #0547**
 
 First Name: Squidward
 

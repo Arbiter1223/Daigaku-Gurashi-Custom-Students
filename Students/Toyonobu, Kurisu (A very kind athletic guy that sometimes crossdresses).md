@@ -2,7 +2,7 @@
 
 <img src="Files/Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses).png" title="Toyonobu, Kurisu (A very kind athletic guy that sometimes crossdresses) - yogima, V0.47">
 
-**Database ID: #728**
+**Database ID: #0728**
 
 First Name: Kurisu
 

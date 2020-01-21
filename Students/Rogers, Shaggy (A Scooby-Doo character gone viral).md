@@ -2,7 +2,7 @@
 
 <img src="Files/Rogers, Shaggy (A Scooby-Doo character gone viral).png" title="Rogers, Shaggy (A Scooby-Doo character gone viral) - sansrika, V0.47">
 
-**Database ID: #594**
+**Database ID: #0594**
 
 First Name: Shaggy
 

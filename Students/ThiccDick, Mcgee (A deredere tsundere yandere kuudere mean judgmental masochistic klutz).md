@@ -2,7 +2,7 @@
 
 <img src="Files/ThiccDick, Mcgee (A deredere tsundere yandere kuudere mean judgmental masochistic klutz).png" title="ThiccDick, Mcgee (A deredere tsundere yandere kuudere mean judgmental masochistic klutz) - Shiny, V0.47">
 
-**Database ID: #686**
+**Database ID: #0686**
 
 First Name: Mcgee
 

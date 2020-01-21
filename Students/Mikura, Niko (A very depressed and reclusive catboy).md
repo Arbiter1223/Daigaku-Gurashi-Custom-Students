@@ -2,7 +2,7 @@
 
 <img src="Files/Mikura, Niko (A very depressed and reclusive catboy).png" title="Mikura, Niko (A very depressed and reclusive catboy) - kami, V0.47">
 
-**Database ID: #633**
+**Database ID: #0633**
 
 First Name: Niko
 

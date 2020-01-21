@@ -2,7 +2,7 @@
 
 <img src="Files/Miyajima, Date (An anti-social yandere masochist).png" title="Miyajima, Date (An anti-social yandere masochist) - Duck-chan, V0.47">
 
-**Database ID: #110**
+**Database ID: #0110**
 
 First Name: Date
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Hirose, Sae (A pretty average girl).png" title="Hirose, Sae (A pretty average girl) - CookieBoi, V0.47">
 
-**Database ID: #593**
+**Database ID: #0593**
 
 First Name: Sae
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Kajahara, Chi (A cute but surprisingly kuudere girl).png" title="Kajahara, Chi (A cute but surprisingly kuudere girl) - Syberian Inc, V0.47">
 
-**Database ID: #030**
+**Database ID: #0030**
 
 First Name: Chi
 

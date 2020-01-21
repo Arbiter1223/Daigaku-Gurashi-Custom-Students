@@ -2,7 +2,7 @@
 
 <img src="Files/Nose, Daisuke (A flirty yet modest guy).png" title="Nose, Daisuke (A flirty yet modest guy) - BenPupKao, V0.47">
 
-**Database ID: #341**
+**Database ID: #0341**
 
 First Name: Daisuke
 

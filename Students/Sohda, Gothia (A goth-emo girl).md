@@ -2,7 +2,7 @@
 
 <img src="Files/Sohda, Gothia (A goth-emo girl).png" title="Sohda, Gothia (A goth-emo girl) - Azumi, V0.47">
 
-**Database ID: #088**
+**Database ID: #0088**
 
 First Name: Gothia
 

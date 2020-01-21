@@ -2,7 +2,7 @@
 
 <img src="Files/Inukai, Sebastian (A shy, gifted individual).png" title="Inukai, Sebastian (A shy, gifted individual) - Nightara, V0.47">
 
-**Database ID: #102**
+**Database ID: #0102**
 
 First Name: Sebastian
 

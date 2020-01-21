@@ -2,7 +2,7 @@
 
 <img src="Files/Tagawa, Bunko (A yandere genius, Manami's older sister).png" title="Tagawa, Bunko (A yandere genius, Manami's older sister) - Aho-chan, V0.47">
 
-**Database ID: #271**
+**Database ID: #0271**
 
 First Name: Bunko
 

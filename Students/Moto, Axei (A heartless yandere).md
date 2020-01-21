@@ -2,7 +2,7 @@
 
 <img src="Files/Moto, Axei (A heartless yandere).png" title="Moto, Axei (A heartless yandere) - BenPupKao, V0.47">
 
-**Database ID: #105**
+**Database ID: #0105**
 
 First Name: Axei
 

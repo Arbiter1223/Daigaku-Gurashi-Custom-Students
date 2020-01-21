@@ -2,7 +2,7 @@
 
 <img src="Files/Nagae, Olivia (From Asobi Asobase).png" title="Nagae, Olivia (From Asobi Asobase) - sansrika, V0.47">
 
-**Database ID: #587**
+**Database ID: #0587**
 
 First Name: Olivia
 

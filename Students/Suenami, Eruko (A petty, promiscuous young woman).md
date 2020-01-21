@@ -2,7 +2,7 @@
 
 <img src="Files/Suenami, Eruko (A petty, promiscuous young woman).png" title="Suenami, Eruko (A petty, promiscuous young woman) - Nyanako, V0.47">
 
-**Database ID: #171**
+**Database ID: #0171**
 
 First Name: Eruko
 

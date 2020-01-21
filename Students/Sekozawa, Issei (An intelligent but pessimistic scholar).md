@@ -2,7 +2,7 @@
 
 <img src="Files/Sekozawa, Issei (An intelligent but pessimistic scholar).png" title="Sekozawa, Issei (An intelligent but pessimistic scholar) - AjTheYandere, V0.47">
 
-**Database ID: #430**
+**Database ID: #0430**
 
 First Name: Issei
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Yamasaki, Lexi (A childish, innocent girl).png" title="Yamasaki, Lexi (A childish, innocent girl) - AjTheYandere, V0.47">
 
-**Database ID: #252**
+**Database ID: #0252**
 
 First Name: Lexi
 

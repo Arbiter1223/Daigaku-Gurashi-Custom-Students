@@ -2,7 +2,7 @@
 
 <img src="Files/Kawashima, Kirei (An interesting, scholarly young woman).png" title="Kawashima, Kirei (An interesting, scholarly young woman) - Nyanako, V0.47">
 
-**Database ID: #169**
+**Database ID: #0169**
 
 First Name: Kirei
 

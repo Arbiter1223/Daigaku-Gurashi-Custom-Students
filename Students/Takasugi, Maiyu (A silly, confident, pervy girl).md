@@ -2,7 +2,7 @@
 
 <img src="Files/Takasugi, Maiyu (A silly, confident, pervy girl).png" title="Takasugi, Maiyu (A silly, confident, pervy girl) - Cookie Boi, V0.47">
 
-**Database ID: #301**
+**Database ID: #0301**
 
 First Name: Maiyu
 

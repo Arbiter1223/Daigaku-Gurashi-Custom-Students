@@ -2,7 +2,7 @@
 
 <img src="Files/Ogata, Hatsune (A smart, friendly, and charming girl).png" title="Ogata, Hatsune (A smart, friendly, and charming girl) - Hatsune, V0.47">
 
-**Database ID: #054**
+**Database ID: #0054**
 
 First Name: Hatsune
 

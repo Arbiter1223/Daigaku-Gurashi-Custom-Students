@@ -2,7 +2,7 @@
 
 <img src="Files/Ozu, Maru (A friendly, cherry girl).png" title="Ozu, Maru (A friendly, cherry girl) - CherryMaru, V0.47">
 
-**Database ID: #052**
+**Database ID: #0052**
 
 First Name: Maru
 

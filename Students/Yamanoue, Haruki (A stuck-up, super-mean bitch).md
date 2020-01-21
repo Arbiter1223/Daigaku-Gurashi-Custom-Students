@@ -2,7 +2,7 @@
 
 <img src="Files/Yamanoue, Haruki (A stuck-up, super-mean bitch).png" title="Yamanoue, Haruki (A stuck-up, super-mean bitch) - Rando Studenta, V0.47">
 
-**Database ID: #118**
+**Database ID: #0118**
 
 First Name: Haruki
 

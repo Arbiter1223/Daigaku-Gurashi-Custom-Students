@@ -2,7 +2,7 @@
 
 <img src="Files/Retsuko, RedPanda (An innocent, cheerful girl).png" title="Retsuko, RedPanda (An innocent, cheerful girl) - Retsuko and Arbiter1223, V0.47">
 
-**Database ID: #020**
+**Database ID: #0020**
 
 First Name: RedPanda
 

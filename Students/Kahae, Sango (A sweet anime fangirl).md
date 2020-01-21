@@ -2,7 +2,7 @@
 
 <img src="Files/Kahae, Sango (A sweet anime fangirl).png" title="Kahae, Sango (A sweet anime fangirl) - AjTheYandere, V0.47">
 
-**Database ID: #468**
+**Database ID: #0468**
 
 First Name: Sango
 

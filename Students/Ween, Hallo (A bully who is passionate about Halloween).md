@@ -2,7 +2,7 @@
 
 <img src="Files/Ween, Hallo (A bully who is passionate about Halloween).png" title="Ween, Hallo (A bully who is passionate about Halloween) - AjTheYandere, V0.47">
 
-**Database ID: #248**
+**Database ID: #0248**
 
 First Name: Hallo
 

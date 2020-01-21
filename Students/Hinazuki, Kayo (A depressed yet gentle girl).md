@@ -2,7 +2,7 @@
 
 <img src="Files/Hinazuki, Kayo (A depressed yet gentle girl).png" title="Hinazuki, Kayo (A depressed yet gentle girl) - Cookie Boi, V0.47">
 
-**Database ID: #067**
+**Database ID: #0067**
 
 First Name: Kayo
 

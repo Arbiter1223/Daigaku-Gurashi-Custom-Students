@@ -2,7 +2,7 @@
 
 <img src="Files/Miki, Sayaka (A cheery yet secretly depressed girl).png" title="Miki, Sayaka (A cheery yet secretly depressed girl) - Cookie Boi, V0.47">
 
-**Database ID: #061**
+**Database ID: #0061**
 
 First Name: Sayaka
 

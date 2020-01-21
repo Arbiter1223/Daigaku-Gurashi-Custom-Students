@@ -2,7 +2,7 @@
 
 <img src="Files/Tenjouhime, Arisa (Arisu's older, nicer sister).png" title="Tenjouhime, Arisa (Arisu's older, nicer sister) - Arbiter1223, V0.47">
 
-**Database ID: #016**
+**Database ID: #0016**
 
 First Name: Arisa
 

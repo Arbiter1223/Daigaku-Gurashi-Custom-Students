@@ -2,7 +2,7 @@
 
 <img src="Files/Akemi, Homura (A stuck-up, arrogant lady).png" title="Akemi, Homura (A stuck-up, arrogant lady) - Cookie Boi, V0.47">
 
-**Database ID: #059**
+**Database ID: #0059**
 
 First Name: Homura
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Minatoya, Wubberoni (The ultimate student).png" title="Minatoya, Wubberoni (The ultimate student) - BenPupKao, V0.47">
 
-**Database ID: #486**
+**Database ID: #0486**
 
 First Name: Wubberoni
 

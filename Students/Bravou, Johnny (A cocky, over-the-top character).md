@@ -2,7 +2,7 @@
 
 <img src="Files/Bravou, Johnny (A cocky, over-the-top character).png" title="Bravou, Johnny (A cocky, over-the-top character) - sansrika, V0.47">
 
-**Database ID: #620**
+**Database ID: #0620**
 
 First Name: Johnny
 

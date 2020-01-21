@@ -2,7 +2,7 @@
 
 <img src="Files/Kawate, Kiki (A curious girl that likes everything).png" title="Kawate, Kiki (A curious girl that likes everything) - Nightara, V0.47">
 
-**Database ID: #489**
+**Database ID: #0489**
 
 First Name: Kiki
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Character, Main (Your typical Main Character).png" title="Character, Main (Your typical Main Character) - Kitten, V0.47">
 
-**Database ID: #165**
+**Database ID: #0165**
 
 First Name: Main
 

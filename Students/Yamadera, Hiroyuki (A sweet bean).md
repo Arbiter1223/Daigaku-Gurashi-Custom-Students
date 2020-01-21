@@ -2,7 +2,7 @@
 
 <img src="Files/Yamadera, Hiroyuki (A sweet bean).png" title="Yamadera, Hiroyuki (A sweet bean) - Azumi, V0.47">
 
-**Database ID: #038**
+**Database ID: #0038**
 
 First Name: Hiroyuki
 

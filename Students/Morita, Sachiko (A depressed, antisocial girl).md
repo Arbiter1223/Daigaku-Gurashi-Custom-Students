@@ -2,7 +2,7 @@
 
 <img src="Files/Morita, Sachiko (A depressed, antisocial girl).png" title="Morita, Sachiko (A depressed, antisocial girl) - Gurashidori, V0.47">
 
-**Database ID: #566**
+**Database ID: #0566**
 
 First Name: Sachiko
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Teacher, Science (The science teacher of the school).png" title="Teacher, Science (The science teacher of the school) - AjTheYandere, V0.47">
 
-**Database ID: #292**
+**Database ID: #0292**
 
 First Name: Science
 

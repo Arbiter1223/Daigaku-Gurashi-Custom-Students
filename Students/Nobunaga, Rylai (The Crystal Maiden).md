@@ -2,7 +2,7 @@
 
 <img src="Files/Nobunaga, Rylai (The Crystal Maiden).png" title="Nobunaga, Rylai (The Crystal Maiden) - Aho-chan, V0.47">
 
-**Database ID: #208**
+**Database ID: #0208**
 
 First Name: Rylai
 

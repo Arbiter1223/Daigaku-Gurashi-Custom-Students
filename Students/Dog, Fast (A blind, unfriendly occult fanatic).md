@@ -2,7 +2,7 @@
 
 <img src="Files/Dog, Fast (A blind, unfriendly occult fanatic).png" title="Dog, Fast (A blind, unfriendly occult fanatic) - AjTheYandere, V0.47">
 
-**Database ID: #238**
+**Database ID: #0238**
 
 First Name: Fast
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Kobayashi, Ayumi (An anime-obsessed fangirl).png" title="Kobayashi, Ayumi (An anime-obsessed fangirl) - Midnight Kitsune, V0.47">
 
-**Database ID: #681**
+**Database ID: #0681**
 
 First Name: Ayumi
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Saikou, Megami (A bright, mature woman).png" title="Saikou, Megami (A bright, mature woman) - Shadow, V0.47">
 
-**Database ID: #195**
+**Database ID: #0195**
 
 First Name: Megami
 

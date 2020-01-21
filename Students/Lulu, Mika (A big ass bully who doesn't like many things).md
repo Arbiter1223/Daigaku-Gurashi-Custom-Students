@@ -2,7 +2,7 @@
 
 <img src="Files/Lulu, Mika (A big ass bully who doesn't like many things).png" title="Lulu, Mika (A big ass bully who doesn't like many things) - oqndy, V0.47">
 
-**Database ID: #659**
+**Database ID: #0659**
 
 First Name: Mika
 

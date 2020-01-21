@@ -2,7 +2,7 @@
 
 <img src="Files/Nagata, Nini (A mean, cold-hearted kuudere).png" title="Nagata, Nini (A mean, cold-hearted kuudere) - kittykyatt, V0.47">
 
-**Database ID: #098**
+**Database ID: #0098**
 
 First Name: Nini
 

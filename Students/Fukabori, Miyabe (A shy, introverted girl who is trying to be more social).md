@@ -2,7 +2,7 @@
 
 <img src="Files/Fukabori, Miyabe (A shy, introverted girl who is trying to be more social).png" title="Fukabori, Miyabe (A shy, introverted girl who is trying to be more social) - yogima, V0.47">
 
-**Database ID: #715**
+**Database ID: #0715**
 
 First Name: Miyabe
 

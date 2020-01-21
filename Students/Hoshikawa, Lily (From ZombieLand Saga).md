@@ -2,7 +2,7 @@
 
 <img src="Files/Hoshikawa, Lily (From ZombieLand Saga).png" title="Hoshikawa, Lily (From ZombieLand Saga) - sansrika, V0.47">
 
-**Database ID: #580**
+**Database ID: #0580**
 
 First Name: Lily
 

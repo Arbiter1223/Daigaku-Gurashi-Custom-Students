@@ -2,7 +2,7 @@
 
 <img src="Files/Hatakeda, Kei (A girl who doesn't open up to many people).png" title="Hatakeda, Kei (A girl who doesn't open up to many people) - AjTheYandere, V0.47">
 
-**Database ID: #367**
+**Database ID: #0367**
 
 First Name: Kei
 

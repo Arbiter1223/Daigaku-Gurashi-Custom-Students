@@ -2,7 +2,7 @@
 
 <img src="Files/Miko, Miko (A kawaii and moe girl).png" title="Miko, Miko (A kawaii and moe girl) - Chi, V0.47">
 
-**Database ID: #535**
+**Database ID: #0535**
 
 First Name: Miko
 

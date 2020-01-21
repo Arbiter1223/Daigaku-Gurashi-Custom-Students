@@ -2,7 +2,7 @@
 
 <img src="Files/Okakura, Cheru (A cute futa with a deep voice).png" title="Okakura, Cheru (A cute futa with a deep voice) - Nyanako, V0.47">
 
-**Database ID: #241**
+**Database ID: #0241**
 
 First Name: Cheru
 

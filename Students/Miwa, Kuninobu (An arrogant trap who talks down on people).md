@@ -2,7 +2,7 @@
 
 <img src="Files/Miwa, Kuninobu (An arrogant trap who talks down on people).png" title="Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.47">
 
-**Database ID: #203**
+**Database ID: #0203**
 
 First Name: Kuninobu
 

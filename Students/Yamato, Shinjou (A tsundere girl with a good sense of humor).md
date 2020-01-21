@@ -2,7 +2,7 @@
 
 <img src="Files/Yamato, Shinjou (A tsundere girl with a good sense of humor).png" title="Yamato, Shinjou (A tsundere girl with a good sense of humor) - RainB, V0.47">
 
-**Database ID: #077**
+**Database ID: #0077**
 
 First Name: Shinjou
 

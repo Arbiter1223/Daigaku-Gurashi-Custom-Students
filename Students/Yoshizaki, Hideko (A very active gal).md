@@ -2,7 +2,7 @@
 
 <img src="Files/Yoshizaki, Hideko (A very active gal).png" title="Yoshizaki, Hideko (A very active gal) - AjTheYandere, V0.47">
 
-**Database ID: #425**
+**Database ID: #0425**
 
 First Name: Hideko
 

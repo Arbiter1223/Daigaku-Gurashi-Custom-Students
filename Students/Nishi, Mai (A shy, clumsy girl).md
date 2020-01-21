@@ -2,7 +2,7 @@
 
 <img src="Files/Nishi, Mai (A shy, clumsy girl).png" title="Nishi, Mai (A shy, clumsy girl) - AjTheYandere, V0.47">
 
-**Database ID: #375**
+**Database ID: #0375**
 
 First Name: Mai
 

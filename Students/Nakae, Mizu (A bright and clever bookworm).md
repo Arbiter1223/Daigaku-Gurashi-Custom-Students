@@ -2,7 +2,7 @@
 
 <img src="Files/Nakae, Mizu (A bright and clever bookworm).png" title="Nakae, Mizu (A bright and clever bookworm) - AjTheYandere, V0.47">
 
-**Database ID: #450**
+**Database ID: #0450**
 
 First Name: Mizu
 

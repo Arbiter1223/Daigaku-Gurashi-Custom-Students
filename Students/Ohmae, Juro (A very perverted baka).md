@@ -2,7 +2,7 @@
 
 <img src="Files/Ohmae, Juro (A very perverted baka).png" title="Ohmae, Juro (A very perverted baka) - AjTheYandere, V0.47">
 
-**Database ID: #432**
+**Database ID: #0432**
 
 First Name: Juro
 

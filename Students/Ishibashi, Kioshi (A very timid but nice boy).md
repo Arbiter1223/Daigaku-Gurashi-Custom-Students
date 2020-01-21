@@ -2,7 +2,7 @@
 
 <img src="Files/Ishibashi, Kioshi (A very timid but nice boy).png" title="Ishibashi, Kioshi (A very timid but nice boy) - AjTheYandere, V0.47">
 
-**Database ID: #370**
+**Database ID: #0370**
 
 First Name: Kioshi
 

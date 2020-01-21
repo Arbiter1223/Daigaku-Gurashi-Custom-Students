@@ -2,7 +2,7 @@
 
 <img src="Files/Nakasone, Excel (A girl who strangely resembles a strawberry).png" title="Nakasone, Excel (A girl who strangely resembles a strawberry) - Azumi, V0.47">
 
-**Database ID: #561**
+**Database ID: #0561**
 
 First Name: Excel
 

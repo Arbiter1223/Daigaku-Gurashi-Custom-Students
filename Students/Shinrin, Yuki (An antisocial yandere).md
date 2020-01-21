@@ -2,7 +2,7 @@
 
 <img src="Files/Shinrin, Yuki (An antisocial yandere).png" title="Shinrin, Yuki (An antisocial yandere) - snowy, V0.47">
 
-**Database ID: #694**
+**Database ID: #0694**
 
 First Name: Yuki
 

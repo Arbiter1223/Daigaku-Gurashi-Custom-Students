@@ -2,7 +2,7 @@
 
 <img src="Files/Enoshima, Jiin (A stressed out but dedicated fashionista).png" title="Enoshima, Jiin (A stressed out but dedicated fashionista) - 09.36am, V0.47">
 
-**Database ID: #727**
+**Database ID: #0727**
 
 First Name: Jiin
 

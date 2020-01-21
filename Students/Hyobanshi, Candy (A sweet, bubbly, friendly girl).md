@@ -2,7 +2,7 @@
 
 <img src="Files/Hyobanshi, Candy (A sweet, bubbly, friendly girl).png" title="Hyobanshi, Candy (A sweet, bubbly, friendly girl) - Syberian Inc, V0.47">
 
-**Database ID: #040**
+**Database ID: #0040**
 
 First Name: Candy
 

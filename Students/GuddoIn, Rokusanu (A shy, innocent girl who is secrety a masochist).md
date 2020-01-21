@@ -2,7 +2,7 @@
 
 <img src="Files/GuddoIn, Rokusanu (A shy, innocent girl who is secrety a masochist).png" title="GuddoIn, Rokusanu (A shy, innocent girl who is secrety a masochist) - Camden, V0.47">
 
-**Database ID: #612**
+**Database ID: #0612**
 
 First Name: Rokusanu
 

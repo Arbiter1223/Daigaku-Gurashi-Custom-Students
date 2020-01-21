@@ -2,7 +2,7 @@
 
 <img src="Files/Can, Trash (A nice girl who is often treated like garbage).png" title="Can, Trash (A nice girl who is often treated like garbage) - Galaxy gurl, V0.47">
 
-**Database ID: #505**
+**Database ID: #0505**
 
 First Name: Trash
 

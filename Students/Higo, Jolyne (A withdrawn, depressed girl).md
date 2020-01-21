@@ -2,7 +2,7 @@
 
 <img src="Files/Higo, Jolyne (A withdrawn, depressed girl).png" title="Higo, Jolyne (A withdrawn, depressed girl) - Rando Studenta, V0.47">
 
-**Database ID: #123**
+**Database ID: #0123**
 
 First Name: Jolyne
 

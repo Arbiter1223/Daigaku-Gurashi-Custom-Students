@@ -2,7 +2,7 @@
 
 <img src="Files/Toyoshima, Akio (An athletic, perverted music boy).png" title="Toyoshima, Akio (An athletic, perverted music boy) - Bubger Kirg, V0.47">
 
-**Database ID: #217**
+**Database ID: #0217**
 
 First Name: Akio
 

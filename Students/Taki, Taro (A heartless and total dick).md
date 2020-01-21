@@ -2,7 +2,7 @@
 
 <img src="Files/Taki, Taro (A heartless and total dick).png" title="Taki, Taro (A heartless and total dick) - Snowy, V0.47">
 
-**Database ID: #658**
+**Database ID: #0658**
 
 First Name: Taro
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Shidehara, Masahiko (A shy, composed boy).png" title="Shidehara, Masahiko (A shy, composed boy) - Bubger Kirg, V0.47">
 
-**Database ID: #214**
+**Database ID: #0214**
 
 First Name: Masahiko
 

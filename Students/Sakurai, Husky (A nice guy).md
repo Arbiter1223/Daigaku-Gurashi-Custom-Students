@@ -2,7 +2,7 @@
 
 <img src="Files/Sakurai, Husky (A nice guy).png" title="Sakurai, Husky (A nice guy) - AjTheYandere, V0.47">
 
-**Database ID: #288**
+**Database ID: #0288**
 
 First Name: Husky
 

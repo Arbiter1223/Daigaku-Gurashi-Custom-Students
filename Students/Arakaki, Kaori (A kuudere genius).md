@@ -2,7 +2,7 @@
 
 <img src="Files/Arakaki, Kaori (A kuudere genius).png" title="Arakaki, Kaori (A kuudere genius) - Duck-chan, V0.47">
 
-**Database ID: #331**
+**Database ID: #0331**
 
 First Name: Kaori
 

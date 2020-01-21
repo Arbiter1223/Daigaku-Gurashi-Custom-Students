@@ -2,7 +2,7 @@
 
 <img src="Files/Osagawa, Jenny's love (Jenny's crush since childhood).png" title="Osagawa, Jenny's love (Jenny's crush since childhood) - IzzyStiks2.0, V0.47">
 
-**Database ID: #307**
+**Database ID: #0307**
 
 First Name: Jenny's love
 

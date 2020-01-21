@@ -2,7 +2,7 @@
 
 <img src="Files/Tsukioka, Baki (A derpy bean).png" title="Tsukioka, Baki (A derpy bean) - BenPupKao, V0.47">
 
-**Database ID: #107**
+**Database ID: #0107**
 
 First Name: Baki
 

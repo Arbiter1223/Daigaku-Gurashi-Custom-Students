@@ -2,7 +2,7 @@
 
 <img src="Files/Shibanuma, Orangu (A more accurate Orangu).png" title="Shibanuma, Orangu (A more accurate Orangu) - Syberian Inc, V0.47">
 
-**Database ID: #029**
+**Database ID: #0029**
 
 First Name: Orangu
 

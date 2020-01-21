@@ -2,7 +2,7 @@
 
 <img src="Files/Ando, Orangu (A very sweet, orange catgirl).png" title="Ando, Orangu (A very sweet, orange catgirl) - Retsuko and Arbiter1223, V0.47">
 
-**Database ID: #013**
+**Database ID: #0013**
 
 First Name: Orangu
 

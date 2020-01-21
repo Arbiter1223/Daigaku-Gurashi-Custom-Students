@@ -2,7 +2,7 @@
 
 <img src="Files/Muro, Sakura (A sporty tsundere gamer girl).png" title="Muro, Sakura (A sporty tsundere gamer girl) - AjTheYandere, V0.47">
 
-**Database ID: #467**
+**Database ID: #0467**
 
 First Name: Sakura
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Komatsu, Charlie (Aj's pet cat).png" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.47">
 
-**Database ID: #339**
+**Database ID: #0339**
 
 First Name: Charlie
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Hasegawa, Kiki (A neko racoon girl).png" title="Hasegawa, Kiki (A neko racoon girl) - AjTheYandere, V0.47">
 
-**Database ID: #251**
+**Database ID: #0251**
 
 First Name: Kiki
 

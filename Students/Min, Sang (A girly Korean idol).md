@@ -2,7 +2,7 @@
 
 <img src="Files/Min, Sang (A girly Korean idol).png" title="Min, Sang (A girly Korean idol) - Aho-chan, V0.47">
 
-**Database ID: #387**
+**Database ID: #0387**
 
 First Name: Sang
 

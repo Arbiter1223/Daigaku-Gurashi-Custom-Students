@@ -2,7 +2,7 @@
 
 <img src="Files/Oshiro, Kaita (A female athletic book-loving masochist).png" title="Oshiro, Kaita (A female athletic book-loving masochist) - Camden, V0.47">
 
-**Database ID: #682**
+**Database ID: #0682**
 
 First Name: Kaita
 

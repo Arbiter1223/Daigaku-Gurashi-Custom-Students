@@ -2,7 +2,7 @@
 
 <img src="Files/Shimon, Kyon (A mysterious lad who really likes dudes).png" title="Shimon, Kyon (A mysterious lad who really likes dudes) - kami, V0.47">
 
-**Database ID: #640**
+**Database ID: #0640**
 
 First Name: Kyon
 

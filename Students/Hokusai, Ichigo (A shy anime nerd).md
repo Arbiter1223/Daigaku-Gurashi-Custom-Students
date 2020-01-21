@@ -2,7 +2,7 @@
 
 <img src="Files/Hokusai, Ichigo (A shy anime nerd).png" title="Hokusai, Ichigo (A shy anime nerd) - Aho-chan, V0.47">
 
-**Database ID: #097**
+**Database ID: #0097**
 
 First Name: Ichigo
 

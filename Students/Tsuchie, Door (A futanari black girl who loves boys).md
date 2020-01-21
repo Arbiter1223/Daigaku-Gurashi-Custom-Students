@@ -2,7 +2,7 @@
 
 <img src="Files/Tsuchie, Door (A futanari black girl who loves boys).png" title="Tsuchie, Door (A futanari black girl who loves boys) - Galaxy gurl, V0.47">
 
-**Database ID: #530**
+**Database ID: #0530**
 
 First Name: Door
 

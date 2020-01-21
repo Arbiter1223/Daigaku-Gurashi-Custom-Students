@@ -2,7 +2,7 @@
 
 <img src="Files/Igarashi, Ayano (A timid but smart girl).png" title="Igarashi, Ayano (A timid but smart girl) - Cookie Boi, V0.47">
 
-**Database ID: #296**
+**Database ID: #0296**
 
 First Name: Ayano
 

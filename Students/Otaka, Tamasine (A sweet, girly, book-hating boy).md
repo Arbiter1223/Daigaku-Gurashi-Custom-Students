@@ -2,7 +2,7 @@
 
 <img src="Files/Otaka, Tamasine (A sweet, girly, book-hating boy).png" title="Otaka, Tamasine (A sweet, girly, book-hating boy) - LowkeyHomo, V0.47">
 
-**Database ID: #494**
+**Database ID: #0494**
 
 First Name: Tamasine
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Sakura, Kyoko (A serious but humorous girl).png" title="Sakura, Kyoko (A serious but humorous girl) - Cookie Boi, V0.47">
 
-**Database ID: #060**
+**Database ID: #0060**
 
 First Name: Kyoko
 

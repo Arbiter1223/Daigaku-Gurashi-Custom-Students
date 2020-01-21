@@ -2,7 +2,7 @@
 
 <img src="Files/Aishi, Ayano (An all-around nice gal).png" title="Aishi, Ayano (An all-around nice gal) - Shadow and yogima, V0.47">
 
-**Database ID: #197**
+**Database ID: #0197**
 
 First Name: Ayano
 

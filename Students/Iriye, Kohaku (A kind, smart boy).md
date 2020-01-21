@@ -2,7 +2,7 @@
 
 <img src="Files/Iriye, Kohaku (A kind, smart boy).png" title="Iriye, Kohaku (A kind, smart boy) - AjTheYandere, V0.47">
 
-**Database ID: #438**
+**Database ID: #0438**
 
 First Name: Kohaku
 

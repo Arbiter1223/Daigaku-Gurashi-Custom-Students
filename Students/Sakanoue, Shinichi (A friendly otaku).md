@@ -2,7 +2,7 @@
 
 <img src="Files/Sakanoue, Shinichi (A friendly otaku).png" title="Sakanoue, Shinichi (A friendly otaku) - Jefo, V0.47">
 
-**Database ID: #093**
+**Database ID: #0093**
 
 First Name: Shinichi
 

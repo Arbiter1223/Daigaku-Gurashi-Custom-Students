@@ -2,7 +2,7 @@
 
 <img src="Files/Taira, Kneesocks (A rather mean bookworm).png" title="Taira, Kneesocks (A rather mean bookworm) - Syberian Inc, V0.47">
 
-**Database ID: #568**
+**Database ID: #0568**
 
 First Name: Kneesocks
 

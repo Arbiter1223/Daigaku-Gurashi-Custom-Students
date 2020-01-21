@@ -2,7 +2,7 @@
 
 <img src="Files/Sekigawa, Yumi (An isolated, modest woman).png" title="Sekigawa, Yumi (An isolated, modest woman) - AjTheYandere, V0.47">
 
-**Database ID: #402**
+**Database ID: #0402**
 
 First Name: Yumi
 

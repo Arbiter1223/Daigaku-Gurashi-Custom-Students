@@ -2,7 +2,7 @@
 
 <img src="Files/Tsukade, Akeno (Masaru's older, spoiled sister).png" title="Tsukade, Akeno (Masaru's older, spoiled sister) - Aho-chan, V0.47">
 
-**Database ID: #313**
+**Database ID: #0313**
 
 First Name: Akeno
 

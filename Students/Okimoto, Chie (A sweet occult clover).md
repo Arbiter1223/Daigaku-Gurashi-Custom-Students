@@ -2,7 +2,7 @@
 
 <img src="Files/Okimoto, Chie (A sweet occult clover).png" title="Okimoto, Chie (A sweet occult clover) - Nyanako, V0.47">
 
-**Database ID: #176**
+**Database ID: #0176**
 
 First Name: Chie
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Sassa, Kekei (A not-so-bright science obsessed student).png" title="Sassa, Kekei (A not-so-bright science obsessed student) - BenPupKao, V0.47">
 
-**Database ID: #477**
+**Database ID: #0477**
 
 First Name: Kekei
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Segawa, Punie (An unfriendly occult follower).png" title="Segawa, Punie (An unfriendly occult follower) - AjTheYandere, V0.47">
 
-**Database ID: #457**
+**Database ID: #0457**
 
 First Name: Punie
 

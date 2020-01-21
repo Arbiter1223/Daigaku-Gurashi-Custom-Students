@@ -2,7 +2,7 @@
 
 <img src="Files/Kakutama, Yurei (A spooky kuudere girl that hates perverts).png" title="Kakutama, Yurei (A spooky kuudere girl that hates perverts) - sansrika, V0.47">
 
-**Database ID: #327**
+**Database ID: #0327**
 
 First Name: Yurei
 

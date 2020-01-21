@@ -2,7 +2,7 @@
 
 <img src="Files/Toast, Yami (The creator himself).png" title="Toast, Yami (The creator himself) - Syberian Inc, V0.47">
 
-**Database ID: #053**
+**Database ID: #0053**
 
 First Name: Yami
 

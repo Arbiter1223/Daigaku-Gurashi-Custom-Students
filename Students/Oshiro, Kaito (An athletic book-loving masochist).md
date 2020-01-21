@@ -2,7 +2,7 @@
 
 <img src="Files/Oshiro, Kaito (An athletic book-loving masochist).png" title="Oshiro, Kaito (An athletic book-loving masochist) - YamiToast, V0.47">
 
-**Database ID: #006**
+**Database ID: #0006**
 
 First Name: Kaito
 

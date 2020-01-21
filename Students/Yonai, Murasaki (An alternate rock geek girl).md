@@ -2,7 +2,7 @@
 
 <img src="Files/Yonai, Murasaki (An alternate rock geek girl).png" title="Yonai, Murasaki (An alternate rock geek girl) - Syberian Inc, V0.47">
 
-**Database ID: #026**
+**Database ID: #0026**
 
 First Name: Murasaki
 

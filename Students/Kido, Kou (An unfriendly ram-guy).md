@@ -2,7 +2,7 @@
 
 <img src="Files/Kido, Kou (An unfriendly ram-guy).png" title="Kido, Kou (An unfriendly ram-guy) - Nepeta, V0.47">
 
-**Database ID: #081**
+**Database ID: #0081**
 
 First Name: Kou
 

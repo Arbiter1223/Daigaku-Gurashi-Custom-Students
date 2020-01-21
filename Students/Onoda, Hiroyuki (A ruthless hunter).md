@@ -2,7 +2,7 @@
 
 <img src="Files/Onoda, Hiroyuki (A ruthless hunter).png" title="Onoda, Hiroyuki (A ruthless hunter) - AjTheYandere, V0.47">
 
-**Database ID: #363**
+**Database ID: #0363**
 
 First Name: Hiroyuki
 

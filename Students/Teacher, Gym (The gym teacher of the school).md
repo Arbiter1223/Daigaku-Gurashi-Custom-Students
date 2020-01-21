@@ -2,7 +2,7 @@
 
 <img src="Files/Teacher, Gym (The gym teacher of the school).png" title="Teacher, Gym (The gym teacher of the school) - AjTheYandere, V0.47">
 
-**Database ID: #290**
+**Database ID: #0290**
 
 First Name: Gym
 

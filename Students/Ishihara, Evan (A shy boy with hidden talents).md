@@ -2,7 +2,7 @@
 
 <img src="Files/Ishihara, Evan (A shy boy with hidden talents).png" title="Ishihara, Evan (A shy boy with hidden talents) - Heroic_Moron, V0.47">
 
-**Database ID: #070**
+**Database ID: #0070**
 
 First Name: Evan
 

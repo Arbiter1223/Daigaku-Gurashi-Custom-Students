@@ -2,7 +2,7 @@
 
 <img src="Files/Ezakiya, Kimi (A romantic anime nerd).png" title="Ezakiya, Kimi (A romantic anime nerd) - AjTheYandere, V0.47">
 
-**Database ID: #437**
+**Database ID: #0437**
 
 First Name: Kimi
 

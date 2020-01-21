@@ -2,7 +2,7 @@
 
 <img src="Files/Utama, Kebbi (A yandere catboy who has no sense of self worth).png" title="Utama, Kebbi (A yandere catboy who has no sense of self worth) - kami, V0.47">
 
-**Database ID: #630**
+**Database ID: #0630**
 
 First Name: Kebbi
 

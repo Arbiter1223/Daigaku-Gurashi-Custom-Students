@@ -2,7 +2,7 @@
 
 <img src="Files/Kaname, Madoka (A depressed but kind-hearted girl).png" title="Kaname, Madoka (A depressed but kind-hearted girl) - Cookie Boi, V0.47">
 
-**Database ID: #058**
+**Database ID: #0058**
 
 First Name: Madoka
 

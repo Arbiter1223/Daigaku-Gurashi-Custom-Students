@@ -2,7 +2,7 @@
 
 <img src="Files/Ikoma, Aslak (A nice, confident transgender boy).png" title="Ikoma, Aslak (A nice, confident transgender boy) - Azumi, V0.47">
 
-**Database ID: #574**
+**Database ID: #0574**
 
 First Name: Aslak
 

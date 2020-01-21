@@ -2,7 +2,7 @@
 
 <img src="Files/Sammich, Peanut (The oldest of the Sammich sisters, a total bully).png" title="Sammich, Peanut (The oldest of the Sammich sisters, a total bully) - AjTheYandere, V0.47">
 
-**Database ID: #211**
+**Database ID: #0211**
 
 First Name: Peanut
 

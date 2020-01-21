@@ -2,7 +2,7 @@
 
 <img src="Files/Kasamatsu, Scratch (A smart student with a lisp).png" title="Kasamatsu, Scratch (A smart student with a lisp) - AjTheYandere, V0.47">
 
-**Database ID: #256**
+**Database ID: #0256**
 
 First Name: Scratch
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Yamaoka, Oriko (A shy gaming futa).png" title="Yamaoka, Oriko (A shy gaming futa) - BenPupKao, V0.47">
 
-**Database ID: #570**
+**Database ID: #0570**
 
 First Name: Oriko
 

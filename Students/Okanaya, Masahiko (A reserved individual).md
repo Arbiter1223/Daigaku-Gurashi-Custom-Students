@@ -2,7 +2,7 @@
 
 <img src="Files/Okanaya, Masahiko (A reserved individual).png" title="Okanaya, Masahiko (A reserved individual) - AjTheYandere, V0.47">
 
-**Database ID: #445**
+**Database ID: #0445**
 
 First Name: Masahiko
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Ochida, Tadashi (A boy whose emotions are always changing).png" title="Ochida, Tadashi (A boy whose emotions are always changing) - AjTheYandere, V0.47">
 
-**Database ID: #471**
+**Database ID: #0471**
 
 First Name: Tadashi
 

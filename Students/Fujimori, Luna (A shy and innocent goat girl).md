@@ -2,7 +2,7 @@
 
 <img src="Files/Fujimori, Luna (A shy and innocent goat girl).png" title="Fujimori, Luna (A shy and innocent goat girl) - Mira, V0.47">
 
-**Database ID: #641**
+**Database ID: #0641**
 
 First Name: Luna
 

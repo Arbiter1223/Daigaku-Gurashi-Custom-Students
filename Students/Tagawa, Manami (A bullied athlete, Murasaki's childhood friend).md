@@ -2,7 +2,7 @@
 
 <img src="Files/Tagawa, Manami (A bullied athlete, Murasaki's childhood friend).png" title="Tagawa, Manami (A bullied athlete, Murasaki's childhood friend) - Aho-chan, V0.47">
 
-**Database ID: #270**
+**Database ID: #0270**
 
 First Name: Manami
 

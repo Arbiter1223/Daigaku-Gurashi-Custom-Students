@@ -2,7 +2,7 @@
 
 <img src="Files/Okazawaya, Kohaku (An antisocial yet brilliant girl).png" title="Okazawaya, Kohaku (An antisocial yet brilliant girl) - Rando Studenta, V0.47">
 
-**Database ID: #133**
+**Database ID: #0133**
 
 First Name: Kohaku
 

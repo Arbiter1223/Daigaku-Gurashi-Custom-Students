@@ -2,7 +2,7 @@
 
 <img src="Files/OwO, UwU (A cute girl who isn't afraid to get pervy).png" title="OwO, UwU (A cute girl who isn't afraid to get pervy) - Chi, V0.47">
 
-**Database ID: #551**
+**Database ID: #0551**
 
 First Name: UwU
 

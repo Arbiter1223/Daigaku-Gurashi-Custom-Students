@@ -2,7 +2,7 @@
 
 <img src="Files/Haruka, Kokona (AKA Boobs McKenzie).png" title="Haruka, Kokona (AKA Boobs McKenzie) - Camden, V0.47">
 
-**Database ID: #522**
+**Database ID: #0522**
 
 First Name: Kokona
 

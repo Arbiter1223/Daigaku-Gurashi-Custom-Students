@@ -2,7 +2,7 @@
 
 <img src="Files/Ieyasu, Kiku (A very reclusive tsundere girl).png" title="Ieyasu, Kiku (A very reclusive tsundere girl) - Rando Studenta, V0.47">
 
-**Database ID: #130**
+**Database ID: #0130**
 
 First Name: Kiku
 

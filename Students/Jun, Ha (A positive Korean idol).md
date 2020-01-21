@@ -2,7 +2,7 @@
 
 <img src="Files/Jun, Ha (A positive Korean idol).png" title="Jun, Ha (A positive Korean idol) - Aho-chan, V0.47">
 
-**Database ID: #112**
+**Database ID: #0112**
 
 First Name: Ha
 

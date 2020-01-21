@@ -2,7 +2,7 @@
 
 <img src="Files/Gurin, Midori (A cute, very green baka).png" title="Gurin, Midori (A cute, very green baka) - Shadow, V0.47">
 
-**Database ID: #198**
+**Database ID: #0198**
 
 First Name: Midori
 

@@ -2,7 +2,7 @@
 
 <img src="Files/Ayugai, Tomoko (A hardcore anime nerd).png" title="Ayugai, Tomoko (A hardcore anime nerd) - AjTheYandere, V0.47">
 
-**Database ID: #394**
+**Database ID: #0394**
 
 First Name: Tomoko
 

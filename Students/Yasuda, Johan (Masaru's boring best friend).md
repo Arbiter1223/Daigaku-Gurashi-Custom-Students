@@ -2,7 +2,7 @@
 
 <img src="Files/Yasuda, Johan (Masaru's boring best friend).png" title="Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.47">
 
-**Database ID: #264**
+**Database ID: #0264**
 
 First Name: Johan
 

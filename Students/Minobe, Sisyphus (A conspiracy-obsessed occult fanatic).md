@@ -2,7 +2,7 @@
 
 <img src="Files/Minobe, Sisyphus (A conspiracy-obsessed occult fanatic).png" title="Minobe, Sisyphus (A conspiracy-obsessed occult fanatic) - BenPupKao, V0.47">
 
-**Database ID: #506**
+**Database ID: #0506**
 
 First Name: Sisyphus
 

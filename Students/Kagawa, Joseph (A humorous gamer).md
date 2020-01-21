@@ -2,7 +2,7 @@
 
 <img src="Files/Kagawa, Joseph (A humorous gamer).png" title="Kagawa, Joseph (A humorous gamer) - Shiny, V0.47">
 
-**Database ID: #599**
+**Database ID: #0599**
 
 First Name: Joseph
 

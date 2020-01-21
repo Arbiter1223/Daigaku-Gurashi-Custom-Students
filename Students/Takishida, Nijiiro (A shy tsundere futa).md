@@ -2,7 +2,7 @@
 
 <img src="Files/Takishida, Nijiiro (A shy tsundere futa).png" title="Takishida, Nijiiro (A shy tsundere futa) - Ryujime, V0.47">
 
-**Database ID: #225**
+**Database ID: #0225**
 
 First Name: Nijiiro
 

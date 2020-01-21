@@ -2,7 +2,7 @@
 
 <img src="Files/Furuya, Kanna (A very smart girl who loves learning new information).png" title="Furuya, Kanna (A very smart girl who loves learning new information) - nightara, V0.47">
 
-**Database ID: #647**
+**Database ID: #0647**
 
 First Name: Kanna
 
