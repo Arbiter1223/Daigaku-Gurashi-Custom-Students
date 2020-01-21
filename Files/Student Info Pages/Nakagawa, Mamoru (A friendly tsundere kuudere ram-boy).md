@@ -1,6 +1,6 @@
 # Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy)
 
-<img src="Files/Images/Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy).png" title="Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy) - Rando Studenta, V0.47">
+<img src="../../Files/Images/Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy).png" title="Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy) - Rando Studenta, V0.47">
 
 **Database ID: #0137**
 
@@ -14,7 +14,7 @@ Author: Rando Studenta
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Nakagawa%2C%20Mamoru%20(A%20friendly%20tsundere%20kuudere%20ram-boy)%20-%20Rando%20Studenta%2C%20V0.47.student">Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy) - Rando Studenta, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakagawa%2C%20Mamoru%20(A%20friendly%20tsundere%20kuudere%20ram-boy)%20-%20Rando%20Studenta%2C%20V0.47.student">Nakagawa, Mamoru (A friendly tsundere kuudere ram-boy) - Rando Studenta, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

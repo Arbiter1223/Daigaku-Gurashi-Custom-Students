@@ -1,6 +1,6 @@
 # Ryusaki, Homura (A nice, talkative girl)
 
-<img src="Files/Images/Ryusaki, Homura (A nice, talkative girl).png" title="Ryusaki, Homura (A nice, talkative girl) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Ryusaki, Homura (A nice, talkative girl).png" title="Ryusaki, Homura (A nice, talkative girl) - AjTheYandere, V0.47">
 
 **Database ID: #0364**
 
@@ -14,7 +14,7 @@ Author: AjTheYandere
 
 Version: V0.47
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Studen%20Files/Ryusaki%2C%20Homura%20(A%20nice%2C%20talkative%20girl)%20-%20AjTheYandere%2C%20V0.47.student">Ryusaki, Homura (A nice, talkative girl) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ryusaki%2C%20Homura%20(A%20nice%2C%20talkative%20girl)%20-%20AjTheYandere%2C%20V0.47.student">Ryusaki, Homura (A nice, talkative girl) - AjTheYandere, V0.47.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
