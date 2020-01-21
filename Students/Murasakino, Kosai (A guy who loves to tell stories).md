@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Murasakino, Kyutsi (A girl who loves the color pink).md"><img src="Files/Thumbs/Murasakino, Kyutsi (A girl who loves the color pink).png" height="100" width="100" title="Murasakino, Kyutsi (A girl who loves the color pink) - screaming kiwi, V0.47"></a><a href="Murasakino, Kyutsi (A girl who loves the color pink).md"> Kyutsi - Sister</a>
+

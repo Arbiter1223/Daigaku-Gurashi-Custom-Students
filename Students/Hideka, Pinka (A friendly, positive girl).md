@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Hideki, Pinku (A friendly positive guy).md"><img src="Files/Thumbs/Hideki, Pinku (A friendly positive guy).png" height="100" width="100" title="Hideki, Pinku (A friendly positive guy) - YamiToast, V0.47"></a><a href="Hideki, Pinku (A friendly positive guy).md"> Pinku - Original character</a>
+

@@ -20,4 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Hisako, Aoi (Easiest girlfriend ever).md"><img src="Files/Thumbs/Hisako, Aoi (Easiest girlfriend ever).png" height="100" width="100" title="Hisako, Aoi (Easiest girlfriend ever) - Syberian Inc, V0.47"></a><a href="Hisako, Aoi (Easiest girlfriend ever).md"> Aoi - Enemy</a>
+

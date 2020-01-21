@@ -20,5 +20,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
-<a href="Kawagishi, Prism (A well-rounded tsundere intellectual).md"><img src="Files/Thumbs/Kawagishi, Prism (A well-rounded tsundere intellectual).png" height="100" width="100" title="Kawagishi, Prism (A well-rounded tsundere intellectual) - Prism~Cloud, V0.47"></a><a href="Kawagishi, Prism (A well-rounded tsundere intellectual).md"> Prism - Owner</a>
+<a href="TheYandere, Aj (A very antisocial guy).md"><img src="Files/Thumbs/TheYandere, Aj (A very antisocial guy).png" height="100" width="100" title="TheYandere, Aj (A very antisocial guy) - AjTheYandere, V0.47"></a><a href="TheYandere, Aj (A very antisocial guy).md"> Aj - Owner</a>
 

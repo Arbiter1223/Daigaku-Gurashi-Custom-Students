@@ -24,3 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 <a href="Saionji, Hajime (A crappy Pinku look-a-like).md"><img src="Files/Thumbs/Saionji, Hajime (A crappy Pinku look-a-like).png" height="100" width="100" title="Saionji, Hajime (A crappy Pinku look-a-like) - Cookie Boi, V0.47"></a><a href="Saionji, Hajime (A crappy Pinku look-a-like).md"> Hajime - Look-a-like (unofficial)</a>
 
+<a href="Hideka, Pinka (A friendly, positive girl).md"><img src="Files/Thumbs/Hideka, Pinka (A friendly, positive girl).png" height="100" width="100" title="Hideka, Pinka (A friendly, positive girl) - Hatsune, V0.47"></a><a href="Hideka, Pinka (A friendly, positive girl).md"> Pinka - Female variant</a>
+

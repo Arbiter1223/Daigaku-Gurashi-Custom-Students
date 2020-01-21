@@ -20,7 +20,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
-<a href="Star, Patrick (A baka who lives under a rock).md"><img src="Files/Thumbs/Star, Patrick (A baka who lives under a rock).png" height="100" width="100" title="Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.47"></a><a href="Star, Patrick (A baka who lives under a rock).md"> Patrick - Coworker</a>
+<a href="Squarepants, Spongebob (A very energetic and upbeat individual).md"><img src="Files/Thumbs/Squarepants, Spongebob (A very energetic and upbeat individual).png" height="100" width="100" title="Squarepants, Spongebob (A very energetic and upbeat individual) - LowkeyHomo, V0.47"></a><a href="Squarepants, Spongebob (A very energetic and upbeat individual).md"> Spongebob - Coworker</a>
 
-<a href="Squarepants, Spongebob (A very energetic and upbeat individual).md"><img src="Files/Thumbs/Squarepants, Spongebob (A very energetic and upbeat individual).png" height="100" width="100" title="Squarepants, Spongebob (A very energetic and upbeat individual) - LowkeyHomo, V0.47"></a><a href="Squarepants, Spongebob (A very energetic and upbeat individual).md"> Spongebob - Neighbor</a>
+<a href="Star, Patrick (A baka who lives under a rock).md"><img src="Files/Thumbs/Star, Patrick (A baka who lives under a rock).png" height="100" width="100" title="Star, Patrick (A baka who lives under a rock) - LowkeyHomo, V0.47"></a><a href="Star, Patrick (A baka who lives under a rock).md"> Patrick - Neighbor</a>
 

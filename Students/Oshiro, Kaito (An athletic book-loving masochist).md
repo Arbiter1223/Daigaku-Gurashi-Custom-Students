@@ -22,3 +22,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 <a href="Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito).md"><img src="Files/Thumbs/Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito).png" height="100" width="100" title="Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito) - Rando Studenta, V0.47"></a><a href="Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito).md"> Ochiyo - Look-a-like (unofficial)</a>
 
+<a href="Oshiro, Kaita (A female athletic book-loving masochist).md"><img src="Files/Thumbs/Oshiro, Kaita (A female athletic book-loving masochist).png" height="100" width="100" title="Oshiro, Kaita (A female athletic book-loving masochist) - Camden, V0.47"></a><a href="Oshiro, Kaita (A female athletic book-loving masochist).md"> Kaita - Female variant</a>
+

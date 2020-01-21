@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/15/2020 1:01:09 PM
+Last Modified: 1/19/2020 11:10:59 AM
 ------------------------------------------------------
 FirstName|Meloka|
 Female|True|
@@ -23,7 +23,7 @@ Gossips|0|
 Kindness|20|
 Confidence|60|
 Intelligence|0|
-Dexterity|0|
+Dexterity|20|
 Yandere|False|
 RandomBodyLanguage|False|
 Tsundere|0|
