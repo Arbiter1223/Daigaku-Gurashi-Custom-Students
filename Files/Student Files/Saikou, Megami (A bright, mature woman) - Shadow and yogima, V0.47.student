@@ -1,53 +1,53 @@
 Daigaku Gurashi V0.47
-Last Modified: 1/15/2020 1:01:07 PM
+Last Modified: 2/4/2020 10:24:10 PM
 ------------------------------------------------------
-FirstName|Asu|
+FirstName|Megami|
 Female|True|
 Penis|False|
-Hair|1|
-?|1|
-Ahoge|1|
+Hair|2|
+?|7|
+Ahoge|0|
 HairTails|0|
-HairPrimaryColour|14|
-HairSecondaryColour|14|
-Eyes|17|
+HairPrimaryColour|2|
+HairSecondaryColour|25|
+Eyes|26|
 Mouth|2|
-Skin|3|
+Skin|4|
 HeadAccessory|0|0|0|0|
 Eyewear|0|
-Pantsu|18|
-Sexual Preference|0|
-Family Name|Rito|
-Snootiness|50|
+Pantsu|4|
+Sexual Preference|1|
+Family Name|Saikou|
+Snootiness|75|
 Gossips|0|
-Kindness|40|
+Kindness|0|
 Confidence|80|
-Intelligence|0|
+Intelligence|80|
 Dexterity|50|
 Yandere|False|
-RandomBodyLanguage|False|
+RandomBodyLanguage|True|
 Tsundere|0|
-LoveyDovey|30|
+LoveyDovey|60|
 ?|0|
 Masochist|False|
 HairTaste|0|
-Depression|0|
-LikesSchool|45|
+Depression|20|
+LikesSchool|90|
 Athletic|850|
-LikesManga|45|
-LikesAnime|45|
+LikesManga|0|
+LikesAnime|0|
 LikesBooks|45|
-LikesVideoGames|45|
+LikesVideoGames|0|
 LikesMusic|45|
-Perverted|-45|
-LikesHumour|45|
-LikesOccult|-45|
+Perverted|-90|
+LikesHumour|0|
+LikesOccult|0|
 Alive|True|
 Kuudere|False|
-Loyal|False|
+Loyal|True|
 Voice|2|
-Lingo Great|2|
-Lingo Crappy|0|
+Lingo Great|9|
+Lingo Crappy|4|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,30 +56,30 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|53|
+LingoLaugh|0|
 Energy|2000|
-ThighHigh Base|18|
-ThighHigh Extra|2|
-LowerBodySize|1|
-Voice Pitch|3|
-HeadAccessoryColour|1|1|1|1|
-OppaiSize|2|
-Lingo Very|7|
-Author|Shadow|
-Description|A content, sporty girl|
-Shirt_Colour|12|
-Shirt_Decal|4|
-Pants_Colour|26|
-WearDress%|86|
-Dress_Colour|12|
-Dress_Decal|3|
+ThighHigh Base|4|
+ThighHigh Extra|6|
+LowerBodySize|3|
+Voice Pitch|1|
+HeadAccessoryColour|1|1|14|32|
+OppaiSize|4|
+Lingo Very|11|
+Author|Shadow and yogima|
+Description|A bright, mature woman|
+Shirt_Colour|25|
+Shirt_Decal|6|
+Pants_Colour|4|
+WearDress%|30|
+Dress_Colour|11|
+Dress_Decal|17|
 Hygiene|10000|
-WearSchoolgirl%|2|
-Schoolgirl_Bow_Colour|21|
-Schoolgirl_Collar_Colour|7|
-Schoolgirl_Cuffs_Colour|7|
+WearSchoolgirl%|1|
+Schoolgirl_Bow_Colour|9|
+Schoolgirl_Collar_Colour|25|
+Schoolgirl_Cuffs_Colour|25|
 Schoolgirl_Shirt_Colour|1|
-Schoolgirl_Skirt_Colour|7|
+Schoolgirl_Skirt_Colour|25|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
 Stress%|0|
@@ -95,5 +95,5 @@ Accent_FoulMouth|False|
 Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|
 Accent_Zombie|False|
-Age|21|
+Age|30|
 (╯°□°）╯You ruined it!! You killed the magic!!
