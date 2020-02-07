@@ -1507,3 +1507,5 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 <a href="Files/Student Info Pages/Katayama, Shitsushi (A cyclops who pretends to be blind to avoid being bullied).md"><img src="Files/Thumbs/Katayama, Shitsushi (A cyclops who pretends to be blind to avoid being bullied).png" height="100" width="100" title="Katayama, Shitsushi (A cyclops who pretends to be blind to avoid being bullied) - Astro, V0.47"></a><a href="Files/Student Info Pages/Katayama, Shitsushi (A cyclops who pretends to be blind to avoid being bullied).md"> **#0734:** Katayama, Shitsushi (A cyclops who pretends to be blind to avoid being bullied) - Astro, V0.47</a>
 
+<a href="Files/Student Info Pages/Blam, Michael (A funny gamer who hates school).md"><img src="Files/Thumbs/Blam, Michael (A funny gamer who hates school).png" height="100" width="100" title="Blam, Michael (A funny gamer who hates school) - candilly8, V0.47"></a><a href="Files/Student Info Pages/Blam, Michael (A funny gamer who hates school).md"> **#0735:** Blam, Michael (A funny gamer who hates school) - candilly8, V0.47</a>
+
