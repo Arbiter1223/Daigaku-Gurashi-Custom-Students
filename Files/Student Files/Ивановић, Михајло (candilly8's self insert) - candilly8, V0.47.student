@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.47
-Last Modified: 2/8/2020 9:25:17 AM
+Last Modified: 2/9/2020 5:31:15 PM
 ------------------------------------------------------
 FirstName|Михајло|
 Female|False|
@@ -18,7 +18,7 @@ Eyewear|9|
 Pantsu|0|
 Sexual Preference|-1|
 Family Name|Ивановић|
-Snootiness|3|
+Snootiness|1|
 Gossips|15|
 Kindness|30|
 Confidence|0|
@@ -41,7 +41,7 @@ LikesVideoGames|100|
 LikesMusic|100|
 Perverted|46|
 LikesHumour|100|
-LikesOccult|98|
+LikesOccult|99|
 Alive|True|
 Kuudere|False|
 Loyal|True|
@@ -66,7 +66,7 @@ HeadAccessoryColour|1|21|4|18|
 OppaiSize|0|
 Lingo Very|17|
 Author|candilly8|
-Description|A funny gamer who hates school|
+Description|candilly8's self insert|
 Shirt_Colour|18|
 Shirt_Decal|14|
 Pants_Colour|27|
@@ -83,7 +83,7 @@ Schoolgirl_Skirt_Colour|8|
 Schoolgirl_Skirt_Line_Colour|27|
 Eyewear_Colour|1|
 Stress%|0|
-円|82525|
+円|10735|
 FixedSexuality|False|
 Accent_Kansai|False|
 Accent_Valleyspeak|True|
