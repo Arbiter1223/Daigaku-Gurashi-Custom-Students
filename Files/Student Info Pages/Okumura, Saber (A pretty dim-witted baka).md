@@ -1,6 +1,6 @@
 # Okumura, Saber (A pretty dim-witted baka)
 
-<img src="../../Files/Images/Okumura, Saber (A pretty dim-witted baka).png" title="Okumura, Saber (A pretty dim-witted baka) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Okumura, Saber (A pretty dim-witted baka).png" title="Okumura, Saber (A pretty dim-witted baka) - AjTheYandere, V0.49">
 
 **Database ID: #0464**
 
@@ -12,9 +12,9 @@ Description: A pretty dim-witted baka
 
 Author: AjTheYandere
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Okumura%2C%20Saber%20(A%20pretty%20dim-witted%20baka)%20-%20AjTheYandere%2C%20V0.47.student">Okumura, Saber (A pretty dim-witted baka) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Okumura%2C%20Saber%20(A%20pretty%20dim-witted%20baka)%20-%20AjTheYandere%2C%20V0.49.student">Okumura, Saber (A pretty dim-witted baka) - AjTheYandere, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Moto, Axei (A heartless yandere)
 
-<img src="../../Files/Images/Moto, Axei (A heartless yandere).png" title="Moto, Axei (A heartless yandere) - BenPupKao, V0.47">
+<img src="../../Files/Images/Moto, Axei (A heartless yandere).png" title="Moto, Axei (A heartless yandere) - BenPupKao, V0.49">
 
 **Database ID: #0105**
 
@@ -12,15 +12,15 @@ Description: A heartless yandere
 
 Author: BenPupKao
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Moto%2C%20Axei%20(A%20heartless%20yandere)%20-%20BenPupKao%2C%20V0.47.student">Moto, Axei (A heartless yandere) - BenPupKao, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Moto%2C%20Axei%20(A%20heartless%20yandere)%20-%20BenPupKao%2C%20V0.49.student">Moto, Axei (A heartless yandere) - BenPupKao, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Moto, Pasta (Axei's antisocial lesser-known little brother).md"><img src="../../Files/Thumbs/Moto, Pasta (Axei's antisocial lesser-known little brother).png" height="100" width="100" title="Moto, Pasta (Axei's antisocial lesser-known little brother) - BenPupKao, V0.47"></a><a href="Moto, Pasta (Axei's antisocial lesser-known little brother).md"> Pasta - Brother</a>
+<a href="Moto, Pasta (Axei's antisocial lesser-known little brother).md"><img src="../../Files/Thumbs/Moto, Pasta (Axei's antisocial lesser-known little brother).png" height="100" width="100" title="Moto, Pasta (Axei's antisocial lesser-known little brother) - BenPupKao, V0.49"></a><a href="Moto, Pasta (Axei's antisocial lesser-known little brother).md"> Pasta - Brother</a>
 
-<a href="Moto, Hattie (Axei and Pasta's kind older sister).md"><img src="../../Files/Thumbs/Moto, Hattie (Axei and Pasta's kind older sister).png" height="100" width="100" title="Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.47"></a><a href="Moto, Hattie (Axei and Pasta's kind older sister).md"> Hattie - Sister</a>
+<a href="Moto, Hattie (Axei and Pasta's kind older sister).md"><img src="../../Files/Thumbs/Moto, Hattie (Axei and Pasta's kind older sister).png" height="100" width="100" title="Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.49"></a><a href="Moto, Hattie (Axei and Pasta's kind older sister).md"> Hattie - Sister</a>
 

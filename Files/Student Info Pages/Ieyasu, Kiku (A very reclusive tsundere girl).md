@@ -1,6 +1,6 @@
 # Ieyasu, Kiku (A very reclusive tsundere girl)
 
-<img src="../../Files/Images/Ieyasu, Kiku (A very reclusive tsundere girl).png" title="Ieyasu, Kiku (A very reclusive tsundere girl) - Rando Studenta, V0.47">
+<img src="../../Files/Images/Ieyasu, Kiku (A very reclusive tsundere girl).png" title="Ieyasu, Kiku (A very reclusive tsundere girl) - Rando Studenta, V0.49">
 
 **Database ID: #0130**
 
@@ -12,9 +12,9 @@ Description: A very reclusive tsundere girl
 
 Author: Rando Studenta
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ieyasu%2C%20Kiku%20(A%20very%20reclusive%20tsundere%20girl)%20-%20Rando%20Studenta%2C%20V0.47.student">Ieyasu, Kiku (A very reclusive tsundere girl) - Rando Studenta, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ieyasu%2C%20Kiku%20(A%20very%20reclusive%20tsundere%20girl)%20-%20Rando%20Studenta%2C%20V0.49.student">Ieyasu, Kiku (A very reclusive tsundere girl) - Rando Studenta, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

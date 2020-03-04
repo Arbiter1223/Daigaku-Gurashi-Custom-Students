@@ -1,6 +1,6 @@
 # Ito, Mirai (A lovey-dovey occult girl)
 
-<img src="../../Files/Images/Ito, Mirai (A lovey-dovey occult girl).png" title="Ito, Mirai (A lovey-dovey occult girl) - witcharies, V0.47">
+<img src="../../Files/Images/Ito, Mirai (A lovey-dovey occult girl).png" title="Ito, Mirai (A lovey-dovey occult girl) - witcharies, V0.49">
 
 **Database ID: #0670**
 
@@ -12,9 +12,9 @@ Description: A lovey-dovey occult girl
 
 Author: witcharies
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ito%2C%20Mirai%20(A%20lovey-dovey%20occult%20girl)%20-%20witcharies%2C%20V0.47.student">Ito, Mirai (A lovey-dovey occult girl) - witcharies, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ito%2C%20Mirai%20(A%20lovey-dovey%20occult%20girl)%20-%20witcharies%2C%20V0.49.student">Ito, Mirai (A lovey-dovey occult girl) - witcharies, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

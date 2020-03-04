@@ -1,6 +1,6 @@
 # Toast, Yami (This BAKA made this game)
 
-<img src="../../Files/Images/Toast, Yami (This BAKA made this game).png" title="Toast, Yami (This BAKA made this game) - Syberian Inc, V0.47">
+<img src="../../Files/Images/Toast, Yami (This BAKA made this game).png" title="Toast, Yami (This BAKA made this game) - Syberian Inc, V0.49">
 
 **Database ID: #0487**
 
@@ -12,9 +12,9 @@ Description: This BAKA made this game
 
 Author: Syberian Inc
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Toast%2C%20Yami%20(This%20BAKA%20made%20this%20game)%20-%20Syberian%20Inc%2C%20V0.47.student">Toast, Yami (This BAKA made this game) - Syberian Inc, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Toast%2C%20Yami%20(This%20BAKA%20made%20this%20game)%20-%20Syberian%20Inc%2C%20V0.49.student">Toast, Yami (This BAKA made this game) - Syberian Inc, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Abukara, Eiko (A depressed but kind girl)
 
-<img src="../../Files/Images/Abukara, Eiko (A depressed but kind girl).png" title="Abukara, Eiko (A depressed but kind girl) - Hatsune, V0.47">
+<img src="../../Files/Images/Abukara, Eiko (A depressed but kind girl).png" title="Abukara, Eiko (A depressed but kind girl) - Hatsune, V0.49">
 
 **Database ID: #0035**
 
@@ -12,9 +12,9 @@ Description: A depressed but kind girl
 
 Author: Hatsune
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Abukara%2C%20Eiko%20(A%20depressed%20but%20kind%20girl)%20-%20Hatsune%2C%20V0.47.student">Abukara, Eiko (A depressed but kind girl) - Hatsune, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Abukara%2C%20Eiko%20(A%20depressed%20but%20kind%20girl)%20-%20Hatsune%2C%20V0.49.student">Abukara, Eiko (A depressed but kind girl) - Hatsune, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

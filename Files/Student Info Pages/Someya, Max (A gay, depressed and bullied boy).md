@@ -1,6 +1,6 @@
 # Someya, Max (A gay, depressed and bullied boy)
 
-<img src="../../Files/Images/Someya, Max (A gay, depressed and bullied boy).png" title="Someya, Max (A gay, depressed and bullied boy) - Galaxy gurl, V0.47">
+<img src="../../Files/Images/Someya, Max (A gay, depressed and bullied boy).png" title="Someya, Max (A gay, depressed and bullied boy) - Galaxy gurl, V0.49">
 
 **Database ID: #0527**
 
@@ -12,9 +12,9 @@ Description: A gay, depressed and bullied boy
 
 Author: Galaxy gurl
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Someya%2C%20Max%20(A%20gay%2C%20depressed%20and%20bullied%20boy)%20-%20Galaxy%20gurl%2C%20V0.47.student">Someya, Max (A gay, depressed and bullied boy) - Galaxy gurl, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Someya%2C%20Max%20(A%20gay%2C%20depressed%20and%20bullied%20boy)%20-%20Galaxy%20gurl%2C%20V0.49.student">Someya, Max (A gay, depressed and bullied boy) - Galaxy gurl, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

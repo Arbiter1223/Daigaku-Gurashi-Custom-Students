@@ -1,6 +1,6 @@
 # Shibata, Tamiko (A romantic tsundere sweetheart)
 
-<img src="../../Files/Images/Shibata, Tamiko (A romantic tsundere sweetheart).png" title="Shibata, Tamiko (A romantic tsundere sweetheart) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Shibata, Tamiko (A romantic tsundere sweetheart).png" title="Shibata, Tamiko (A romantic tsundere sweetheart) - AjTheYandere, V0.49">
 
 **Database ID: #0475**
 
@@ -12,9 +12,9 @@ Description: A romantic tsundere sweetheart
 
 Author: AjTheYandere
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shibata%2C%20Tamiko%20(A%20romantic%20tsundere%20sweetheart)%20-%20AjTheYandere%2C%20V0.47.student">Shibata, Tamiko (A romantic tsundere sweetheart) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shibata%2C%20Tamiko%20(A%20romantic%20tsundere%20sweetheart)%20-%20AjTheYandere%2C%20V0.49.student">Shibata, Tamiko (A romantic tsundere sweetheart) - AjTheYandere, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

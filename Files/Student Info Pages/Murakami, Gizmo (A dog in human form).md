@@ -1,6 +1,6 @@
 # Murakami, Gizmo (A dog in human form)
 
-<img src="../../Files/Images/Murakami, Gizmo (A dog in human form).png" title="Murakami, Gizmo (A dog in human form) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Murakami, Gizmo (A dog in human form).png" title="Murakami, Gizmo (A dog in human form) - AjTheYandere, V0.49">
 
 **Database ID: #0300**
 
@@ -12,9 +12,9 @@ Description: A dog in human form
 
 Author: AjTheYandere
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Murakami%2C%20Gizmo%20(A%20dog%20in%20human%20form)%20-%20AjTheYandere%2C%20V0.47.student">Murakami, Gizmo (A dog in human form) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Murakami%2C%20Gizmo%20(A%20dog%20in%20human%20form)%20-%20AjTheYandere%2C%20V0.49.student">Murakami, Gizmo (A dog in human form) - AjTheYandere, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Miwa, Kuninobu (An arrogant trap who talks down on people)
 
-<img src="../../Files/Images/Miwa, Kuninobu (An arrogant trap who talks down on people).png" title="Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Miwa, Kuninobu (An arrogant trap who talks down on people).png" title="Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.49">
 
 **Database ID: #0203**
 
@@ -12,13 +12,13 @@ Description: An arrogant trap who talks down on people
 
 Author: AjTheYandere
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Miwa%2C%20Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people)%20-%20AjTheYandere%2C%20V0.47.student">Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Miwa%2C%20Kuninobu%20(An%20arrogant%20trap%20who%20talks%20down%20on%20people)%20-%20AjTheYandere%2C%20V0.49.student">Miwa, Kuninobu (An arrogant trap who talks down on people) - AjTheYandere, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Mazaki, AltKuninobu (An alternate version of Kuninobu).md"><img src="../../Files/Thumbs/Mazaki, AltKuninobu (An alternate version of Kuninobu).png" height="100" width="100" title="Mazaki, AltKuninobu (An alternate version of Kuninobu) - AjTheYandere, V0.47"></a><a href="Mazaki, AltKuninobu (An alternate version of Kuninobu).md"> AltKuninobu - Alternate variant</a>
+<a href="Mazaki, AltKuninobu (An alternate version of Kuninobu).md"><img src="../../Files/Thumbs/Mazaki, AltKuninobu (An alternate version of Kuninobu).png" height="100" width="100" title="Mazaki, AltKuninobu (An alternate version of Kuninobu) - AjTheYandere, V0.49"></a><a href="Mazaki, AltKuninobu (An alternate version of Kuninobu).md"> AltKuninobu - Alternate variant</a>
 

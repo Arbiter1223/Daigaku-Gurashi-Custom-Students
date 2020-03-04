@@ -1,6 +1,6 @@
 # Yeeterboner, Sans (A futanari with a big dick)
 
-<img src="../../Files/Images/Yeeterboner, Sans (A futanari with a big dick).png" title="Yeeterboner, Sans (A futanari with a big dick) - sansrika, V0.47">
+<img src="../../Files/Images/Yeeterboner, Sans (A futanari with a big dick).png" title="Yeeterboner, Sans (A futanari with a big dick) - sansrika, V0.49">
 
 **Database ID: #0619**
 
@@ -12,9 +12,9 @@ Description: A futanari with a big dick
 
 Author: sansrika
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yeeterboner%2C%20Sans%20(A%20futanari%20with%20a%20big%20dick)%20-%20sansrika%2C%20V0.47.student">Yeeterboner, Sans (A futanari with a big dick) - sansrika, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yeeterboner%2C%20Sans%20(A%20futanari%20with%20a%20big%20dick)%20-%20sansrika%2C%20V0.49.student">Yeeterboner, Sans (A futanari with a big dick) - sansrika, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

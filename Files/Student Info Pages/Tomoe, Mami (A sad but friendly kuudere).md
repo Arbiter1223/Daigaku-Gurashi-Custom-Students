@@ -1,6 +1,6 @@
 # Tomoe, Mami (A sad but friendly kuudere)
 
-<img src="../../Files/Images/Tomoe, Mami (A sad but friendly kuudere).png" title="Tomoe, Mami (A sad but friendly kuudere) - Cookie Boi, V0.47">
+<img src="../../Files/Images/Tomoe, Mami (A sad but friendly kuudere).png" title="Tomoe, Mami (A sad but friendly kuudere) - Cookie Boi, V0.49">
 
 **Database ID: #0062**
 
@@ -12,9 +12,9 @@ Description: A sad but friendly kuudere
 
 Author: Cookie Boi
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tomoe%2C%20Mami%20(A%20sad%20but%20friendly%20kuudere)%20-%20Cookie%20Boi%2C%20V0.47.student">Tomoe, Mami (A sad but friendly kuudere) - Cookie Boi, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tomoe%2C%20Mami%20(A%20sad%20but%20friendly%20kuudere)%20-%20Cookie%20Boi%2C%20V0.49.student">Tomoe, Mami (A sad but friendly kuudere) - Cookie Boi, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

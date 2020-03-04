@@ -1,6 +1,6 @@
 # Ohira, Naomi (A friendly but clingy tsundere)
 
-<img src="../../Files/Images/Ohira, Naomi (A friendly but clingy tsundere).png" title="Ohira, Naomi (A friendly but clingy tsundere) - RainB, V0.47">
+<img src="../../Files/Images/Ohira, Naomi (A friendly but clingy tsundere).png" title="Ohira, Naomi (A friendly but clingy tsundere) - RainB, V0.49">
 
 **Database ID: #0076**
 
@@ -12,9 +12,9 @@ Description: A friendly but clingy tsundere
 
 Author: RainB
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ohira%2C%20Naomi%20(A%20friendly%20but%20clingy%20tsundere)%20-%20RainB%2C%20V0.47.student">Ohira, Naomi (A friendly but clingy tsundere) - RainB, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ohira%2C%20Naomi%20(A%20friendly%20but%20clingy%20tsundere)%20-%20RainB%2C%20V0.49.student">Ohira, Naomi (A friendly but clingy tsundere) - RainB, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

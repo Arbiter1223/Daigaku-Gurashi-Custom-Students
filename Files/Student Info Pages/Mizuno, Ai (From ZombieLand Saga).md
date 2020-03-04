@@ -1,6 +1,6 @@
 # Mizuno, Ai (From ZombieLand Saga)
 
-<img src="../../Files/Images/Mizuno, Ai (From ZombieLand Saga).png" title="Mizuno, Ai (From ZombieLand Saga) - sansrika, V0.47">
+<img src="../../Files/Images/Mizuno, Ai (From ZombieLand Saga).png" title="Mizuno, Ai (From ZombieLand Saga) - sansrika, V0.49">
 
 **Database ID: #0581**
 
@@ -12,9 +12,9 @@ Description: From ZombieLand Saga
 
 Author: sansrika
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Mizuno%2C%20Ai%20(From%20ZombieLand%20Saga)%20-%20sansrika%2C%20V0.47.student">Mizuno, Ai (From ZombieLand Saga) - sansrika, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Mizuno%2C%20Ai%20(From%20ZombieLand%20Saga)%20-%20sansrika%2C%20V0.49.student">Mizuno, Ai (From ZombieLand Saga) - sansrika, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

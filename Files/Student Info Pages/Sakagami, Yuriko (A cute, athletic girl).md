@@ -1,6 +1,6 @@
 # Sakagami, Yuriko (A cute, athletic girl)
 
-<img src="../../Files/Images/Sakagami, Yuriko (A cute, athletic girl).png" title="Sakagami, Yuriko (A cute, athletic girl) - Azumi, V0.47">
+<img src="../../Files/Images/Sakagami, Yuriko (A cute, athletic girl).png" title="Sakagami, Yuriko (A cute, athletic girl) - Azumi, V0.49">
 
 **Database ID: #0087**
 
@@ -12,9 +12,9 @@ Description: A cute, athletic girl
 
 Author: Azumi
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sakagami%2C%20Yuriko%20(A%20cute%2C%20athletic%20girl)%20-%20Azumi%2C%20V0.47.student">Sakagami, Yuriko (A cute, athletic girl) - Azumi, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sakagami%2C%20Yuriko%20(A%20cute%2C%20athletic%20girl)%20-%20Azumi%2C%20V0.49.student">Sakagami, Yuriko (A cute, athletic girl) - Azumi, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

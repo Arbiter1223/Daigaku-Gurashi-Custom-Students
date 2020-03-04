@@ -1,6 +1,6 @@
 # Tawaraya, Izanagi (A really mean gothic neko guy)
 
-<img src="../../Files/Images/Tawaraya, Izanagi (A really mean gothic neko guy).png" title="Tawaraya, Izanagi (A really mean gothic neko guy) - Rando Studenta, V0.47">
+<img src="../../Files/Images/Tawaraya, Izanagi (A really mean gothic neko guy).png" title="Tawaraya, Izanagi (A really mean gothic neko guy) - Rando Studenta, V0.49">
 
 **Database ID: #0122**
 
@@ -12,9 +12,9 @@ Description: A really mean gothic neko guy
 
 Author: Rando Studenta
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tawaraya%2C%20Izanagi%20(A%20really%20mean%20gothic%20neko%20guy)%20-%20Rando%20Studenta%2C%20V0.47.student">Tawaraya, Izanagi (A really mean gothic neko guy) - Rando Studenta, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tawaraya%2C%20Izanagi%20(A%20really%20mean%20gothic%20neko%20guy)%20-%20Rando%20Studenta%2C%20V0.49.student">Tawaraya, Izanagi (A really mean gothic neko guy) - Rando Studenta, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

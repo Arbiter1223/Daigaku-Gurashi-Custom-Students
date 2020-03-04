@@ -1,6 +1,6 @@
 # Choshi, Takayuki (A reserved, modest boy)
 
-<img src="../../Files/Images/Choshi, Takayuki (A reserved, modest boy).png" title="Choshi, Takayuki (A reserved, modest boy) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Choshi, Takayuki (A reserved, modest boy).png" title="Choshi, Takayuki (A reserved, modest boy) - AjTheYandere, V0.49">
 
 **Database ID: #0473**
 
@@ -12,9 +12,9 @@ Description: A reserved, modest boy
 
 Author: AjTheYandere
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Choshi%2C%20Takayuki%20(A%20reserved%2C%20modest%20boy)%20-%20AjTheYandere%2C%20V0.47.student">Choshi, Takayuki (A reserved, modest boy) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Choshi%2C%20Takayuki%20(A%20reserved%2C%20modest%20boy)%20-%20AjTheYandere%2C%20V0.49.student">Choshi, Takayuki (A reserved, modest boy) - AjTheYandere, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

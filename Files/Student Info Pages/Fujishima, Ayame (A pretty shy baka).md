@@ -1,6 +1,6 @@
 # Fujishima, Ayame (A pretty shy baka)
 
-<img src="../../Files/Images/Fujishima, Ayame (A pretty shy baka).png" title="Fujishima, Ayame (A pretty shy baka) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Fujishima, Ayame (A pretty shy baka).png" title="Fujishima, Ayame (A pretty shy baka) - AjTheYandere, V0.49">
 
 **Database ID: #0352**
 
@@ -12,9 +12,9 @@ Description: A pretty shy baka
 
 Author: AjTheYandere
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fujishima%2C%20Ayame%20(A%20pretty%20shy%20baka)%20-%20AjTheYandere%2C%20V0.47.student">Fujishima, Ayame (A pretty shy baka) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fujishima%2C%20Ayame%20(A%20pretty%20shy%20baka)%20-%20AjTheYandere%2C%20V0.49.student">Fujishima, Ayame (A pretty shy baka) - AjTheYandere, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Playable, Nurse (A playable version of the nurse)
 
-<img src="../../Files/Images/Playable, Nurse (A playable version of the nurse).png" title="Playable, Nurse (A playable version of the nurse) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Playable, Nurse (A playable version of the nurse).png" title="Playable, Nurse (A playable version of the nurse) - AjTheYandere, V0.49">
 
 **Database ID: #0660**
 
@@ -12,9 +12,9 @@ Description: A playable version of the nurse
 
 Author: AjTheYandere
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Playable%2C%20Nurse%20(A%20playable%20version%20of%20the%20nurse)%20-%20AjTheYandere%2C%20V0.47.student">Playable, Nurse (A playable version of the nurse) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Playable%2C%20Nurse%20(A%20playable%20version%20of%20the%20nurse)%20-%20AjTheYandere%2C%20V0.49.student">Playable, Nurse (A playable version of the nurse) - AjTheYandere, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Shimizu, Masanori (A loving and incredibly nice boy)
 
-<img src="../../Files/Images/Shimizu, Masanori (A loving and incredibly nice boy).png" title="Shimizu, Masanori (A loving and incredibly nice boy) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Shimizu, Masanori (A loving and incredibly nice boy).png" title="Shimizu, Masanori (A loving and incredibly nice boy) - AjTheYandere, V0.49">
 
 **Database ID: #0446**
 
@@ -12,9 +12,9 @@ Description: A loving and incredibly nice boy
 
 Author: AjTheYandere
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shimizu%2C%20Masanori%20(A%20loving%20and%20incredibly%20nice%20boy)%20-%20AjTheYandere%2C%20V0.47.student">Shimizu, Masanori (A loving and incredibly nice boy) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shimizu%2C%20Masanori%20(A%20loving%20and%20incredibly%20nice%20boy)%20-%20AjTheYandere%2C%20V0.49.student">Shimizu, Masanori (A loving and incredibly nice boy) - AjTheYandere, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

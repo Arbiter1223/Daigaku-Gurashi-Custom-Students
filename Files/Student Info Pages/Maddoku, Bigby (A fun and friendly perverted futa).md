@@ -1,6 +1,6 @@
 # Maddoku, Bigby (A fun and friendly perverted futa)
 
-<img src="../../Files/Images/Maddoku, Bigby (A fun and friendly perverted futa).png" title="Maddoku, Bigby (A fun and friendly perverted futa) - Camden, V0.47">
+<img src="../../Files/Images/Maddoku, Bigby (A fun and friendly perverted futa).png" title="Maddoku, Bigby (A fun and friendly perverted futa) - Camden, V0.49">
 
 **Database ID: #0503**
 
@@ -12,9 +12,9 @@ Description: A fun and friendly perverted futa
 
 Author: Camden
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Maddoku%2C%20Bigby%20(A%20fun%20and%20friendly%20perverted%20futa)%20-%20Camden%2C%20V0.47.student">Maddoku, Bigby (A fun and friendly perverted futa) - Camden, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Maddoku%2C%20Bigby%20(A%20fun%20and%20friendly%20perverted%20futa)%20-%20Camden%2C%20V0.49.student">Maddoku, Bigby (A fun and friendly perverted futa) - Camden, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

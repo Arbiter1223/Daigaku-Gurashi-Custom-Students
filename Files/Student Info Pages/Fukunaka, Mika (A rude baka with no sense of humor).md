@@ -1,6 +1,6 @@
 # Fukunaka, Mika (A rude baka with no sense of humor)
 
-<img src="../../Files/Images/Fukunaka, Mika (A rude baka with no sense of humor).png" title="Fukunaka, Mika (A rude baka with no sense of humor) - AjTheYandere, V0.47">
+<img src="../../Files/Images/Fukunaka, Mika (A rude baka with no sense of humor).png" title="Fukunaka, Mika (A rude baka with no sense of humor) - AjTheYandere, V0.49">
 
 **Database ID: #0449**
 
@@ -12,9 +12,9 @@ Description: A rude baka with no sense of humor
 
 Author: AjTheYandere
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fukunaka%2C%20Mika%20(A%20rude%20baka%20with%20no%20sense%20of%20humor)%20-%20AjTheYandere%2C%20V0.47.student">Fukunaka, Mika (A rude baka with no sense of humor) - AjTheYandere, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fukunaka%2C%20Mika%20(A%20rude%20baka%20with%20no%20sense%20of%20humor)%20-%20AjTheYandere%2C%20V0.49.student">Fukunaka, Mika (A rude baka with no sense of humor) - AjTheYandere, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

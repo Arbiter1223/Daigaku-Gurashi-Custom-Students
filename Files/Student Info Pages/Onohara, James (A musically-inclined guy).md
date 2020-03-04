@@ -1,6 +1,6 @@
 # Onohara, James (A musically-inclined guy)
 
-<img src="../../Files/Images/Onohara, James (A musically-inclined guy).png" title="Onohara, James (A musically-inclined guy) - Shiny, V0.47">
+<img src="../../Files/Images/Onohara, James (A musically-inclined guy).png" title="Onohara, James (A musically-inclined guy) - Shiny, V0.49">
 
 **Database ID: #0598**
 
@@ -12,9 +12,9 @@ Description: A musically-inclined guy
 
 Author: Shiny
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Onohara%2C%20James%20(A%20musically-inclined%20guy)%20-%20Shiny%2C%20V0.47.student">Onohara, James (A musically-inclined guy) - Shiny, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Onohara%2C%20James%20(A%20musically-inclined%20guy)%20-%20Shiny%2C%20V0.49.student">Onohara, James (A musically-inclined guy) - Shiny, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

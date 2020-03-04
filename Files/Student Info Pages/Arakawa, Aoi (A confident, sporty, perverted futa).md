@@ -1,6 +1,6 @@
 # Arakawa, Aoi (A confident, sporty, perverted futa)
 
-<img src="../../Files/Images/Arakawa, Aoi (A confident, sporty, perverted futa).png" title="Arakawa, Aoi (A confident, sporty, perverted futa) - 09.36am, V0.47">
+<img src="../../Files/Images/Arakawa, Aoi (A confident, sporty, perverted futa).png" title="Arakawa, Aoi (A confident, sporty, perverted futa) - 09.36am, V0.49">
 
 **Database ID: #0714**
 
@@ -12,9 +12,9 @@ Description: A confident, sporty, perverted futa
 
 Author: 09.36am
 
-Version: V0.47
+Version: V0.49
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Arakawa%2C%20Aoi%20(A%20confident%2C%20sporty%2C%20perverted%20futa)%20-%2009.36am%2C%20V0.47.student">Arakawa, Aoi (A confident, sporty, perverted futa) - 09.36am, V0.47.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Arakawa%2C%20Aoi%20(A%20confident%2C%20sporty%2C%20perverted%20futa)%20-%2009.36am%2C%20V0.49.student">Arakawa, Aoi (A confident, sporty, perverted futa) - 09.36am, V0.49.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
