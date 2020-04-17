@@ -1,6 +1,6 @@
 # Ralsei, Ralsei (A wholesome goat boi)
 
-<img src="../../Files/Images/Ralsei, Ralsei (A wholesome goat boi).png" title="Ralsei, Ralsei (A wholesome goat boi) - yogima, V0.49">
+<img src="../../Files/Images/Ralsei, Ralsei (A wholesome goat boi).png" title="Ralsei, Ralsei (A wholesome goat boi) - yogima, V0.53">
 
 **Database ID: #0740**
 
@@ -12,9 +12,9 @@ Description: A wholesome goat boi
 
 Author: yogima
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ralsei%2C%20Ralsei%20(A%20wholesome%20goat%20boi)%20-%20yogima%2C%20V0.49.student">Ralsei, Ralsei (A wholesome goat boi) - yogima, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ralsei%2C%20Ralsei%20(A%20wholesome%20goat%20boi)%20-%20yogima%2C%20V0.53.student">Ralsei, Ralsei (A wholesome goat boi) - yogima, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

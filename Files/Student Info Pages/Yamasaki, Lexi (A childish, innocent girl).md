@@ -1,6 +1,6 @@
 # Yamasaki, Lexi (A childish, innocent girl)
 
-<img src="../../Files/Images/Yamasaki, Lexi (A childish, innocent girl).png" title="Yamasaki, Lexi (A childish, innocent girl) - AjTheYandere, V0.49">
+<img src="../../Files/Images/Yamasaki, Lexi (A childish, innocent girl).png" title="Yamasaki, Lexi (A childish, innocent girl) - AjTheYandere, V0.53">
 
 **Database ID: #0252**
 
@@ -12,9 +12,9 @@ Description: A childish, innocent girl
 
 Author: AjTheYandere
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamasaki%2C%20Lexi%20(A%20childish%2C%20innocent%20girl)%20-%20AjTheYandere%2C%20V0.49.student">Yamasaki, Lexi (A childish, innocent girl) - AjTheYandere, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamasaki%2C%20Lexi%20(A%20childish%2C%20innocent%20girl)%20-%20AjTheYandere%2C%20V0.53.student">Yamasaki, Lexi (A childish, innocent girl) - AjTheYandere, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Yonai, Murasaki (An alternate rock geek girl)
 
-<img src="../../Files/Images/Yonai, Murasaki (An alternate rock geek girl).png" title="Yonai, Murasaki (An alternate rock geek girl) - Syberian Inc, V0.49">
+<img src="../../Files/Images/Yonai, Murasaki (An alternate rock geek girl).png" title="Yonai, Murasaki (An alternate rock geek girl) - Syberian Inc, V0.53">
 
 **Database ID: #0026**
 
@@ -12,9 +12,9 @@ Description: An alternate rock geek girl
 
 Author: Syberian Inc
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yonai%2C%20Murasaki%20(An%20alternate%20rock%20geek%20girl)%20-%20Syberian%20Inc%2C%20V0.49.student">Yonai, Murasaki (An alternate rock geek girl) - Syberian Inc, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yonai%2C%20Murasaki%20(An%20alternate%20rock%20geek%20girl)%20-%20Syberian%20Inc%2C%20V0.53.student">Yonai, Murasaki (An alternate rock geek girl) - Syberian Inc, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

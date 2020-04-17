@@ -1,6 +1,6 @@
 # Nobunaga, Rylai (The Crystal Maiden)
 
-<img src="../../Files/Images/Nobunaga, Rylai (The Crystal Maiden).png" title="Nobunaga, Rylai (The Crystal Maiden) - Aho-chan, V0.49">
+<img src="../../Files/Images/Nobunaga, Rylai (The Crystal Maiden).png" title="Nobunaga, Rylai (The Crystal Maiden) - Aho-chan, V0.53">
 
 **Database ID: #0208**
 
@@ -12,9 +12,9 @@ Description: The Crystal Maiden
 
 Author: Aho-chan
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nobunaga%2C%20Rylai%20(The%20Crystal%20Maiden)%20-%20Aho-chan%2C%20V0.49.student">Nobunaga, Rylai (The Crystal Maiden) - Aho-chan, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nobunaga%2C%20Rylai%20(The%20Crystal%20Maiden)%20-%20Aho-chan%2C%20V0.53.student">Nobunaga, Rylai (The Crystal Maiden) - Aho-chan, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

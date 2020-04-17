@@ -1,6 +1,6 @@
 # Inukai, Sebastian (A shy, gifted individual)
 
-<img src="../../Files/Images/Inukai, Sebastian (A shy, gifted individual).png" title="Inukai, Sebastian (A shy, gifted individual) - Nightara, V0.49">
+<img src="../../Files/Images/Inukai, Sebastian (A shy, gifted individual).png" title="Inukai, Sebastian (A shy, gifted individual) - Nightara, V0.53">
 
 **Database ID: #0102**
 
@@ -12,9 +12,9 @@ Description: A shy, gifted individual
 
 Author: Nightara
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Inukai%2C%20Sebastian%20(A%20shy%2C%20gifted%20individual)%20-%20Nightara%2C%20V0.49.student">Inukai, Sebastian (A shy, gifted individual) - Nightara, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Inukai%2C%20Sebastian%20(A%20shy%2C%20gifted%20individual)%20-%20Nightara%2C%20V0.53.student">Inukai, Sebastian (A shy, gifted individual) - Nightara, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

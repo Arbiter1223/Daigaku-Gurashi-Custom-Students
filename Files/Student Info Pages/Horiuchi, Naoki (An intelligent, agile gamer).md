@@ -1,6 +1,6 @@
 # Horiuchi, Naoki (An intelligent, agile gamer)
 
-<img src="../../Files/Images/Horiuchi, Naoki (An intelligent, agile gamer).png" title="Horiuchi, Naoki (An intelligent, agile gamer) - Rando Studenta, V0.49">
+<img src="../../Files/Images/Horiuchi, Naoki (An intelligent, agile gamer).png" title="Horiuchi, Naoki (An intelligent, agile gamer) - Rando Studenta, V0.53">
 
 **Database ID: #0140**
 
@@ -12,9 +12,9 @@ Description: An intelligent, agile gamer
 
 Author: Rando Studenta
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Horiuchi%2C%20Naoki%20(An%20intelligent%2C%20agile%20gamer)%20-%20Rando%20Studenta%2C%20V0.49.student">Horiuchi, Naoki (An intelligent, agile gamer) - Rando Studenta, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Horiuchi%2C%20Naoki%20(An%20intelligent%2C%20agile%20gamer)%20-%20Rando%20Studenta%2C%20V0.53.student">Horiuchi, Naoki (An intelligent, agile gamer) - Rando Studenta, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

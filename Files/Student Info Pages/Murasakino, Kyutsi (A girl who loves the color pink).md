@@ -1,6 +1,6 @@
 # Murasakino, Kyutsi (A girl who loves the color pink)
 
-<img src="../../Files/Images/Murasakino, Kyutsi (A girl who loves the color pink).png" title="Murasakino, Kyutsi (A girl who loves the color pink) - screaming kiwi, V0.49">
+<img src="../../Files/Images/Murasakino, Kyutsi (A girl who loves the color pink).png" title="Murasakino, Kyutsi (A girl who loves the color pink) - screaming kiwi, V0.53">
 
 **Database ID: #0679**
 
@@ -12,13 +12,13 @@ Description: A girl who loves the color pink
 
 Author: screaming kiwi
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Murasakino%2C%20Kyutsi%20(A%20girl%20who%20loves%20the%20color%20pink)%20-%20screaming%20kiwi%2C%20V0.49.student">Murasakino, Kyutsi (A girl who loves the color pink) - screaming kiwi, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Murasakino%2C%20Kyutsi%20(A%20girl%20who%20loves%20the%20color%20pink)%20-%20screaming%20kiwi%2C%20V0.53.student">Murasakino, Kyutsi (A girl who loves the color pink) - screaming kiwi, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Murasakino, Kosai (A guy who loves to tell stories).md"><img src="../../Files/Thumbs/Murasakino, Kosai (A guy who loves to tell stories).png" height="100" width="100" title="Murasakino, Kosai (A guy who loves to tell stories) - screaming kiwi, V0.49"></a><a href="Murasakino, Kosai (A guy who loves to tell stories).md"> Kosai - Brother</a>
+<a href="Murasakino, Kosai (A guy who loves to tell stories).md"><img src="../../Files/Thumbs/Murasakino, Kosai (A guy who loves to tell stories).png" height="100" width="100" title="Murasakino, Kosai (A guy who loves to tell stories) - screaming kiwi, V0.53"></a><a href="Murasakino, Kosai (A guy who loves to tell stories).md"> Kosai - Brother</a>
 

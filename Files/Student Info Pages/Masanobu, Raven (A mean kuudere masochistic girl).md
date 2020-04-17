@@ -1,6 +1,6 @@
 # Masanobu, Raven (A mean kuudere masochistic girl)
 
-<img src="../../Files/Images/Masanobu, Raven (A mean kuudere masochistic girl).png" title="Masanobu, Raven (A mean kuudere masochistic girl) - Syberian Inc, V0.49">
+<img src="../../Files/Images/Masanobu, Raven (A mean kuudere masochistic girl).png" title="Masanobu, Raven (A mean kuudere masochistic girl) - Syberian Inc, V0.53">
 
 **Database ID: #0043**
 
@@ -12,9 +12,9 @@ Description: A mean kuudere masochistic girl
 
 Author: Syberian Inc
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Masanobu%2C%20Raven%20(A%20mean%20kuudere%20masochistic%20girl)%20-%20Syberian%20Inc%2C%20V0.49.student">Masanobu, Raven (A mean kuudere masochistic girl) - Syberian Inc, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Masanobu%2C%20Raven%20(A%20mean%20kuudere%20masochistic%20girl)%20-%20Syberian%20Inc%2C%20V0.53.student">Masanobu, Raven (A mean kuudere masochistic girl) - Syberian Inc, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

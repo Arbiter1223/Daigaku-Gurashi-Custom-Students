@@ -1,6 +1,6 @@
 # Nagumo, Lionel (A very sociable guy)
 
-<img src="../../Files/Images/Nagumo, Lionel (A very sociable guy).png" title="Nagumo, Lionel (A very sociable guy) - Kana, V0.49">
+<img src="../../Files/Images/Nagumo, Lionel (A very sociable guy).png" title="Nagumo, Lionel (A very sociable guy) - Kana, V0.53">
 
 **Database ID: #0347**
 
@@ -12,9 +12,9 @@ Description: A very sociable guy
 
 Author: Kana
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nagumo%2C%20Lionel%20(A%20very%20sociable%20guy)%20-%20Kana%2C%20V0.49.student">Nagumo, Lionel (A very sociable guy) - Kana, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nagumo%2C%20Lionel%20(A%20very%20sociable%20guy)%20-%20Kana%2C%20V0.53.student">Nagumo, Lionel (A very sociable guy) - Kana, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

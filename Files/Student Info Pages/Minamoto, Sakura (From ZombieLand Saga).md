@@ -1,6 +1,6 @@
 # Minamoto, Sakura (From ZombieLand Saga)
 
-<img src="../../Files/Images/Minamoto, Sakura (From ZombieLand Saga).png" title="Minamoto, Sakura (From ZombieLand Saga) - sansrika, V0.49">
+<img src="../../Files/Images/Minamoto, Sakura (From ZombieLand Saga).png" title="Minamoto, Sakura (From ZombieLand Saga) - sansrika, V0.53">
 
 **Database ID: #0583**
 
@@ -12,9 +12,9 @@ Description: From ZombieLand Saga
 
 Author: sansrika
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Minamoto%2C%20Sakura%20(From%20ZombieLand%20Saga)%20-%20sansrika%2C%20V0.49.student">Minamoto, Sakura (From ZombieLand Saga) - sansrika, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Minamoto%2C%20Sakura%20(From%20ZombieLand%20Saga)%20-%20sansrika%2C%20V0.53.student">Minamoto, Sakura (From ZombieLand Saga) - sansrika, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

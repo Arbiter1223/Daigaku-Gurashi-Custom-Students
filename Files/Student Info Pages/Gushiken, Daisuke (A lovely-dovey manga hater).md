@@ -1,6 +1,6 @@
 # Gushiken, Daisuke (A lovely-dovey manga hater)
 
-<img src="../../Files/Images/Gushiken, Daisuke (A lovely-dovey manga hater).png" title="Gushiken, Daisuke (A lovely-dovey manga hater) - AjTheYandere, V0.49">
+<img src="../../Files/Images/Gushiken, Daisuke (A lovely-dovey manga hater).png" title="Gushiken, Daisuke (A lovely-dovey manga hater) - AjTheYandere, V0.53">
 
 **Database ID: #0416**
 
@@ -12,9 +12,9 @@ Description: A lovely-dovey manga hater
 
 Author: AjTheYandere
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Gushiken%2C%20Daisuke%20(A%20lovely-dovey%20manga%20hater)%20-%20AjTheYandere%2C%20V0.49.student">Gushiken, Daisuke (A lovely-dovey manga hater) - AjTheYandere, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Gushiken%2C%20Daisuke%20(A%20lovely-dovey%20manga%20hater)%20-%20AjTheYandere%2C%20V0.53.student">Gushiken, Daisuke (A lovely-dovey manga hater) - AjTheYandere, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

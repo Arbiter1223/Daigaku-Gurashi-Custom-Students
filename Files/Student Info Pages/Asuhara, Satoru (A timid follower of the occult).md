@@ -1,6 +1,6 @@
 # Asuhara, Satoru (A timid follower of the occult)
 
-<img src="../../Files/Images/Asuhara, Satoru (A timid follower of the occult).png" title="Asuhara, Satoru (A timid follower of the occult) - AjTheYandere, V0.49">
+<img src="../../Files/Images/Asuhara, Satoru (A timid follower of the occult).png" title="Asuhara, Satoru (A timid follower of the occult) - AjTheYandere, V0.53">
 
 **Database ID: #0469**
 
@@ -12,9 +12,9 @@ Description: A timid follower of the occult
 
 Author: AjTheYandere
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Asuhara%2C%20Satoru%20(A%20timid%20follower%20of%20the%20occult)%20-%20AjTheYandere%2C%20V0.49.student">Asuhara, Satoru (A timid follower of the occult) - AjTheYandere, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Asuhara%2C%20Satoru%20(A%20timid%20follower%20of%20the%20occult)%20-%20AjTheYandere%2C%20V0.53.student">Asuhara, Satoru (A timid follower of the occult) - AjTheYandere, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

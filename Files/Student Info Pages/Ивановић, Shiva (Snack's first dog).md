@@ -1,6 +1,6 @@
 # Ивановић, Shiva (Snack's first dog)
 
-<img src="../../Files/Images/Ивановић, Shiva (Snack's first dog).png" title="Ивановић, Shiva (Snack's first dog) - Snack, V0.49">
+<img src="../../Files/Images/Ивановић, Shiva (Snack's first dog).png" title="Ивановић, Shiva (Snack's first dog) - Snack, V0.53">
 
 **Database ID: #0736**
 
@@ -12,13 +12,13 @@ Description: Snack's first dog
 
 Author: Snack
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ивановић%2C%20Shiva%20(Snack's%20first%20dog)%20-%20Snack%2C%20V0.49.student">Ивановић, Shiva (Snack's first dog) - Snack, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ивановић%2C%20Shiva%20(Snack's%20first%20dog)%20-%20Snack%2C%20V0.53.student">Ивановић, Shiva (Snack's first dog) - Snack, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Ивановић, Михајло (Snack's self insert).md"><img src="../../Files/Thumbs/Ивановић, Михајло (Snack's self insert).png" height="100" width="100" title="Ивановић, Михајло (Snack's self insert) - Snack, V0.49"></a><a href="Ивановић, Михајло (Snack's self insert).md"> Михајло - Owner</a>
+<a href="Ивановић, Михајло (Snack's self insert).md"><img src="../../Files/Thumbs/Ивановић, Михајло (Snack's self insert).png" height="100" width="100" title="Ивановић, Михајло (Snack's self insert) - Snack, V0.53"></a><a href="Ивановић, Михајло (Snack's self insert).md"> Михајло - Owner</a>
 

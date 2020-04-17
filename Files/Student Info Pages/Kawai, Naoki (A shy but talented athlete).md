@@ -1,6 +1,6 @@
 # Kawai, Naoki (A shy but talented athlete)
 
-<img src="../../Files/Images/Kawai, Naoki (A shy but talented athlete).png" title="Kawai, Naoki (A shy but talented athlete) - AjTheYandere, V0.49">
+<img src="../../Files/Images/Kawai, Naoki (A shy but talented athlete).png" title="Kawai, Naoki (A shy but talented athlete) - AjTheYandere, V0.53">
 
 **Database ID: #0452**
 
@@ -12,9 +12,9 @@ Description: A shy but talented athlete
 
 Author: AjTheYandere
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kawai%2C%20Naoki%20(A%20shy%20but%20talented%20athlete)%20-%20AjTheYandere%2C%20V0.49.student">Kawai, Naoki (A shy but talented athlete) - AjTheYandere, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kawai%2C%20Naoki%20(A%20shy%20but%20talented%20athlete)%20-%20AjTheYandere%2C%20V0.53.student">Kawai, Naoki (A shy but talented athlete) - AjTheYandere, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

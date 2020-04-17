@@ -1,6 +1,6 @@
 # Ippitsusai, Mortred (The Phantom Assassin)
 
-<img src="../../Files/Images/Ippitsusai, Mortred (The Phantom Assassin).png" title="Ippitsusai, Mortred (The Phantom Assassin) - Aho-chan, V0.49">
+<img src="../../Files/Images/Ippitsusai, Mortred (The Phantom Assassin).png" title="Ippitsusai, Mortred (The Phantom Assassin) - Aho-chan, V0.53">
 
 **Database ID: #0232**
 
@@ -12,9 +12,9 @@ Description: The Phantom Assassin
 
 Author: Aho-chan
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ippitsusai%2C%20Mortred%20(The%20Phantom%20Assassin)%20-%20Aho-chan%2C%20V0.49.student">Ippitsusai, Mortred (The Phantom Assassin) - Aho-chan, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ippitsusai%2C%20Mortred%20(The%20Phantom%20Assassin)%20-%20Aho-chan%2C%20V0.53.student">Ippitsusai, Mortred (The Phantom Assassin) - Aho-chan, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

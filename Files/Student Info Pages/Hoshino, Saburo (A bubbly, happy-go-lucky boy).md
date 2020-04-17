@@ -1,6 +1,6 @@
 # Hoshino, Saburo (A bubbly, happy-go-lucky boy)
 
-<img src="../../Files/Images/Hoshino, Saburo (A bubbly, happy-go-lucky boy).png" title="Hoshino, Saburo (A bubbly, happy-go-lucky boy) - Rando Studenta, V0.49">
+<img src="../../Files/Images/Hoshino, Saburo (A bubbly, happy-go-lucky boy).png" title="Hoshino, Saburo (A bubbly, happy-go-lucky boy) - Rando Studenta, V0.53">
 
 **Database ID: #0145**
 
@@ -12,9 +12,9 @@ Description: A bubbly, happy-go-lucky boy
 
 Author: Rando Studenta
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hoshino%2C%20Saburo%20(A%20bubbly%2C%20happy-go-lucky%20boy)%20-%20Rando%20Studenta%2C%20V0.49.student">Hoshino, Saburo (A bubbly, happy-go-lucky boy) - Rando Studenta, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hoshino%2C%20Saburo%20(A%20bubbly%2C%20happy-go-lucky%20boy)%20-%20Rando%20Studenta%2C%20V0.53.student">Hoshino, Saburo (A bubbly, happy-go-lucky boy) - Rando Studenta, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Sugitani, Mayuri (A timid, friendly girl)
 
-<img src="../../Files/Images/Sugitani, Mayuri (A timid, friendly girl).png" title="Sugitani, Mayuri (A timid, friendly girl) - Antartix Pevori, V0.49">
+<img src="../../Files/Images/Sugitani, Mayuri (A timid, friendly girl).png" title="Sugitani, Mayuri (A timid, friendly girl) - Antartix Pevori, V0.53">
 
 **Database ID: #0227**
 
@@ -12,9 +12,9 @@ Description: A timid, friendly girl
 
 Author: Antartix Pevori
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sugitani%2C%20Mayuri%20(A%20timid%2C%20friendly%20girl)%20-%20Antartix%20Pevori%2C%20V0.49.student">Sugitani, Mayuri (A timid, friendly girl) - Antartix Pevori, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sugitani%2C%20Mayuri%20(A%20timid%2C%20friendly%20girl)%20-%20Antartix%20Pevori%2C%20V0.53.student">Sugitani, Mayuri (A timid, friendly girl) - Antartix Pevori, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

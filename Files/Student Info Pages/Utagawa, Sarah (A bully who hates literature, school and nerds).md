@@ -1,6 +1,6 @@
 # Utagawa, Sarah (A bully who hates literature, school and nerds)
 
-<img src="../../Files/Images/Utagawa, Sarah (A bully who hates literature, school and nerds).png" title="Utagawa, Sarah (A bully who hates literature, school and nerds) - Galaxy gurl, V0.49">
+<img src="../../Files/Images/Utagawa, Sarah (A bully who hates literature, school and nerds).png" title="Utagawa, Sarah (A bully who hates literature, school and nerds) - Galaxy gurl, V0.53">
 
 **Database ID: #0526**
 
@@ -12,9 +12,9 @@ Description: A bully who hates literature, school and nerds
 
 Author: Galaxy gurl
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Utagawa%2C%20Sarah%20(A%20bully%20who%20hates%20literature%2C%20school%20and%20nerds)%20-%20Galaxy%20gurl%2C%20V0.49.student">Utagawa, Sarah (A bully who hates literature, school and nerds) - Galaxy gurl, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Utagawa%2C%20Sarah%20(A%20bully%20who%20hates%20literature%2C%20school%20and%20nerds)%20-%20Galaxy%20gurl%2C%20V0.53.student">Utagawa, Sarah (A bully who hates literature, school and nerds) - Galaxy gurl, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

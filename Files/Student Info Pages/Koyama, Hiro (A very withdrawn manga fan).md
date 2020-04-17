@@ -1,6 +1,6 @@
 # Koyama, Hiro (A very withdrawn manga fan)
 
-<img src="../../Files/Images/Koyama, Hiro (A very withdrawn manga fan).png" title="Koyama, Hiro (A very withdrawn manga fan) - AjTheYandere, V0.49">
+<img src="../../Files/Images/Koyama, Hiro (A very withdrawn manga fan).png" title="Koyama, Hiro (A very withdrawn manga fan) - AjTheYandere, V0.53">
 
 **Database ID: #0426**
 
@@ -12,9 +12,9 @@ Description: A very withdrawn manga fan
 
 Author: AjTheYandere
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Koyama%2C%20Hiro%20(A%20very%20withdrawn%20manga%20fan)%20-%20AjTheYandere%2C%20V0.49.student">Koyama, Hiro (A very withdrawn manga fan) - AjTheYandere, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Koyama%2C%20Hiro%20(A%20very%20withdrawn%20manga%20fan)%20-%20AjTheYandere%2C%20V0.53.student">Koyama, Hiro (A very withdrawn manga fan) - AjTheYandere, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

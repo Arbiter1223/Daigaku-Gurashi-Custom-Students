@@ -1,6 +1,6 @@
 # Komatsu, Charlie (Aj's pet cat)
 
-<img src="../../Files/Images/Komatsu, Charlie (Aj's pet cat).png" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.49">
+<img src="../../Files/Images/Komatsu, Charlie (Aj's pet cat).png" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.53">
 
 **Database ID: #0339**
 
@@ -12,13 +12,13 @@ Description: Aj's pet cat
 
 Author: AjTheYandere
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Komatsu%2C%20Charlie%20(Aj's%20pet%20cat)%20-%20AjTheYandere%2C%20V0.49.student">Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Komatsu%2C%20Charlie%20(Aj's%20pet%20cat)%20-%20AjTheYandere%2C%20V0.53.student">Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="TheYandere, Aj (A very antisocial guy).md"><img src="../../Files/Thumbs/TheYandere, Aj (A very antisocial guy).png" height="100" width="100" title="TheYandere, Aj (A very antisocial guy) - AjTheYandere, V0.49"></a><a href="TheYandere, Aj (A very antisocial guy).md"> Aj - Owner</a>
+<a href="TheYandere, Aj (A very antisocial guy).md"><img src="../../Files/Thumbs/TheYandere, Aj (A very antisocial guy).png" height="100" width="100" title="TheYandere, Aj (A very antisocial guy) - AjTheYandere, V0.53"></a><a href="TheYandere, Aj (A very antisocial guy).md"> Aj - Owner</a>
 

@@ -1,6 +1,6 @@
 # Kumagae, Tsuki (A shy, mean occultist)
 
-<img src="../../Files/Images/Kumagae, Tsuki (A shy, mean occultist).png" title="Kumagae, Tsuki (A shy, mean occultist) - Syberian Inc, V0.49">
+<img src="../../Files/Images/Kumagae, Tsuki (A shy, mean occultist).png" title="Kumagae, Tsuki (A shy, mean occultist) - Syberian Inc, V0.53">
 
 **Database ID: #0032**
 
@@ -12,9 +12,9 @@ Description: A shy, mean occultist
 
 Author: Syberian Inc
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kumagae%2C%20Tsuki%20(A%20shy%2C%20mean%20occultist)%20-%20Syberian%20Inc%2C%20V0.49.student">Kumagae, Tsuki (A shy, mean occultist) - Syberian Inc, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kumagae%2C%20Tsuki%20(A%20shy%2C%20mean%20occultist)%20-%20Syberian%20Inc%2C%20V0.53.student">Kumagae, Tsuki (A shy, mean occultist) - Syberian Inc, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

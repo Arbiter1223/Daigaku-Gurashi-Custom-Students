@@ -1,6 +1,6 @@
 # Matsuoka, Liam (A masochistic bookworm)
 
-<img src="../../Files/Images/Matsuoka, Liam (A masochistic bookworm).png" title="Matsuoka, Liam (A masochistic bookworm) - Shiny, V0.49">
+<img src="../../Files/Images/Matsuoka, Liam (A masochistic bookworm).png" title="Matsuoka, Liam (A masochistic bookworm) - Shiny, V0.53">
 
 **Database ID: #0600**
 
@@ -12,9 +12,9 @@ Description: A masochistic bookworm
 
 Author: Shiny
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Matsuoka%2C%20Liam%20(A%20masochistic%20bookworm)%20-%20Shiny%2C%20V0.49.student">Matsuoka, Liam (A masochistic bookworm) - Shiny, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Matsuoka%2C%20Liam%20(A%20masochistic%20bookworm)%20-%20Shiny%2C%20V0.53.student">Matsuoka, Liam (A masochistic bookworm) - Shiny, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

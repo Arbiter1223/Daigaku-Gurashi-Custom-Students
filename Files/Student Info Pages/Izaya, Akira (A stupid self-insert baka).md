@@ -1,6 +1,6 @@
 # Izaya, Akira (A stupid self-insert baka)
 
-<img src="../../Files/Images/Izaya, Akira (A stupid self-insert baka).png" title="Izaya, Akira (A stupid self-insert baka) - kami, V0.49">
+<img src="../../Files/Images/Izaya, Akira (A stupid self-insert baka).png" title="Izaya, Akira (A stupid self-insert baka) - kami, V0.53">
 
 **Database ID: #0623**
 
@@ -12,9 +12,9 @@ Description: A stupid self-insert baka
 
 Author: kami
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Izaya%2C%20Akira%20(A%20stupid%20self-insert%20baka)%20-%20kami%2C%20V0.49.student">Izaya, Akira (A stupid self-insert baka) - kami, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Izaya%2C%20Akira%20(A%20stupid%20self-insert%20baka)%20-%20kami%2C%20V0.53.student">Izaya, Akira (A stupid self-insert baka) - kami, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

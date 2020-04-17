@@ -1,6 +1,6 @@
 # Kutsuna, Masato (An extremely shy schoolboy)
 
-<img src="../../Files/Images/Kutsuna, Masato (An extremely shy schoolboy).png" title="Kutsuna, Masato (An extremely shy schoolboy) - AjTheYandere, V0.49">
+<img src="../../Files/Images/Kutsuna, Masato (An extremely shy schoolboy).png" title="Kutsuna, Masato (An extremely shy schoolboy) - AjTheYandere, V0.53">
 
 **Database ID: #0447**
 
@@ -12,9 +12,9 @@ Description: An extremely shy schoolboy
 
 Author: AjTheYandere
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kutsuna%2C%20Masato%20(An%20extremely%20shy%20schoolboy)%20-%20AjTheYandere%2C%20V0.49.student">Kutsuna, Masato (An extremely shy schoolboy) - AjTheYandere, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kutsuna%2C%20Masato%20(An%20extremely%20shy%20schoolboy)%20-%20AjTheYandere%2C%20V0.53.student">Kutsuna, Masato (An extremely shy schoolboy) - AjTheYandere, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

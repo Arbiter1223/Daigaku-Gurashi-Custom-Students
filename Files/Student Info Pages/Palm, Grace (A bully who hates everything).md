@@ -1,6 +1,6 @@
 # Palm, Grace (A bully who hates everything)
 
-<img src="../../Files/Images/Palm, Grace (A bully who hates everything).png" title="Palm, Grace (A bully who hates everything) - GracePalm, V0.49">
+<img src="../../Files/Images/Palm, Grace (A bully who hates everything).png" title="Palm, Grace (A bully who hates everything) - GracePalm, V0.53">
 
 **Database ID: #0695**
 
@@ -12,9 +12,9 @@ Description: A bully who hates everything
 
 Author: GracePalm
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Palm%2C%20Grace%20(A%20bully%20who%20hates%20everything)%20-%20GracePalm%2C%20V0.49.student">Palm, Grace (A bully who hates everything) - GracePalm, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Palm%2C%20Grace%20(A%20bully%20who%20hates%20everything)%20-%20GracePalm%2C%20V0.53.student">Palm, Grace (A bully who hates everything) - GracePalm, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

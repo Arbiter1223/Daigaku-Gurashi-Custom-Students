@@ -1,6 +1,6 @@
 # Teacher, Art (A stern and very strict teacher)
 
-<img src="../../Files/Images/Teacher, Art (A stern and very strict teacher).png" title="Teacher, Art (A stern and very strict teacher) - AjTheYandere, V0.49">
+<img src="../../Files/Images/Teacher, Art (A stern and very strict teacher).png" title="Teacher, Art (A stern and very strict teacher) - AjTheYandere, V0.53">
 
 **Database ID: #0202**
 
@@ -12,9 +12,9 @@ Description: A stern and very strict teacher
 
 Author: AjTheYandere
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Teacher%2C%20Art%20(A%20stern%20and%20very%20strict%20teacher)%20-%20AjTheYandere%2C%20V0.49.student">Teacher, Art (A stern and very strict teacher) - AjTheYandere, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Teacher%2C%20Art%20(A%20stern%20and%20very%20strict%20teacher)%20-%20AjTheYandere%2C%20V0.53.student">Teacher, Art (A stern and very strict teacher) - AjTheYandere, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

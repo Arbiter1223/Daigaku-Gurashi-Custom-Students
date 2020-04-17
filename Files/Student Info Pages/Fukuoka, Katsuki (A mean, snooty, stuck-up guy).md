@@ -1,6 +1,6 @@
 # Fukuoka, Katsuki (A mean, snooty, stuck-up guy)
 
-<img src="../../Files/Images/Fukuoka, Katsuki (A mean, snooty, stuck-up guy).png" title="Fukuoka, Katsuki (A mean, snooty, stuck-up guy) - ClownPrinceOfLies, V0.49">
+<img src="../../Files/Images/Fukuoka, Katsuki (A mean, snooty, stuck-up guy).png" title="Fukuoka, Katsuki (A mean, snooty, stuck-up guy) - ClownPrinceOfLies, V0.53">
 
 **Database ID: #0051**
 
@@ -12,9 +12,9 @@ Description: A mean, snooty, stuck-up guy
 
 Author: ClownPrinceOfLies
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fukuoka%2C%20Katsuki%20(A%20mean%2C%20snooty%2C%20stuck-up%20guy)%20-%20ClownPrinceOfLies%2C%20V0.49.student">Fukuoka, Katsuki (A mean, snooty, stuck-up guy) - ClownPrinceOfLies, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fukuoka%2C%20Katsuki%20(A%20mean%2C%20snooty%2C%20stuck-up%20guy)%20-%20ClownPrinceOfLies%2C%20V0.53.student">Fukuoka, Katsuki (A mean, snooty, stuck-up guy) - ClownPrinceOfLies, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

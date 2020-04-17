@@ -1,6 +1,6 @@
 # Hoshikawa, Lily (From ZombieLand Saga)
 
-<img src="../../Files/Images/Hoshikawa, Lily (From ZombieLand Saga).png" title="Hoshikawa, Lily (From ZombieLand Saga) - sansrika, V0.49">
+<img src="../../Files/Images/Hoshikawa, Lily (From ZombieLand Saga).png" title="Hoshikawa, Lily (From ZombieLand Saga) - sansrika, V0.53">
 
 **Database ID: #0580**
 
@@ -12,9 +12,9 @@ Description: From ZombieLand Saga
 
 Author: sansrika
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hoshikawa%2C%20Lily%20(From%20ZombieLand%20Saga)%20-%20sansrika%2C%20V0.49.student">Hoshikawa, Lily (From ZombieLand Saga) - sansrika, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hoshikawa%2C%20Lily%20(From%20ZombieLand%20Saga)%20-%20sansrika%2C%20V0.53.student">Hoshikawa, Lily (From ZombieLand Saga) - sansrika, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

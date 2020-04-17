@@ -1,6 +1,6 @@
 # Shima, Siggi (A distant bitchy cousin of Gorgonzola)
 
-<img src="../../Files/Images/Shima, Siggi (A distant bitchy cousin of Gorgonzola).png" title="Shima, Siggi (A distant bitchy cousin of Gorgonzola) - Nutmeg, V0.49">
+<img src="../../Files/Images/Shima, Siggi (A distant bitchy cousin of Gorgonzola).png" title="Shima, Siggi (A distant bitchy cousin of Gorgonzola) - Nutmeg, V0.53">
 
 **Database ID: #0548**
 
@@ -12,13 +12,13 @@ Description: A distant bitchy cousin of Gorgonzola
 
 Author: Nutmeg
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shima%2C%20Siggi%20(A%20distant%20bitchy%20cousin%20of%20Gorgonzola)%20-%20Nutmeg%2C%20V0.49.student">Shima, Siggi (A distant bitchy cousin of Gorgonzola) - Nutmeg, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shima%2C%20Siggi%20(A%20distant%20bitchy%20cousin%20of%20Gorgonzola)%20-%20Nutmeg%2C%20V0.53.student">Shima, Siggi (A distant bitchy cousin of Gorgonzola) - Nutmeg, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Gorgonzola, Mozz (A generally popular guy).md"><img src="../../Files/Thumbs/Gorgonzola, Mozz (A generally popular guy).png" height="100" width="100" title="Gorgonzola, Mozz (A generally popular guy) - Nutmeg, V0.49"></a><a href="Gorgonzola, Mozz (A generally popular guy).md"> Mozz - Distant cousin</a>
+<a href="Gorgonzola, Mozz (A generally popular guy).md"><img src="../../Files/Thumbs/Gorgonzola, Mozz (A generally popular guy).png" height="100" width="100" title="Gorgonzola, Mozz (A generally popular guy) - Nutmeg, V0.53"></a><a href="Gorgonzola, Mozz (A generally popular guy).md"> Mozz - Distant cousin</a>
 

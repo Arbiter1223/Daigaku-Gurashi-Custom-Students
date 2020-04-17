@@ -1,6 +1,6 @@
 # Zombie, Suiren (A zombie version of Suiren)
 
-<img src="../../Files/Images/Zombie, Suiren (A zombie version of Suiren).png" title="Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.49">
+<img src="../../Files/Images/Zombie, Suiren (A zombie version of Suiren).png" title="Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.53">
 
 **Database ID: #0664**
 
@@ -12,13 +12,13 @@ Description: A zombie version of Suiren
 
 Author: AjTheYandere
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Zombie%2C%20Suiren%20(A%20zombie%20version%20of%20Suiren)%20-%20AjTheYandere%2C%20V0.49.student">Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Zombie%2C%20Suiren%20(A%20zombie%20version%20of%20Suiren)%20-%20AjTheYandere%2C%20V0.53.student">Zombie, Suiren (A zombie version of Suiren) - AjTheYandere, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Sakura, Suiren (An extremely bullied girl).md"><img src="../../Files/Thumbs/Sakura, Suiren (An extremely bullied girl).png" height="100" width="100" title="Sakura, Suiren (An extremely bullied girl) - AjTheYandere, V0.49"></a><a href="Sakura, Suiren (An extremely bullied girl).md"> Suiren - Original character</a>
+<a href="Sakura, Suiren (An extremely bullied girl).md"><img src="../../Files/Thumbs/Sakura, Suiren (An extremely bullied girl).png" height="100" width="100" title="Sakura, Suiren (An extremely bullied girl) - AjTheYandere, V0.53"></a><a href="Sakura, Suiren (An extremely bullied girl).md"> Suiren - Original character</a>
 

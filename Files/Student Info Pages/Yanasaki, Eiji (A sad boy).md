@@ -1,6 +1,6 @@
 # Yanasaki, Eiji (A sad boy)
 
-<img src="../../Files/Images/Yanasaki, Eiji (A sad boy).png" title="Yanasaki, Eiji (A sad boy) - Syberian Inc, V0.49">
+<img src="../../Files/Images/Yanasaki, Eiji (A sad boy).png" title="Yanasaki, Eiji (A sad boy) - Syberian Inc, V0.53">
 
 **Database ID: #0037**
 
@@ -12,9 +12,9 @@ Description: A sad boy
 
 Author: Syberian Inc
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yanasaki%2C%20Eiji%20(A%20sad%20boy)%20-%20Syberian%20Inc%2C%20V0.49.student">Yanasaki, Eiji (A sad boy) - Syberian Inc, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yanasaki%2C%20Eiji%20(A%20sad%20boy)%20-%20Syberian%20Inc%2C%20V0.53.student">Yanasaki, Eiji (A sad boy) - Syberian Inc, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Svart, Himmel (A nerdy futanari)
 
-<img src="../../Files/Images/Svart, Himmel (A nerdy futanari).png" title="Svart, Himmel (A nerdy futanari) - Obese Cat, V0.49">
+<img src="../../Files/Images/Svart, Himmel (A nerdy futanari).png" title="Svart, Himmel (A nerdy futanari) - Obese Cat, V0.53">
 
 **Database ID: #0644**
 
@@ -12,9 +12,9 @@ Description: A nerdy futanari
 
 Author: Obese Cat
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Svart%2C%20Himmel%20(A%20nerdy%20futanari)%20-%20Obese%20Cat%2C%20V0.49.student">Svart, Himmel (A nerdy futanari) - Obese Cat, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Svart%2C%20Himmel%20(A%20nerdy%20futanari)%20-%20Obese%20Cat%2C%20V0.53.student">Svart, Himmel (A nerdy futanari) - Obese Cat, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Utama, Kebbi (A yandere catboy who has no sense of self worth)
 
-<img src="../../Files/Images/Utama, Kebbi (A yandere catboy who has no sense of self worth).png" title="Utama, Kebbi (A yandere catboy who has no sense of self worth) - kami, V0.49">
+<img src="../../Files/Images/Utama, Kebbi (A yandere catboy who has no sense of self worth).png" title="Utama, Kebbi (A yandere catboy who has no sense of self worth) - kami, V0.53">
 
 **Database ID: #0630**
 
@@ -12,9 +12,9 @@ Description: A yandere catboy who has no sense of self worth
 
 Author: kami
 
-Version: V0.49
+Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Utama%2C%20Kebbi%20(A%20yandere%20catboy%20who%20has%20no%20sense%20of%20self%20worth)%20-%20kami%2C%20V0.49.student">Utama, Kebbi (A yandere catboy who has no sense of self worth) - kami, V0.49.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Utama%2C%20Kebbi%20(A%20yandere%20catboy%20who%20has%20no%20sense%20of%20self%20worth)%20-%20kami%2C%20V0.53.student">Utama, Kebbi (A yandere catboy who has no sense of self worth) - kami, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
