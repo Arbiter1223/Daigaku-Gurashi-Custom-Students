@@ -1,5 +1,5 @@
-Daigaku Gurashi V0.53
-Last Modified: 4/21/2020 11:39:10 PM
+﻿Daigaku Gurashi V0.53
+Last Modified: 3/7/2020 1:02:05 PM
 ------------------------------------------------------
 FirstName|Meloka|
 Sex|0|
@@ -13,7 +13,7 @@ HairSecondaryColour|23|
 Eyes|57|
 Mouth|1|
 Skin|1|
-HeadAccessory|0|0|6|18|
+Headwear|0|0|6|18|
 Eyewear|0|
 Pantsu|26|
 Sexual Preference|True|True|True|
@@ -62,7 +62,7 @@ ThighHigh Base|2|9|
 ThighHigh Decal|19|19|
 Pelvis|0|
 VoicePitch|2|
-HeadAccessoryColour|0|0|1|9|
+HeadwearColour|0|0|1|9|
 OppaiSize|0|
 Lingo Very|17|
 Author|chalk_girl|

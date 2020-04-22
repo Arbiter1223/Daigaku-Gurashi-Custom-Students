@@ -1,53 +1,53 @@
 Daigaku Gurashi V0.53
-Last Modified: 4/21/2020 11:39:10 PM
+Last Modified: 4/21/2020 11:37:03 PM
 ------------------------------------------------------
-FirstName|Meloka|
+FirstName|Ran|
 Sex|0|
 -|-|
-Hair(Front)|5|
-Hair(Back)|0|
+Hair(Front)|6|
+Hair(Back)|5|
 Hair(Ahoge)|0|
-Hair(Tails)|0|
-HairPrimaryColour|4|
-HairSecondaryColour|23|
-Eyes|57|
-Mouth|1|
+Hair(Tails)|11|
+HairPrimaryColour|5|
+HairSecondaryColour|29|
+Eyes|5|
+Mouth|5|
 Skin|1|
-HeadAccessory|0|0|6|18|
+HeadAccessory|1|1|0|13|
 Eyewear|0|
-Pantsu|26|
+Pantsu|24|
 Sexual Preference|True|True|True|
-Family Name|Korasama|
+Family Name|Ima|
 Snootiness|0|
 Gossips|0|
-Kindness|20|
-Confidence|60|
+Kindness|80|
+Confidence|-40|
 Intelligence|0|
-Dexterity|20|
+Dexterity|0|
 Yandere|False|
 RandomBodyLanguage|False|
-Tsundere|0|
-LoveyDovey|50|
+Tsundere|70|
+LoveyDovey|90|
 ?|0|
 Masochist|False|
 HairTaste|0|
-Depression|0|
+Depression|19|
 LikesSchool|0|
-Athletic|0|
-LikesManga|45|
-LikesAnime|45|
-LikesBooks|100|
-LikesVideoGames|0|
-LikesMusic|0|
-Perverted|-35|
-LikesHumour|-35|
-LikesOccult|100|
+Athletic|248|
+LikesManga|0|
+LikesAnime|0|
+LikesBooks|90|
+LikesVideoGames|45|
+LikesMusic|90|
+Perverted|-90|
+LikesHumour|45|
+LikesOccult|45|
 Alive|True|
 Kuudere|False|
 Loyal|True|
 Voice|0|
-Lingo Great|10|
-Lingo Crappy|40|
+Lingo Great|8|
+Lingo Crappy|14|
 Class1_Proficiency|0|
 Class2_Proficiency|0|
 Class3_Proficiency|0|
@@ -56,35 +56,35 @@ Class5_Proficiency|0|
 Class6_Proficiency|0|
 Class7_Proficiency|0|
 Class8_Proficiency|0|
-LingoLaugh|20|
+LingoLaugh|11|
 Energy|2000|
-ThighHigh Base|2|9|
-ThighHigh Decal|19|19|
-Pelvis|0|
-VoicePitch|2|
-HeadAccessoryColour|0|0|1|9|
-OppaiSize|0|
-Lingo Very|17|
-Author|chalk_girl|
-Description|A stylish girl who shows a great interest in the occult|
-Shirt_Colour|9|
-Shirt_Decal|3|
-Pants_Colour|4|
-WearDress%|55|
-Dress_Colour|9|
+ThighHigh Base|2|5|
+ThighHigh Decal|0|10|
+Pelvis|5|
+VoicePitch|4|
+HeadAccessoryColour|29|12|9|1|
+OppaiSize|5|
+Lingo Very|9|
+Author|Astro|
+Description|A girl who loves photagraphy and butterflies|
+Shirt_Colour|23|
+Shirt_Decal|10|
+Pants_Colour|18|
+WearDress%|0|
+Dress_Colour|17|
 Dress_Decal|4|
 Hygiene|10000|
-WearSchoolgirl%|55|
+WearSchoolgirl%|100|
 Schoolgirl_Bow_Colour|9|
-Schoolgirl_Collar_Colour|4|
-Schoolgirl_Cuffs_Colour|4|
-Schoolgirl_Shirt_Colour|1|
+Schoolgirl_Collar_Colour|1|
+Schoolgirl_Cuffs_Colour|1|
+Schoolgirl_Shirt_Colour|4|
 Schoolgirl_Skirt_Colour|4|
 Schoolgirl_Skirt_Line_Colour|9|
-Eyewear_Colour|1|
+Eyewear_Colour|15|
 Stress%|0|
 円|10000|
-FixedSexuality|False|
+FixedSexuality|True|
 Accent_Kansai|False|
 Accent_Valleyspeak|False|
 Accent_Lisp|False|
@@ -96,6 +96,6 @@ Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|
 Accent_Zombie|False|
 Age|19|
-KindGreeting|0|
-Diet|750|
+KindGreeting|2|
+Diet|700|
 (╯°□°）╯You ruined it!! You killed the magic!!

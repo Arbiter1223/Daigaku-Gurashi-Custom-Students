@@ -1,0 +1,23 @@
+# Sato, Saori (The new supervisor of Sayama Highschool)
+
+<img src="../../Files/Images/Sato, Saori (The new supervisor of Sayama Highschool).png" title="Sato, Saori (The new supervisor of Sayama Highschool) - Astro, V0.53">
+
+**Database ID: #0749**
+
+First Name: Saori
+
+Last Name: Sato
+
+Description: The new supervisor of Sayama Highschool
+
+Author: Astro
+
+Version: V0.53
+
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sato%2C%20Saori%20(The%20new%20supervisor%20of%20Sayama%20Highschool)%20-%20Astro%2C%20V0.53.student">Sato, Saori (The new supervisor of Sayama Highschool) - Astro, V0.53.student</a>
+
+### ---**To download, _right-click_ the link, and select _"Save as"_**---
+
+### Related Students
+
+-none-
