@@ -1545,3 +1545,5 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 <a href="Files/Student Info Pages/Hinasaki, Misa (A bisexual actress).md"><img src="Files/Thumbs/Hinasaki, Misa (A bisexual actress).png" height="100" width="100" title="Hinasaki, Misa (A bisexual actress) - Astro, V0.53"></a><a href="Files/Student Info Pages/Hinasaki, Misa (A bisexual actress).md"> **#0754:** Hinasaki, Misa (A bisexual actress) - Astro, V0.53</a>
 
+<a href="Files/Student Info Pages/Shitai, Kanoke (An undead zombie student).md"><img src="Files/Thumbs/Shitai, Kanoke (An undead zombie student).png" height="100" width="100" title="Shitai, Kanoke (An undead zombie student) - YamiToast, V0.53"></a><a href="Files/Student Info Pages/Shitai, Kanoke (An undead zombie student).md"> **#0755:** Shitai, Kanoke (An undead zombie student) - YamiToast, V0.53</a>
+
