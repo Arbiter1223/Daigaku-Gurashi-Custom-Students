@@ -1,6 +1,6 @@
 # Hideki, Stinku (A sassy perverted son on a bitch)
 
-<img src="../../Files/Images/Hideki, Stinku (A sassy perverted son on a bitch).png" title="Hideki, Stinku (A sassy perverted son on a bitch) - Astro, V0.53">
+<img src="../../Files/Images/Hideki, Stinku (A sassy perverted son on a bitch).png" title="Hideki, Stinku (A sassy perverted son on a bitch) - Emily, V0.53">
 
 **Database ID: #0743**
 
@@ -10,11 +10,11 @@ Last Name: Hideki
 
 Description: A sassy perverted son on a bitch
 
-Author: Astro
+Author: Emily
 
 Version: V0.53
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hideki%2C%20Stinku%20(A%20sassy%20perverted%20son%20on%20a%20bitch)%20-%20Astro%2C%20V0.53.student">Hideki, Stinku (A sassy perverted son on a bitch) - Astro, V0.53.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hideki%2C%20Stinku%20(A%20sassy%20perverted%20son%20on%20a%20bitch)%20-%20Emily%2C%20V0.53.student">Hideki, Stinku (A sassy perverted son on a bitch) - Emily, V0.53.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

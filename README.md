@@ -1547,3 +1547,5 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 <a href="Files/Student Info Pages/Shitai, Kanoke (An undead zombie student).md"><img src="Files/Thumbs/Shitai, Kanoke (An undead zombie student).png" height="100" width="100" title="Shitai, Kanoke (An undead zombie student) - YamiToast, V0.53"></a><a href="Files/Student Info Pages/Shitai, Kanoke (An undead zombie student).md"> **#0755:** Shitai, Kanoke (An undead zombie student) - YamiToast, V0.53</a>
 
+<a href="Files/Student Info Pages/Suru, Rikai (A strange anomaly of randomness).md"><img src="Files/Thumbs/Suru, Rikai (A strange anomaly of randomness).png" height="100" width="100" title="Suru, Rikai (A strange anomaly of randomness) - FurAuran, V0.53"></a><a href="Files/Student Info Pages/Suru, Rikai (A strange anomaly of randomness).md"> **#0756:** Suru, Rikai (A strange anomaly of randomness) - FurAuran, V0.53</a>
+
