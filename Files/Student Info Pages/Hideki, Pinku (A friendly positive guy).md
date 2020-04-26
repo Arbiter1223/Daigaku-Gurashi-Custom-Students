@@ -26,5 +26,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 <a href="Hideka, Pinka (A friendly, positive girl).md"><img src="../../Files/Thumbs/Hideka, Pinka (A friendly, positive girl).png" height="100" width="100" title="Hideka, Pinka (A friendly, positive girl) - Hatsune, V0.53"></a><a href="Hideka, Pinka (A friendly, positive girl).md"> Pinka - Female variant</a>
 
-<a href="Hideki, Stinku (A sassy perverted son on a bitch).md"><img src="../../Files/Thumbs/Hideki, Stinku (A sassy perverted son on a bitch).png" height="100" width="100" title="Hideki, Stinku (A sassy perverted son on a bitch) - Astro, V0.53"></a><a href="Hideki, Stinku (A sassy perverted son on a bitch).md"> Stinku - Opposite variant</a>
+<a href="Hideki, Stinku (A sassy perverted son on a bitch).md"><img src="../../Files/Thumbs/Hideki, Stinku (A sassy perverted son on a bitch).png" height="100" width="100" title="Hideki, Stinku (A sassy perverted son on a bitch) - Emily, V0.53"></a><a href="Hideki, Stinku (A sassy perverted son on a bitch).md"> Stinku - Opposite variant</a>
 
