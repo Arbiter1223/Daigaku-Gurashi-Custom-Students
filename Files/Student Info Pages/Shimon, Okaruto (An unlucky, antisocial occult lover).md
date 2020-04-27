@@ -12,7 +12,11 @@ Description: An unlucky, antisocial occult lover
 
 Author: Takumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/30/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shimon%2C%20Okaruto%20(An%20unlucky%2C%20antisocial%20occult%20lover)%20-%20Takumi%2C%20V0.53.student">Shimon, Okaruto (An unlucky, antisocial occult lover) - Takumi, V0.53.student</a>
 

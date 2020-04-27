@@ -12,7 +12,11 @@ Description: The science teacher of the school
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/15/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Teacher%2C%20Science%20(The%20science%20teacher%20of%20the%20school)%20-%20AjTheYandere%2C%20V0.53.student">Teacher, Science (The science teacher of the school) - AjTheYandere, V0.53.student</a>
 

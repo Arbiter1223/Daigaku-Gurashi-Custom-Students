@@ -12,7 +12,11 @@ Description: Spongebob's idiotic best friend
 
 Author: Izzyox
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/21/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Star%2C%20Patrick%20(Spongebob's%20idiotic%20best%20friend)%20-%20Izzyox%2C%20V0.53.student">Star, Patrick (Spongebob's idiotic best friend) - Izzyox, V0.53.student</a>
 

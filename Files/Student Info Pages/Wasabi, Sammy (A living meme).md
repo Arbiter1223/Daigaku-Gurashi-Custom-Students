@@ -12,7 +12,11 @@ Description: A living meme
 
 Author: Karma
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/21/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Wasabi%2C%20Sammy%20(A%20living%20meme)%20-%20Karma%2C%20V0.53.student">Wasabi, Sammy (A living meme) - Karma, V0.53.student</a>
 

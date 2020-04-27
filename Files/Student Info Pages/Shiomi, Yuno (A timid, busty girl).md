@@ -12,7 +12,11 @@ Description: A timid, busty girl
 
 Author: RainB
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/2/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shiomi%2C%20Yuno%20(A%20timid%2C%20busty%20girl)%20-%20RainB%2C%20V0.53.student">Shiomi, Yuno (A timid, busty girl) - RainB, V0.53.student</a>
 

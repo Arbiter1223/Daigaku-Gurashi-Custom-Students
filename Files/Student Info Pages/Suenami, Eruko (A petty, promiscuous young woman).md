@@ -12,7 +12,11 @@ Description: A petty, promiscuous young woman
 
 Author: Nyanako
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/18/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Suenami%2C%20Eruko%20(A%20petty%2C%20promiscuous%20young%20woman)%20-%20Nyanako%2C%20V0.53.student">Suenami, Eruko (A petty, promiscuous young woman) - Nyanako, V0.53.student</a>
 

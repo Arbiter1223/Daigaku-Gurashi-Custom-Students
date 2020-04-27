@@ -12,7 +12,11 @@ Description: Aoki's darkner, evil side
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/2/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamazaki%2C%20Evil%20Aoki%20(Aoki's%20darkner%2C%20evil%20side)%20-%20AjTheYandere%2C%20V0.53.student">Yamazaki, Evil Aoki (Aoki's darkner, evil side) - AjTheYandere, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A yandere gamer
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/5/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tsukade%2C%20Masaru%20(A%20yandere%20gamer)%20-%20Aho-chan%2C%20V0.53.student">Tsukade, Masaru (A yandere gamer) - Aho-chan, V0.53.student</a>
 

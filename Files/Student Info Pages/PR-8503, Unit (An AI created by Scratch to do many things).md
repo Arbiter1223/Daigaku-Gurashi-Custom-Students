@@ -12,7 +12,11 @@ Description: An AI created by Scratch to do many things
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/2/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/PR-8503%2C%20Unit%20(An%20AI%20created%20by%20Scratch%20to%20do%20many%20things)%20-%20AjTheYandere%2C%20V0.53.student">PR-8503, Unit (An AI created by Scratch to do many things) - AjTheYandere, V0.53.student</a>
 

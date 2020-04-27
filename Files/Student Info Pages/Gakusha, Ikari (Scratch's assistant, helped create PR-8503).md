@@ -12,7 +12,11 @@ Description: Scratch's assistant, helped create PR-8503
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/2/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Gakusha%2C%20Ikari%20(Scratch's%20assistant%2C%20helped%20create%20PR-8503)%20-%20AjTheYandere%2C%20V0.53.student">Gakusha, Ikari (Scratch's assistant, helped create PR-8503) - AjTheYandere, V0.53.student</a>
 

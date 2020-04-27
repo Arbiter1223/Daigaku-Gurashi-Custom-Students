@@ -12,7 +12,11 @@ Description: AKA Boobs McKenzie
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/17/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Haruka%2C%20Kokona%20(AKA%20Boobs%20McKenzie)%20-%20Camden%2C%20V0.53.student">Haruka, Kokona (AKA Boobs McKenzie) - Camden, V0.53.student</a>
 

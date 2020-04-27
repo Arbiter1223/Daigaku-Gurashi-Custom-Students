@@ -12,7 +12,11 @@ Description: A really confident girl
 
 Author: Bubger Kirg
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Takayama%2C%20Mina%20(A%20really%20confident%20girl)%20-%20Bubger%20Kirg%2C%20V0.53.student">Takayama, Mina (A really confident girl) - Bubger Kirg, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: An extremely shy intellectual
 
 Author: A silverfirelily
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/14/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kawasaki%2C%20Sumiko%20(An%20extremely%20shy%20intellectual)%20-%20A%20silverfirelily%2C%20V0.53.student">Kawasaki, Sumiko (An extremely shy intellectual) - A silverfirelily, V0.53.student</a>
 

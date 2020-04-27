@@ -12,7 +12,11 @@ Description: A girl who really likes to read
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/13/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Lalonde%2C%20Rose%20(A%20girl%20who%20really%20likes%20to%20read)%20-%20Camden%2C%20V0.53.student">Lalonde, Rose (A girl who really likes to read) - Camden, V0.53.student</a>
 

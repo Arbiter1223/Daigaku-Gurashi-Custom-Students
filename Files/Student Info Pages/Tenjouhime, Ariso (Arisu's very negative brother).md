@@ -12,7 +12,11 @@ Description: Arisu's very negative brother
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/4/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tenjouhime%2C%20Ariso%20(Arisu's%20very%20negative%20brother)%20-%20AjTheYandere%2C%20V0.53.student">Tenjouhime, Ariso (Arisu's very negative brother) - AjTheYandere, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A very sweet, orange catgirl
 
 Author: Retsuko and Arbiter1223
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/6/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ando%2C%20Orangu%20(A%20very%20sweet%2C%20orange%20catgirl)%20-%20Retsuko%20and%20Arbiter1223%2C%20V0.53.student">Ando, Orangu (A very sweet, orange catgirl) - Retsuko and Arbiter1223, V0.53.student</a>
 

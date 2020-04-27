@@ -12,7 +12,11 @@ Description: A nerdy, non-binary student who is laid-back and has an accent
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/31/2019
+
+Created in version: V0.39
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kurokami%2C%20Ale%20(A%20nerdy%2C%20non-binary%20student%20who%20is%20laid-back%20and%20has%20an%20accent)%20-%20Aho-chan%2C%20V0.53.student">Kurokami, Ale (A nerdy, non-binary student who is laid-back and has an accent) - Aho-chan, V0.53.student</a>
 

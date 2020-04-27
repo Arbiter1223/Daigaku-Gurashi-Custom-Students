@@ -12,7 +12,11 @@ Description: From DDLC, a busty, soft-spoken bookworm
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/21/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Terauchi%2C%20Yuri%20(From%20DDLC%2C%20a%20busty%2C%20soft-spoken%20bookworm)%20-%20LowkeyHomo%2C%20V0.53.student">Terauchi, Yuri (From DDLC, a busty, soft-spoken bookworm) - LowkeyHomo, V0.53.student</a>
 

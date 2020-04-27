@@ -12,7 +12,11 @@ Description: A heartless yandere
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/13/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Moto%2C%20Axei%20(A%20heartless%20yandere)%20-%20BenPupKao%2C%20V0.53.student">Moto, Axei (A heartless yandere) - BenPupKao, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A Christmas-themed character
 
 Author: YamiToast
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/25/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Jolly%2C%20Holly%20(A%20Christmas-themed%20character)%20-%20YamiToast%2C%20V0.53.student">Jolly, Holly (A Christmas-themed character) - YamiToast, V0.53.student</a>
 

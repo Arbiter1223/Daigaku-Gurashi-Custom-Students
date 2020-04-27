@@ -12,7 +12,11 @@ Description: A perverted, neko futanari
 
 Author: Shadow
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/12/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Koike%2C%20Lilah%20(A%20perverted%2C%20neko%20futanari)%20-%20Shadow%2C%20V0.53.student">Koike, Lilah (A perverted, neko futanari) - Shadow, V0.53.student</a>
 

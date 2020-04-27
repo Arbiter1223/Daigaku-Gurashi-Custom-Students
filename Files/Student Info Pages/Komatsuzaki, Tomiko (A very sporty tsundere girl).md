@@ -12,7 +12,11 @@ Description: A very sporty tsundere girl
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/5/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Komatsuzaki%2C%20Tomiko%20(A%20very%20sporty%20tsundere%20girl)%20-%20BenPupKao%2C%20V0.53.student">Komatsuzaki, Tomiko (A very sporty tsundere girl) - BenPupKao, V0.53.student</a>
 

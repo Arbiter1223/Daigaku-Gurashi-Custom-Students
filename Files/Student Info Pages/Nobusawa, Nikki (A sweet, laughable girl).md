@@ -12,7 +12,11 @@ Description: A sweet, laughable girl
 
 Author: Nightara
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/2/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nobusawa%2C%20Nikki%20(A%20sweet%2C%20laughable%20girl)%20-%20Nightara%2C%20V0.53.student">Nobusawa, Nikki (A sweet, laughable girl) - Nightara, V0.53.student</a>
 

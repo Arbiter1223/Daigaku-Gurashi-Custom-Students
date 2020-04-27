@@ -12,7 +12,11 @@ Description: The youngest of the Sammich sisters, a very boring girl
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/5/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sammich%2C%20Butter%20(The%20youngest%20of%20the%20Sammich%20sisters%2C%20a%20very%20boring%20girl)%20-%20AjTheYandere%2C%20V0.53.student">Sammich, Butter (The youngest of the Sammich sisters, a very boring girl) - AjTheYandere, V0.53.student</a>
 

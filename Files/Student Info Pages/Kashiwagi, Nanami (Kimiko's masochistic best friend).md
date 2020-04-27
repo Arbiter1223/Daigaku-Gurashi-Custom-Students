@@ -12,7 +12,11 @@ Description: Kimiko's masochistic best friend
 
 Author: CookieBoi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/11/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kashiwagi%2C%20Nanami%20(Kimiko's%20masochistic%20best%20friend)%20-%20CookieBoi%2C%20V0.53.student">Kashiwagi, Nanami (Kimiko's masochistic best friend) - CookieBoi, V0.53.student</a>
 

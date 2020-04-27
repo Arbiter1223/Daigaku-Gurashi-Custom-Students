@@ -12,7 +12,11 @@ Description: Best Doki, no questions asked
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/8/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Doki%2C%20Natsuki%20(Best%20Doki%2C%20no%20questions%20asked)%20-%20AjTheYandere%2C%20V0.53.student">Doki, Natsuki (Best Doki, no questions asked) - AjTheYandere, V0.53.student</a>
 

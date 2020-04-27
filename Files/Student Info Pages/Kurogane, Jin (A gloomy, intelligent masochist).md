@@ -12,7 +12,11 @@ Description: A gloomy, intelligent masochist
 
 Author: Cookie Boi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/12/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kurogane%2C%20Jin%20(A%20gloomy%2C%20intelligent%20masochist)%20-%20Cookie%20Boi%2C%20V0.53.student">Kurogane, Jin (A gloomy, intelligent masochist) - Cookie Boi, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A shell of his former self
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/6/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Amagawa%2C%20Jamieson%20(A%20shell%20of%20his%20former%20self)%20-%20BenPupKao%2C%20V0.53.student">Amagawa, Jamieson (A shell of his former self) - BenPupKao, V0.53.student</a>
 

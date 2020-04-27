@@ -12,7 +12,11 @@ Description: A yandere catgirl
 
 Author: Nyanako
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/18/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hike%2C%20Keko%20(A%20yandere%20catgirl)%20-%20Nyanako%2C%20V0.53.student">Hike, Keko (A yandere catgirl) - Nyanako, V0.53.student</a>
 

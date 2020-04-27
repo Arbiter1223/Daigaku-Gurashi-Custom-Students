@@ -12,7 +12,11 @@ Description: A gay zombie yandere
 
 Author: peraon
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/27/2019
+
+Created in version: V0.37
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kori%2C%20Arachne%20(A%20gay%20zombie%20yandere)%20-%20peraon%2C%20V0.53.student">Kori, Arachne (A gay zombie yandere) - peraon, V0.53.student</a>
 

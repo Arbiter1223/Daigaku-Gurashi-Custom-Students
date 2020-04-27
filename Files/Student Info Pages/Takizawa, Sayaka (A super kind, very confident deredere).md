@@ -12,7 +12,11 @@ Description: A super kind, very confident deredere
 
 Author: Gurashidori
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/9/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Takizawa%2C%20Sayaka%20(A%20super%20kind%2C%20very%20confident%20deredere)%20-%20Gurashidori%2C%20V0.53.student">Takizawa, Sayaka (A super kind, very confident deredere) - Gurashidori, V0.53.student</a>
 

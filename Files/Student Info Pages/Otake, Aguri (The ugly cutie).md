@@ -12,7 +12,11 @@ Description: The ugly cutie
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/11/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Otake%2C%20Aguri%20(The%20ugly%20cutie)%20-%20Aho-chan%2C%20V0.53.student">Otake, Aguri (The ugly cutie) - Aho-chan, V0.53.student</a>
 

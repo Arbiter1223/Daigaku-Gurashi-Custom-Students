@@ -12,7 +12,11 @@ Description: An intimidating but kind-hearted soul
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/6/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Deathclaw%2C%20Desu%20(An%20intimidating%20but%20kind-hearted%20soul)%20-%20Camden%2C%20V0.53.student">Deathclaw, Desu (An intimidating but kind-hearted soul) - Camden, V0.53.student</a>
 

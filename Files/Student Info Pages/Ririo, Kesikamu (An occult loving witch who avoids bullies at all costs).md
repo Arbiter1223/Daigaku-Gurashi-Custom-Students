@@ -12,7 +12,11 @@ Description: An occult loving witch who avoids bullies at all costs
 
 Author: kami
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/31/2019
+
+Created in version: V0.32
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ririo%2C%20Kesikamu%20(An%20occult%20loving%20witch%20who%20avoids%20bullies%20at%20all%20costs)%20-%20kami%2C%20V0.53.student">Ririo, Kesikamu (An occult loving witch who avoids bullies at all costs) - kami, V0.53.student</a>
 

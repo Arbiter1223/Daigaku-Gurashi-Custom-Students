@@ -12,7 +12,11 @@ Description: A smart, friendly guy
 
 Author: Retsuko
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/10/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamura%2C%20Sei%20(A%20smart%2C%20friendly%20guy)%20-%20Retsuko%2C%20V0.53.student">Yamura, Sei (A smart, friendly guy) - Retsuko, V0.53.student</a>
 

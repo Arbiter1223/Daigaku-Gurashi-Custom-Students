@@ -12,7 +12,11 @@ Description: A flirty yet modest guy
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/9/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nose%2C%20Daisuke%20(A%20flirty%20yet%20modest%20guy)%20-%20BenPupKao%2C%20V0.53.student">Nose, Daisuke (A flirty yet modest guy) - BenPupKao, V0.53.student</a>
 

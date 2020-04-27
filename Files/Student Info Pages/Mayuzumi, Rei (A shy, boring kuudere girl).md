@@ -12,7 +12,11 @@ Description: A shy, boring kuudere girl
 
 Author: Liam Beets
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/17/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Mayuzumi%2C%20Rei%20(A%20shy%2C%20boring%20kuudere%20girl)%20-%20Liam%20Beets%2C%20V0.53.student">Mayuzumi, Rei (A shy, boring kuudere girl) - Liam Beets, V0.53.student</a>
 

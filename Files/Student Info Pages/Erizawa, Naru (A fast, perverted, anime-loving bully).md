@@ -12,7 +12,11 @@ Description: A fast, perverted, anime-loving bully
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/9/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Erizawa%2C%20Naru%20(A%20fast%2C%20perverted%2C%20anime-loving%20bully)%20-%20LowkeyHomo%2C%20V0.53.student">Erizawa, Naru (A fast, perverted, anime-loving bully) - LowkeyHomo, V0.53.student</a>
 

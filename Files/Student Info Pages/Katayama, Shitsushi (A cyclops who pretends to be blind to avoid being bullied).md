@@ -12,7 +12,11 @@ Description: A cyclops who pretends to be blind to avoid being bullied
 
 Author: Emily
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 1/27/2020
+
+Created in version: V0.47
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Katayama%2C%20Shitsushi%20(A%20cyclops%20who%20pretends%20to%20be%20blind%20to%20avoid%20being%20bullied)%20-%20Emily%2C%20V0.53.student">Katayama, Shitsushi (A cyclops who pretends to be blind to avoid being bullied) - Emily, V0.53.student</a>
 

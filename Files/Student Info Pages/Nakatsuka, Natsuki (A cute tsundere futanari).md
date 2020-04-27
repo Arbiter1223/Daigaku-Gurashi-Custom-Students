@@ -12,7 +12,11 @@ Description: A cute tsundere futanari
 
 Author: Kitten
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/17/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakatsuka%2C%20Natsuki%20(A%20cute%20tsundere%20futanari)%20-%20Kitten%2C%20V0.53.student">Nakatsuka, Natsuki (A cute tsundere futanari) - Kitten, V0.53.student</a>
 

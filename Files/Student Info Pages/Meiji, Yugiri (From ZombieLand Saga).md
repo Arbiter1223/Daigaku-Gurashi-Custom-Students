@@ -12,7 +12,11 @@ Description: From ZombieLand Saga
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/26/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Meiji%2C%20Yugiri%20(From%20ZombieLand%20Saga)%20-%20sansrika%2C%20V0.53.student">Meiji, Yugiri (From ZombieLand Saga) - sansrika, V0.53.student</a>
 

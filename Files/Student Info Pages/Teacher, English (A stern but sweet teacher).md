@@ -12,7 +12,11 @@ Description: A stern but sweet teacher
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Teacher%2C%20English%20(A%20stern%20but%20sweet%20teacher)%20-%20AjTheYandere%2C%20V0.53.student">Teacher, English (A stern but sweet teacher) - AjTheYandere, V0.53.student</a>
 

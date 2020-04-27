@@ -12,7 +12,11 @@ Description: A shy occult fanatic
 
 Author: Shadow and yogima
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ruto%2C%20Oka%20(A%20shy%20occult%20fanatic)%20-%20Shadow%20and%20yogima%2C%20V0.53.student">Ruto, Oka (A shy occult fanatic) - Shadow and yogima, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A gay, depressed and bullied boy
 
 Author: Galaxy gurl
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/18/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Someya%2C%20Max%20(A%20gay%2C%20depressed%20and%20bullied%20boy)%20-%20Galaxy%20gurl%2C%20V0.53.student">Someya, Max (A gay, depressed and bullied boy) - Galaxy gurl, V0.53.student</a>
 

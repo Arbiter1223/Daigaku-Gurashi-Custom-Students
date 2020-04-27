@@ -12,7 +12,11 @@ Description: A popular judgemental pervert
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/1/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamagata%2C%20Taiyo%20(A%20popular%20judgemental%20pervert)%20-%20Syberian%20Inc%2C%20V0.53.student">Yamagata, Taiyo (A popular judgemental pervert) - Syberian Inc, V0.53.student</a>
 

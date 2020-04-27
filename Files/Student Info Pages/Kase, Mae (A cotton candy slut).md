@@ -12,7 +12,11 @@ Description: A cotton candy slut
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/18/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kase%2C%20Mae%20(A%20cotton%20candy%20slut)%20-%20sansrika%2C%20V0.53.student">Kase, Mae (A cotton candy slut) - sansrika, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: From DDLC, a tsundere manga fangirl
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/21/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Amori%2C%20Natsuki%20(From%20DDLC%2C%20a%20tsundere%20manga%20fangirl)%20-%20LowkeyHomo%2C%20V0.53.student">Amori, Natsuki (From DDLC, a tsundere manga fangirl) - LowkeyHomo, V0.53.student</a>
 

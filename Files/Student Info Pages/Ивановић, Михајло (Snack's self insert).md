@@ -12,7 +12,11 @@ Description: Snack's self insert
 
 Author: Snack
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 2/7/2020
+
+Created in version: V0.47
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ивановић%2C%20Михајло%20(Snack's%20self%20insert)%20-%20Snack%2C%20V0.53.student">Ивановић, Михајло (Snack's self insert) - Snack, V0.53.student</a>
 

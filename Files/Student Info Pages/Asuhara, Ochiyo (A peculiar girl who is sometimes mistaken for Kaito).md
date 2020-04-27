@@ -12,7 +12,11 @@ Description: A peculiar girl who is sometimes mistaken for Kaito
 
 Author: Rando Studenta
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 1/4/2020
+
+Created in version: V0.47
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Asuhara%2C%20Ochiyo%20(A%20peculiar%20girl%20who%20is%20sometimes%20mistaken%20for%20Kaito)%20-%20Rando%20Studenta%2C%20V0.53.student">Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito) - Rando Studenta, V0.53.student</a>
 

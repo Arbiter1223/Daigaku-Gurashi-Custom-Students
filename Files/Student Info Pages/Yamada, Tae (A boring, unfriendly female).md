@@ -12,7 +12,11 @@ Description: A boring, unfriendly female
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/13/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamada%2C%20Tae%20(A%20boring%2C%20unfriendly%20female)%20-%20sansrika%2C%20V0.53.student">Yamada, Tae (A boring, unfriendly female) - sansrika, V0.53.student</a>
 

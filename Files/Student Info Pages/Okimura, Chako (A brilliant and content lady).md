@@ -12,7 +12,11 @@ Description: A brilliant and content lady
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/21/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Okimura%2C%20Chako%20(A%20brilliant%20and%20content%20lady)%20-%20AjTheYandere%2C%20V0.53.student">Okimura, Chako (A brilliant and content lady) - AjTheYandere, V0.53.student</a>
 

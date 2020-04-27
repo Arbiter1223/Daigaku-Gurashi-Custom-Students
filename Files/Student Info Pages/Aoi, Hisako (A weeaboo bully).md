@@ -12,7 +12,11 @@ Description: A weeaboo bully
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/6/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Aoi%2C%20Hisako%20(A%20weeaboo%20bully)%20-%20Syberian%20Inc%2C%20V0.53.student">Aoi, Hisako (A weeaboo bully) - Syberian Inc, V0.53.student</a>
 

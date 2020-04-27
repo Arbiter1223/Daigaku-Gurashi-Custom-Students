@@ -12,7 +12,11 @@ Description: A happy-go-lucky airhead
 
 Author: Duck-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/4/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kashiwabara%2C%20Junko%20(A%20happy-go-lucky%20airhead)%20-%20Duck-chan%2C%20V0.53.student">Kashiwabara, Junko (A happy-go-lucky airhead) - Duck-chan, V0.53.student</a>
 

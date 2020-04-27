@@ -12,7 +12,11 @@ Description: A heartless and perverted masochist
 
 Author: Terminal
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/6/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakamoto%2C%20Abigail%20(A%20heartless%20and%20perverted%20masochist)%20-%20Terminal%2C%20V0.53.student">Nakamoto, Abigail (A heartless and perverted masochist) - Terminal, V0.53.student</a>
 

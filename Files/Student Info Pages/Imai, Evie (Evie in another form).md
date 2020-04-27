@@ -12,7 +12,11 @@ Description: Evie in another form
 
 Author: Galaxy gurl
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/20/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Imai%2C%20Evie%20(Evie%20in%20another%20form)%20-%20Galaxy%20gurl%2C%20V0.53.student">Imai, Evie (Evie in another form) - Galaxy gurl, V0.53.student</a>
 

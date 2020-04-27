@@ -12,7 +12,11 @@ Description: A very energetic and upbeat individual
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/21/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Squarepants%2C%20Spongebob%20(A%20very%20energetic%20and%20upbeat%20individual)%20-%20LowkeyHomo%2C%20V0.53.student">Squarepants, Spongebob (A very energetic and upbeat individual) - LowkeyHomo, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A very sociable cutie
 
 Author: Izzabella
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/28/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Takemitsu%2C%20Izzy%20(A%20very%20sociable%20cutie)%20-%20Izzabella%2C%20V0.53.student">Takemitsu, Izzy (A very sociable cutie) - Izzabella, V0.53.student</a>
 

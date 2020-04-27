@@ -12,7 +12,11 @@ Description: A shy but very active girl
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ajibana%2C%20Sachiko%20(A%20shy%20but%20very%20active%20girl)%20-%20AjTheYandere%2C%20V0.53.student">Ajibana, Sachiko (A shy but very active girl) - AjTheYandere, V0.53.student</a>
 

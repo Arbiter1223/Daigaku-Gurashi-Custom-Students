@@ -12,7 +12,11 @@ Description: A super-duper kind and open-minded nerdy girl
 
 Author: Sivin pas
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 5/23/2019
+
+Created in version: V0.35
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hikarenai%2C%20Seitekini%20(A%20super-duper%20kind%20and%20open-minded%20nerdy%20girl)%20-%20Sivin%20pas%2C%20V0.53.student">Hikarenai, Seitekini (A super-duper kind and open-minded nerdy girl) - Sivin pas, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: Kana's meaner, older brother
 
 Author: Takumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/30/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Arakida%2C%20Hideyoshi%20(Kana's%20meaner%2C%20older%20brother)%20-%20Takumi%2C%20V0.53.student">Arakida, Hideyoshi (Kana's meaner, older brother) - Takumi, V0.53.student</a>
 

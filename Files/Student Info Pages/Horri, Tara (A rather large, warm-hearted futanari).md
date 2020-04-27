@@ -12,7 +12,11 @@ Description: A rather large, warm-hearted futanari
 
 Author: Nightara
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/13/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Horri%2C%20Tara%20(A%20rather%20large%2C%20warm-hearted%20futanari)%20-%20Nightara%2C%20V0.53.student">Horri, Tara (A rather large, warm-hearted futanari) - Nightara, V0.53.student</a>
 

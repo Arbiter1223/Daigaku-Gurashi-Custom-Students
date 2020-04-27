@@ -12,7 +12,11 @@ Description: A shy and friendly kuudere
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/16/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tsurimi%2C%20Natsu%20(A%20shy%20and%20friendly%20kuudere)%20-%20LowkeyHomo%2C%20V0.53.student">Tsurimi, Natsu (A shy and friendly kuudere) - LowkeyHomo, V0.53.student</a>
 

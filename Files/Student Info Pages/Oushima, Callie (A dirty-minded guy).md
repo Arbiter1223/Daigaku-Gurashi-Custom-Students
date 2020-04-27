@@ -12,7 +12,11 @@ Description: A dirty-minded guy
 
 Author: BurntWaffles
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/4/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Oushima%2C%20Callie%20(A%20dirty-minded%20guy)%20-%20BurntWaffles%2C%20V0.53.student">Oushima, Callie (A dirty-minded guy) - BurntWaffles, V0.53.student</a>
 

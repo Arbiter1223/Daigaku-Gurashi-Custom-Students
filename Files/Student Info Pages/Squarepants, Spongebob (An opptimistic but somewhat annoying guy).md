@@ -12,7 +12,11 @@ Description: An opptimistic but somewhat annoying guy
 
 Author: Izzyox
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/21/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Squarepants%2C%20Spongebob%20(An%20opptimistic%20but%20somewhat%20annoying%20guy)%20-%20Izzyox%2C%20V0.53.student">Squarepants, Spongebob (An opptimistic but somewhat annoying guy) - Izzyox, V0.53.student</a>
 

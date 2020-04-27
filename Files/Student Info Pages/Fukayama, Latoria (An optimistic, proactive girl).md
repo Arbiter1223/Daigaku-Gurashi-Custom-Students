@@ -12,7 +12,11 @@ Description: An optimistic, proactive girl
 
 Author: Nyanako
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/19/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fukayama%2C%20Latoria%20(An%20optimistic%2C%20proactive%20girl)%20-%20Nyanako%2C%20V0.53.student">Fukayama, Latoria (An optimistic, proactive girl) - Nyanako, V0.53.student</a>
 

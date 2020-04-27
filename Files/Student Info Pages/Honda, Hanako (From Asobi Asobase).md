@@ -12,7 +12,11 @@ Description: From Asobi Asobase
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/27/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Honda%2C%20Hanako%20(From%20Asobi%20Asobase)%20-%20sansrika%2C%20V0.53.student">Honda, Hanako (From Asobi Asobase) - sansrika, V0.53.student</a>
 

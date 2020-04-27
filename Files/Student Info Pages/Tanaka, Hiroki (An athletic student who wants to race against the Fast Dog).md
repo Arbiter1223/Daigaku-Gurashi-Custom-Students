@@ -12,7 +12,11 @@ Description: An athletic student who wants to race against the Fast Dog
 
 Author: Midnight Kitsune
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/20/2019
+
+Created in version: V0.37
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tanaka%2C%20Hiroki%20(An%20athletic%20student%20who%20wants%20to%20race%20against%20the%20Fast%20Dog)%20-%20Midnight%20Kitsune%2C%20V0.53.student">Tanaka, Hiroki (An athletic student who wants to race against the Fast Dog) - Midnight Kitsune, V0.53.student</a>
 

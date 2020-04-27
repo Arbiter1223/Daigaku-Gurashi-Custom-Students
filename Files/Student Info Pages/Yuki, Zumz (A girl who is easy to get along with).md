@@ -12,7 +12,11 @@ Description: A girl who is easy to get along with
 
 Author: Azumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/11/2019
+
+Created in version: V0.32
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yuki%2C%20Zumz%20(A%20girl%20who%20is%20easy%20to%20get%20along%20with)%20-%20Azumi%2C%20V0.53.student">Yuki, Zumz (A girl who is easy to get along with) - Azumi, V0.53.student</a>
 

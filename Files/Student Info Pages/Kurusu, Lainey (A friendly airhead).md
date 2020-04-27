@@ -12,7 +12,11 @@ Description: A friendly airhead
 
 Author: Hatsune
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/14/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kurusu%2C%20Lainey%20(A%20friendly%20airhead)%20-%20Hatsune%2C%20V0.53.student">Kurusu, Lainey (A friendly airhead) - Hatsune, V0.53.student</a>
 

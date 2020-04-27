@@ -12,7 +12,11 @@ Description: A shy, unflirty emo girl
 
 Author: Cookie Boi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/15/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Itoh%2C%20Clara%20(A%20shy%2C%20unflirty%20emo%20girl)%20-%20Cookie%20Boi%2C%20V0.53.student">Itoh, Clara (A shy, unflirty emo girl) - Cookie Boi, V0.53.student</a>
 

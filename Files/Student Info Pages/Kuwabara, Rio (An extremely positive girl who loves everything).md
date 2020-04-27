@@ -12,7 +12,11 @@ Description: An extremely positive girl who loves everything
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/8/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kuwabara%2C%20Rio%20(An%20extremely%20positive%20girl%20who%20loves%20everything)%20-%20Syberian%20Inc%2C%20V0.53.student">Kuwabara, Rio (An extremely positive girl who loves everything) - Syberian Inc, V0.53.student</a>
 

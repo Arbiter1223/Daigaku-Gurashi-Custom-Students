@@ -12,7 +12,11 @@ Description: A gaming schoolworm, Michio's cousin
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/5/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Saitoh%2C%20Michi%20(A%20gaming%20schoolworm%2C%20Michio's%20cousin)%20-%20Aho-chan%2C%20V0.53.student">Saitoh, Michi (A gaming schoolworm, Michio's cousin) - Aho-chan, V0.53.student</a>
 

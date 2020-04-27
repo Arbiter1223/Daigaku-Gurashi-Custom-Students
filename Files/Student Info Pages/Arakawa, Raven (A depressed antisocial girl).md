@@ -12,7 +12,11 @@ Description: A depressed antisocial girl
 
 Author: LivMoox
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/28/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Arakawa%2C%20Raven%20(A%20depressed%20antisocial%20girl)%20-%20LivMoox%2C%20V0.53.student">Arakawa, Raven (A depressed antisocial girl) - LivMoox, V0.53.student</a>
 

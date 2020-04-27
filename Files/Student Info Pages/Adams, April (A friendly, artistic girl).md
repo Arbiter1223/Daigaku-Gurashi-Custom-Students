@@ -12,7 +12,11 @@ Description: A friendly, artistic girl
 
 Author: Rulos
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/18/2020
+
+Created in version: V0.53
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Adams%2C%20April%20(A%20friendly%2C%20artistic%20girl)%20-%20Rulos%2C%20V0.53.student">Adams, April (A friendly, artistic girl) - Rulos, V0.53.student</a>
 

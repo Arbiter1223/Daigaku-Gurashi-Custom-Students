@@ -12,7 +12,11 @@ Description: A well-rounded tsundere intellectual
 
 Author: Prism~Cloud
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/29/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kawagishi%2C%20Prism%20(A%20well-rounded%20tsundere%20intellectual)%20-%20Prism~Cloud%2C%20V0.53.student">Kawagishi, Prism (A well-rounded tsundere intellectual) - Prism~Cloud, V0.53.student</a>
 

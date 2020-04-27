@@ -12,7 +12,11 @@ Description: A humorless, sub-average guy
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kusonoki%2C%20Renji%20(A%20humorless%2C%20sub-average%20guy)%20-%20AjTheYandere%2C%20V0.53.student">Kusonoki, Renji (A humorless, sub-average guy) - AjTheYandere, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A distant bitchy cousin of Gorgonzola
 
 Author: Nutmeg
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/21/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shima%2C%20Siggi%20(A%20distant%20bitchy%20cousin%20of%20Gorgonzola)%20-%20Nutmeg%2C%20V0.53.student">Shima, Siggi (A distant bitchy cousin of Gorgonzola) - Nutmeg, V0.53.student</a>
 

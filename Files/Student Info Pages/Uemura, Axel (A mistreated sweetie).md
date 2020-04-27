@@ -12,7 +12,11 @@ Description: A mistreated sweetie
 
 Author: Azumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/6/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Uemura%2C%20Axel%20(A%20mistreated%20sweetie)%20-%20Azumi%2C%20V0.53.student">Uemura, Axel (A mistreated sweetie) - Azumi, V0.53.student</a>
 

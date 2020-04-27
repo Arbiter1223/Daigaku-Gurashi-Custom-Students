@@ -12,7 +12,11 @@ Description: A popular athletic girl who is slightly judgemental towards lazy pe
 
 Author: yogima
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 1/4/2020
+
+Created in version: V0.47
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Rona%2C%20Nakana%20(A%20popular%20athletic%20girl%20who%20is%20slightly%20judgemental%20towards%20lazy%20people)%20-%20yogima%2C%20V0.53.student">Rona, Nakana (A popular athletic girl who is slightly judgemental towards lazy people) - yogima, V0.53.student</a>
 

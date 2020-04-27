@@ -12,7 +12,11 @@ Description: A friendly, positive girl
 
 Author: Hatsune
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/14/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hideka%2C%20Pinka%20(A%20friendly%2C%20positive%20girl)%20-%20Hatsune%2C%20V0.53.student">Hideka, Pinka (A friendly, positive girl) - Hatsune, V0.53.student</a>
 

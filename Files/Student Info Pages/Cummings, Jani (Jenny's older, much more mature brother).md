@@ -12,7 +12,11 @@ Description: Jenny's older, much more mature brother
 
 Author: Cookie Boi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/19/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Cummings%2C%20Jani%20(Jenny's%20older%2C%20much%20more%20mature%20brother)%20-%20Cookie%20Boi%2C%20V0.53.student">Cummings, Jani (Jenny's older, much more mature brother) - Cookie Boi, V0.53.student</a>
 

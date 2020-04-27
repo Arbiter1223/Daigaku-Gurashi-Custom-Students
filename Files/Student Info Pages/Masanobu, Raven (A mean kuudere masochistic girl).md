@@ -12,7 +12,11 @@ Description: A mean kuudere masochistic girl
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/12/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Masanobu%2C%20Raven%20(A%20mean%20kuudere%20masochistic%20girl)%20-%20Syberian%20Inc%2C%20V0.53.student">Masanobu, Raven (A mean kuudere masochistic girl) - Syberian Inc, V0.53.student</a>
 

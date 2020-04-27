@@ -12,7 +12,11 @@ Description: A rather mean restaurant cashier
 
 Author: Izzyox
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/21/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tentacles%2C%20Squidward%20(A%20rather%20mean%20restaurant%20cashier)%20-%20Izzyox%2C%20V0.53.student">Tentacles, Squidward (A rather mean restaurant cashier) - Izzyox, V0.53.student</a>
 

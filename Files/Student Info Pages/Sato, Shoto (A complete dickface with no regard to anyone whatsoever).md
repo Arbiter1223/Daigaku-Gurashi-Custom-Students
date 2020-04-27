@@ -12,7 +12,11 @@ Description: A complete dickface with no regard to anyone whatsoever
 
 Author: kami
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/31/2019
+
+Created in version: V0.32
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sato%2C%20Shoto%20(A%20complete%20dickface%20with%20no%20regard%20to%20anyone%20whatsoever)%20-%20kami%2C%20V0.53.student">Sato, Shoto (A complete dickface with no regard to anyone whatsoever) - kami, V0.53.student</a>
 

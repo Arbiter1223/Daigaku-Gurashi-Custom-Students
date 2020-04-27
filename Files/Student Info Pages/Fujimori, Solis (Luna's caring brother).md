@@ -12,7 +12,11 @@ Description: Luna's caring brother
 
 Author: Mira
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/6/2019
+
+Created in version: V0.35
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fujimori%2C%20Solis%20(Luna's%20caring%20brother)%20-%20Mira%2C%20V0.53.student">Fujimori, Solis (Luna's caring brother) - Mira, V0.53.student</a>
 

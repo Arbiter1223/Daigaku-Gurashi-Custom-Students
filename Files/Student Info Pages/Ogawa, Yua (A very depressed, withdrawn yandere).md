@@ -12,7 +12,11 @@ Description: A very depressed, withdrawn yandere
 
 Author: Rando Studenta
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/16/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ogawa%2C%20Yua%20(A%20very%20depressed%2C%20withdrawn%20yandere)%20-%20Rando%20Studenta%2C%20V0.53.student">Ogawa, Yua (A very depressed, withdrawn yandere) - Rando Studenta, V0.53.student</a>
 

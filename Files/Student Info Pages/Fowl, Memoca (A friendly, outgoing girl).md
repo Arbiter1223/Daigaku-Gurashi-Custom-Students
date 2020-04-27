@@ -12,7 +12,11 @@ Description: A friendly, outgoing girl
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 2/9/2019
+
+Created in version: V0.30
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fowl%2C%20Memoca%20(A%20friendly%2C%20outgoing%20girl)%20-%20sansrika%2C%20V0.53.student">Fowl, Memoca (A friendly, outgoing girl) - sansrika, V0.53.student</a>
 

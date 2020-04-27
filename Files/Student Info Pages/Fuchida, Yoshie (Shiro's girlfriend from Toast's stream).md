@@ -12,7 +12,11 @@ Description: Shiro's girlfriend from Toast's stream
 
 Author: Toast
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/28/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fuchida%2C%20Yoshie%20(Shiro's%20girlfriend%20from%20Toast's%20stream)%20-%20Toast%2C%20V0.53.student">Fuchida, Yoshie (Shiro's girlfriend from Toast's stream) - Toast, V0.53.student</a>
 

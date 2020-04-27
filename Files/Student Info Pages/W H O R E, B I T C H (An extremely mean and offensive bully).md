@@ -12,7 +12,11 @@ Description: An extremely mean and offensive bully
 
 Author: Borkington Doggo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 2/7/2019
+
+Created in version: V0.30
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/W%20H%20O%20R%20E%2C%20B%20I%20T%20C%20H%20(An%20extremely%20mean%20and%20offensive%20bully)%20-%20Borkington%20Doggo%2C%20V0.53.student">W H O R E, B I T C H (An extremely mean and offensive bully) - Borkington Doggo, V0.53.student</a>
 

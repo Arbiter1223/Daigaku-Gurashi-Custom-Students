@@ -12,7 +12,11 @@ Description: A masochistic but friendly, nerdy girl
 
 Author: ghoul
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/28/2019
+
+Created in version: V0.32
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Haruki%2C%20Ayaka%20(A%20masochistic%20but%20friendly%2C%20nerdy%20girl)%20-%20ghoul%2C%20V0.53.student">Haruki, Ayaka (A masochistic but friendly, nerdy girl) - ghoul, V0.53.student</a>
 

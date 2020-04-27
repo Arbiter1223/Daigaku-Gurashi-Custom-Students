@@ -12,7 +12,11 @@ Description: A shy anime nerd
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/13/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hokusai%2C%20Ichigo%20(A%20shy%20anime%20nerd)%20-%20Aho-chan%2C%20V0.53.student">Hokusai, Ichigo (A shy anime nerd) - Aho-chan, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: The middle child of the Sammich sisters, a very optimistic girl tha
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/22/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sammich%2C%20Jellie%20(The%20middle%20child%20of%20the%20Sammich%20sisters%2C%20a%20very%20optimistic%20girl%20that%20likes%20everything)%20-%20AjTheYandere%2C%20V0.53.student">Sammich, Jellie (The middle child of the Sammich sisters, a very optimistic girl that likes everything) - AjTheYandere, V0.53.student</a>
 

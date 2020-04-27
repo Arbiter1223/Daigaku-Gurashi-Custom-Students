@@ -12,7 +12,11 @@ Description: An unfriendly, rude kuudere guy
 
 Author: VT
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/17/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yosano%2C%20Robaato%20(An%20unfriendly%2C%20rude%20kuudere%20guy)%20-%20VT%2C%20V0.53.student">Yosano, Robaato (An unfriendly, rude kuudere guy) - VT, V0.53.student</a>
 

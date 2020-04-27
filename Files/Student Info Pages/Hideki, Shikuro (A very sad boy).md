@@ -12,7 +12,11 @@ Description: A very sad boy
 
 Author: screaming kiwi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/16/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hideki%2C%20Shikuro%20(A%20very%20sad%20boy)%20-%20screaming%20kiwi%2C%20V0.53.student">Hideki, Shikuro (A very sad boy) - screaming kiwi, V0.53.student</a>
 

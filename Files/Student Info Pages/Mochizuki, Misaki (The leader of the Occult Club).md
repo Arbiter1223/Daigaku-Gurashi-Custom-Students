@@ -12,7 +12,11 @@ Description: The leader of the Occult Club
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/13/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Mochizuki%2C%20Misaki%20(The%20leader%20of%20the%20Occult%20Club)%20-%20Aho-chan%2C%20V0.53.student">Mochizuki, Misaki (The leader of the Occult Club) - Aho-chan, V0.53.student</a>
 

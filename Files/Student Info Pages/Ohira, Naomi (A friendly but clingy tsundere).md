@@ -12,7 +12,11 @@ Description: A friendly but clingy tsundere
 
 Author: RainB
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/2/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ohira%2C%20Naomi%20(A%20friendly%20but%20clingy%20tsundere)%20-%20RainB%2C%20V0.53.student">Ohira, Naomi (A friendly but clingy tsundere) - RainB, V0.53.student</a>
 

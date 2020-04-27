@@ -12,7 +12,11 @@ Description: A sweet anime fangirl
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kahae%2C%20Sango%20(A%20sweet%20anime%20fangirl)%20-%20AjTheYandere%2C%20V0.53.student">Kahae, Sango (A sweet anime fangirl) - AjTheYandere, V0.53.student</a>
 

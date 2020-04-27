@@ -12,7 +12,11 @@ Description: The original protagonist of Daigaku Gurashi
 
 Author: yogima
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 1/5/2020
+
+Created in version: V0.47
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Anami%2C%20Shiro%20(The%20original%20protagonist%20of%20Daigaku%20Gurashi)%20-%20yogima%2C%20V0.53.student">Anami, Shiro (The original protagonist of Daigaku Gurashi) - yogima, V0.53.student</a>
 

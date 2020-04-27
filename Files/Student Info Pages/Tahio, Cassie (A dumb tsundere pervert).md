@@ -12,7 +12,11 @@ Description: A dumb tsundere pervert
 
 Author: PoodgeYT
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/10/2019
+
+Created in version: V0.31
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tahio%2C%20Cassie%20(A%20dumb%20tsundere%20pervert)%20-%20PoodgeYT%2C%20V0.53.student">Tahio, Cassie (A dumb tsundere pervert) - PoodgeYT, V0.53.student</a>
 

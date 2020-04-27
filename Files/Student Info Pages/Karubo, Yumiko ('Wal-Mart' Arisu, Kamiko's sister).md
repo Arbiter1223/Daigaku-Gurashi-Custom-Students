@@ -12,7 +12,11 @@ Description: 'Wal-Mart' Arisu, Kamiko's sister
 
 Author: AjTheYandere and Arbiter1223
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/4/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Karubo%2C%20Yumiko%20('Wal-Mart'%20Arisu%2C%20Kamiko's%20sister)%20-%20AjTheYandere%20and%20Arbiter1223%2C%20V0.53.student">Karubo, Yumiko ('Wal-Mart' Arisu, Kamiko's sister) - AjTheYandere and Arbiter1223, V0.53.student</a>
 

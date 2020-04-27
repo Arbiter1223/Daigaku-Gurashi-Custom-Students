@@ -12,7 +12,11 @@ Description: An undead zombie student
 
 Author: YamiToast
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/22/2020
+
+Created in version: V0.53
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shitai%2C%20Kanoke%20(An%20undead%20zombie%20student)%20-%20YamiToast%2C%20V0.53.student">Shitai, Kanoke (An undead zombie student) - YamiToast, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: Hexu as a female
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/4/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ina%2C%20Hexu(Female)%20(Hexu%20as%20a%20female)%20-%20AjTheYandere%2C%20V0.53.student">Ina, Hexu(Female) (Hexu as a female) - AjTheYandere, V0.53.student</a>
 

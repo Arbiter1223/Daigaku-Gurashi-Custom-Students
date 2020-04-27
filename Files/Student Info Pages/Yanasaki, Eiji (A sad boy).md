@@ -12,7 +12,11 @@ Description: A sad boy
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/10/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yanasaki%2C%20Eiji%20(A%20sad%20boy)%20-%20Syberian%20Inc%2C%20V0.53.student">Yanasaki, Eiji (A sad boy) - Syberian Inc, V0.53.student</a>
 

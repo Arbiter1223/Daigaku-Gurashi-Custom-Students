@@ -12,7 +12,11 @@ Description: A somewhat pervy gamer
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/6/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Miki%2C%20Gemin%20(A%20somewhat%20pervy%20gamer)%20-%20BenPupKao%2C%20V0.53.student">Miki, Gemin (A somewhat pervy gamer) - BenPupKao, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A sweet boy who loves baking
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/13/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ishimura%2C%20Cookie%20(A%20sweet%20boy%20who%20loves%20baking)%20-%20BenPupKao%2C%20V0.53.student">Ishimura, Cookie (A sweet boy who loves baking) - BenPupKao, V0.53.student</a>
 

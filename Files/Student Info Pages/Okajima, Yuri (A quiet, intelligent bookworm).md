@@ -12,7 +12,11 @@ Description: A quiet, intelligent bookworm
 
 Author: Kitten
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/17/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Okajima%2C%20Yuri%20(A%20quiet%2C%20intelligent%20bookworm)%20-%20Kitten%2C%20V0.53.student">Okajima, Yuri (A quiet, intelligent bookworm) - Kitten, V0.53.student</a>
 

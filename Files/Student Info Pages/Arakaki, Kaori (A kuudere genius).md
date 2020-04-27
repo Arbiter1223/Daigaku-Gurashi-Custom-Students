@@ -12,7 +12,11 @@ Description: A kuudere genius
 
 Author: Duck-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/4/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Arakaki%2C%20Kaori%20(A%20kuudere%20genius)%20-%20Duck-chan%2C%20V0.53.student">Arakaki, Kaori (A kuudere genius) - Duck-chan, V0.53.student</a>
 

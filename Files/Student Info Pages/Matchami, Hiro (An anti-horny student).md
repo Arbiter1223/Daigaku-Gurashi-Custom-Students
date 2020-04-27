@@ -12,7 +12,11 @@ Description: An anti-horny student
 
 Author: junie
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 5/30/2019
+
+Created in version: V0.35
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Matchami%2C%20Hiro%20(An%20anti-horny%20student)%20-%20junie%2C%20V0.53.student">Matchami, Hiro (An anti-horny student) - junie, V0.53.student</a>
 

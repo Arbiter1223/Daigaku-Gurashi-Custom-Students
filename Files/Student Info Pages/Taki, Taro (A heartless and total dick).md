@@ -12,7 +12,11 @@ Description: A heartless and total dick
 
 Author: Snowy
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/6/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Taki%2C%20Taro%20(A%20heartless%20and%20total%20dick)%20-%20Snowy%2C%20V0.53.student">Taki, Taro (A heartless and total dick) - Snowy, V0.53.student</a>
 

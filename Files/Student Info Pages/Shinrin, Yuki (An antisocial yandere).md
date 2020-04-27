@@ -12,7 +12,11 @@ Description: An antisocial yandere
 
 Author: snowy
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 5/30/2019
+
+Created in version: V0.35
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shinrin%2C%20Yuki%20(An%20antisocial%20yandere)%20-%20snowy%2C%20V0.53.student">Shinrin, Yuki (An antisocial yandere) - snowy, V0.53.student</a>
 

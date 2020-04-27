@@ -12,7 +12,11 @@ Description: A scheeming bridie whos is a bit of a jerk
 
 Author: Grandma Kipali
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 2/26/2020
+
+Created in version: V0.49
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Torino%2C%20Kao%20(A%20scheeming%20bridie%20whos%20is%20a%20bit%20of%20a%20jerk)%20-%20Grandma%20Kipali%2C%20V0.53.student">Torino, Kao (A scheeming bridie whos is a bit of a jerk) - Grandma Kipali, V0.53.student</a>
 

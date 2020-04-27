@@ -12,7 +12,11 @@ Description: A clueless, clumsy girl
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/17/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Deushi%2C%20Baka%20(A%20clueless%2C%20clumsy%20girl)%20-%20Aho-chan%2C%20V0.53.student">Deushi, Baka (A clueless, clumsy girl) - Aho-chan, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A shy girl with very colorful stockings (AKA the Multivitamin Stude
 
 Author: chalk_girl
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/5/2019
+
+Created in version: V0.43
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sakakibara%2C%20Satu%20(A%20shy%20girl%20with%20very%20colorful%20stockings%20(AKA%20the%20Multivitamin%20Student))%20-%20chalk_girl%2C%20V0.53.student">Sakakibara, Satu (A shy girl with very colorful stockings (AKA the Multivitamin Student)) - chalk_girl, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A heartless yandere bully
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/13/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Karube%2C%20Teresa%20(A%20heartless%20yandere%20bully)%20-%20AjTheYandere%2C%20V0.53.student">Karube, Teresa (A heartless yandere bully) - AjTheYandere, V0.53.student</a>
 

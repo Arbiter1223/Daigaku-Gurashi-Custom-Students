@@ -12,7 +12,11 @@ Description: Camden's Danganronpa OC
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/28/2019
+
+Created in version: V0.32
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Murdoch%2C%20Oliver%20(Camden's%20Danganronpa%20OC)%20-%20Camden%2C%20V0.53.student">Murdoch, Oliver (Camden's Danganronpa OC) - Camden, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A lustful masochist and gay witch
 
 Author: Sivin pas
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 5/29/2019
+
+Created in version: V0.35
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yokubo%2C%20Yudokuna%20(A%20lustful%20masochist%20and%20gay%20witch)%20-%20Sivin%20pas%2C%20V0.53.student">Yokubo, Yudokuna (A lustful masochist and gay witch) - Sivin pas, V0.53.student</a>
 

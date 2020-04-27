@@ -12,7 +12,11 @@ Description: A girl with superpowers
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shiratori%2C%20Chihiro%20(A%20girl%20with%20superpowers)%20-%20AjTheYandere%2C%20V0.53.student">Shiratori, Chihiro (A girl with superpowers) - AjTheYandere, V0.53.student</a>
 

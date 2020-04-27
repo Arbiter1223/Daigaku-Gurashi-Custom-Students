@@ -12,7 +12,11 @@ Description: A masochist girl who likes everything
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/4/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Abe%2C%20Katrina%20(A%20masochist%20girl%20who%20likes%20everything)%20-%20AjTheYandere%2C%20V0.53.student">Abe, Katrina (A masochist girl who likes everything) - AjTheYandere, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A shy, innocent girl who is secrety a masochist
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/10/2019
+
+Created in version: V0.31
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/GuddoIn%2C%20Rokusanu%20(A%20shy%2C%20innocent%20girl%20who%20is%20secrety%20a%20masochist)%20-%20Camden%2C%20V0.53.student">GuddoIn, Rokusanu (A shy, innocent girl who is secrety a masochist) - Camden, V0.53.student</a>
 

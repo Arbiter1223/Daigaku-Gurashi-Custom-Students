@@ -12,7 +12,11 @@ Description: A boy whose emotions are always changing
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ochida%2C%20Tadashi%20(A%20boy%20whose%20emotions%20are%20always%20changing)%20-%20AjTheYandere%2C%20V0.53.student">Ochida, Tadashi (A boy whose emotions are always changing) - AjTheYandere, V0.53.student</a>
 

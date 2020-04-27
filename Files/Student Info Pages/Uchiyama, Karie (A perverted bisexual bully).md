@@ -12,7 +12,11 @@ Description: A perverted bisexual bully
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/9/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Uchiyama%2C%20Karie%20(A%20perverted%20bisexual%20bully)%20-%20AjTheYandere%2C%20V0.53.student">Uchiyama, Karie (A perverted bisexual bully) - AjTheYandere, V0.53.student</a>
 

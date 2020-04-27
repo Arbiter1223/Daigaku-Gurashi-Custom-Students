@@ -12,7 +12,11 @@ Description: A confident futanari who hates school
 
 Author: CookieBoi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/11/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Umari%2C%20Kimiko%20(A%20confident%20futanari%20who%20hates%20school)%20-%20CookieBoi%2C%20V0.53.student">Umari, Kimiko (A confident futanari who hates school) - CookieBoi, V0.53.student</a>
 

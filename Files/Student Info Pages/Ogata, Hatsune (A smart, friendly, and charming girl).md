@@ -12,7 +12,11 @@ Description: A smart, friendly, and charming girl
 
 Author: Hatsune
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/23/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ogata%2C%20Hatsune%20(A%20smart%2C%20friendly%2C%20and%20charming%20girl)%20-%20Hatsune%2C%20V0.53.student">Ogata, Hatsune (A smart, friendly, and charming girl) - Hatsune, V0.53.student</a>
 

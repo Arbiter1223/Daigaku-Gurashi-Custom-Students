@@ -12,7 +12,11 @@ Description: A cheerful blonde neko girl
 
 Author: Arbiter1223
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/6/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nyanako%2C%20Jennyafur%20(A%20cheerful%20blonde%20neko%20girl)%20-%20Arbiter1223%2C%20V0.53.student">Nyanako, Jennyafur (A cheerful blonde neko girl) - Arbiter1223, V0.53.student</a>
 

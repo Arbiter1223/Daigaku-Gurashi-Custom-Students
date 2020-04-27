@@ -12,7 +12,11 @@ Description: A rather timid occult boy
 
 Author: Rando Studenta
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/16/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Daishi%2C%20Naosuki%20(A%20rather%20timid%20occult%20boy)%20-%20Rando%20Studenta%2C%20V0.53.student">Daishi, Naosuki (A rather timid occult boy) - Rando Studenta, V0.53.student</a>
 

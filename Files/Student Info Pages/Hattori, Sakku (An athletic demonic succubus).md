@@ -12,7 +12,11 @@ Description: An athletic demonic succubus
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/13/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hattori%2C%20Sakku%20(An%20athletic%20demonic%20succubus)%20-%20LowkeyHomo%2C%20V0.53.student">Hattori, Sakku (An athletic demonic succubus) - LowkeyHomo, V0.53.student</a>
 

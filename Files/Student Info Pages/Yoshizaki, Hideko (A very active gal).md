@@ -12,7 +12,11 @@ Description: A very active gal
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yoshizaki%2C%20Hideko%20(A%20very%20active%20gal)%20-%20AjTheYandere%2C%20V0.53.student">Yoshizaki, Hideko (A very active gal) - AjTheYandere, V0.53.student</a>
 

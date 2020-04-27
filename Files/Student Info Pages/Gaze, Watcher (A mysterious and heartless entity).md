@@ -12,7 +12,11 @@ Description: A mysterious and heartless entity
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/10/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Gaze%2C%20Watcher%20(A%20mysterious%20and%20heartless%20entity)%20-%20AjTheYandere%2C%20V0.53.student">Gaze, Watcher (A mysterious and heartless entity) - AjTheYandere, V0.53.student</a>
 

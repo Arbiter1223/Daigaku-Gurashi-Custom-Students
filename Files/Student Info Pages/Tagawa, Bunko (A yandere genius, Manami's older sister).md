@@ -12,7 +12,11 @@ Description: A yandere genius, Manami's older sister
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/5/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tagawa%2C%20Bunko%20(A%20yandere%20genius%2C%20Manami's%20older%20sister)%20-%20Aho-chan%2C%20V0.53.student">Tagawa, Bunko (A yandere genius, Manami's older sister) - Aho-chan, V0.53.student</a>
 

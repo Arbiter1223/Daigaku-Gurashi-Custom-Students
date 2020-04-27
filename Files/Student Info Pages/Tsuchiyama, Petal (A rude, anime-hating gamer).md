@@ -12,7 +12,11 @@ Description: A rude, anime-hating gamer
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/6/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tsuchiyama%2C%20Petal%20(A%20rude%2C%20anime-hating%20gamer)%20-%20BenPupKao%2C%20V0.53.student">Tsuchiyama, Petal (A rude, anime-hating gamer) - BenPupKao, V0.53.student</a>
 

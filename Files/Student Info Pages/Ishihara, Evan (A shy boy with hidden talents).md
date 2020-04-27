@@ -12,7 +12,11 @@ Description: A shy boy with hidden talents
 
 Author: Heroic_Moron
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/28/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ishihara%2C%20Evan%20(A%20shy%20boy%20with%20hidden%20talents)%20-%20Heroic_Moron%2C%20V0.53.student">Ishihara, Evan (A shy boy with hidden talents) - Heroic_Moron, V0.53.student</a>
 

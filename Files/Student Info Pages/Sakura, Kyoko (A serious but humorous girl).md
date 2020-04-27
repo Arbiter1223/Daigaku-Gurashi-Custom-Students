@@ -12,7 +12,11 @@ Description: A serious but humorous girl
 
 Author: Cookie Boi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/26/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sakura%2C%20Kyoko%20(A%20serious%20but%20humorous%20girl)%20-%20Cookie%20Boi%2C%20V0.53.student">Sakura, Kyoko (A serious but humorous girl) - Cookie Boi, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A quiet but strong girl
 
 Author: Rando Studenta
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/9/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Izawa%2C%20Tsukiko%20(A%20quiet%20but%20strong%20girl)%20-%20Rando%20Studenta%2C%20V0.53.student">Izawa, Tsukiko (A quiet but strong girl) - Rando Studenta, V0.53.student</a>
 

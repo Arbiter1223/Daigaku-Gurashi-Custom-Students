@@ -12,7 +12,11 @@ Description: A masochistic tsundere athlete
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fukumoto%2C%20Eikichi%20(A%20masochistic%20tsundere%20athlete)%20-%20AjTheYandere%2C%20V0.53.student">Fukumoto, Eikichi (A masochistic tsundere athlete) - AjTheYandere, V0.53.student</a>
 

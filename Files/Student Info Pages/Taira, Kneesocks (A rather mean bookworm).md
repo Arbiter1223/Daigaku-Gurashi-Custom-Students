@@ -12,7 +12,11 @@ Description: A rather mean bookworm
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/10/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Taira%2C%20Kneesocks%20(A%20rather%20mean%20bookworm)%20-%20Syberian%20Inc%2C%20V0.53.student">Taira, Kneesocks (A rather mean bookworm) - Syberian Inc, V0.53.student</a>
 

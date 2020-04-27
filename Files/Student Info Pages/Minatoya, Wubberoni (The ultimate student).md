@@ -12,7 +12,11 @@ Description: The ultimate student
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/8/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Minatoya%2C%20Wubberoni%20(The%20ultimate%20student)%20-%20BenPupKao%2C%20V0.53.student">Minatoya, Wubberoni (The ultimate student) - BenPupKao, V0.53.student</a>
 

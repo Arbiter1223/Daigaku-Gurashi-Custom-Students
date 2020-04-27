@@ -12,7 +12,11 @@ Description: An overconfident but smart child
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/24/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Dan%2C%20Hiroshi%20(An%20overconfident%20but%20smart%20child)%20-%20Camden%2C%20V0.53.student">Dan, Hiroshi (An overconfident but smart child) - Camden, V0.53.student</a>
 

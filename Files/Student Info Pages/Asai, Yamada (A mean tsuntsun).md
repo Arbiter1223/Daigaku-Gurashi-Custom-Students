@@ -12,7 +12,11 @@ Description: A mean tsuntsun
 
 Author: marvinjean9
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Asai%2C%20Yamada%20(A%20mean%20tsuntsun)%20-%20marvinjean9%2C%20V0.53.student">Asai, Yamada (A mean tsuntsun) - marvinjean9, V0.53.student</a>
 

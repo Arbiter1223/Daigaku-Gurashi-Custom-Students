@@ -12,7 +12,11 @@ Description: A rather average guy
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/14/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Strider%2C%20Dave%20(A%20rather%20average%20guy)%20-%20Camden%2C%20V0.53.student">Strider, Dave (A rather average guy) - Camden, V0.53.student</a>
 

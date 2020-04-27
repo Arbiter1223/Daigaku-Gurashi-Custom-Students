@@ -12,7 +12,11 @@ Description: An unfun and unfriendly super perv
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 1/13/2019
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ariwa%2C%20Yuri%20(An%20unfun%20and%20unfriendly%20super%20perv)%20-%20Camden%2C%20V0.53.student">Ariwa, Yuri (An unfun and unfriendly super perv) - Camden, V0.53.student</a>
 

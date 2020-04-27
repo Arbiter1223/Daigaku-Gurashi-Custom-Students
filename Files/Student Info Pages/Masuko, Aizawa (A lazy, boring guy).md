@@ -12,7 +12,11 @@ Description: A lazy, boring guy
 
 Author: ClownPrinceOfLies
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/25/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Masuko%2C%20Aizawa%20(A%20lazy%2C%20boring%20guy)%20-%20ClownPrinceOfLies%2C%20V0.53.student">Masuko, Aizawa (A lazy, boring guy) - ClownPrinceOfLies, V0.53.student</a>
 

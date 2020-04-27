@@ -12,7 +12,11 @@ Description: A shy and depressed student
 
 Author: screaming kiwi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/1/2019
+
+Created in version: V0.41
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Orikitso%2C%20Yiku%20(A%20shy%20and%20depressed%20student)%20-%20screaming%20kiwi%2C%20V0.53.student">Orikitso, Yiku (A shy and depressed student) - screaming kiwi, V0.53.student</a>
 

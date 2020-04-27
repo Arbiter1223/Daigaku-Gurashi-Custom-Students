@@ -12,7 +12,11 @@ Description: A cute but surprisingly kuudere girl
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/29/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kajahara%2C%20Chi%20(A%20cute%20but%20surprisingly%20kuudere%20girl)%20-%20Syberian%20Inc%2C%20V0.53.student">Kajahara, Chi (A cute but surprisingly kuudere girl) - Syberian Inc, V0.53.student</a>
 

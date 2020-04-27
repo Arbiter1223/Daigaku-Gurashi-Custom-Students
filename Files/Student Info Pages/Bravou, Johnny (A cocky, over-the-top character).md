@@ -12,7 +12,11 @@ Description: A cocky, over-the-top character
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/12/2019
+
+Created in version: V0.32
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Bravou%2C%20Johnny%20(A%20cocky%2C%20over-the-top%20character)%20-%20sansrika%2C%20V0.53.student">Bravou, Johnny (A cocky, over-the-top character) - sansrika, V0.53.student</a>
 

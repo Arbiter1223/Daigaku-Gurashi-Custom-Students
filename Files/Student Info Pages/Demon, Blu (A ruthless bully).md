@@ -12,7 +12,11 @@ Description: A ruthless bully
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/2/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Demon%2C%20Blu%20(A%20ruthless%20bully)%20-%20Camden%2C%20V0.53.student">Demon, Blu (A ruthless bully) - Camden, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A kuudere with ram-horns
 
 Author: YamiToast
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/30/2018
+
+Created in version: V0.23
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Maki%2C%20Mayo%20(A%20kuudere%20with%20ram-horns)%20-%20YamiToast%2C%20V0.53.student">Maki, Mayo (A kuudere with ram-horns) - YamiToast, V0.53.student</a>
 

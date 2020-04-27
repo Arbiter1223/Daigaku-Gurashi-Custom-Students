@@ -12,7 +12,11 @@ Description: A mean, depressed athletic girl
 
 Author: Retsuko
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/9/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Umehara%2C%20Tomiko%20(A%20mean%2C%20depressed%20athletic%20girl)%20-%20Retsuko%2C%20V0.53.student">Umehara, Tomiko (A mean, depressed athletic girl) - Retsuko, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: An anime-obsessed fangirl
 
 Author: Midnight Kitsune
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/25/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kobayashi%2C%20Ayumi%20(An%20anime-obsessed%20fangirl)%20-%20Midnight%20Kitsune%2C%20V0.53.student">Kobayashi, Ayumi (An anime-obsessed fangirl) - Midnight Kitsune, V0.53.student</a>
 

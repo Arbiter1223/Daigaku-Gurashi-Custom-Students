@@ -12,7 +12,11 @@ Description: A girl who strangely resembles a strawberry
 
 Author: Azumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/7/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakasone%2C%20Excel%20(A%20girl%20who%20strangely%20resembles%20a%20strawberry)%20-%20Azumi%2C%20V0.53.student">Nakasone, Excel (A girl who strangely resembles a strawberry) - Azumi, V0.53.student</a>
 

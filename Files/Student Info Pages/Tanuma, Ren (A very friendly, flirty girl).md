@@ -12,7 +12,11 @@ Description: A very friendly, flirty girl
 
 Author: Rando Studenta
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/16/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tanuma%2C%20Ren%20(A%20very%20friendly%2C%20flirty%20girl)%20-%20Rando%20Studenta%2C%20V0.53.student">Tanuma, Ren (A very friendly, flirty girl) - Rando Studenta, V0.53.student</a>
 

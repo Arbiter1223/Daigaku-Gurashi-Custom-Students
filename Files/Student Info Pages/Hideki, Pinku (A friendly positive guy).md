@@ -12,7 +12,11 @@ Description: A friendly positive guy
 
 Author: YamiToast
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/20/2018
+
+Created in version: V0.22
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hideki%2C%20Pinku%20(A%20friendly%20positive%20guy)%20-%20YamiToast%2C%20V0.53.student">Hideki, Pinku (A friendly positive guy) - YamiToast, V0.53.student</a>
 

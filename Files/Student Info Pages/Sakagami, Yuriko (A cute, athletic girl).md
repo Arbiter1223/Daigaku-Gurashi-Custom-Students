@@ -12,7 +12,11 @@ Description: A cute, athletic girl
 
 Author: Azumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/9/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sakagami%2C%20Yuriko%20(A%20cute%2C%20athletic%20girl)%20-%20Azumi%2C%20V0.53.student">Sakagami, Yuriko (A cute, athletic girl) - Azumi, V0.53.student</a>
 

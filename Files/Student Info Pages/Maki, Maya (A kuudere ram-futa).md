@@ -12,7 +12,11 @@ Description: A kuudere ram-futa
 
 Author: Arbiter1223
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/30/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Maki%2C%20Maya%20(A%20kuudere%20ram-futa)%20-%20Arbiter1223%2C%20V0.53.student">Maki, Maya (A kuudere ram-futa) - Arbiter1223, V0.53.student</a>
 

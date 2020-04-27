@@ -12,7 +12,11 @@ Description: A rather distant sweetie
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/21/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fumihiko%2C%20Harumi%20(A%20rather%20distant%20sweetie)%20-%20AjTheYandere%2C%20V0.53.student">Fumihiko, Harumi (A rather distant sweetie) - AjTheYandere, V0.53.student</a>
 

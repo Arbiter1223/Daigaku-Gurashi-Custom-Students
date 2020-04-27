@@ -12,7 +12,11 @@ Description: A guy with a perverted sense of humor
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ikina%2C%20Hisashi%20(A%20guy%20with%20a%20perverted%20sense%20of%20humor)%20-%20AjTheYandere%2C%20V0.53.student">Ikina, Hisashi (A guy with a perverted sense of humor) - AjTheYandere, V0.53.student</a>
 

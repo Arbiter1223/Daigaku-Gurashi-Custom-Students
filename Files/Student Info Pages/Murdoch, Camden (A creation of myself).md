@@ -12,7 +12,11 @@ Description: A creation of myself
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/18/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Murdoch%2C%20Camden%20(A%20creation%20of%20myself)%20-%20Camden%2C%20V0.53.student">Murdoch, Camden (A creation of myself) - Camden, V0.53.student</a>
 

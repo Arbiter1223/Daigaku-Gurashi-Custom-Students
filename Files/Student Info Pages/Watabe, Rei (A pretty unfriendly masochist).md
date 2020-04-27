@@ -12,7 +12,11 @@ Description: A pretty unfriendly masochist
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Watabe%2C%20Rei%20(A%20pretty%20unfriendly%20masochist)%20-%20AjTheYandere%2C%20V0.53.student">Watabe, Rei (A pretty unfriendly masochist) - AjTheYandere, V0.53.student</a>
 

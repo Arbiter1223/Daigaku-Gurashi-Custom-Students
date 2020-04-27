@@ -12,7 +12,11 @@ Description: Arisu's older, nicer sister
 
 Author: Arbiter1223
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/8/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tenjouhime%2C%20Arisa%20(Arisu's%20older%2C%20nicer%20sister)%20-%20Arbiter1223%2C%20V0.53.student">Tenjouhime, Arisa (Arisu's older, nicer sister) - Arbiter1223, V0.53.student</a>
 

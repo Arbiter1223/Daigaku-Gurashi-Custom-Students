@@ -12,7 +12,11 @@ Description: A friendly otaku
 
 Author: Jefo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/11/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sakanoue%2C%20Shinichi%20(A%20friendly%20otaku)%20-%20Jefo%2C%20V0.53.student">Sakanoue, Shinichi (A friendly otaku) - Jefo, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: President of the Literature Club
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/4/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ashcraft%2C%20Monika%20(President%20of%20the%20Literature%20Club)%20-%20Aho-chan%2C%20V0.53.student">Ashcraft, Monika (President of the Literature Club) - Aho-chan, V0.53.student</a>
 

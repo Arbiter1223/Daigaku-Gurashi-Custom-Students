@@ -12,7 +12,11 @@ Description: A nerdy futanari
 
 Author: Obese Cat
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/5/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Svart%2C%20Himmel%20(A%20nerdy%20futanari)%20-%20Obese%20Cat%2C%20V0.53.student">Svart, Himmel (A nerdy futanari) - Obese Cat, V0.53.student</a>
 

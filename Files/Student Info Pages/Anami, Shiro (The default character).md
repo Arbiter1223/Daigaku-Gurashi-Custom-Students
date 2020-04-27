@@ -12,7 +12,11 @@ Description: The default character
 
 Author: YamiToast
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Anami%2C%20Shiro%20(The%20default%20character)%20-%20YamiToast%2C%20V0.53.student">Anami, Shiro (The default character) - YamiToast, V0.53.student</a>
 

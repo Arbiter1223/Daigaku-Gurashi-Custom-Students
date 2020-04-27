@@ -12,7 +12,11 @@ Description: A very nice musician
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shichirobei%2C%20Taro%20(A%20very%20nice%20musician)%20-%20AjTheYandere%2C%20V0.53.student">Shichirobei, Taro (A very nice musician) - AjTheYandere, V0.53.student</a>
 

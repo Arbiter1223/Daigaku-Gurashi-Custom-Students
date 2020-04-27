@@ -12,7 +12,11 @@ Description: Your typical Main Character
 
 Author: Kitten
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/17/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Character%2C%20Main%20(Your%20typical%20Main%20Character)%20-%20Kitten%2C%20V0.53.student">Character, Main (Your typical Main Character) - Kitten, V0.53.student</a>
 

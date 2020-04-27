@@ -12,7 +12,11 @@ Description: July's festive girlfriend
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/24/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ui%2C%20Hotaru%20(July's%20festive%20girlfriend)%20-%20Syberian%20Inc%2C%20V0.53.student">Ui, Hotaru (July's festive girlfriend) - Syberian Inc, V0.53.student</a>
 

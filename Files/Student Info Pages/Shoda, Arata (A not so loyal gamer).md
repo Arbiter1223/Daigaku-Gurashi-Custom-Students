@@ -12,7 +12,11 @@ Description: A not so loyal gamer
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shoda%2C%20Arata%20(A%20not%20so%20loyal%20gamer)%20-%20AjTheYandere%2C%20V0.53.student">Shoda, Arata (A not so loyal gamer) - AjTheYandere, V0.53.student</a>
 

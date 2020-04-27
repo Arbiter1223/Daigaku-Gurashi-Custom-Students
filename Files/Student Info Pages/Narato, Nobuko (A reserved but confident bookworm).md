@@ -12,7 +12,11 @@ Description: A reserved but confident bookworm
 
 Author: Rando Studenta
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/9/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Narato%2C%20Nobuko%20(A%20reserved%20but%20confident%20bookworm)%20-%20Rando%20Studenta%2C%20V0.53.student">Narato, Nobuko (A reserved but confident bookworm) - Rando Studenta, V0.53.student</a>
 

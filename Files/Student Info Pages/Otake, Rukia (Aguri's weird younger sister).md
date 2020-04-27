@@ -12,7 +12,11 @@ Description: Aguri's weird younger sister
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Otake%2C%20Rukia%20(Aguri's%20weird%20younger%20sister)%20-%20Aho-chan%2C%20V0.53.student">Otake, Rukia (Aguri's weird younger sister) - Aho-chan, V0.53.student</a>
 

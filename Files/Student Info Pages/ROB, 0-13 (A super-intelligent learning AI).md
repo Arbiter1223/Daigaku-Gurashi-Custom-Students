@@ -12,7 +12,11 @@ Description: A super-intelligent learning AI
 
 Author: Emily
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 1/27/2020
+
+Created in version: V0.47
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/ROB%2C%200-13%20(A%20super-intelligent%20learning%20AI)%20-%20Emily%2C%20V0.53.student">ROB, 0-13 (A super-intelligent learning AI) - Emily, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A loving and incredibly nice boy
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shimizu%2C%20Masanori%20(A%20loving%20and%20incredibly%20nice%20boy)%20-%20AjTheYandere%2C%20V0.53.student">Shimizu, Masanori (A loving and incredibly nice boy) - AjTheYandere, V0.53.student</a>
 

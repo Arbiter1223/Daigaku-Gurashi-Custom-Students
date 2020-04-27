@@ -12,7 +12,11 @@ Description: Hexu as a male
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/4/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ina%2C%20Hexu(Male)%20(Hexu%20as%20a%20male)%20-%20AjTheYandere%2C%20V0.53.student">Ina, Hexu(Male) (Hexu as a male) - AjTheYandere, V0.53.student</a>
 

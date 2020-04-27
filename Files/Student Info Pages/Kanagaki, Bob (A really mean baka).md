@@ -12,7 +12,11 @@ Description: A really mean baka
 
 Author: Shiny
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 2/2/2019
+
+Created in version: V0.30
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kanagaki%2C%20Bob%20(A%20really%20mean%20baka)%20-%20Shiny%2C%20V0.53.student">Kanagaki, Bob (A really mean baka) - Shiny, V0.53.student</a>
 

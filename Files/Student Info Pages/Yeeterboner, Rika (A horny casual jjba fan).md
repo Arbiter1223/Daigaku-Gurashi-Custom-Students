@@ -12,7 +12,11 @@ Description: A horny casual jjba fan
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 1/15/2019
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yeeterboner%2C%20Rika%20(A%20horny%20casual%20jjba%20fan)%20-%20sansrika%2C%20V0.53.student">Yeeterboner, Rika (A horny casual jjba fan) - sansrika, V0.53.student</a>
 

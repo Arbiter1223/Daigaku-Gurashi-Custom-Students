@@ -12,7 +12,11 @@ Description: A guy who loves to tell stories
 
 Author: screaming kiwi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 1/12/2020
+
+Created in version: V0.47
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Murasakino%2C%20Kosai%20(A%20guy%20who%20loves%20to%20tell%20stories)%20-%20screaming%20kiwi%2C%20V0.53.student">Murasakino, Kosai (A guy who loves to tell stories) - screaming kiwi, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A kuudere loner who hates everyone
 
 Author: kami
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/31/2019
+
+Created in version: V0.32
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Koshinori%2C%20Minami%20(A%20kuudere%20loner%20who%20hates%20everyone)%20-%20kami%2C%20V0.53.student">Koshinori, Minami (A kuudere loner who hates everyone) - kami, V0.53.student</a>
 

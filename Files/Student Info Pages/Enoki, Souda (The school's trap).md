@@ -12,7 +12,11 @@ Description: The school's trap
 
 Author: KGMN01
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/24/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Enoki%2C%20Souda%20(The%20school's%20trap)%20-%20KGMN01%2C%20V0.53.student">Enoki, Souda (The school's trap) - KGMN01, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: An all-around nice gal
 
 Author: Shadow and yogima
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Aishi%2C%20Ayano%20(An%20all-around%20nice%20gal)%20-%20Shadow%20and%20yogima%2C%20V0.53.student">Aishi, Ayano (An all-around nice gal) - Shadow and yogima, V0.53.student</a>
 

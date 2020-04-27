@@ -12,7 +12,11 @@ Description: Mayo's polite, confident gamer sister
 
 Author: Cookie Boi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/19/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Maki%2C%20Maieo%20(Mayo's%20polite%2C%20confident%20gamer%20sister)%20-%20Cookie%20Boi%2C%20V0.53.student">Maki, Maieo (Mayo's polite, confident gamer sister) - Cookie Boi, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A shy but sweet neko girl
 
 Author: Cookie Boi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/26/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Takeshita%2C%20Kyubey%20(A%20shy%20but%20sweet%20neko%20girl)%20-%20Cookie%20Boi%2C%20V0.53.student">Takeshita, Kyubey (A shy but sweet neko girl) - Cookie Boi, V0.53.student</a>
 

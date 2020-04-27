@@ -12,7 +12,11 @@ Description: A sweet and perverted demon girl
 
 Author: witcharies
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/16/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hino%2C%20Akane%20(A%20sweet%20and%20perverted%20demon%20girl)%20-%20witcharies%2C%20V0.53.student">Hino, Akane (A sweet and perverted demon girl) - witcharies, V0.53.student</a>
 

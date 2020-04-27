@@ -12,7 +12,11 @@ Description: A blind futanari who really enjoys audio-books
 
 Author: junie
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/7/2019
+
+Created in version: V0.35
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Whonami%2C%20Hwen%20(A%20blind%20futanari%20who%20really%20enjoys%20audio-books)%20-%20junie%2C%20V0.53.student">Whonami, Hwen (A blind futanari who really enjoys audio-books) - junie, V0.53.student</a>
 

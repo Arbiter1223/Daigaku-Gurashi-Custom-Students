@@ -12,7 +12,11 @@ Description: An all-around awesome futa
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/2/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Mishima%2C%20Tordki%20(An%20all-around%20awesome%20futa)%20-%20BenPupKao%2C%20V0.53.student">Mishima, Tordki (An all-around awesome futa) - BenPupKao, V0.53.student</a>
 

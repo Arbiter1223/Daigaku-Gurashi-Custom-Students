@@ -12,7 +12,11 @@ Description: An extremely bitchy and perverted futa
 
 Author: Nyanako
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/18/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ono%2C%20Akane%20(An%20extremely%20bitchy%20and%20perverted%20futa)%20-%20Nyanako%2C%20V0.53.student">Ono, Akane (An extremely bitchy and perverted futa) - Nyanako, V0.53.student</a>
 

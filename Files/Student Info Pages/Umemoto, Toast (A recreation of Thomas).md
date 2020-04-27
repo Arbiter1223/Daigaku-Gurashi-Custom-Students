@@ -12,7 +12,11 @@ Description: A recreation of Thomas
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/13/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Umemoto%2C%20Toast%20(A%20recreation%20of%20Thomas)%20-%20AjTheYandere%2C%20V0.53.student">Umemoto, Toast (A recreation of Thomas) - AjTheYandere, V0.53.student</a>
 

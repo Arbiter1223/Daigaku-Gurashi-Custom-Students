@@ -12,7 +12,11 @@ Description: A mean and depressed baka who hates everything
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 2/28/2019
+
+Created in version: V0.31
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Anami%2C%20Celty%20(A%20mean%20and%20depressed%20baka%20who%20hates%20everything)%20-%20sansrika%2C%20V0.53.student">Anami, Celty (A mean and depressed baka who hates everything) - sansrika, V0.53.student</a>
 

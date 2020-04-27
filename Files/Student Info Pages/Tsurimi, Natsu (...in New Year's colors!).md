@@ -12,7 +12,11 @@ Description: ...in New Year's colors!
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/16/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tsurimi%2C%20Natsu%20(...in%20New%20Year's%20colors!)%20-%20LowkeyHomo%2C%20V0.53.student">Tsurimi, Natsu (...in New Year's colors!) - LowkeyHomo, V0.53.student</a>
 

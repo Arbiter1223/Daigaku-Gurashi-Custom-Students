@@ -12,7 +12,11 @@ Description: Aj's pet cat
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/9/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Komatsu%2C%20Charlie%20(Aj's%20pet%20cat)%20-%20AjTheYandere%2C%20V0.53.student">Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.53.student</a>
 

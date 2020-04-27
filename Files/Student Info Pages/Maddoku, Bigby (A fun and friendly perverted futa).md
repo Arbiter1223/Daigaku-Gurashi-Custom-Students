@@ -12,7 +12,11 @@ Description: A fun and friendly perverted futa
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/13/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Maddoku%2C%20Bigby%20(A%20fun%20and%20friendly%20perverted%20futa)%20-%20Camden%2C%20V0.53.student">Maddoku, Bigby (A fun and friendly perverted futa) - Camden, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A smart lesbian who likes to bully people
 
 Author: Mira
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/11/2019
+
+Created in version: V0.32
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ozaki%2C%20Akira%20(A%20smart%20lesbian%20who%20likes%20to%20bully%20people)%20-%20Mira%2C%20V0.53.student">Ozaki, Akira (A smart lesbian who likes to bully people) - Mira, V0.53.student</a>
 

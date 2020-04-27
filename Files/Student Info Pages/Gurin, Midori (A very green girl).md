@@ -12,7 +12,11 @@ Description: A very green girl
 
 Author: Galaxy gurl
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/19/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Gurin%2C%20Midori%20(A%20very%20green%20girl)%20-%20Galaxy%20gurl%2C%20V0.53.student">Gurin, Midori (A very green girl) - Galaxy gurl, V0.53.student</a>
 

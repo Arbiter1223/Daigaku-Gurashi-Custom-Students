@@ -12,7 +12,11 @@ Description: An absent-minded tsundere
 
 Author: Kana
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/31/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakanoi%2C%20Pan%20(An%20absent-minded%20tsundere)%20-%20Kana%2C%20V0.53.student">Nakanoi, Pan (An absent-minded tsundere) - Kana, V0.53.student</a>
 

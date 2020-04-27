@@ -12,7 +12,11 @@ Description: A smart, lovey-dovey guy
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ozaki%2C%20Cho%20(A%20smart%2C%20lovey-dovey%20guy)%20-%20AjTheYandere%2C%20V0.53.student">Ozaki, Cho (A smart, lovey-dovey guy) - AjTheYandere, V0.53.student</a>
 

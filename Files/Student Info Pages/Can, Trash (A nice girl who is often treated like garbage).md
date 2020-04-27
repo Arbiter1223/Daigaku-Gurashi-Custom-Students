@@ -12,7 +12,11 @@ Description: A nice girl who is often treated like garbage
 
 Author: Galaxy gurl
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/14/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Can%2C%20Trash%20(A%20nice%20girl%20who%20is%20often%20treated%20like%20garbage)%20-%20Galaxy%20gurl%2C%20V0.53.student">Can, Trash (A nice girl who is often treated like garbage) - Galaxy gurl, V0.53.student</a>
 

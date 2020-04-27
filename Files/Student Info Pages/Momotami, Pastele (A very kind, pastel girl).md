@@ -12,7 +12,11 @@ Description: A very kind, pastel girl
 
 Author: Azumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/9/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Momotami%2C%20Pastele%20(A%20very%20kind%2C%20pastel%20girl)%20-%20Azumi%2C%20V0.53.student">Momotami, Pastele (A very kind, pastel girl) - Azumi, V0.53.student</a>
 

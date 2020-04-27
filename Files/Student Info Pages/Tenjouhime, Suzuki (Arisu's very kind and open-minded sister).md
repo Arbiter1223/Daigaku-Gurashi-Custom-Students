@@ -12,7 +12,11 @@ Description: Arisu's very kind and open-minded sister
 
 Author: yogima
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 2/14/2020
+
+Created in version: V0.47
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tenjouhime%2C%20Suzuki%20(Arisu's%20very%20kind%20and%20open-minded%20sister)%20-%20yogima%2C%20V0.53.student">Tenjouhime, Suzuki (Arisu's very kind and open-minded sister) - yogima, V0.53.student</a>
 

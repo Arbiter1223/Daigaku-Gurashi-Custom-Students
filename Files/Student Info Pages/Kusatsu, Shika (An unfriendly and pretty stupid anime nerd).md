@@ -12,7 +12,11 @@ Description: An unfriendly and pretty stupid anime nerd
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/21/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kusatsu%2C%20Shika%20(An%20unfriendly%20and%20pretty%20stupid%20anime%20nerd)%20-%20AjTheYandere%2C%20V0.53.student">Kusatsu, Shika (An unfriendly and pretty stupid anime nerd) - AjTheYandere, V0.53.student</a>
 

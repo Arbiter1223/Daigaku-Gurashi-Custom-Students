@@ -12,7 +12,11 @@ Description: A mashup of Kamiko and Arisu
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/26/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tenjorubo%2C%20Ariko%20(A%20mashup%20of%20Kamiko%20and%20Arisu)%20-%20AjTheYandere%2C%20V0.53.student">Tenjorubo, Ariko (A mashup of Kamiko and Arisu) - AjTheYandere, V0.53.student</a>
 

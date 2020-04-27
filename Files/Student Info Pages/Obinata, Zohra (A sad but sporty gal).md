@@ -12,7 +12,11 @@ Description: A sad but sporty gal
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/19/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Obinata%2C%20Zohra%20(A%20sad%20but%20sporty%20gal)%20-%20AjTheYandere%2C%20V0.53.student">Obinata, Zohra (A sad but sporty gal) - AjTheYandere, V0.53.student</a>
 

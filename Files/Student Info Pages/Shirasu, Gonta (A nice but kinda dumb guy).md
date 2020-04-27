@@ -12,7 +12,11 @@ Description: A nice but kinda dumb guy
 
 Author: ClownPrinceOfLies
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/22/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shirasu%2C%20Gonta%20(A%20nice%20but%20kinda%20dumb%20guy)%20-%20ClownPrinceOfLies%2C%20V0.53.student">Shirasu, Gonta (A nice but kinda dumb guy) - ClownPrinceOfLies, V0.53.student</a>
 

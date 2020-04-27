@@ -12,7 +12,11 @@ Description: UwU's judgemental but friendly brother
 
 Author: Chi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/24/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/OwO%2C%20QwQ%20(UwU's%20judgemental%20but%20friendly%20brother)%20-%20Chi%2C%20V0.53.student">OwO, QwQ (UwU's judgemental but friendly brother) - Chi, V0.53.student</a>
 

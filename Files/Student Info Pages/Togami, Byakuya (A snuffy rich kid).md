@@ -12,7 +12,11 @@ Description: A snuffy rich kid
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/8/2019
+
+Created in version: V0.31
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Togami%2C%20Byakuya%20(A%20snuffy%20rich%20kid)%20-%20Camden%2C%20V0.53.student">Togami, Byakuya (A snuffy rich kid) - Camden, V0.53.student</a>
 

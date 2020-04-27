@@ -12,7 +12,11 @@ Description: A no-nonsense kind of guy
 
 Author: Arbiter1223
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/31/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tamuro%2C%20Zane%20(A%20no-nonsense%20kind%20of%20guy)%20-%20Arbiter1223%2C%20V0.53.student">Tamuro, Zane (A no-nonsense kind of guy) - Arbiter1223, V0.53.student</a>
 

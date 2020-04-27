@@ -12,7 +12,11 @@ Description: An alternate version of Kuninobu
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/6/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Mazaki%2C%20AltKuninobu%20(An%20alternate%20version%20of%20Kuninobu)%20-%20AjTheYandere%2C%20V0.53.student">Mazaki, AltKuninobu (An alternate version of Kuninobu) - AjTheYandere, V0.53.student</a>
 

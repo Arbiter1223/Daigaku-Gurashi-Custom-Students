@@ -12,7 +12,11 @@ Description: A watcher
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/6/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Watcher%2C%20Watcher%20(A%20watcher)%20-%20AjTheYandere%2C%20V0.53.student">Watcher, Watcher (A watcher) - AjTheYandere, V0.53.student</a>
 

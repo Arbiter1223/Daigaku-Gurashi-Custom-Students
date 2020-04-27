@@ -12,7 +12,11 @@ Description: A cute girl who isn't afraid to get pervy
 
 Author: Chi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/22/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/OwO%2C%20UwU%20(A%20cute%20girl%20who%20isn't%20afraid%20to%20get%20pervy)%20-%20Chi%2C%20V0.53.student">OwO, UwU (A cute girl who isn't afraid to get pervy) - Chi, V0.53.student</a>
 

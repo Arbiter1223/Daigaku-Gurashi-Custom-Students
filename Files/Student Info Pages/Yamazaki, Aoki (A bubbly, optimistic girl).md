@@ -12,7 +12,11 @@ Description: A bubbly, optimistic girl
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/2/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamazaki%2C%20Aoki%20(A%20bubbly%2C%20optimistic%20girl)%20-%20AjTheYandere%2C%20V0.53.student">Yamazaki, Aoki (A bubbly, optimistic girl) - AjTheYandere, V0.53.student</a>
 

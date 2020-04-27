@@ -12,7 +12,11 @@ Description: A crappy Pinku look-a-like
 
 Author: Cookie Boi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/18/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Saionji%2C%20Hajime%20(A%20crappy%20Pinku%20look-a-like)%20-%20Cookie%20Boi%2C%20V0.53.student">Saionji, Hajime (A crappy Pinku look-a-like) - Cookie Boi, V0.53.student</a>
 

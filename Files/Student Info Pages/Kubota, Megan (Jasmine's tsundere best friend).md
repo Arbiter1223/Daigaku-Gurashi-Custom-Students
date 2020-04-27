@@ -12,7 +12,11 @@ Description: Jasmine's tsundere best friend
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kubota%2C%20Megan%20(Jasmine's%20tsundere%20best%20friend)%20-%20AjTheYandere%2C%20V0.53.student">Kubota, Megan (Jasmine's tsundere best friend) - AjTheYandere, V0.53.student</a>
 

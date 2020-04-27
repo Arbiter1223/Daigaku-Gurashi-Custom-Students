@@ -12,7 +12,11 @@ Description: A very cheerful, outgoing girl
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/21/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Natsume%2C%20Ayako%20(A%20very%20cheerful%2C%20outgoing%20girl)%20-%20AjTheYandere%2C%20V0.53.student">Natsume, Ayako (A very cheerful, outgoing girl) - AjTheYandere, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A bisexual leek monster girl
 
 Author: brendon
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/15/2019
+
+Created in version: V0.43
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sayaka%2C%20Rīki%20(A%20bisexual%20leek%20monster%20girl)%20-%20brendon%2C%20V0.53.student">Sayaka, Rīki (A bisexual leek monster girl) - brendon, V0.53.student</a>
 

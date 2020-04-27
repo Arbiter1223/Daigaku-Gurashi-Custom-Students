@@ -12,7 +12,11 @@ Description: A very sociable guy
 
 Author: Kana
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/18/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nagumo%2C%20Lionel%20(A%20very%20sociable%20guy)%20-%20Kana%2C%20V0.53.student">Nagumo, Lionel (A very sociable guy) - Kana, V0.53.student</a>
 

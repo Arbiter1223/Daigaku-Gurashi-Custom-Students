@@ -12,7 +12,11 @@ Description: A spooky kuudere girl that hates perverts
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/4/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kakutama%2C%20Yurei%20(A%20spooky%20kuudere%20girl%20that%20hates%20perverts)%20-%20sansrika%2C%20V0.53.student">Kakutama, Yurei (A spooky kuudere girl that hates perverts) - sansrika, V0.53.student</a>
 

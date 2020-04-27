@@ -12,7 +12,11 @@ Description: A cheerful, friendly girl
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/31/2019
+
+Created in version: V0.39
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Izumi%2C%20Aoki%20(A%20cheerful%2C%20friendly%20girl)%20-%20AjTheYandere%2C%20V0.53.student">Izumi, Aoki (A cheerful, friendly girl) - AjTheYandere, V0.53.student</a>
 

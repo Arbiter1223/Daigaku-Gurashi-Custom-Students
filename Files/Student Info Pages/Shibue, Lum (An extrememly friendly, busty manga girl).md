@@ -12,7 +12,11 @@ Description: An extrememly friendly, busty manga girl
 
 Author: Nyanako
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/19/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shibue%2C%20Lum%20(An%20extrememly%20friendly%2C%20busty%20manga%20girl)%20-%20Nyanako%2C%20V0.53.student">Shibue, Lum (An extrememly friendly, busty manga girl) - Nyanako, V0.53.student</a>
 

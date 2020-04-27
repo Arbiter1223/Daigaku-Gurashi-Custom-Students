@@ -12,7 +12,11 @@ Description: An insecure tsundere girl
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Genji%2C%20Mayu%20(An%20insecure%20tsundere%20girl)%20-%20AjTheYandere%2C%20V0.53.student">Genji, Mayu (An insecure tsundere girl) - AjTheYandere, V0.53.student</a>
 

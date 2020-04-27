@@ -12,7 +12,11 @@ Description: The CEO of Racism
 
 Author: Toast
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/27/2019
+
+Created in version: V0.41
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/CEO%2C%20Bruh%20Guy%20(The%20CEO%20of%20Racism)%20-%20Toast%2C%20V0.53.student">CEO, Bruh Guy (The CEO of Racism) - Toast, V0.53.student</a>
 

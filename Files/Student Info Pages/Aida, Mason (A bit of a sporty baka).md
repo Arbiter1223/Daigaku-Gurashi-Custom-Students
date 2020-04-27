@@ -12,7 +12,11 @@ Description: A bit of a sporty baka
 
 Author: Shiny
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 2/2/2019
+
+Created in version: V0.30
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Aida%2C%20Mason%20(A%20bit%20of%20a%20sporty%20baka)%20-%20Shiny%2C%20V0.53.student">Aida, Mason (A bit of a sporty baka) - Shiny, V0.53.student</a>
 

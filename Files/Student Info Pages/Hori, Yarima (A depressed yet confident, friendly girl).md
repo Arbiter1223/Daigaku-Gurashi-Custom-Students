@@ -12,7 +12,11 @@ Description: A depressed yet confident, friendly girl
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/8/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hori%2C%20Yarima%20(A%20depressed%20yet%20confident%2C%20friendly%20girl)%20-%20Syberian%20Inc%2C%20V0.53.student">Hori, Yarima (A depressed yet confident, friendly girl) - Syberian Inc, V0.53.student</a>
 

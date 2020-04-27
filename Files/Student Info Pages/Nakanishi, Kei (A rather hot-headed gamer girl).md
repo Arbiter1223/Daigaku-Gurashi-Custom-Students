@@ -12,7 +12,11 @@ Description: A rather hot-headed gamer girl
 
 Author: Rando Studenta
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/16/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakanishi%2C%20Kei%20(A%20rather%20hot-headed%20gamer%20girl)%20-%20Rando%20Studenta%2C%20V0.53.student">Nakanishi, Kei (A rather hot-headed gamer girl) - Rando Studenta, V0.53.student</a>
 

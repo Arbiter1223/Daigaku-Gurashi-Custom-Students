@@ -12,7 +12,11 @@ Description: A cute tsundere girl who loves to bake
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/18/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kotoku%2C%20Natsuki%20(A%20cute%20tsundere%20girl%20who%20loves%20to%20bake)%20-%20Aho-chan%2C%20V0.53.student">Kotoku, Natsuki (A cute tsundere girl who loves to bake) - Aho-chan, V0.53.student</a>
 

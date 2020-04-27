@@ -12,7 +12,11 @@ Description: A nice, confident transgender boy
 
 Author: Azumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/13/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ikoma%2C%20Aslak%20(A%20nice%2C%20confident%20transgender%20boy)%20-%20Azumi%2C%20V0.53.student">Ikoma, Aslak (A nice, confident transgender boy) - Azumi, V0.53.student</a>
 

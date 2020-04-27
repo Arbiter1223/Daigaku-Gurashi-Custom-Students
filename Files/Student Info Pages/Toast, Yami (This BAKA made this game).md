@@ -12,7 +12,11 @@ Description: This BAKA made this game
 
 Author: Syberian Inc
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/8/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Toast%2C%20Yami%20(This%20BAKA%20made%20this%20game)%20-%20Syberian%20Inc%2C%20V0.53.student">Toast, Yami (This BAKA made this game) - Syberian Inc, V0.53.student</a>
 

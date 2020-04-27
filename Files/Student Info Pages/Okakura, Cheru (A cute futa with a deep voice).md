@@ -12,7 +12,11 @@ Description: A cute futa with a deep voice
 
 Author: Nyanako
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/1/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Okakura%2C%20Cheru%20(A%20cute%20futa%20with%20a%20deep%20voice)%20-%20Nyanako%2C%20V0.53.student">Okakura, Cheru (A cute futa with a deep voice) - Nyanako, V0.53.student</a>
 

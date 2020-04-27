@@ -12,7 +12,11 @@ Description: A shy girl who has trust issues
 
 Author: Izzyox
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/19/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hatayama%2C%20Mia%20(A%20shy%20girl%20who%20has%20trust%20issues)%20-%20Izzyox%2C%20V0.53.student">Hatayama, Mia (A shy girl who has trust issues) - Izzyox, V0.53.student</a>
 

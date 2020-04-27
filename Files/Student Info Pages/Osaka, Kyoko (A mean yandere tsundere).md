@@ -12,7 +12,11 @@ Description: A mean yandere tsundere
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Osaka%2C%20Kyoko%20(A%20mean%20yandere%20tsundere)%20-%20AjTheYandere%2C%20V0.53.student">Osaka, Kyoko (A mean yandere tsundere) - AjTheYandere, V0.53.student</a>
 

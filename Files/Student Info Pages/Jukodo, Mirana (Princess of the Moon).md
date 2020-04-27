@@ -12,7 +12,11 @@ Description: Princess of the Moon
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/30/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Jukodo%2C%20Mirana%20(Princess%20of%20the%20Moon)%20-%20Aho-chan%2C%20V0.53.student">Jukodo, Mirana (Princess of the Moon) - Aho-chan, V0.53.student</a>
 

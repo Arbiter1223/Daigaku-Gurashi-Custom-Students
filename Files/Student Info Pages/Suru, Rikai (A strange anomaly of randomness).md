@@ -12,7 +12,11 @@ Description: A strange anomaly of randomness
 
 Author: FurAuran
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/23/2020
+
+Created in version: V0.53
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Suru%2C%20Rikai%20(A%20strange%20anomaly%20of%20randomness)%20-%20FurAuran%2C%20V0.53.student">Suru, Rikai (A strange anomaly of randomness) - FurAuran, V0.53.student</a>
 

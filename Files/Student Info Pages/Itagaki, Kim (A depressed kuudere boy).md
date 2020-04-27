@@ -12,7 +12,11 @@ Description: A depressed kuudere boy
 
 Author: Kana
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/18/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Itagaki%2C%20Kim%20(A%20depressed%20kuudere%20boy)%20-%20Kana%2C%20V0.53.student">Itagaki, Kim (A depressed kuudere boy) - Kana, V0.53.student</a>
 

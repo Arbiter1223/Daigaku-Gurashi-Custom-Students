@@ -12,7 +12,11 @@ Description: Hideyoshi's idiotic, tsundere younger brother
 
 Author: Takumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/30/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Arakida%2C%20Kana%20(Hideyoshi's%20idiotic%2C%20tsundere%20younger%20brother)%20-%20Takumi%2C%20V0.53.student">Arakida, Kana (Hideyoshi's idiotic, tsundere younger brother) - Takumi, V0.53.student</a>
 

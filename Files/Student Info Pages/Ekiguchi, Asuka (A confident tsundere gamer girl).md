@@ -12,7 +12,11 @@ Description: A confident tsundere gamer girl
 
 Author: Liam Beets
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/17/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ekiguchi%2C%20Asuka%20(A%20confident%20tsundere%20gamer%20girl)%20-%20Liam%20Beets%2C%20V0.53.student">Ekiguchi, Asuka (A confident tsundere gamer girl) - Liam Beets, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A lazy Arisu cosplayer
 
 Author: Syberian Inc and Arbiter1223
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/14/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Karubo%2C%20Kamiko%20(A%20lazy%20Arisu%20cosplayer)%20-%20Syberian%20Inc%20and%20Arbiter1223%2C%20V0.53.student">Karubo, Kamiko (A lazy Arisu cosplayer) - Syberian Inc and Arbiter1223, V0.53.student</a>
 

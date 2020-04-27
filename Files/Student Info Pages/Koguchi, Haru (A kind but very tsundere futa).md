@@ -12,7 +12,11 @@ Description: A kind but very tsundere futa
 
 Author: Nyanako
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/1/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Koguchi%2C%20Haru%20(A%20kind%20but%20very%20tsundere%20futa)%20-%20Nyanako%2C%20V0.53.student">Koguchi, Haru (A kind but very tsundere futa) - Nyanako, V0.53.student</a>
 

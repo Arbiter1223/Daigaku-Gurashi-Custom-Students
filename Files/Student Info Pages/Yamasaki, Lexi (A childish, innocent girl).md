@@ -12,7 +12,11 @@ Description: A childish, innocent girl
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/2/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamasaki%2C%20Lexi%20(A%20childish%2C%20innocent%20girl)%20-%20AjTheYandere%2C%20V0.53.student">Yamasaki, Lexi (A childish, innocent girl) - AjTheYandere, V0.53.student</a>
 

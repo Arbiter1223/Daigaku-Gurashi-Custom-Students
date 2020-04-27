@@ -12,7 +12,11 @@ Description: From K-ON!
 
 Author: Seiko
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 2/13/2019
+
+Created in version: V0.31
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tainaka%2C%20Ritsu%20(From%20K-ON!)%20-%20Seiko%2C%20V0.53.student">Tainaka, Ritsu (From K-ON!) - Seiko, V0.53.student</a>
 

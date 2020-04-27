@@ -12,7 +12,11 @@ Description: Your average, normal girl
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/9/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Aoki%2C%20Shino%20(Your%20average%2C%20normal%20girl)%20-%20LowkeyHomo%2C%20V0.53.student">Aoki, Shino (Your average, normal girl) - LowkeyHomo, V0.53.student</a>
 

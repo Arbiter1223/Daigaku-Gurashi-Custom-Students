@@ -12,7 +12,11 @@ Description: A happy, snooty bookworm
 
 Author: Shadow and yogima
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sunobu%2C%20Kizana%20(A%20happy%2C%20snooty%20bookworm)%20-%20Shadow%20and%20yogima%2C%20V0.53.student">Sunobu, Kizana (A happy, snooty bookworm) - Shadow and yogima, V0.53.student</a>
 

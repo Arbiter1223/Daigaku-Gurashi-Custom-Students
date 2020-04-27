@@ -12,7 +12,11 @@ Description: A very smart person
 
 Author: Sky Zatsune
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nagashima%2C%20Eiko%20(A%20very%20smart%20person)%20-%20Sky%20Zatsune%2C%20V0.53.student">Nagashima, Eiko (A very smart person) - Sky Zatsune, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A girl who doesn't open up to many people
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/21/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hatakeda%2C%20Kei%20(A%20girl%20who%20doesn't%20open%20up%20to%20many%20people)%20-%20AjTheYandere%2C%20V0.53.student">Hatakeda, Kei (A girl who doesn't open up to many people) - AjTheYandere, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A depressed but kind girl
 
 Author: Hatsune
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/9/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Abukara%2C%20Eiko%20(A%20depressed%20but%20kind%20girl)%20-%20Hatsune%2C%20V0.53.student">Abukara, Eiko (A depressed but kind girl) - Hatsune, V0.53.student</a>
 

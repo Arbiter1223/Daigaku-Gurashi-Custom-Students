@@ -12,7 +12,11 @@ Description: A fun and friendly pervert
 
 Author: YamiToast
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/20/2018
+
+Created in version: V0.22
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Cummings%2C%20Jenny%20(A%20fun%20and%20friendly%20pervert)%20-%20YamiToast%2C%20V0.53.student">Cummings, Jenny (A fun and friendly pervert) - YamiToast, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A precious goat man
 
 Author: screaming kiwi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 5/13/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fyukishima%2C%20Yuto%20(A%20precious%20goat%20man)%20-%20screaming%20kiwi%2C%20V0.53.student">Fyukishima, Yuto (A precious goat man) - screaming kiwi, V0.53.student</a>
 

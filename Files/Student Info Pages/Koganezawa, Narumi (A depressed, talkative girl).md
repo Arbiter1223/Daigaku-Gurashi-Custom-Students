@@ -12,7 +12,11 @@ Description: A depressed, talkative girl
 
 Author: Rando Studenta
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/9/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Koganezawa%2C%20Narumi%20(A%20depressed%2C%20talkative%20girl)%20-%20Rando%20Studenta%2C%20V0.53.student">Koganezawa, Narumi (A depressed, talkative girl) - Rando Studenta, V0.53.student</a>
 

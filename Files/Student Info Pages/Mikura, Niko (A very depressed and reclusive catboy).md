@@ -12,7 +12,11 @@ Description: A very depressed and reclusive catboy
 
 Author: kami
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 3/31/2019
+
+Created in version: V0.32
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Mikura%2C%20Niko%20(A%20very%20depressed%20and%20reclusive%20catboy)%20-%20kami%2C%20V0.53.student">Mikura, Niko (A very depressed and reclusive catboy) - kami, V0.53.student</a>
 

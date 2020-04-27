@@ -12,7 +12,11 @@ Description: A chipper, happy-go-lucky girl
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sayuri%2C%20Sayori%20(A%20chipper%2C%20happy-go-lucky%20girl)%20-%20Aho-chan%2C%20V0.53.student">Sayuri, Sayori (A chipper, happy-go-lucky girl) - Aho-chan, V0.53.student</a>
 

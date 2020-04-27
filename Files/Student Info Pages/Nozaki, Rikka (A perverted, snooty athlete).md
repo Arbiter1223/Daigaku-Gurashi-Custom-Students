@@ -12,7 +12,11 @@ Description: A perverted, snooty athlete
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nozaki%2C%20Rikka%20(A%20perverted%2C%20snooty%20athlete)%20-%20AjTheYandere%2C%20V0.53.student">Nozaki, Rikka (A perverted, snooty athlete) - AjTheYandere, V0.53.student</a>
 

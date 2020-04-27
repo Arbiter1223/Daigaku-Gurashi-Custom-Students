@@ -12,7 +12,11 @@ Description: A shy gaming futa
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/10/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamaoka%2C%20Oriko%20(A%20shy%20gaming%20futa)%20-%20BenPupKao%2C%20V0.53.student">Yamaoka, Oriko (A shy gaming futa) - BenPupKao, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A shy, innocent gamer girl
 
 Author: ClownPrinceOfLies
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/22/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ishida%2C%20Kaede%20(A%20shy%2C%20innocent%20gamer%20girl)%20-%20ClownPrinceOfLies%2C%20V0.53.student">Ishida, Kaede (A shy, innocent gamer girl) - ClownPrinceOfLies, V0.53.student</a>
 

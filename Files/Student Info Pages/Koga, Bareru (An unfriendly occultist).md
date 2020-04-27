@@ -12,7 +12,11 @@ Description: An unfriendly occultist
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 10/5/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Koga%2C%20Bareru%20(An%20unfriendly%20occultist)%20-%20BenPupKao%2C%20V0.53.student">Koga, Bareru (An unfriendly occultist) - BenPupKao, V0.53.student</a>
 

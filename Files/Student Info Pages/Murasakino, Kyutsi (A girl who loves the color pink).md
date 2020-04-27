@@ -12,7 +12,11 @@ Description: A girl who loves the color pink
 
 Author: screaming kiwi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 4/22/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Murasakino%2C%20Kyutsi%20(A%20girl%20who%20loves%20the%20color%20pink)%20-%20screaming%20kiwi%2C%20V0.53.student">Murasakino, Kyutsi (A girl who loves the color pink) - screaming kiwi, V0.53.student</a>
 

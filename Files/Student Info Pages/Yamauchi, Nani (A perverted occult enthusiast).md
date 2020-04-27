@@ -12,7 +12,11 @@ Description: A perverted occult enthusiast
 
 Author: BenPupKao
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/21/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamauchi%2C%20Nani%20(A%20perverted%20occult%20enthusiast)%20-%20BenPupKao%2C%20V0.53.student">Yamauchi, Nani (A perverted occult enthusiast) - BenPupKao, V0.53.student</a>
 

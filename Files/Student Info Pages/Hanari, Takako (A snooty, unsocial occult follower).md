@@ -12,7 +12,11 @@ Description: A snooty, unsocial occult follower
 
 Author: Rando Studenta
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/16/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hanari%2C%20Takako%20(A%20snooty%2C%20unsocial%20occult%20follower)%20-%20Rando%20Studenta%2C%20V0.53.student">Hanari, Takako (A snooty, unsocial occult follower) - Rando Studenta, V0.53.student</a>
 

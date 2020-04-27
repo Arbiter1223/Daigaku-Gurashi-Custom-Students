@@ -12,7 +12,11 @@ Description: A super friendly gal
 
 Author: Shadow and yogima
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/20/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Odayaka%2C%20Amai%20(A%20super%20friendly%20gal)%20-%20Shadow%20and%20yogima%2C%20V0.53.student">Odayaka, Amai (A super friendly gal) - Shadow and yogima, V0.53.student</a>
 

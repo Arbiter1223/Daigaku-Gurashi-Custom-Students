@@ -12,7 +12,11 @@ Description: A self-insert who wants to eat Jenny's ass
 
 Author: sansrika
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/10/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Arihyoshi%2C%20Uro%20(A%20self-insert%20who%20wants%20to%20eat%20Jenny's%20ass)%20-%20sansrika%2C%20V0.53.student">Arihyoshi, Uro (A self-insert who wants to eat Jenny's ass) - sansrika, V0.53.student</a>
 

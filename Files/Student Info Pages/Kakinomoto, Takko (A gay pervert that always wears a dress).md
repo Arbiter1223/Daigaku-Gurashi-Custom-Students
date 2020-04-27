@@ -12,7 +12,11 @@ Description: A gay pervert that always wears a dress
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 12/13/2018
+
+Created in version: V0.29
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kakinomoto%2C%20Takko%20(A%20gay%20pervert%20that%20always%20wears%20a%20dress)%20-%20LowkeyHomo%2C%20V0.53.student">Kakinomoto, Takko (A gay pervert that always wears a dress) - LowkeyHomo, V0.53.student</a>
 

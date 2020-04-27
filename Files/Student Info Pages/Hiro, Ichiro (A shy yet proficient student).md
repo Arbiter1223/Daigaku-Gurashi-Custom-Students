@@ -12,7 +12,11 @@ Description: A shy yet proficient student
 
 Author: Takumi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/30/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hiro%2C%20Ichiro%20(A%20shy%20yet%20proficient%20student)%20-%20Takumi%2C%20V0.53.student">Hiro, Ichiro (A shy yet proficient student) - Takumi, V0.53.student</a>
 

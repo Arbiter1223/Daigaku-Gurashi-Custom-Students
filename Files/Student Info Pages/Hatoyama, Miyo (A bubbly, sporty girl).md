@@ -12,7 +12,11 @@ Description: A bubbly, sporty girl
 
 Author: Toast and Shifted
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/26/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hatoyama%2C%20Miyo%20(A%20bubbly%2C%20sporty%20girl)%20-%20Toast%20and%20Shifted%2C%20V0.53.student">Hatoyama, Miyo (A bubbly, sporty girl) - Toast and Shifted, V0.53.student</a>
 

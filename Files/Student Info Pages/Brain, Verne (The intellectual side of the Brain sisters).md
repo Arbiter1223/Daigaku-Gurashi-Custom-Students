@@ -12,7 +12,11 @@ Description: The intellectual side of the Brain sisters
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/13/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Brain%2C%20Verne%20(The%20intellectual%20side%20of%20the%20Brain%20sisters)%20-%20AjTheYandere%2C%20V0.53.student">Brain, Verne (The intellectual side of the Brain sisters) - AjTheYandere, V0.53.student</a>
 

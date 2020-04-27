@@ -12,7 +12,11 @@ Description: A sad but friendly kuudere
 
 Author: Cookie Boi
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 7/26/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tomoe%2C%20Mami%20(A%20sad%20but%20friendly%20kuudere)%20-%20Cookie%20Boi%2C%20V0.53.student">Tomoe, Mami (A sad but friendly kuudere) - Cookie Boi, V0.53.student</a>
 

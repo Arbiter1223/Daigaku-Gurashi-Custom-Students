@@ -12,7 +12,11 @@ Description: A romantic anime nerd
 
 Author: AjTheYandere
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/3/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ezakiya%2C%20Kimi%20(A%20romantic%20anime%20nerd)%20-%20AjTheYandere%2C%20V0.53.student">Ezakiya, Kimi (A romantic anime nerd) - AjTheYandere, V0.53.student</a>
 

@@ -12,7 +12,11 @@ Description: A cheerful, klutzy anime fan
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/9/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kaminaga%2C%20Nico%20(A%20cheerful%2C%20klutzy%20anime%20fan)%20-%20LowkeyHomo%2C%20V0.53.student">Kaminaga, Nico (A cheerful, klutzy anime fan) - LowkeyHomo, V0.53.student</a>
 

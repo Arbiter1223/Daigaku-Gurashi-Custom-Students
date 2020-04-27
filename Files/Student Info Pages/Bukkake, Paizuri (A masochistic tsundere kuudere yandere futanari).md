@@ -12,7 +12,11 @@ Description: A masochistic tsundere kuudere yandere futanari
 
 Author: YamiToast
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 6/5/2018
+
+Created in version: V0.25
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Bukkake%2C%20Paizuri%20(A%20masochistic%20tsundere%20kuudere%20yandere%20futanari)%20-%20YamiToast%2C%20V0.53.student">Bukkake, Paizuri (A masochistic tsundere kuudere yandere futanari) - YamiToast, V0.53.student</a>
 

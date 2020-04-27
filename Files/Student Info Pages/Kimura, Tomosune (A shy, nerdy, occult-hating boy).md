@@ -12,7 +12,11 @@ Description: A shy, nerdy, occult-hating boy
 
 Author: LowkeyHomo
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 11/9/2018
+
+Created in version: V0.28
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kimura%2C%20Tomosune%20(A%20shy%2C%20nerdy%2C%20occult-hating%20boy)%20-%20LowkeyHomo%2C%20V0.53.student">Kimura, Tomosune (A shy, nerdy, occult-hating boy) - LowkeyHomo, V0.53.student</a>
 

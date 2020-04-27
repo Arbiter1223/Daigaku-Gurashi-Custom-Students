@@ -12,7 +12,11 @@ Description: A female athletic book-loving masochist
 
 Author: Camden
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 5/12/2019
+
+Created in version: V0.33
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Oshiro%2C%20Kaita%20(A%20female%20athletic%20book-loving%20masochist)%20-%20Camden%2C%20V0.53.student">Oshiro, Kaita (A female athletic book-loving masochist) - Camden, V0.53.student</a>
 

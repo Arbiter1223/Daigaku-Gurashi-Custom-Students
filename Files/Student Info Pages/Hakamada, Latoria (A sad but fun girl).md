@@ -12,7 +12,11 @@ Description: A sad but fun girl
 
 Author: Latoria clayton
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 9/28/2018
+
+Created in version: V0.27
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hakamada%2C%20Latoria%20(A%20sad%20but%20fun%20girl)%20-%20Latoria%20clayton%2C%20V0.53.student">Hakamada, Latoria (A sad but fun girl) - Latoria clayton, V0.53.student</a>
 

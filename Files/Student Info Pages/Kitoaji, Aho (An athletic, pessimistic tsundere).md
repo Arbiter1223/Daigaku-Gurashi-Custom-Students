@@ -12,7 +12,11 @@ Description: An athletic, pessimistic tsundere
 
 Author: Aho-chan
 
-Version: V0.53
+Compatable Game Version: V0.53
+
+Date added to database: 8/5/2018
+
+Created in version: V0.26
 
 Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kitoaji%2C%20Aho%20(An%20athletic%2C%20pessimistic%20tsundere)%20-%20Aho-chan%2C%20V0.53.student">Kitoaji, Aho (An athletic, pessimistic tsundere) - Aho-chan, V0.53.student</a>
 
