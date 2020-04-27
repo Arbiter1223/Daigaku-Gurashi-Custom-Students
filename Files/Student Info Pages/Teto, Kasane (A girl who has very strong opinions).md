@@ -12,9 +12,9 @@ Description: A girl who has very strong opinions
 
 Author: AjTheYandere
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 4/8/2019
+First appearance: 4/8/2019
 
 Created in version: V0.33
 

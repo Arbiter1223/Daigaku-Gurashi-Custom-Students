@@ -12,9 +12,9 @@ Description: An anime-obsessed fangirl
 
 Author: Midnight Kitsune
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 4/25/2019
+First appearance: 4/25/2019
 
 Created in version: V0.33
 

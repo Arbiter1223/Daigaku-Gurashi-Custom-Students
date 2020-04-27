@@ -12,9 +12,9 @@ Description: A friendly bookworm
 
 Author: Obese Cat
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 4/13/2019
+First appearance: 4/13/2019
 
 Created in version: V0.33
 

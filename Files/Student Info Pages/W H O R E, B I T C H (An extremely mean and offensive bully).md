@@ -12,9 +12,9 @@ Description: An extremely mean and offensive bully
 
 Author: Borkington Doggo
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 2/7/2019
+First appearance: 2/7/2019
 
 Created in version: V0.30
 

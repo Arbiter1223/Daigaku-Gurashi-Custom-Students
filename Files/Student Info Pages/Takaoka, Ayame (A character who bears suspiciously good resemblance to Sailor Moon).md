@@ -12,9 +12,9 @@ Description: A character who bears suspiciously good resemblance to Sailor Moon
 
 Author: Asominate
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 4/16/2020
+First appearance: 4/16/2020
 
 Created in version: V0.53
 

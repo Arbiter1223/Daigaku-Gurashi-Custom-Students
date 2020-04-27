@@ -12,9 +12,9 @@ Description: A confident, sporty, perverted futa
 
 Author: 09.36am
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 11/19/2019
+First appearance: 11/19/2019
 
 Created in version: V0.45
 

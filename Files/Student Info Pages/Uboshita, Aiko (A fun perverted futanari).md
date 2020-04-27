@@ -12,9 +12,9 @@ Description: A fun perverted futanari
 
 Author: Chi
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 11/19/2018
+First appearance: 11/19/2018
 
 Created in version: V0.28
 

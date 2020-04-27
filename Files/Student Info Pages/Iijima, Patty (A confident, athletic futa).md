@@ -12,9 +12,9 @@ Description: A confident, athletic futa
 
 Author: Lem0ns0da
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 7/11/2018
+First appearance: 7/11/2018
 
 Created in version: V0.26
 

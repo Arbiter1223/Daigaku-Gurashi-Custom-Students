@@ -12,9 +12,9 @@ Description: An unfun and unfriendly super perv
 
 Author: Camden
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 1/13/2019
+First appearance: 1/13/2019
 
 Created in version: V0.29
 

@@ -12,9 +12,9 @@ Description: A self-insert who wants to eat Jenny's ass
 
 Author: sansrika
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 12/10/2018
+First appearance: 12/10/2018
 
 Created in version: V0.29
 

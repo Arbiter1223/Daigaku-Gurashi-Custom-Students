@@ -12,9 +12,9 @@ Description: A dumb blue gay boi
 
 Author: screaming kiwi
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 5/13/2019
+First appearance: 5/13/2019
 
 Created in version: V0.33
 

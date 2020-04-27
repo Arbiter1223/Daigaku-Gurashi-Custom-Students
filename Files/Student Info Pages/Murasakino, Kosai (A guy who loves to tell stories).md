@@ -12,9 +12,9 @@ Description: A guy who loves to tell stories
 
 Author: screaming kiwi
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 1/12/2020
+First appearance: 1/12/2020
 
 Created in version: V0.47
 

@@ -12,9 +12,9 @@ Description: A quiet student from Osaka who has a macabre fascination with the o
 
 Author: Midnight Kitsune
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 6/5/2018
+First appearance: 6/5/2018
 
 Created in version: V0.25
 

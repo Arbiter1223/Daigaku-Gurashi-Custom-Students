@@ -12,9 +12,9 @@ Description: A scheeming bridie whos is a bit of a jerk
 
 Author: Grandma Kipali
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 2/26/2020
+First appearance: 2/26/2020
 
 Created in version: V0.49
 

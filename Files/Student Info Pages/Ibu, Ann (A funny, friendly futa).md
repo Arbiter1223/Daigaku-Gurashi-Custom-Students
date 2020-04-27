@@ -12,9 +12,9 @@ Description: A funny, friendly futa
 
 Author: Mental breakdown
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 6/6/2018
+First appearance: 6/6/2018
 
 Created in version: V0.25
 

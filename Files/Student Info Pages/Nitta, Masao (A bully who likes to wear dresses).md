@@ -12,9 +12,9 @@ Description: A bully who likes to wear dresses
 
 Author: AjTheYandere
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 11/26/2018
+First appearance: 11/26/2018
 
 Created in version: V0.28
 

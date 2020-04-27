@@ -12,9 +12,9 @@ Description: A very sweet Valentine's Day girl
 
 Author: brendon
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 2/14/2019
+First appearance: 2/14/2019
 
 Created in version: V0.31
 

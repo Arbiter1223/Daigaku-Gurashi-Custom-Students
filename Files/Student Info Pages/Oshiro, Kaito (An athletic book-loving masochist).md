@@ -12,9 +12,9 @@ Description: An athletic book-loving masochist
 
 Author: YamiToast
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 8/8/2018
+First appearance: 8/8/2018
 
 Created in version: V0.26
 

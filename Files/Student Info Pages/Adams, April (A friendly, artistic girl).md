@@ -12,9 +12,9 @@ Description: A friendly, artistic girl
 
 Author: Rulos
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 4/18/2020
+First appearance: 4/18/2020
 
 Created in version: V0.53
 

@@ -12,9 +12,9 @@ Description: A harsh metal punk
 
 Author: Nyanako
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 9/1/2018
+First appearance: 9/1/2018
 
 Created in version: V0.27
 

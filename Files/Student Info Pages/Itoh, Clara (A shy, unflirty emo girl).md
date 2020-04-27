@@ -12,9 +12,9 @@ Description: A shy, unflirty emo girl
 
 Author: Cookie Boi
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 8/15/2018
+First appearance: 8/15/2018
 
 Created in version: V0.27
 

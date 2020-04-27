@@ -12,9 +12,9 @@ Description: A grape character who is indifferent on everything
 
 Author: AjTheYandere
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 6/7/2019
+First appearance: 6/7/2019
 
 Created in version: V0.35
 

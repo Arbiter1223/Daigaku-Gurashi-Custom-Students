@@ -12,9 +12,9 @@ Description: A cyclops who pretends to be blind to avoid being bullied
 
 Author: Emily
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 1/27/2020
+First appearance: 1/27/2020
 
 Created in version: V0.47
 

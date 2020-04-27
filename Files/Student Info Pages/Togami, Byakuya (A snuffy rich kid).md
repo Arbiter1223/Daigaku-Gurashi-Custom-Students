@@ -12,9 +12,9 @@ Description: A snuffy rich kid
 
 Author: Camden
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 3/8/2019
+First appearance: 3/8/2019
 
 Created in version: V0.31
 

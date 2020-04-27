@@ -12,9 +12,9 @@ Description: An extremly mean blonde bitch
 
 Author: Shadow and yogima
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 8/20/2018
+First appearance: 8/20/2018
 
 Created in version: V0.27
 

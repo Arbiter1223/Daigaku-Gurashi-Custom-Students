@@ -12,9 +12,9 @@ Description: A very kind athletic guy that sometimes crossdresses
 
 Author: yogima
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 1/8/2020
+First appearance: 1/8/2020
 
 Created in version: V0.47
 

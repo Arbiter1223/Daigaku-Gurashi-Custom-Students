@@ -12,9 +12,9 @@ Description: A kind baby that loves to stare at words while having an existentia
 
 Author: screaming kiwi
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 1/18/2020
+First appearance: 1/18/2020
 
 Created in version: V0.47
 

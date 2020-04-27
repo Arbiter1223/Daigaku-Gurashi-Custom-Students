@@ -12,9 +12,9 @@ Description: An alternate rock geek girl
 
 Author: Syberian Inc
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 6/24/2018
+First appearance: 6/24/2018
 
 Created in version: V0.25
 

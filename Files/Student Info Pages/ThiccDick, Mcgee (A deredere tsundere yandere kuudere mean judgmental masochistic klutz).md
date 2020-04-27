@@ -12,9 +12,9 @@ Description: A deredere tsundere yandere kuudere mean judgmental masochistic klu
 
 Author: Shiny
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 5/21/2019
+First appearance: 5/21/2019
 
 Created in version: V0.35
 

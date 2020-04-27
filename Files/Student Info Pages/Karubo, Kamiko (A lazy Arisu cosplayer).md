@@ -12,9 +12,9 @@ Description: A lazy Arisu cosplayer
 
 Author: Syberian Inc and Arbiter1223
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 6/14/2018
+First appearance: 6/14/2018
 
 Created in version: V0.25
 

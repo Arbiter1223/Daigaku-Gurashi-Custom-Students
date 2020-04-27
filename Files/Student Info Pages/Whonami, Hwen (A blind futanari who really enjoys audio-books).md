@@ -12,9 +12,9 @@ Description: A blind futanari who really enjoys audio-books
 
 Author: junie
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 6/7/2019
+First appearance: 6/7/2019
 
 Created in version: V0.35
 

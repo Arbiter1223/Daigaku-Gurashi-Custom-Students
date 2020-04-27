@@ -12,9 +12,9 @@ Description: A really mean baka
 
 Author: Shiny
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 2/2/2019
+First appearance: 2/2/2019
 
 Created in version: V0.30
 

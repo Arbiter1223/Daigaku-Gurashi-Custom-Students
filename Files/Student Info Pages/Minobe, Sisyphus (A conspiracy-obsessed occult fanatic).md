@@ -12,9 +12,9 @@ Description: A conspiracy-obsessed occult fanatic
 
 Author: BenPupKao
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 11/15/2018
+First appearance: 11/15/2018
 
 Created in version: V0.28
 

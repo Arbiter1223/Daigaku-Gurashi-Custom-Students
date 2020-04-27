@@ -12,9 +12,9 @@ Description: A shy yet talented musician
 
 Author: AjTheYandere
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 10/21/2018
+First appearance: 10/21/2018
 
 Created in version: V0.27
 

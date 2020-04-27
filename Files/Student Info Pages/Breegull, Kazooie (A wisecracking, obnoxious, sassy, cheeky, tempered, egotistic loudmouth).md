@@ -12,9 +12,9 @@ Description: A wisecracking, obnoxious, sassy, cheeky, tempered, egotistic loudm
 
 Author: Camden
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 7/8/2019
+First appearance: 7/8/2019
 
 Created in version: V0.37
 

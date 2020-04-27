@@ -12,9 +12,9 @@ Description: A futanari with a big dick
 
 Author: sansrika
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 3/11/2019
+First appearance: 3/11/2019
 
 Created in version: V0.32
 

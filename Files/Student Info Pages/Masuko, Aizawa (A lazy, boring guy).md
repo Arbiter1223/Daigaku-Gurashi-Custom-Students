@@ -12,9 +12,9 @@ Description: A lazy, boring guy
 
 Author: ClownPrinceOfLies
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 7/25/2018
+First appearance: 7/25/2018
 
 Created in version: V0.26
 

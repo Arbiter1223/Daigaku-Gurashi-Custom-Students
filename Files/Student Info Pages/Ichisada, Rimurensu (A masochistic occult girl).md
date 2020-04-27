@@ -12,9 +12,9 @@ Description: A masochistic occult girl
 
 Author: Shiny
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 9/22/2018
+First appearance: 9/22/2018
 
 Created in version: V0.27
 

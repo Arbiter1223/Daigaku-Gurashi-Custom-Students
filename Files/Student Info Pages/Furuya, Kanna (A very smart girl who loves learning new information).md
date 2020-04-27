@@ -12,9 +12,9 @@ Description: A very smart girl who loves learning new information
 
 Author: nightara
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 4/5/2019
+First appearance: 4/5/2019
 
 Created in version: V0.33
 

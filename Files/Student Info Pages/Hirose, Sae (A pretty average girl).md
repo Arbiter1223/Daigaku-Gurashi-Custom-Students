@@ -12,9 +12,9 @@ Description: A pretty average girl
 
 Author: CookieBoi
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 1/18/2018
+First appearance: 1/18/2018
 
 Created in version: V0.53
 

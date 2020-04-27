@@ -12,9 +12,9 @@ Description: A shy musician who struggles with depression
 
 Author: screaming kiwi
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 3/29/2019
+First appearance: 3/29/2019
 
 Created in version: V0.32
 

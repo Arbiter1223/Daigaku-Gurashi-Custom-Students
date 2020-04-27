@@ -12,9 +12,9 @@ Description: A stylish girl who shows a great interest in the occult
 
 Author: chalk_girl
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 11/5/2019
+First appearance: 11/5/2019
 
 Created in version: V0.43
 

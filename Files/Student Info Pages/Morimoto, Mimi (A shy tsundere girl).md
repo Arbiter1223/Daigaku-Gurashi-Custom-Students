@@ -12,9 +12,9 @@ Description: A shy tsundere girl
 
 Author: Duck-chan
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 8/11/2018
+First appearance: 8/11/2018
 
 Created in version: V0.27
 

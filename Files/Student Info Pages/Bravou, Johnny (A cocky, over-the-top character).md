@@ -12,9 +12,9 @@ Description: A cocky, over-the-top character
 
 Author: sansrika
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 3/12/2019
+First appearance: 3/12/2019
 
 Created in version: V0.32
 

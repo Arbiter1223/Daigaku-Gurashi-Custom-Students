@@ -12,9 +12,9 @@ Description: A stupid self-insert baka
 
 Author: kami
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 3/28/2019
+First appearance: 3/28/2019
 
 Created in version: V0.32
 

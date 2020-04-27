@@ -12,9 +12,9 @@ Description: Hideyoshi's idiotic, tsundere younger brother
 
 Author: Takumi
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 9/30/2018
+First appearance: 9/30/2018
 
 Created in version: V0.27
 

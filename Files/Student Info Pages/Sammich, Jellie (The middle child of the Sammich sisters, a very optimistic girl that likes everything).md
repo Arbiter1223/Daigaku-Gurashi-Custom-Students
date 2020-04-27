@@ -12,9 +12,9 @@ Description: The middle child of the Sammich sisters, a very optimistic girl tha
 
 Author: AjTheYandere
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 8/22/2018
+First appearance: 8/22/2018
 
 Created in version: V0.27
 

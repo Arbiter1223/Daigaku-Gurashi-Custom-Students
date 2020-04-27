@@ -12,9 +12,9 @@ Description: An AI created by Scratch to do many things
 
 Author: AjTheYandere
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 11/2/2018
+First appearance: 11/2/2018
 
 Created in version: V0.27
 

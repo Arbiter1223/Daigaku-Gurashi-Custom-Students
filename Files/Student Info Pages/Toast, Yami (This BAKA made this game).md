@@ -12,9 +12,9 @@ Description: This BAKA made this game
 
 Author: Syberian Inc
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 11/8/2018
+First appearance: 11/8/2018
 
 Created in version: V0.27
 

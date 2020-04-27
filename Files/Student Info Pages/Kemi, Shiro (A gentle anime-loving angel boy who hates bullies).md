@@ -12,9 +12,9 @@ Description: A gentle anime-loving angel boy who hates bullies
 
 Author: kami
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 3/31/2019
+First appearance: 3/31/2019
 
 Created in version: V0.32
 

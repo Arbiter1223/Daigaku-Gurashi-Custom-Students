@@ -12,9 +12,9 @@ Description: A shy boy with hidden talents
 
 Author: Heroic_Moron
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 7/28/2018
+First appearance: 7/28/2018
 
 Created in version: V0.26
 

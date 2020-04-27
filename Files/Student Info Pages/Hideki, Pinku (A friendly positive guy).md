@@ -12,9 +12,9 @@ Description: A friendly positive guy
 
 Author: YamiToast
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 3/20/2018
+First appearance: 3/20/2018
 
 Created in version: V0.22
 

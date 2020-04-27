@@ -12,9 +12,9 @@ Description: Aj's pet cat
 
 Author: AjTheYandere
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 10/9/2018
+First appearance: 10/9/2018
 
 Created in version: V0.27
 

@@ -12,9 +12,9 @@ Description: A mysterious dog-like figure
 
 Author: AjTheYandere
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 4/6/2019
+First appearance: 4/6/2019
 
 Created in version: V0.33
 

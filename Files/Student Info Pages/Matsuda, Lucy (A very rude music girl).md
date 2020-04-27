@@ -12,9 +12,9 @@ Description: A very rude music girl
 
 Author: Syberian Inc
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 7/17/2018
+First appearance: 7/17/2018
 
 Created in version: V0.26
 

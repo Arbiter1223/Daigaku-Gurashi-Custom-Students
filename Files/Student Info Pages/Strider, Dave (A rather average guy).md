@@ -12,9 +12,9 @@ Description: A rather average guy
 
 Author: Camden
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 4/14/2019
+First appearance: 4/14/2019
 
 Created in version: V0.33
 

@@ -12,9 +12,9 @@ Description: A masochist girl who likes everything
 
 Author: AjTheYandere
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 12/4/2018
+First appearance: 12/4/2018
 
 Created in version: V0.28
 

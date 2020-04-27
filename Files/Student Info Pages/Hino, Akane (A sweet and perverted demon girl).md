@@ -12,9 +12,9 @@ Description: A sweet and perverted demon girl
 
 Author: witcharies
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 4/16/2019
+First appearance: 4/16/2019
 
 Created in version: V0.33
 

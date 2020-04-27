@@ -12,9 +12,9 @@ Description: A timid, friendly girl
 
 Author: Antartix Pevori
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 8/30/2018
+First appearance: 8/30/2018
 
 Created in version: V0.27
 

@@ -12,9 +12,9 @@ Description: A perverted mean bully
 
 Author: Bubger Kirg
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 8/28/2018
+First appearance: 8/28/2018
 
 Created in version: V0.27
 

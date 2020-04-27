@@ -12,9 +12,9 @@ Description: A student whose main diet consists of ramen noodles and crab juice
 
 Author: Emily
 
-Compatable Game Version: V0.53
+Compatable game version: V0.53
 
-Date added to database: 2/12/2020
+First appearance: 2/12/2020
 
 Created in version: V0.47
 
