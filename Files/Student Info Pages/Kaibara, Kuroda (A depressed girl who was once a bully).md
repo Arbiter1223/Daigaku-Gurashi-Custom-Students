@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kaibara, Kuroda (A depressed girl who was once a bully).png" title="Kaibara, Kuroda (A depressed girl who was once a bully) - AjTheYandere, V0.53">
 
-**Database ID: #0255**
+**Database ID: #0254**
 
 First Name: Kuroda
 

@@ -26,3 +26,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 <a href="Hisako, Aoi (Easiest girlfriend ever).md"><img src="../../Files/Thumbs/Hisako, Aoi (Easiest girlfriend ever).png" height="100" width="100" title="Hisako, Aoi (Easiest girlfriend ever) - Syberian Inc, V0.53"></a><a href="Hisako, Aoi (Easiest girlfriend ever).md"> Aoi - Enemy</a>
 
+<a href="Yonai, Murasaki (An alternate rock geek girl).md"><img src="../../Files/Thumbs/Yonai, Murasaki (An alternate rock geek girl).png" height="100" width="100" title="Yonai, Murasaki (An alternate rock geek girl) - Syberian Inc, V0.53"></a><a href="Yonai, Murasaki (An alternate rock geek girl).md"> Murasaki - Nice variant</a>
+

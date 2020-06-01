@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Itagaki, Kim (A depressed kuudere boy).png" title="Itagaki, Kim (A depressed kuudere boy) - Kana, V0.53">
 
-**Database ID: #0348**
+**Database ID: #0347**
 
 First Name: Kim
 

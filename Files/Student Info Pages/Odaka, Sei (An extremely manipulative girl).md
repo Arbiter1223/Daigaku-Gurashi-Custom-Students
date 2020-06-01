@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Odaka, Sei (An extremely manipulative girl).png" title="Odaka, Sei (An extremely manipulative girl) - Nyanako, V0.53">
 
-**Database ID: #0240**
+**Database ID: #0239**
 
 First Name: Sei
 

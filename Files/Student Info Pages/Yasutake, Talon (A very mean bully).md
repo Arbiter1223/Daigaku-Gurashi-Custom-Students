@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yasutake, Talon (A very mean bully).png" title="Yasutake, Talon (A very mean bully) - BenPupKao, V0.53">
 
-**Database ID: #0333**
+**Database ID: #0332**
 
 First Name: Talon
 

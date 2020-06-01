@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yamazaki, Aoki (A bubbly, optimistic girl).png" title="Yamazaki, Aoki (A bubbly, optimistic girl) - AjTheYandere, V0.53">
 
-**Database ID: #0246**
+**Database ID: #0245**
 
 First Name: Aoki
 

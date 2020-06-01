@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Najimi, Osana (A cute, modest tsundere).png" title="Najimi, Osana (A cute, modest tsundere) - Shadow and yogima, V0.53">
 
-**Database ID: #0184**
+**Database ID: #0183**
 
 First Name: Osana
 

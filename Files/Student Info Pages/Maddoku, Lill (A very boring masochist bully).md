@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Maddoku, Lill (A very boring masochist bully).png" title="Maddoku, Lill (A very boring masochist bully) - Camden, V0.53">
 
-**Database ID: #0611**
+**Database ID: #0610**
 
 First Name: Lill
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Maddoku, Bigby (A fun and friendly perverted futa).md"><img src="../../Files/Thumbs/Maddoku, Bigby (A fun and friendly perverted futa).png" height="100" width="100" title="Maddoku, Bigby (A fun and friendly perverted futa) - Camden, V0.53"></a><a href="Maddoku, Bigby (A fun and friendly perverted futa).md"> Bigby - Opposite variant</a>
+

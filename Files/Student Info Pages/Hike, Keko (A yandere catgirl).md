@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hike, Keko (A yandere catgirl).png" title="Hike, Keko (A yandere catgirl) - Nyanako, V0.53">
 
-**Database ID: #0172**
+**Database ID: #0171**
 
 First Name: Keko
 

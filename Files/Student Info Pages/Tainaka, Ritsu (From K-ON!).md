@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tainaka, Ritsu (From K-ON!).png" title="Tainaka, Ritsu (From K-ON!) - Seiko, V0.53">
 
-**Database ID: #0607**
+**Database ID: #0606**
 
 First Name: Ritsu
 

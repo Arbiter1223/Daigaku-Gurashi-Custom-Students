@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Maddoku, Lill (A very boring masochist bully).md"><img src="../../Files/Thumbs/Maddoku, Lill (A very boring masochist bully).png" height="100" width="100" title="Maddoku, Lill (A very boring masochist bully) - Camden, V0.53"></a><a href="Maddoku, Lill (A very boring masochist bully).md"> Lill - Opposite variant</a>
+

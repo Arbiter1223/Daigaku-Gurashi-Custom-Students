@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tsukade, Masaru (A yandere gamer).png" title="Tsukade, Masaru (A yandere gamer) - Aho-chan, V0.53">
 
-**Database ID: #0263**
+**Database ID: #0262**
 
 First Name: Masaru
 
@@ -24,7 +24,17 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
-<a href="Tsukade, Akeno (Masaru's older, spoiled sister).md"><img src="../../Files/Thumbs/Tsukade, Akeno (Masaru's older, spoiled sister).png" height="100" width="100" title="Tsukade, Akeno (Masaru's older, spoiled sister) - Aho-chan, V0.53"></a><a href="Tsukade, Akeno (Masaru's older, spoiled sister).md"> Akeno - Sister</a>
+<a href="Tsukade, Akeno (A spoiled but still nice girl).md"><img src="../../Files/Thumbs/Tsukade, Akeno (A spoiled but still nice girl).png" height="100" width="100" title="Tsukade, Akeno (A spoiled but still nice girl) - Aho-chan, V0.53"></a><a href="Tsukade, Akeno (A spoiled but still nice girl).md"> Akeno - Older sister</a>
 
-<a href="Yasuda, Johan (Masaru's boring best friend).md"><img src="../../Files/Thumbs/Yasuda, Johan (Masaru's boring best friend).png" height="100" width="100" title="Yasuda, Johan (Masaru's boring best friend) - Aho-chan, V0.53"></a><a href="Yasuda, Johan (Masaru's boring best friend).md"> Johan - Best friend</a>
+<a href="Taku, Akane (A very friendly kuudere lesbian).md"><img src="../../Files/Thumbs/Taku, Akane (A very friendly kuudere lesbian).png" height="100" width="100" title="Taku, Akane (A very friendly kuudere lesbian) - Aho-chan, V0.53"></a><a href="Taku, Akane (A very friendly kuudere lesbian).md"> Akane - Childhood crush</a>
+
+<a href="Yasuda, Johan (A rather boring gamer).md"><img src="../../Files/Thumbs/Yasuda, Johan (A rather boring gamer).png" height="100" width="100" title="Yasuda, Johan (A rather boring gamer) - Aho-chan, V0.53"></a><a href="Yasuda, Johan (A rather boring gamer).md"> Johan - Best friend</a>
+
+<a href="Saitoh, Murasaki (An athletic occult follower).md"><img src="../../Files/Thumbs/Saitoh, Murasaki (An athletic occult follower).png" height="100" width="100" title="Saitoh, Murasaki (An athletic occult follower) - Aho-chan, V0.53"></a><a href="Saitoh, Murasaki (An athletic occult follower).md"> Murasaki - Friend</a>
+
+<a href="Saitoh, Michio (An athletic anime and manga fan).md"><img src="../../Files/Thumbs/Saitoh, Michio (An athletic anime and manga fan).png" height="100" width="100" title="Saitoh, Michio (An athletic anime and manga fan) - Aho-chan, V0.53"></a><a href="Saitoh, Michio (An athletic anime and manga fan).md"> Michio - Friend</a>
+
+<a href="Saitoh, Michi (A gaming schoolworm).md"><img src="../../Files/Thumbs/Saitoh, Michi (A gaming schoolworm).png" height="100" width="100" title="Saitoh, Michi (A gaming schoolworm) - Aho-chan, V0.53"></a><a href="Saitoh, Michi (A gaming schoolworm).md"> Michi - Acquaintance</a>
+
+<a href="Tagawa, Manami (A shy bullied athlete).md"><img src="../../Files/Thumbs/Tagawa, Manami (A shy bullied athlete).png" height="100" width="100" title="Tagawa, Manami (A shy bullied athlete) - Aho-chan, V0.53"></a><a href="Tagawa, Manami (A shy bullied athlete).md"> Manami - Acquaintance</a>
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Koshinori, Minami (A kuudere loner who hates everyone).png" title="Koshinori, Minami (A kuudere loner who hates everyone) - kami, V0.53">
 
-**Database ID: #0629**
+**Database ID: #0628**
 
 First Name: Minami
 

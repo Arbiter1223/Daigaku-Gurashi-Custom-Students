@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hideki, Shikuro (A very sad boy).png" title="Hideki, Shikuro (A very sad boy) - screaming kiwi, V0.53">
 
-**Database ID: #0675**
+**Database ID: #0671**
 
 First Name: Shikuro
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Ichisada, Rimurensu (A masochistic occult girl).png" title="Ichisada, Rimurensu (A masochistic occult girl) - Shiny, V0.53">
 
-**Database ID: #0311**
+**Database ID: #0310**
 
 First Name: Rimurensu
 

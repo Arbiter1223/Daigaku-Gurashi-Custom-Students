@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Akura, Katashi (A dumb blue gay boi).png" title="Akura, Katashi (A dumb blue gay boi) - screaming kiwi, V0.53">
 
-**Database ID: #0684**
+**Database ID: #0680**
 
 First Name: Katashi
 

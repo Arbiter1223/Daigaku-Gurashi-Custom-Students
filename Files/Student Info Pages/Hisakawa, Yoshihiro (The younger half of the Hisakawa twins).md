@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hisakawa, Yoshihiro (The younger half of the Hisakawa twins).png" title="Hisakawa, Yoshihiro (The younger half of the Hisakawa twins) - Midnight Kitsune, V0.53">
 
-**Database ID: #0707**
+**Database ID: #0702**
 
 First Name: Yoshihiro
 

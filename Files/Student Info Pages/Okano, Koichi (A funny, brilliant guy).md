@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Okano, Koichi (A funny, brilliant guy).png" title="Okano, Koichi (A funny, brilliant guy) - Bubger Kirg, V0.53">
 
-**Database ID: #0235**
+**Database ID: #0234**
 
 First Name: Koichi
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Egami, Tamura (A modest, content boy).md"><img src="../../Files/Thumbs/Egami, Tamura (A modest, content boy).png" height="100" width="100" title="Egami, Tamura (A modest, content boy) - Bubger Kirg, V0.53"></a><a href="Egami, Tamura (A modest, content boy).md"> Tamura - Best friend</a>
+

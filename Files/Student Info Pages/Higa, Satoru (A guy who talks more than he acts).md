@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Higa, Satoru (A guy who talks more than he acts).png" title="Higa, Satoru (A guy who talks more than he acts) - AjTheYandere, V0.53">
 
-**Database ID: #0376**
+**Database ID: #0375**
 
 First Name: Satoru
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Uehara, Lina (The Slayer).png" title="Uehara, Lina (The Slayer) - Aho-chan, V0.53">
 
-**Database ID: #0207**
+**Database ID: #0206**
 
 First Name: Lina
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Uehara, Rylai (The Crystal Maiden).md"><img src="../../Files/Thumbs/Uehara, Rylai (The Crystal Maiden).png" height="100" width="100" title="Uehara, Rylai (The Crystal Maiden) - Aho-chan, V0.53"></a><a href="Uehara, Rylai (The Crystal Maiden).md"> Rylai - Younger sister</a>
+

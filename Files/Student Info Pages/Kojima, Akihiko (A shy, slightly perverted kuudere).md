@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kojima, Akihiko (A shy, slightly perverted kuudere).png" title="Kojima, Akihiko (A shy, slightly perverted kuudere) - LowkeyHomo, V0.53">
 
-**Database ID: #0592**
+**Database ID: #0591**
 
 First Name: Akihiko
 

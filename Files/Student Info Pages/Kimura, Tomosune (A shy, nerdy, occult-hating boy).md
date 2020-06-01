@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Kimura, Tamasine (A sweet, girly, book-hating boy).md"><img src="../../Files/Thumbs/Kimura, Tamasine (A sweet, girly, book-hating boy).png" height="100" width="100" title="Kimura, Tamasine (A sweet, girly, book-hating boy) - LowkeyHomo, V0.53"></a><a href="Kimura, Tamasine (A sweet, girly, book-hating boy).md"> Tamasine - Twin brother</a>
+

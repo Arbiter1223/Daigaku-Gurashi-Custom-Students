@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nogi, Otome (A very shy but sweet tsundere).png" title="Nogi, Otome (A very shy but sweet tsundere) - Rando Studenta, V0.53">
 
-**Database ID: #0277**
+**Database ID: #0276**
 
 First Name: Otome
 

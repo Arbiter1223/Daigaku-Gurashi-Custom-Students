@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Spukie, Ghostie (A spooky lesbian who hates anime).png" title="Spukie, Ghostie (A spooky lesbian who hates anime) - sansrika, V0.53">
 
-**Database ID: #0326**
+**Database ID: #0325**
 
 First Name: Ghostie
 

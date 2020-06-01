@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yeeterboner, Sans (A futanari with a big dick).png" title="Yeeterboner, Sans (A futanari with a big dick) - sansrika, V0.53">
 
-**Database ID: #0619**
+**Database ID: #0618**
 
 First Name: Sans
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Yeeterboner, Rika (A horny casual jjba fan).md"><img src="../../Files/Thumbs/Yeeterboner, Rika (A horny casual jjba fan).png" height="100" width="100" title="Yeeterboner, Rika (A horny casual jjba fan) - sansrika, V0.53"></a><a href="Yeeterboner, Rika (A horny casual jjba fan).md"> Rika - Sister</a>
+

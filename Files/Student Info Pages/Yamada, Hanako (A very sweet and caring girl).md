@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yamada, Hanako (A very sweet and caring girl).png" title="Yamada, Hanako (A very sweet and caring girl) - Shadow and yogima, V0.53">
 
-**Database ID: #0194**
+**Database ID: #0193**
 
 First Name: Hanako
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Yamada, Taro (A pretty okay dude).md"><img src="../../Files/Thumbs/Yamada, Taro (A pretty okay dude).png" height="100" width="100" title="Yamada, Taro (A pretty okay dude) - Shadow and yogima, V0.53"></a><a href="Yamada, Taro (A pretty okay dude).md"> Taro - Brother</a>
+

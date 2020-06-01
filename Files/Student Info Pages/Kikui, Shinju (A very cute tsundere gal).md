@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kikui, Shinju (A very cute tsundere gal).png" title="Kikui, Shinju (A very cute tsundere gal) - AjTheYandere, V0.53">
 
-**Database ID: #0378**
+**Database ID: #0377**
 
 First Name: Shinju
 

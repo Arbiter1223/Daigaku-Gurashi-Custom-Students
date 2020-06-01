@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tansho, Ai (An antisocial tsundere kuudere).png" title="Tansho, Ai (An antisocial tsundere kuudere) - AjTheYandere, V0.53">
 
-**Database ID: #0403**
+**Database ID: #0402**
 
 First Name: Ai
 

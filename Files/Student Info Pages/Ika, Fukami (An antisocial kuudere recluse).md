@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Ika, Fukami (An antisocial kuudere recluse).png" title="Ika, Fukami (An antisocial kuudere recluse) - sansrika, V0.53">
 
-**Database ID: #0605**
+**Database ID: #0604**
 
 First Name: Fukami
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Suru, Rikai (A strange anomaly of randomness).png" title="Suru, Rikai (A strange anomaly of randomness) - FurAuran, V0.53">
 
-**Database ID: #0756**
+**Database ID: #0751**
 
 First Name: Rikai
 

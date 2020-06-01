@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kusuhara, Kazue (A shy yet talented musician).png" title="Kusuhara, Kazue (A shy yet talented musician) - AjTheYandere, V0.53">
 
-**Database ID: #0366**
+**Database ID: #0365**
 
 First Name: Kazue
 

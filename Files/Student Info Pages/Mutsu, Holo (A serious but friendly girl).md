@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Mutsu, Holo (A serious but friendly girl).png" title="Mutsu, Holo (A serious but friendly girl) - Nyanako, V0.53">
 
-**Database ID: #0177**
+**Database ID: #0176**
 
 First Name: Holo
 

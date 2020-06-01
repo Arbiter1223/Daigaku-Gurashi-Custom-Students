@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nakadan, Katsuo (An unsociable but intelligent scholar).png" title="Nakadan, Katsuo (An unsociable but intelligent scholar) - AjTheYandere, V0.53">
 
-**Database ID: #0365**
+**Database ID: #0364**
 
 First Name: Katsuo
 

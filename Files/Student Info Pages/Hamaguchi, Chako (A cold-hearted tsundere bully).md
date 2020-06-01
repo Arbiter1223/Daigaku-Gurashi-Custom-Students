@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hamaguchi, Chako (A cold-hearted tsundere bully).png" title="Hamaguchi, Chako (A cold-hearted tsundere bully) - AjTheYandere, V0.53">
 
-**Database ID: #0412**
+**Database ID: #0411**
 
 First Name: Chako
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shidesu, Osoro (An extremly mean blonde bitch).png" title="Shidesu, Osoro (An extremly mean blonde bitch) - Shadow and yogima, V0.53">
 
-**Database ID: #0193**
+**Database ID: #0192**
 
 First Name: Osoro
 

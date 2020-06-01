@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yosano, Robaato (An unfriendly, rude kuudere guy).png" title="Yosano, Robaato (An unfriendly, rude kuudere guy) - VT, V0.53">
 
-**Database ID: #0167**
+**Database ID: #0166**
 
 First Name: Robaato
 

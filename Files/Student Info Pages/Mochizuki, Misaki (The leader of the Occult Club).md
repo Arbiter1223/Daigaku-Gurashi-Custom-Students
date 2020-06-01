@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Mochizuki, Misaki (The leader of the Occult Club).png" title="Mochizuki, Misaki (The leader of the Occult Club) - Aho-chan, V0.53">
 
-**Database ID: #0346**
+**Database ID: #0345**
 
 First Name: Misaki
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Gensai, Takara (The anti-occult kuudere).md"><img src="../../Files/Thumbs/Gensai, Takara (The anti-occult kuudere).png" height="100" width="100" title="Gensai, Takara (The anti-occult kuudere) - Aho-chan, V0.53"></a><a href="Gensai, Takara (The anti-occult kuudere).md"> Takara - Enemy</a>
+

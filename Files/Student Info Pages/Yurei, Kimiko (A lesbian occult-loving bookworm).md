@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yurei, Kimiko (A lesbian occult-loving bookworm).png" title="Yurei, Kimiko (A lesbian occult-loving bookworm) - ghoul, V0.53">
 
-**Database ID: #0625**
+**Database ID: #0624**
 
 First Name: Kimiko
 

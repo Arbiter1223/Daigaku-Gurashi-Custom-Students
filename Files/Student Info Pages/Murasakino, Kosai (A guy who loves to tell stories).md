@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Murasakino, Kosai (A guy who loves to tell stories).png" title="Murasakino, Kosai (A guy who loves to tell stories) - screaming kiwi, V0.53">
 
-**Database ID: #0731**
+**Database ID: #0726**
 
 First Name: Kosai
 

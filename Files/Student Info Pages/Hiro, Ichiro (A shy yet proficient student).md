@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hiro, Ichiro (A shy yet proficient student).png" title="Hiro, Ichiro (A shy yet proficient student) - Takumi, V0.53">
 
-**Database ID: #0320**
+**Database ID: #0319**
 
 First Name: Ichiro
 

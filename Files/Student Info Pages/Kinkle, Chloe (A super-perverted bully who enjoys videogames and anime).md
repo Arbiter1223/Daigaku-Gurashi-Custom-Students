@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime).png" title="Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime) - yogima, V0.53">
 
-**Database ID: #0718**
+**Database ID: #0713**
 
 First Name: Chloe
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Omuretsu, Yolkema (A bright and cheerful dandere girl).md"><img src="../../Files/Thumbs/Omuretsu, Yolkema (A bright and cheerful dandere girl).png" height="100" width="100" title="Omuretsu, Yolkema (A bright and cheerful dandere girl) - yogima, V0.53"></a><a href="Omuretsu, Yolkema (A bright and cheerful dandere girl).md"> Yolkema - Best friend</a>
+

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shitai, Kanoke (An undead zombie student).png" title="Shitai, Kanoke (An undead zombie student) - YamiToast, V0.53">
 
-**Database ID: #0755**
+**Database ID: #0750**
 
 First Name: Kanoke
 

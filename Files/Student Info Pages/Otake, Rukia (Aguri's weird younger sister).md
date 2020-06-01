@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Otake, Rukia (Aguri's weird younger sister).png" title="Otake, Rukia (Aguri's weird younger sister) - Aho-chan, V0.53">
 
-**Database ID: #0390**
+**Database ID: #0389**
 
 First Name: Rukia
 
@@ -24,5 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
-<a href="Otake, Aguri (The ugly cutie).md"><img src="../../Files/Thumbs/Otake, Aguri (The ugly cutie).png" height="100" width="100" title="Otake, Aguri (The ugly cutie) - Aho-chan, V0.53"></a><a href="Otake, Aguri (The ugly cutie).md"> Aguri - Sister</a>
+<a href="Otake, Aguri (The ugly cutie).md"><img src="../../Files/Thumbs/Otake, Aguri (The ugly cutie).png" height="100" width="100" title="Otake, Aguri (The ugly cutie) - Aho-chan, V0.53"></a><a href="Otake, Aguri (The ugly cutie).md"> Aguri - Older sister</a>
 

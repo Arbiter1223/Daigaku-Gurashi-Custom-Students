@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Okura, Latoria (A pretty negative bookworm).png" title="Okura, Latoria (A pretty negative bookworm) - AjTheYandere, V0.53">
 
-**Database ID: #0373**
+**Database ID: #0372**
 
 First Name: Latoria
 

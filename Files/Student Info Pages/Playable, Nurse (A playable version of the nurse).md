@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Playable, Nurse (A playable version of the nurse).png" title="Playable, Nurse (A playable version of the nurse) - AjTheYandere, V0.53">
 
-**Database ID: #0660**
+**Database ID: #0656**
 
 First Name: Nurse
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Konoe, Traxex (The Drow Ranger).png" title="Konoe, Traxex (The Drow Ranger) - Aho-chan, V0.53">
 
-**Database ID: #0231**
+**Database ID: #0230**
 
 First Name: Traxex
 

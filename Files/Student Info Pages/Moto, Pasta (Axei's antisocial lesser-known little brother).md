@@ -24,7 +24,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
-<a href="Moto, Axei (A heartless yandere).md"><img src="../../Files/Thumbs/Moto, Axei (A heartless yandere).png" height="100" width="100" title="Moto, Axei (A heartless yandere) - BenPupKao, V0.53"></a><a href="Moto, Axei (A heartless yandere).md"> Axei - Brother</a>
+<a href="Moto, Axei (An asshole yandere).md"><img src="../../Files/Thumbs/Moto, Axei (An asshole yandere).png" height="100" width="100" title="Moto, Axei (An asshole yandere) - BenPupKao, V0.53"></a><a href="Moto, Axei (An asshole yandere).md"> Axei - Older brother</a>
 
-<a href="Moto, Hattie (Axei and Pasta's kind older sister).md"><img src="../../Files/Thumbs/Moto, Hattie (Axei and Pasta's kind older sister).png" height="100" width="100" title="Moto, Hattie (Axei and Pasta's kind older sister) - BenPupKao, V0.53"></a><a href="Moto, Hattie (Axei and Pasta's kind older sister).md"> Hattie - Sister</a>
+<a href="Moto, Hattie (A snooty lesbian who loves making puns).md"><img src="../../Files/Thumbs/Moto, Hattie (A snooty lesbian who loves making puns).png" height="100" width="100" title="Moto, Hattie (A snooty lesbian who loves making puns) - BenPupKao, V0.53"></a><a href="Moto, Hattie (A snooty lesbian who loves making puns).md"> Hattie - Sister</a>
 

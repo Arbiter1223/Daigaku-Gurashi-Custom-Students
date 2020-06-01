@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Koizumi, Kawa (An athletic yandere).png" title="Koizumi, Kawa (An athletic yandere) - witcharies, V0.53">
 
-**Database ID: #0671**
+**Database ID: #0667**
 
 First Name: Kawa
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Ito, Mirai (A lovey-dovey occult girl).md"><img src="../../Files/Thumbs/Ito, Mirai (A lovey-dovey occult girl).png" height="100" width="100" title="Ito, Mirai (A lovey-dovey occult girl) - witcharies, V0.53"></a><a href="Ito, Mirai (A lovey-dovey occult girl).md"> Mirai - Girlfriend</a>
+

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Koga, Bareru (An unfriendly occultist).png" title="Koga, Bareru (An unfriendly occultist) - BenPupKao, V0.53">
 
-**Database ID: #0336**
+**Database ID: #0335**
 
 First Name: Bareru
 

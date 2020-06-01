@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shimaoka, Konomi (Kimono's shy, kind, positive twin).png" title="Shimaoka, Konomi (Kimono's shy, kind, positive twin) - Cookie Boi, V0.53">
 
-**Database ID: #0298**
+**Database ID: #0297**
 
 First Name: Konomi
 

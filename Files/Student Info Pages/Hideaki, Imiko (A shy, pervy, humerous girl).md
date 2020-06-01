@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hideaki, Imiko (A shy, pervy, humerous girl).png" title="Hideaki, Imiko (A shy, pervy, humerous girl) - Cookie Boi, V0.53">
 
-**Database ID: #0302**
+**Database ID: #0301**
 
 First Name: Imiko
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Takasugi, Maiyu (A silly, confident, pervy girl).md"><img src="../../Files/Thumbs/Takasugi, Maiyu (A silly, confident, pervy girl).png" height="100" width="100" title="Takasugi, Maiyu (A silly, confident, pervy girl) - Cookie Boi, V0.53"></a><a href="Takasugi, Maiyu (A silly, confident, pervy girl).md"> Maiyu - Best friend</a>
+

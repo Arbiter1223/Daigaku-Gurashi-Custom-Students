@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Masuo, Akasha (The Queen of Pain).png" title="Masuo, Akasha (The Queen of Pain) - Aho-chan, V0.53">
 
-**Database ID: #0229**
+**Database ID: #0228**
 
 First Name: Akasha
 

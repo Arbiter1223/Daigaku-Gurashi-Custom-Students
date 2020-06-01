@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Momotami, Pastele (A very kind, pastel girl).md"><img src="../../Files/Thumbs/Momotami, Pastele (A very kind, pastel girl).png" height="100" width="100" title="Momotami, Pastele (A very kind, pastel girl) - Azumi, V0.53"></a><a href="Momotami, Pastele (A very kind, pastel girl).md"> Pastele - Opposite variant</a>
+

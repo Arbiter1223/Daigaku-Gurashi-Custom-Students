@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Koizumi, Toshiaki (A reclusive boring guy).png" title="Koizumi, Toshiaki (A reclusive boring guy) - AjTheYandere, V0.53">
 
-**Database ID: #0395**
+**Database ID: #0394**
 
 First Name: Toshiaki
 

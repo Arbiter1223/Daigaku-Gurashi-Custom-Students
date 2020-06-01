@@ -26,3 +26,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 <a href="Cummings, Jani (Jenny's older, much more mature brother).md"><img src="../../Files/Thumbs/Cummings, Jani (Jenny's older, much more mature brother).png" height="100" width="100" title="Cummings, Jani (Jenny's older, much more mature brother) - Cookie Boi, V0.53"></a><a href="Cummings, Jani (Jenny's older, much more mature brother).md"> Jani - Brother (unofficial)</a>
 
+<a href="Noai, Jennie (Jenny's crush since childhood).md"><img src="../../Files/Thumbs/Noai, Jennie (Jenny's crush since childhood).png" height="100" width="100" title="Noai, Jennie (Jenny's crush since childhood) - Izzyox, V0.53"></a><a href="Noai, Jennie (Jenny's crush since childhood).md"> Jennie - Childhood crush (unofficial)</a>
+

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Okamoto, Teruko (A dumb girl who likes to gossip).png" title="Okamoto, Teruko (A dumb girl who likes to gossip) - AjTheYandere, V0.53">
 
-**Database ID: #0392**
+**Database ID: #0391**
 
 First Name: Teruko
 

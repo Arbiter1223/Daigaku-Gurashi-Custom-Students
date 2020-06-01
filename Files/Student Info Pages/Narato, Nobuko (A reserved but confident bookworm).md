@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Narato, Nobuko (A reserved but confident bookworm).png" title="Narato, Nobuko (A reserved but confident bookworm) - Rando Studenta, V0.53">
 
-**Database ID: #0280**
+**Database ID: #0279**
 
 First Name: Nobuko
 

@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="One, Player (A girl who likes to play anime social simulators).md"><img src="../../Files/Thumbs/One, Player (A girl who likes to play anime social simulators).png" height="100" width="100" title="One, Player (A girl who likes to play anime social simulators) - AjTheYandere, V0.53"></a><a href="One, Player (A girl who likes to play anime social simulators).md"> Player - Girlfriend</a>
+

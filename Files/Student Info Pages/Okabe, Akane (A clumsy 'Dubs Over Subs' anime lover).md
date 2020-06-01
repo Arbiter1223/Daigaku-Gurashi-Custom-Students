@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Okabe, Akane (A clumsy 'Dubs Over Subs' anime lover).png" title="Okabe, Akane (A clumsy 'Dubs Over Subs' anime lover) - AjTheYandere, V0.53">
 
-**Database ID: #0404**
+**Database ID: #0403**
 
 First Name: Akane
 

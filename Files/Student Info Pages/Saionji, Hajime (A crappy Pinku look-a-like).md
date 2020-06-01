@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Saionji, Hajime (A crappy Pinku look-a-like).png" title="Saionji, Hajime (A crappy Pinku look-a-like) - Cookie Boi, V0.53">
 
-**Database ID: #0297**
+**Database ID: #0296**
 
 First Name: Hajime
 

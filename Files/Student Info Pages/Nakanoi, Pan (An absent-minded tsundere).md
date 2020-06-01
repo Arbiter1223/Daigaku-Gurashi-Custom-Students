@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nakanoi, Pan (An absent-minded tsundere).png" title="Nakanoi, Pan (An absent-minded tsundere) - Kana, V0.53">
 
-**Database ID: #0230**
+**Database ID: #0229**
 
 First Name: Pan
 

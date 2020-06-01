@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kori, Arachne (A gay zombie yandere).png" title="Kori, Arachne (A gay zombie yandere) - peraon, V0.53">
 
-**Database ID: #0701**
+**Database ID: #0696**
 
 First Name: Arachne
 

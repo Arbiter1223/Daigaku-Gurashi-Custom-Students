@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Anami, Shiro (The original protagonist of Daigaku Gurashi).png" title="Anami, Shiro (The original protagonist of Daigaku Gurashi) - yogima, V0.53">
 
-**Database ID: #0726**
+**Database ID: #0721**
 
 First Name: Shiro
 

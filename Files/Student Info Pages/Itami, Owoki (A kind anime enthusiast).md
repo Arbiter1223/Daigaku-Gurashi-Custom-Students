@@ -24,4 +24,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="OwO, UwU (A cute girl who isn't afraid to get pervy).md"><img src="../../Files/Thumbs/OwO, UwU (A cute girl who isn't afraid to get pervy).png" height="100" width="100" title="OwO, UwU (A cute girl who isn't afraid to get pervy) - Chi, V0.53"></a><a href="OwO, UwU (A cute girl who isn't afraid to get pervy).md"> UwU - Distant cousin</a>
+
+<a href="OwO, QwQ (A judgemental yet friendly, talkative guy).md"><img src="../../Files/Thumbs/OwO, QwQ (A judgemental yet friendly, talkative guy).png" height="100" width="100" title="OwO, QwQ (A judgemental yet friendly, talkative guy) - Chi, V0.53"></a><a href="OwO, QwQ (A judgemental yet friendly, talkative guy).md"> QwQ - Distant cousin</a>
+

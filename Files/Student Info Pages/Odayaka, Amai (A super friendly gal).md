@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Odayaka, Amai (A super friendly gal).png" title="Odayaka, Amai (A super friendly gal) - Shadow and yogima, V0.53">
 
-**Database ID: #0189**
+**Database ID: #0188**
 
 First Name: Amai
 

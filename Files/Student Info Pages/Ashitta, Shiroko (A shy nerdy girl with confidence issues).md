@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Ashitta, Shiroko (A shy nerdy girl with confidence issues).png" title="Ashitta, Shiroko (A shy nerdy girl with confidence issues) - Grandma Kipali, V0.53">
 
-**Database ID: #0643**
+**Database ID: #0642**
 
 First Name: Shiroko
 

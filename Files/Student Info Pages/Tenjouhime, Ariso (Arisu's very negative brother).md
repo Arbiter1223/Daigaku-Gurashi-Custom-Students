@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tenjouhime, Ariso (Arisu's very negative brother).png" title="Tenjouhime, Ariso (Arisu's very negative brother) - AjTheYandere, V0.53">
 
-**Database ID: #0325**
+**Database ID: #0324**
 
 First Name: Ariso
 
@@ -26,5 +26,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 <a href="Tenjouhime, Arisu (A very negative bully).md"><img src="../../Files/Thumbs/Tenjouhime, Arisu (A very negative bully).png" height="100" width="100" title="Tenjouhime, Arisu (A very negative bully) - YamiToast, V0.53"></a><a href="Tenjouhime, Arisu (A very negative bully).md"> Arisu - Sister (unofficial)</a>
 
-<a href="Tenjouhime, Arisa (Arisu's older, nicer sister).md"><img src="../../Files/Thumbs/Tenjouhime, Arisa (Arisu's older, nicer sister).png" height="100" width="100" title="Tenjouhime, Arisa (Arisu's older, nicer sister) - Arbiter1223, V0.53"></a><a href="Tenjouhime, Arisa (Arisu's older, nicer sister).md"> Arisa - Sister</a>
+<a href="Tenjouhime, Arisa (Arisu's younger, nicer sister).md"><img src="../../Files/Thumbs/Tenjouhime, Arisa (Arisu's younger, nicer sister).png" height="100" width="100" title="Tenjouhime, Arisa (Arisu's younger, nicer sister) - Arbiter1223, V0.53"></a><a href="Tenjouhime, Arisa (Arisu's younger, nicer sister).md"> Arisa - Sister</a>
+
+<a href="Tenjouhime, Suzuki (Arisu's very kind and open-minded sister).md"><img src="../../Files/Thumbs/Tenjouhime, Suzuki (Arisu's very kind and open-minded sister).png" height="100" width="100" title="Tenjouhime, Suzuki (Arisu's very kind and open-minded sister) - yogima, V0.53"></a><a href="Tenjouhime, Suzuki (Arisu's very kind and open-minded sister).md"> Suzuki - Sister</a>
 

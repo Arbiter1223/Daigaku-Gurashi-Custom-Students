@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kudara, Amber (A pretty chill kuudere).png" title="Kudara, Amber (A pretty chill kuudere) - Shiny, V0.53">
 
-**Database ID: #0596**
+**Database ID: #0595**
 
 First Name: Amber
 

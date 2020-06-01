@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Fukayama, Latoria (An optimistic, proactive girl).png" title="Fukayama, Latoria (An optimistic, proactive girl) - Nyanako, V0.53">
 
-**Database ID: #0178**
+**Database ID: #0177**
 
 First Name: Latoria
 

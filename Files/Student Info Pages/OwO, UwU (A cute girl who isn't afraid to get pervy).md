@@ -24,5 +24,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
-<a href="OwO, QwQ (UwU's judgemental but friendly brother).md"><img src="../../Files/Thumbs/OwO, QwQ (UwU's judgemental but friendly brother).png" height="100" width="100" title="OwO, QwQ (UwU's judgemental but friendly brother) - Chi, V0.53"></a><a href="OwO, QwQ (UwU's judgemental but friendly brother).md"> QwQ - Brother</a>
+<a href="OwO, QwQ (A judgemental yet friendly, talkative guy).md"><img src="../../Files/Thumbs/OwO, QwQ (A judgemental yet friendly, talkative guy).png" height="100" width="100" title="OwO, QwQ (A judgemental yet friendly, talkative guy) - Chi, V0.53"></a><a href="OwO, QwQ (A judgemental yet friendly, talkative guy).md"> QwQ - Brother</a>
+
+<a href="Itami, Owoki (A kind anime enthusiast).md"><img src="../../Files/Thumbs/Itami, Owoki (A kind anime enthusiast).png" height="100" width="100" title="Itami, Owoki (A kind anime enthusiast) - BenPupKao, V0.53"></a><a href="Itami, Owoki (A kind anime enthusiast).md"> Owoki - Distant cousin</a>
 

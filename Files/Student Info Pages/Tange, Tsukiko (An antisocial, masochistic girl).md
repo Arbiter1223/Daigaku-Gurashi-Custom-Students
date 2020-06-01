@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tange, Tsukiko (An antisocial, masochistic girl).png" title="Tange, Tsukiko (An antisocial, masochistic girl) - AjTheYandere, V0.53">
 
-**Database ID: #0396**
+**Database ID: #0395**
 
 First Name: Tsukiko
 

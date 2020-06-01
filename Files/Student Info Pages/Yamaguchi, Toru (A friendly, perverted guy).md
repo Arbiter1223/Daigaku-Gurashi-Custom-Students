@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yamaguchi, Toru (A friendly, perverted guy).png" title="Yamaguchi, Toru (A friendly, perverted guy) - Nyanako, V0.53">
 
-**Database ID: #0181**
+**Database ID: #0180**
 
 First Name: Toru
 

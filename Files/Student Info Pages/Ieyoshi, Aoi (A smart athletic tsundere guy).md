@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Ieyoshi, Aoi (A smart athletic tsundere guy).png" title="Ieyoshi, Aoi (A smart athletic tsundere guy) - AjTheYandere, V0.53">
 
-**Database ID: #0407**
+**Database ID: #0406**
 
 First Name: Aoi
 

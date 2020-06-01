@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/One, Player (A girl who likes to play anime social simulators).png" title="One, Player (A girl who likes to play anime social simulators) - AjTheYandere, V0.53">
 
-**Database ID: #0254**
+**Database ID: #0253**
 
 First Name: Player
 
@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Abe, Katrina (A masochist girl who likes everything).md"><img src="../../Files/Thumbs/Abe, Katrina (A masochist girl who likes everything).png" height="100" width="100" title="Abe, Katrina (A masochist girl who likes everything) - AjTheYandere, V0.53"></a><a href="Abe, Katrina (A masochist girl who likes everything).md"> Katrina - Girlfriend</a>
+

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Segeni, Amy (From Natsuki's poem in DDLC).png" title="Segeni, Amy (From Natsuki's poem in DDLC) - AjTheYandere, V0.53">
 
-**Database ID: #0245**
+**Database ID: #0244**
 
 First Name: Amy
 

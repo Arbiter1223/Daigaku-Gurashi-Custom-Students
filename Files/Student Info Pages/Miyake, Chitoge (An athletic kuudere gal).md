@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Miyake, Chitoge (An athletic kuudere gal).png" title="Miyake, Chitoge (An athletic kuudere gal) - AjTheYandere, V0.53">
 
-**Database ID: #0357**
+**Database ID: #0356**
 
 First Name: Chitoge
 

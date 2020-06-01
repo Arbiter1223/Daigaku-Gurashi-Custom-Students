@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Iwasa, Gintoki (An extremely shy and depressed neko guy).png" title="Iwasa, Gintoki (An extremely shy and depressed neko guy) - BenPupKao, V0.53">
 
-**Database ID: #0183**
+**Database ID: #0182**
 
 First Name: Gintoki
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hisakawa, Tomohiro (The older half of the Hisakawa twins).png" title="Hisakawa, Tomohiro (The older half of the Hisakawa twins) - Midnight Kitsune, V0.53">
 
-**Database ID: #0706**
+**Database ID: #0701**
 
 First Name: Tomohiro
 

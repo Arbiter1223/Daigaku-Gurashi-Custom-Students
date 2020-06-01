@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kotoku, Natsuki (A cute tsundere girl who loves to bake).png" title="Kotoku, Natsuki (A cute tsundere girl who loves to bake) - Aho-chan, V0.53">
 
-**Database ID: #0168**
+**Database ID: #0167**
 
 First Name: Natsuki
 

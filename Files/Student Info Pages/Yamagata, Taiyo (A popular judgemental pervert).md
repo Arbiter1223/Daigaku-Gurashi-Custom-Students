@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Yamagata, Tsuki (A shy, mean occultist).md"><img src="../../Files/Thumbs/Yamagata, Tsuki (A shy, mean occultist).png" height="100" width="100" title="Yamagata, Tsuki (A shy, mean occultist) - Syberian Inc, V0.53"></a><a href="Yamagata, Tsuki (A shy, mean occultist).md"> Tsuki - Twin sister</a>
+

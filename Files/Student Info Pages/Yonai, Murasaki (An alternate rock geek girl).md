@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Aoi, Hisako (A weeaboo bully).md"><img src="../../Files/Thumbs/Aoi, Hisako (A weeaboo bully).png" height="100" width="100" title="Aoi, Hisako (A weeaboo bully) - Syberian Inc, V0.53"></a><a href="Aoi, Hisako (A weeaboo bully).md"> Hisako - Mean variant</a>
+

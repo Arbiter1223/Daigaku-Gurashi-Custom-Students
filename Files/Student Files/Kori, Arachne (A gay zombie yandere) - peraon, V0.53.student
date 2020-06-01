@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.53
-Last Modified: 4/26/2020 4:35:18 PM
+Last Modified: 6/1/2020 3:33:43 PM
 ------------------------------------------------------
 FirstName|Arachne|
 Sex|0|
@@ -94,7 +94,7 @@ Accent_Nyaccent|False|
 Accent_FoulMouth|False|
 Accent_PoorGrammar|False|
 Accent_ThirdPerson|False|
-Accent_Zombie|False|
+Accent_Zombie|True|
 Age|24|
 KindGreeting|0|
 Diet|500|

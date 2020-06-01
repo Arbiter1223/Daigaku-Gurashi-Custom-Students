@@ -24,4 +24,7 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Sakagami, Yuriko (A cute, athletic girl).md"><img src="../../Files/Thumbs/Sakagami, Yuriko (A cute, athletic girl).png" height="100" width="100" title="Sakagami, Yuriko (A cute, athletic girl) - Azumi, V0.53"></a><a href="Sakagami, Yuriko (A cute, athletic girl).md"> Yuriko - Girlfriend</a>
+
+<a href="Sohda, Gothia (A goth-emo girl).md"><img src="../../Files/Thumbs/Sohda, Gothia (A goth-emo girl).png" height="100" width="100" title="Sohda, Gothia (A goth-emo girl) - Azumi, V0.53"></a><a href="Sohda, Gothia (A goth-emo girl).md"> Gothia - Opposite variant</a>
+

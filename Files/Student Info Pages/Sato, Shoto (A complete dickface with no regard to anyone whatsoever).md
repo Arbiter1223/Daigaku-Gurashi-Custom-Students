@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Sato, Shoto (A complete dickface with no regard to anyone whatsoever).png" title="Sato, Shoto (A complete dickface with no regard to anyone whatsoever) - kami, V0.53">
 
-**Database ID: #0632**
+**Database ID: #0631**
 
 First Name: Shoto
 

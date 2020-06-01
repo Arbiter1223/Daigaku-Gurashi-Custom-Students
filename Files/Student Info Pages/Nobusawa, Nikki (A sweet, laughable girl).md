@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nobusawa, Nikki (A sweet, laughable girl).png" title="Nobusawa, Nikki (A sweet, laughable girl) - Nightara, V0.53">
 
-**Database ID: #0243**
+**Database ID: #0242**
 
 First Name: Nikki
 

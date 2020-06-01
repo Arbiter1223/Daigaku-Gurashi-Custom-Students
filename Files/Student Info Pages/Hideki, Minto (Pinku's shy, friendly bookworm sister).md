@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hideki, Minto (Pinku's shy, friendly bookworm sister).png" title="Hideki, Minto (Pinku's shy, friendly bookworm sister) - Cookie Boi, V0.53">
 
-**Database ID: #0304**
+**Database ID: #0303**
 
 First Name: Minto
 

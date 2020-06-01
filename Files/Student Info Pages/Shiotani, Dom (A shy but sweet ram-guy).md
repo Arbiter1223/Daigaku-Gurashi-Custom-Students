@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shiotani, Dom (A shy but sweet ram-guy).png" title="Shiotani, Dom (A shy but sweet ram-guy) - Nightara, V0.53">
 
-**Database ID: #0233**
+**Database ID: #0232**
 
 First Name: Dom
 

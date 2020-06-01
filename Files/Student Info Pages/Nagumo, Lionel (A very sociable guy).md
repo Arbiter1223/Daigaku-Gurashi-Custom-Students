@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nagumo, Lionel (A very sociable guy).png" title="Nagumo, Lionel (A very sociable guy) - Kana, V0.53">
 
-**Database ID: #0347**
+**Database ID: #0346**
 
 First Name: Lionel
 
