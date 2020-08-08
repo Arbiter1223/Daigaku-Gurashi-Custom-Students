@@ -1,6 +1,6 @@
 # Sonoda, Riko (A secluded anime NEET)
 
-<img src="../../Files/Images/Sonoda, Riko (A secluded anime NEET).png" title="Sonoda, Riko (A secluded anime NEET) - AjTheYandere, V0.53">
+<img src="../../Files/Images/Sonoda, Riko (A secluded anime NEET).png" title="Sonoda, Riko (A secluded anime NEET) - AjTheYandere, V0.57">
 
 **Database ID: #0462**
 
@@ -12,13 +12,13 @@ Description: A secluded anime NEET
 
 Author: AjTheYandere
 
-Compatable game version: V0.53
+Compatable game version: V0.57
 
 First appearance: 11/3/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sonoda%2C%20Riko%20(A%20secluded%20anime%20NEET)%20-%20AjTheYandere%2C%20V0.53.student">Sonoda, Riko (A secluded anime NEET) - AjTheYandere, V0.53.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sonoda%2C%20Riko%20(A%20secluded%20anime%20NEET)%20-%20AjTheYandere%2C%20V0.57.student">Sonoda, Riko (A secluded anime NEET) - AjTheYandere, V0.57.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

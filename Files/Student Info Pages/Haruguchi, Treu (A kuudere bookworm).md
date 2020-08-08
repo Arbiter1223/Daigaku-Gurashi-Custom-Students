@@ -1,6 +1,6 @@
 # Haruguchi, Treu (A kuudere bookworm)
 
-<img src="../../Files/Images/Haruguchi, Treu (A kuudere bookworm).png" title="Haruguchi, Treu (A kuudere bookworm) - Nightara, V0.53">
+<img src="../../Files/Images/Haruguchi, Treu (A kuudere bookworm).png" title="Haruguchi, Treu (A kuudere bookworm) - Nightara, V0.57">
 
 **Database ID: #0314**
 
@@ -12,13 +12,13 @@ Description: A kuudere bookworm
 
 Author: Nightara
 
-Compatable game version: V0.53
+Compatable game version: V0.57
 
 First appearance: 9/28/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Haruguchi%2C%20Treu%20(A%20kuudere%20bookworm)%20-%20Nightara%2C%20V0.53.student">Haruguchi, Treu (A kuudere bookworm) - Nightara, V0.53.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Haruguchi%2C%20Treu%20(A%20kuudere%20bookworm)%20-%20Nightara%2C%20V0.57.student">Haruguchi, Treu (A kuudere bookworm) - Nightara, V0.57.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

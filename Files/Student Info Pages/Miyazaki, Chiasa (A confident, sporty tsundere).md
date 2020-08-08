@@ -1,6 +1,6 @@
 # Miyazaki, Chiasa (A confident, sporty tsundere)
 
-<img src="../../Files/Images/Miyazaki, Chiasa (A confident, sporty tsundere).png" title="Miyazaki, Chiasa (A confident, sporty tsundere) - AjTheYandere, V0.53">
+<img src="../../Files/Images/Miyazaki, Chiasa (A confident, sporty tsundere).png" title="Miyazaki, Chiasa (A confident, sporty tsundere) - AjTheYandere, V0.57">
 
 **Database ID: #0353**
 
@@ -12,13 +12,13 @@ Description: A confident, sporty tsundere
 
 Author: AjTheYandere
 
-Compatable game version: V0.53
+Compatable game version: V0.57
 
 First appearance: 10/21/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Miyazaki%2C%20Chiasa%20(A%20confident%2C%20sporty%20tsundere)%20-%20AjTheYandere%2C%20V0.53.student">Miyazaki, Chiasa (A confident, sporty tsundere) - AjTheYandere, V0.53.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Miyazaki%2C%20Chiasa%20(A%20confident%2C%20sporty%20tsundere)%20-%20AjTheYandere%2C%20V0.57.student">Miyazaki, Chiasa (A confident, sporty tsundere) - AjTheYandere, V0.57.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

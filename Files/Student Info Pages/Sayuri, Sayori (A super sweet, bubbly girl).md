@@ -1,6 +1,6 @@
 # Sayuri, Sayori (A super sweet, bubbly girl)
 
-<img src="../../Files/Images/Sayuri, Sayori (A super sweet, bubbly girl).png" title="Sayuri, Sayori (A super sweet, bubbly girl) - Kitten, V0.53">
+<img src="../../Files/Images/Sayuri, Sayori (A super sweet, bubbly girl).png" title="Sayuri, Sayori (A super sweet, bubbly girl) - Kitten, V0.57">
 
 **Database ID: #0160**
 
@@ -12,21 +12,21 @@ Description: A super sweet, bubbly girl
 
 Author: Kitten
 
-Compatable game version: V0.53
+Compatable game version: V0.57
 
 First appearance: 8/17/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sayuri%2C%20Sayori%20(A%20super%20sweet%2C%20bubbly%20girl)%20-%20Kitten%2C%20V0.53.student">Sayuri, Sayori (A super sweet, bubbly girl) - Kitten, V0.53.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sayuri%2C%20Sayori%20(A%20super%20sweet%2C%20bubbly%20girl)%20-%20Kitten%2C%20V0.57.student">Sayuri, Sayori (A super sweet, bubbly girl) - Kitten, V0.57.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Nakatsuka, Natsuki (A cute tsundere futanari).md"><img src="../../Files/Thumbs/Nakatsuka, Natsuki (A cute tsundere futanari).png" height="100" width="100" title="Nakatsuka, Natsuki (A cute tsundere futanari) - Kitten, V0.53"></a><a href="Nakatsuka, Natsuki (A cute tsundere futanari).md"> Natsuki - Friend</a>
+<a href="Nakatsuka, Natsuki (A cute tsundere futanari).md"><img src="../../Files/Thumbs/Nakatsuka, Natsuki (A cute tsundere futanari).png" height="100" width="100" title="Nakatsuka, Natsuki (A cute tsundere futanari) - Kitten, V0.57"></a><a href="Nakatsuka, Natsuki (A cute tsundere futanari).md"> Natsuki - Friend</a>
 
-<a href="Okajima, Yuri (A quiet, intelligent bookworm).md"><img src="../../Files/Thumbs/Okajima, Yuri (A quiet, intelligent bookworm).png" height="100" width="100" title="Okajima, Yuri (A quiet, intelligent bookworm) - Kitten, V0.53"></a><a href="Okajima, Yuri (A quiet, intelligent bookworm).md"> Yuri - Friend</a>
+<a href="Okajima, Yuri (A quiet, intelligent bookworm).md"><img src="../../Files/Thumbs/Okajima, Yuri (A quiet, intelligent bookworm).png" height="100" width="100" title="Okajima, Yuri (A quiet, intelligent bookworm) - Kitten, V0.57"></a><a href="Okajima, Yuri (A quiet, intelligent bookworm).md"> Yuri - Friend</a>
 
-<a href="Ashcraft, Monika (A skilled pianist, president of the Literature Club).md"><img src="../../Files/Thumbs/Ashcraft, Monika (A skilled pianist, president of the Literature Club).png" height="100" width="100" title="Ashcraft, Monika (A skilled pianist, president of the Literature Club) - Kitten, V0.53"></a><a href="Ashcraft, Monika (A skilled pianist, president of the Literature Club).md"> Monika - Friend</a>
+<a href="Ashcraft, Monika (A skilled pianist, president of the Literature Club).md"><img src="../../Files/Thumbs/Ashcraft, Monika (A skilled pianist, president of the Literature Club).png" height="100" width="100" title="Ashcraft, Monika (A skilled pianist, president of the Literature Club) - Kitten, V0.57"></a><a href="Ashcraft, Monika (A skilled pianist, president of the Literature Club).md"> Monika - Friend</a>
 

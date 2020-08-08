@@ -1,6 +1,6 @@
 # Satou, Kuuhaku (The most boring guy ever)
 
-<img src="../../Files/Images/Satou, Kuuhaku (The most boring guy ever).png" title="Satou, Kuuhaku (The most boring guy ever) - YamiToast, V0.53">
+<img src="../../Files/Images/Satou, Kuuhaku (The most boring guy ever).png" title="Satou, Kuuhaku (The most boring guy ever) - YamiToast, V0.57">
 
 **Database ID: #0003**
 
@@ -12,13 +12,13 @@ Description: The most boring guy ever
 
 Author: YamiToast
 
-Compatable game version: V0.53
+Compatable game version: V0.57
 
 First appearance: 3/20/2018
 
 Created in version: V0.22
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Satou%2C%20Kuuhaku%20(The%20most%20boring%20guy%20ever)%20-%20YamiToast%2C%20V0.53.student">Satou, Kuuhaku (The most boring guy ever) - YamiToast, V0.53.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Satou%2C%20Kuuhaku%20(The%20most%20boring%20guy%20ever)%20-%20YamiToast%2C%20V0.57.student">Satou, Kuuhaku (The most boring guy ever) - YamiToast, V0.57.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
