@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="TheYandere, Aj (A very antisocial guy).md"><img src="../../Files/Thumbs/TheYandere, Aj (A very antisocial guy).png" height="100" width="100" title="TheYandere, Aj (A very antisocial guy) - AjTheYandere, V0.57"></a><a href="TheYandere, Aj (A very antisocial guy).md"> Aj - Owner</a>
+

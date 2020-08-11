@@ -24,4 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
--none-
+<a href="Komatsu, Charlie (Aj's pet cat).md"><img src="../../Files/Thumbs/Komatsu, Charlie (Aj's pet cat).png" height="100" width="100" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.57"></a><a href="Komatsu, Charlie (Aj's pet cat).md"> Charlie - Pet</a>
+
