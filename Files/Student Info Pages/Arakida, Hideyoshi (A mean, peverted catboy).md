@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Arakida, Hideyoshi (A mean, peverted catboy).png" title="Arakida, Hideyoshi (A mean, peverted catboy) - Takumi, V0.57">
 
-**Database ID: #0318**
+**Database ID: #0317**
 
 First Name: Hideyoshi
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Osaka, Kyoko (A mean yandere tsundere).png" title="Osaka, Kyoko (A mean yandere tsundere) - AjTheYandere, V0.57">
 
-**Database ID: #0441**
+**Database ID: #0439**
 
 First Name: Kyoko
 

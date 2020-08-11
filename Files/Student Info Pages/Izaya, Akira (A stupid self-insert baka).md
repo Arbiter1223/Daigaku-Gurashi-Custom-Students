@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Izaya, Akira (A stupid self-insert baka).png" title="Izaya, Akira (A stupid self-insert baka) - kami, V0.57">
 
-**Database ID: #0622**
+**Database ID: #0620**
 
 First Name: Akira
 

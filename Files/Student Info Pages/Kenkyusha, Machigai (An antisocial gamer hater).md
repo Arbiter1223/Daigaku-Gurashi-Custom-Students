@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kenkyusha, Machigai (An antisocial gamer hater).png" title="Kenkyusha, Machigai (An antisocial gamer hater) - BenPupKao, V0.57">
 
-**Database ID: #0502**
+**Database ID: #0500**
 
 First Name: Machigai
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kaminaga, Nico (A cheerful, klutzy anime fan).png" title="Kaminaga, Nico (A cheerful, klutzy anime fan) - LowkeyHomo, V0.57">
 
-**Database ID: #0492**
+**Database ID: #0490**
 
 First Name: Nico
 

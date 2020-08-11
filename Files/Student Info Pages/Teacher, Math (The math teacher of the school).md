@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Teacher, Math (The math teacher of the school).png" title="Teacher, Math (The math teacher of the school) - AjTheYandere, V0.57">
 
-**Database ID: #0290**
+**Database ID: #0289**
 
 First Name: Math
 

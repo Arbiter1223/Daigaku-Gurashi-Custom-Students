@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Ouchi, Inori (A snooty occult follower).png" title="Ouchi, Inori (A snooty occult follower) - AjTheYandere, V0.57">
 
-**Database ID: #0429**
+**Database ID: #0427**
 
 First Name: Inori
 

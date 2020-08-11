@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kutsuna, Masato (An extremely shy schoolboy).png" title="Kutsuna, Masato (An extremely shy schoolboy) - AjTheYandere, V0.57">
 
-**Database ID: #0447**
+**Database ID: #0445**
 
 First Name: Masato
 

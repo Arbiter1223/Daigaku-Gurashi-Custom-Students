@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Komatsuzaki, Tomiko (A very sporty tsundere girl).png" title="Komatsuzaki, Tomiko (A very sporty tsundere girl) - BenPupKao, V0.57">
 
-**Database ID: #0333**
+**Database ID: #0332**
 
 First Name: Tomiko
 

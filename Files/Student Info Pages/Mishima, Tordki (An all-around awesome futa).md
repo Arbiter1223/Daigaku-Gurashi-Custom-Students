@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Mishima, Tordki (An all-around awesome futa).png" title="Mishima, Tordki (An all-around awesome futa) - BenPupKao, V0.57">
 
-**Database ID: #0383**
+**Database ID: #0381**
 
 First Name: Tordki
 

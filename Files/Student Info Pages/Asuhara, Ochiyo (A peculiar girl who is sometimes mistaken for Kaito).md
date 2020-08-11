@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito).png" title="Asuhara, Ochiyo (A peculiar girl who is sometimes mistaken for Kaito) - Rando Studenta, V0.57">
 
-**Database ID: #0716**
+**Database ID: #0714**
 
 First Name: Ochiyo
 

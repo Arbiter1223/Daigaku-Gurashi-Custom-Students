@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hideaki, Imiko (A shy, pervy, humerous girl).png" title="Hideaki, Imiko (A shy, pervy, humerous girl) - Cookie Boi, V0.57">
 
-**Database ID: #0301**
+**Database ID: #0300**
 
 First Name: Imiko
 

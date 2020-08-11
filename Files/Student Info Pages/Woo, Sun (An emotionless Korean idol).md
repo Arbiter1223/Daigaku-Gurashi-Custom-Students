@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Woo, Sun (An emotionless Korean idol).png" title="Woo, Sun (An emotionless Korean idol) - Aho-chan, V0.57">
 
-**Database ID: #0387**
+**Database ID: #0385**
 
 First Name: Sun
 

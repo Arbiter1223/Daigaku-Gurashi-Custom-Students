@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shiyudotai, Katame (Kayame's meaner twin sister).png" title="Shiyudotai, Katame (Kayame's meaner twin sister) - Emily, V0.57">
 
-**Database ID: #0754**
+**Database ID: #0752**
 
 First Name: Katame
 

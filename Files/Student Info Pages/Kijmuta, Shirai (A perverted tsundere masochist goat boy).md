@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kijmuta, Shirai (A perverted tsundere masochist goat boy).png" title="Kijmuta, Shirai (A perverted tsundere masochist goat boy) - AjTheYandere, V0.57">
 
-**Database ID: #0273**
+**Database ID: #0272**
 
 First Name: Shirai
 

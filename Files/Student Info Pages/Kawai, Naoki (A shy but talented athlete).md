@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kawai, Naoki (A shy but talented athlete).png" title="Kawai, Naoki (A shy but talented athlete) - AjTheYandere, V0.57">
 
-**Database ID: #0452**
+**Database ID: #0450**
 
 First Name: Naoki
 

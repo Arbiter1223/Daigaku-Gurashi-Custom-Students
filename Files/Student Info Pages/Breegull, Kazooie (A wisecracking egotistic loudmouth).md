@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Breegull, Kazooie (A wisecracking egotistic loudmouth).png" title="Breegull, Kazooie (A wisecracking egotistic loudmouth) - Camden, V0.57">
 
-**Database ID: #0698**
+**Database ID: #0696**
 
 First Name: Kazooie
 

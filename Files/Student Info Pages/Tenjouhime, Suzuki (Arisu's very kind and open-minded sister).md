@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tenjouhime, Suzuki (Arisu's very kind and open-minded sister).png" title="Tenjouhime, Suzuki (Arisu's very kind and open-minded sister) - yogima, V0.57">
 
-**Database ID: #0734**
+**Database ID: #0732**
 
 First Name: Suzuki
 

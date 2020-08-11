@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kasane, Teto (A girl who has very strong opinions).png" title="Kasane, Teto (A girl who has very strong opinions) - AjTheYandere, V0.57">
 
-**Database ID: #0657**
+**Database ID: #0655**
 
 First Name: Teto
 

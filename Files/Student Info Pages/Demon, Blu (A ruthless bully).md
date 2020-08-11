@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Demon, Blu (A ruthless bully).png" title="Demon, Blu (A ruthless bully) - Camden, V0.57">
 
-**Database ID: #0559**
+**Database ID: #0557**
 
 First Name: Blu
 

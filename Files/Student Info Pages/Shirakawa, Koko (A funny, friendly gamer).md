@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shirakawa, Koko (A funny, friendly gamer).png" title="Shirakawa, Koko (A funny, friendly gamer) - BenPupKao, V0.57">
 
-**Database ID: #0343**
+**Database ID: #0341**
 
 First Name: Koko
 

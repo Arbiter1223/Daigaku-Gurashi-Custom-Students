@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tatsuno, Ritsu (A very smart and romantic bookworm).png" title="Tatsuno, Ritsu (A very smart and romantic bookworm) - AjTheYandere, V0.57">
 
-**Database ID: #0463**
+**Database ID: #0461**
 
 First Name: Ritsu
 

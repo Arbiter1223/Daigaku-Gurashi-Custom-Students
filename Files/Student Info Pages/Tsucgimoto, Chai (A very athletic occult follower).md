@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tsucgimoto, Chai (A very athletic occult follower).png" title="Tsucgimoto, Chai (A very athletic occult follower) - AjTheYandere, V0.57">
 
-**Database ID: #0410**
+**Database ID: #0408**
 
 First Name: Chai
 

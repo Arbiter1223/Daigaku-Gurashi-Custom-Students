@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Okimura, Chako (A brilliant and content lady).png" title="Okimura, Chako (A brilliant and content lady) - AjTheYandere, V0.57">
 
-**Database ID: #0352**
+**Database ID: #0350**
 
 First Name: Chako
 

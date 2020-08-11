@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Takekawa, Akira (A sad, somewhat unfriendly boy).png" title="Takekawa, Akira (A sad, somewhat unfriendly boy) - BenPupKao, V0.57">
 
-**Database ID: #0339**
+**Database ID: #0337**
 
 First Name: Akira
 

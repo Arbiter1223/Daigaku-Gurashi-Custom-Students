@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Muso, Kenshin (A modest yandere).png" title="Muso, Kenshin (A modest yandere) - AjTheYandere, V0.57">
 
-**Database ID: #0436**
+**Database ID: #0434**
 
 First Name: Kenshin
 

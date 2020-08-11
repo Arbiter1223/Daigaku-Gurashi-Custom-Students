@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yamahata, Light (A rude antisocial guy).png" title="Yamahata, Light (A rude antisocial guy) - AjTheYandere, V0.57">
 
-**Database ID: #0442**
+**Database ID: #0440**
 
 First Name: Light
 

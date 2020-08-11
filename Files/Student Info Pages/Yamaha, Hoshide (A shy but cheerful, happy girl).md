@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yamaha, Hoshide (A shy but cheerful, happy girl).png" title="Yamaha, Hoshide (A shy but cheerful, happy girl) - AjTheYandere, V0.57">
 
-**Database ID: #0248**
+**Database ID: #0247**
 
 First Name: Hoshide
 

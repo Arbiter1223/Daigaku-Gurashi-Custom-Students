@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Amori, Natsuki (From DDLC, a tsundere manga fangirl).png" title="Amori, Natsuki (From DDLC, a tsundere manga fangirl) - LowkeyHomo, V0.57">
 
-**Database ID: #0538**
+**Database ID: #0536**
 
 First Name: Natsuki
 

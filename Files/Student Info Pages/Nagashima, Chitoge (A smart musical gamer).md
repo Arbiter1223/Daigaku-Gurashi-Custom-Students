@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nagashima, Chitoge (A smart musical gamer).png" title="Nagashima, Chitoge (A smart musical gamer) - AjTheYandere, V0.57">
 
-**Database ID: #0413**
+**Database ID: #0411**
 
 First Name: Chitoge
 

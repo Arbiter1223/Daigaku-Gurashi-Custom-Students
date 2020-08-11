@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Notepad, Editta (A student made by editing a .student file).png" title="Notepad, Editta (A student made by editing a .student file) - AjTheYandere, V0.57">
 
-**Database ID: #0476**
+**Database ID: #0474**
 
 First Name: Editta
 

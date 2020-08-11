@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nitta, Masao (A bully who likes to wear dresses).png" title="Nitta, Masao (A bully who likes to wear dresses) - AjTheYandere, V0.57">
 
-**Database ID: #0557**
+**Database ID: #0555**
 
 First Name: Masao
 

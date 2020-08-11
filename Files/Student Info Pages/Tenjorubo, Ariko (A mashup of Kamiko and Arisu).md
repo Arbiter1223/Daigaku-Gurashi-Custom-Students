@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tenjorubo, Ariko (A mashup of Kamiko and Arisu).png" title="Tenjorubo, Ariko (A mashup of Kamiko and Arisu) - AjTheYandere, V0.57">
 
-**Database ID: #0381**
+**Database ID: #0379**
 
 First Name: Ariko
 

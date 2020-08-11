@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kusaka, Tomiko (A shy, withdrawn girl).png" title="Kusaka, Tomiko (A shy, withdrawn girl) - AjTheYandere, V0.57">
 
-**Database ID: #0392**
+**Database ID: #0390**
 
 First Name: Tomiko
 

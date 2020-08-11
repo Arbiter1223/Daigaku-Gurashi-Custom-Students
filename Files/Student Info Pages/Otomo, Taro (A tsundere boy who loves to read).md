@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Otomo, Taro (A tsundere boy who loves to read).png" title="Otomo, Taro (A tsundere boy who loves to read) - yogima, V0.57">
 
-**Database ID: #0757**
+**Database ID: #0755**
 
 First Name: Taro
 

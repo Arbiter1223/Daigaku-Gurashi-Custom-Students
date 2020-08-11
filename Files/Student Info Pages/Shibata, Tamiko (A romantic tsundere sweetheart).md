@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shibata, Tamiko (A romantic tsundere sweetheart).png" title="Shibata, Tamiko (A romantic tsundere sweetheart) - AjTheYandere, V0.57">
 
-**Database ID: #0475**
+**Database ID: #0473**
 
 First Name: Tamiko
 

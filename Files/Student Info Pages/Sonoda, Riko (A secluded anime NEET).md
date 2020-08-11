@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Sonoda, Riko (A secluded anime NEET).png" title="Sonoda, Riko (A secluded anime NEET) - AjTheYandere, V0.57">
 
-**Database ID: #0462**
+**Database ID: #0460**
 
 First Name: Riko
 

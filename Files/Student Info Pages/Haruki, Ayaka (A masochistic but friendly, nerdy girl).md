@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Haruki, Ayaka (A masochistic but friendly, nerdy girl).png" title="Haruki, Ayaka (A masochistic but friendly, nerdy girl) - ghoul, V0.57">
 
-**Database ID: #0623**
+**Database ID: #0621**
 
 First Name: Ayaka
 

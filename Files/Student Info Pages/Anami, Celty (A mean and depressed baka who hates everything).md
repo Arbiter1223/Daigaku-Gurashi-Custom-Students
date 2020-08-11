@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Anami, Celty (A mean and depressed baka who hates everything).png" title="Anami, Celty (A mean and depressed baka who hates everything) - sansrika, V0.57">
 
-**Database ID: #0608**
+**Database ID: #0606**
 
 First Name: Celty
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hatakeyama, Karahashi (An athletic occult girl).png" title="Hatakeyama, Karahashi (An athletic occult girl) - AjTheYandere, V0.57">
 
-**Database ID: #0249**
+**Database ID: #0248**
 
 First Name: Karahashi
 

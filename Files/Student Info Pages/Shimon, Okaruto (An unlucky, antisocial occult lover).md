@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shimon, Okaruto (An unlucky, antisocial occult lover).png" title="Shimon, Okaruto (An unlucky, antisocial occult lover) - Takumi, V0.57">
 
-**Database ID: #0321**
+**Database ID: #0320**
 
 First Name: Okaruto
 

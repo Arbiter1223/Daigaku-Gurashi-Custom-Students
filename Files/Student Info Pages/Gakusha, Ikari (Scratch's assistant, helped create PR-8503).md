@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Gakusha, Ikari (Scratch's assistant, helped create PR-8503).png" title="Gakusha, Ikari (Scratch's assistant, helped create PR-8503) - AjTheYandere, V0.57">
 
-**Database ID: #0384**
+**Database ID: #0382**
 
 First Name: Ikari
 

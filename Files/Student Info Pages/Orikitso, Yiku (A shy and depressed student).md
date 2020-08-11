@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Orikitso, Yiku (A shy and depressed student).png" title="Orikitso, Yiku (A shy and depressed student) - screaming kiwi, V0.57">
 
-**Database ID: #0703**
+**Database ID: #0701**
 
 First Name: Yiku
 

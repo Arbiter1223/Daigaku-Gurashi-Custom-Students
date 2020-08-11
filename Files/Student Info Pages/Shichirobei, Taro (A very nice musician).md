@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shichirobei, Taro (A very nice musician).png" title="Shichirobei, Taro (A very nice musician) - AjTheYandere, V0.57">
 
-**Database ID: #0390**
+**Database ID: #0388**
 
 First Name: Taro
 

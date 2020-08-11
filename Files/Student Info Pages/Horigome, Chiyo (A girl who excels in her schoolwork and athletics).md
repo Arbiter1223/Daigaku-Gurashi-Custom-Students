@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Horigome, Chiyo (A girl who excels in her schoolwork and athletics).png" title="Horigome, Chiyo (A girl who excels in her schoolwork and athletics) - AjTheYandere, V0.57">
 
-**Database ID: #0414**
+**Database ID: #0412**
 
 First Name: Chiyo
 

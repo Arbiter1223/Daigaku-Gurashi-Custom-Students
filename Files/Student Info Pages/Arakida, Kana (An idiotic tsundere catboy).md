@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Arakida, Kana (An idiotic tsundere catboy).png" title="Arakida, Kana (An idiotic tsundere catboy) - Takumi, V0.57">
 
-**Database ID: #0317**
+**Database ID: #0316**
 
 First Name: Kana
 

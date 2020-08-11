@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Takizawa, Sayaka (A super kind, very confident deredere).png" title="Takizawa, Sayaka (A super kind, very confident deredere) - Gurashidori, V0.57">
 
-**Database ID: #0565**
+**Database ID: #0563**
 
 First Name: Sayaka
 

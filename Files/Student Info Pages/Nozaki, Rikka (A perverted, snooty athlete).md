@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nozaki, Rikka (A perverted, snooty athlete).png" title="Nozaki, Rikka (A perverted, snooty athlete) - AjTheYandere, V0.57">
 
-**Database ID: #0461**
+**Database ID: #0459**
 
 First Name: Rikka
 

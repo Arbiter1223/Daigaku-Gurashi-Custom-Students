@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tagawa, Bunko (A shy yandere genius).png" title="Tagawa, Bunko (A shy yandere genius) - Aho-chan, V0.57">
 
-**Database ID: #0270**
+**Database ID: #0269**
 
 First Name: Bunko
 

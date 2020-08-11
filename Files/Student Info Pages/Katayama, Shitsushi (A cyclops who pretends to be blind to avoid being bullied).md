@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Katayama, Shitsushi (A cyclops who pretends to be blind to avoid being bullied).png" title="Katayama, Shitsushi (A cyclops who pretends to be blind to avoid being bullied) - Emily, V0.57">
 
-**Database ID: #0729**
+**Database ID: #0727**
 
 First Name: Shitsushi
 

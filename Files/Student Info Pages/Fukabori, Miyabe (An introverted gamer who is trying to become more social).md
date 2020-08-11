@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Fukabori, Miyabe (An introverted gamer who is trying to become more social).png" title="Fukabori, Miyabe (An introverted gamer who is trying to become more social) - yogima, V0.57">
 
-**Database ID: #0710**
+**Database ID: #0708**
 
 First Name: Miyabe
 

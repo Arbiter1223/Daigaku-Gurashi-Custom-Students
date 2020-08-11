@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shimaoka, Kimono (Konomi's confident, heartless, negative twin).png" title="Shimaoka, Kimono (Konomi's confident, heartless, negative twin) - Cookie Boi, V0.57">
 
-**Database ID: #0298**
+**Database ID: #0297**
 
 First Name: Kimono
 

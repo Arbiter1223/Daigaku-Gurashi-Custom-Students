@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kurmochi, Kotone (A snooty, rather insecure girl).png" title="Kurmochi, Kotone (A snooty, rather insecure girl) - AjTheYandere, V0.57">
 
-**Database ID: #0371**
+**Database ID: #0369**
 
 First Name: Kotone
 

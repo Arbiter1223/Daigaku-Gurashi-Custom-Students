@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kurabu, Ramen (A student whose main diet consists of ramen noodles and crab juice).png" title="Kurabu, Ramen (A student whose main diet consists of ramen noodles and crab juice) - Emily, V0.57">
 
-**Database ID: #0733**
+**Database ID: #0731**
 
 First Name: Ramen
 

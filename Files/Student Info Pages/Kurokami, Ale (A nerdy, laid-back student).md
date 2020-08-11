@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kurokami, Ale (A nerdy, laid-back student).png" title="Kurokami, Ale (A nerdy, laid-back student) - Aho-chan, V0.57">
 
-**Database ID: #0699**
+**Database ID: #0697**
 
 First Name: Ale
 

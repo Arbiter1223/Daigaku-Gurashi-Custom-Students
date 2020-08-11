@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shibata, Shoma (A revenant who still remains happy and carefree).png" title="Shibata, Shoma (A revenant who still remains happy and carefree) - Midnight Kitsune, V0.57">
 
-**Database ID: #0725**
+**Database ID: #0723**
 
 First Name: Shoma
 

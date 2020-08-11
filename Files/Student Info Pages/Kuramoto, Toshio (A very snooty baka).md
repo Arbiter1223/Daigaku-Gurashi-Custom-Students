@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kuramoto, Toshio (A very snooty baka).png" title="Kuramoto, Toshio (A very snooty baka) - Tornado_Matty01, V0.57">
 
-**Database ID: #0769**
+**Database ID: #0767**
 
 First Name: Toshio
 

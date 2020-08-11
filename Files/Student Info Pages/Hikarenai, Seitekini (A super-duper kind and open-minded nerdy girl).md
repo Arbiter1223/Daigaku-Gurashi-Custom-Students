@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hikarenai, Seitekini (A super-duper kind and open-minded nerdy girl).png" title="Hikarenai, Seitekini (A super-duper kind and open-minded nerdy girl) - Sivin pas, V0.57">
 
-**Database ID: #0685**
+**Database ID: #0683**
 
 First Name: Seitekini
 

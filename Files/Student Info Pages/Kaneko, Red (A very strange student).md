@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kaneko, Red (A very strange student).png" title="Kaneko, Red (A very strange student) - BenPupKao, V0.57">
 
-**Database ID: #0499**
+**Database ID: #0497**
 
 First Name: Red
 

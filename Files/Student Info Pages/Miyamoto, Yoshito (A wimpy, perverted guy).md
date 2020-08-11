@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Miyamoto, Yoshito (A wimpy, perverted guy).png" title="Miyamoto, Yoshito (A wimpy, perverted guy) - AjTheYandere, V0.57">
 
-**Database ID: #0378**
+**Database ID: #0376**
 
 First Name: Yoshito
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kakinomoto, Takko (A gay pervert who always wears a dress).png" title="Kakinomoto, Takko (A gay pervert who always wears a dress) - LowkeyHomo, V0.57">
 
-**Database ID: #0573**
+**Database ID: #0571**
 
 First Name: Takko
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Joplin, Skips (A jerk tsundere with a passion for anime).png" title="Joplin, Skips (A jerk tsundere with a passion for anime) - Dugle, V0.57">
 
-**Database ID: #0766**
+**Database ID: #0764**
 
 First Name: Skips
 

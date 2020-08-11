@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tsutaya, Cho (A very timid manga girl).png" title="Tsutaya, Cho (A very timid manga girl) - AjTheYandere, V0.57">
 
-**Database ID: #0357**
+**Database ID: #0355**
 
 First Name: Cho
 

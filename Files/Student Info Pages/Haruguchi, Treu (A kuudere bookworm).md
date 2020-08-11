@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Haruguchi, Treu (A kuudere bookworm).png" title="Haruguchi, Treu (A kuudere bookworm) - Nightara, V0.57">
 
-**Database ID: #0314**
+**Database ID: #0313**
 
 First Name: Treu
 

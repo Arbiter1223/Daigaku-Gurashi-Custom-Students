@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shionoya, Aoi (A shy, sporty girl).png" title="Shionoya, Aoi (A shy, sporty girl) - AjTheYandere, V0.57">
 
-**Database ID: #0348**
+**Database ID: #0346**
 
 First Name: Aoi
 

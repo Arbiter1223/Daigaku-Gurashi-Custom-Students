@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Sato, Saori (The new supervisor of Sayama Highschool).png" title="Sato, Saori (The new supervisor of Sayama Highschool) - Emily, V0.57">
 
-**Database ID: #0744**
+**Database ID: #0742**
 
 First Name: Saori
 

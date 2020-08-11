@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Ouma, Kokichi (A grape character who is indifferent on everything).png" title="Ouma, Kokichi (A grape character who is indifferent on everything) - AjTheYandere, V0.57">
 
-**Database ID: #0693**
+**Database ID: #0691**
 
 First Name: Kokichi
 

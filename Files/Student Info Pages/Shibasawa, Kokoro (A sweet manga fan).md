@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shibasawa, Kokoro (A sweet manga fan).png" title="Shibasawa, Kokoro (A sweet manga fan) - AjTheYandere, V0.57">
 
-**Database ID: #0440**
+**Database ID: #0438**
 
 First Name: Kokoro
 

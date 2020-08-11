@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Masuda, Kantaro (A very snooty baka).png" title="Masuda, Kantaro (A very snooty baka) - AjTheYandere, V0.57">
 
-**Database ID: #0664**
+**Database ID: #0662**
 
 First Name: Kantaro
 

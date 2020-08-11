@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Mangetsu, Kisame (A very smart masochistic guy).png" title="Mangetsu, Kisame (A very smart masochistic guy) - kami, V0.57">
 
-**Database ID: #0668**
+**Database ID: #0666**
 
 First Name: Kisame
 

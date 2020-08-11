@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Siro, Smurfette (A very sweet and passionate girl).png" title="Siro, Smurfette (A very sweet and passionate girl) - Shiny, V0.57">
 
-**Database ID: #0673**
+**Database ID: #0671**
 
 First Name: Smurfette
 

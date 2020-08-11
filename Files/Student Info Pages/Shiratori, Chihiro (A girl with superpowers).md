@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shiratori, Chihiro (A girl with superpowers).png" title="Shiratori, Chihiro (A girl with superpowers) - AjTheYandere, V0.57">
 
-**Database ID: #0308**
+**Database ID: #0307**
 
 First Name: Chihiro
 

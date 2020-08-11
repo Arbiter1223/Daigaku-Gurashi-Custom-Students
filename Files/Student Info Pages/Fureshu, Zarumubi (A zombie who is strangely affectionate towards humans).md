@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Fureshu, Zarumubi (A zombie who is strangely affectionate towards humans).png" title="Fureshu, Zarumubi (A zombie who is strangely affectionate towards humans) - Emily, V0.57">
 
-**Database ID: #0732**
+**Database ID: #0730**
 
 First Name: Zarumubi
 

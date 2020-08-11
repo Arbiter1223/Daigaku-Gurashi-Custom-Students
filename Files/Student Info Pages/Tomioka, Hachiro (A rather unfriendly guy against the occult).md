@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tomioka, Hachiro (A rather unfriendly guy against the occult).png" title="Tomioka, Hachiro (A rather unfriendly guy against the occult) - AjTheYandere, V0.57">
 
-**Database ID: #0359**
+**Database ID: #0357**
 
 First Name: Hachiro
 

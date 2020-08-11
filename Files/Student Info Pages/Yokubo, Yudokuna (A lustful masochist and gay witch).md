@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yokubo, Yudokuna (A lustful masochist and gay witch).png" title="Yokubo, Yudokuna (A lustful masochist and gay witch) - Sivin pas, V0.57">
 
-**Database ID: #0688**
+**Database ID: #0686**
 
 First Name: Yudokuna
 

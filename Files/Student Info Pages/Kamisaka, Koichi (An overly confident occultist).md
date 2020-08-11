@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kamisaka, Koichi (An overly confident occultist).png" title="Kamisaka, Koichi (An overly confident occultist) - AjTheYandere, V0.57">
 
-**Database ID: #0370**
+**Database ID: #0368**
 
 First Name: Koichi
 

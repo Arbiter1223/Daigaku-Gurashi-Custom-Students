@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shimamura, Ranbu (A cheerful, rainbow-loving boy).png" title="Shimamura, Ranbu (A cheerful, rainbow-loving boy) - LowkeyHomo, V0.57">
 
-**Database ID: #0496**
+**Database ID: #0494**
 
 First Name: Ranbu
 

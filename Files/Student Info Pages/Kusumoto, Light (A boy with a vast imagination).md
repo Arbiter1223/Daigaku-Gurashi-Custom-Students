@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kusumoto, Light (A boy with a vast imagination).png" title="Kusumoto, Light (A boy with a vast imagination) - AjTheYandere, V0.57">
 
-**Database ID: #0373**
+**Database ID: #0371**
 
 First Name: Light
 

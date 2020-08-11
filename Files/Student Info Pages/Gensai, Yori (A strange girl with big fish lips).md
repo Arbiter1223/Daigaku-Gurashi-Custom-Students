@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Gensai, Yori (A strange girl with big fish lips).png" title="Gensai, Yori (A strange girl with big fish lips) - Rando Studenta, V0.57">
 
-**Database ID: #0719**
+**Database ID: #0717**
 
 First Name: Yori
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nagatsuka, Akira (A snooty gamer guy).png" title="Nagatsuka, Akira (A snooty gamer guy) - AjTheYandere, V0.57">
 
-**Database ID: #0404**
+**Database ID: #0402**
 
 First Name: Akira
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Sugai, Yukino (A nice, quiet bookworm).png" title="Sugai, Yukino (A nice, quiet bookworm) - AjTheYandere, V0.57">
 
-**Database ID: #0400**
+**Database ID: #0398**
 
 First Name: Yukino
 

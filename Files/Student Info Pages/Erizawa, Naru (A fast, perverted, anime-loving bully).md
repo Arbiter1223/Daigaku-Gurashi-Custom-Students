@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Erizawa, Naru (A fast, perverted, anime-loving bully).png" title="Erizawa, Naru (A fast, perverted, anime-loving bully) - LowkeyHomo, V0.57">
 
-**Database ID: #0490**
+**Database ID: #0488**
 
 First Name: Naru
 

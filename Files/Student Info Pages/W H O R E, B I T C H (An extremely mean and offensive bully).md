@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/W H O R E, B I T C H (An extremely mean and offensive bully).png" title="W H O R E, B I T C H (An extremely mean and offensive bully) - Borkington Doggo, V0.57">
 
-**Database ID: #0603**
+**Database ID: #0601**
 
 First Name: B I T C H
 

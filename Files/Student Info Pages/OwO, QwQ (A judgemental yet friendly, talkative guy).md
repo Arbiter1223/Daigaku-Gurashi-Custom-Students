@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/OwO, QwQ (A judgemental yet friendly, talkative guy).png" title="OwO, QwQ (A judgemental yet friendly, talkative guy) - Chi, V0.57">
 
-**Database ID: #0553**
+**Database ID: #0551**
 
 First Name: QwQ
 

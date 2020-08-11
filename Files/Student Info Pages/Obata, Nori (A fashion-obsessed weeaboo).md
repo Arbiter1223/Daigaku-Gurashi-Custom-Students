@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Obata, Nori (A fashion-obsessed weeaboo).png" title="Obata, Nori (A fashion-obsessed weeaboo) - LowkeyHomo, V0.57">
 
-**Database ID: #0497**
+**Database ID: #0495**
 
 First Name: Nori
 

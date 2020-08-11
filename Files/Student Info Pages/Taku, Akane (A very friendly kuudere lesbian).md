@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Taku, Akane (A very friendly kuudere lesbian).png" title="Taku, Akane (A very friendly kuudere lesbian) - Aho-chan, V0.57">
 
-**Database ID: #0268**
+**Database ID: #0267**
 
 First Name: Akane
 

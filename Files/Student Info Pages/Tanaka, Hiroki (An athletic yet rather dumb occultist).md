@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tanaka, Hiroki (An athletic yet rather dumb occultist).png" title="Tanaka, Hiroki (An athletic yet rather dumb occultist) - Midnight Kitsune, V0.57">
 
-**Database ID: #0695**
+**Database ID: #0693**
 
 First Name: Hiroki
 

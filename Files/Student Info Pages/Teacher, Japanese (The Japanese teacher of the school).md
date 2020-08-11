@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Teacher, Japanese (The Japanese teacher of the school).png" title="Teacher, Japanese (The Japanese teacher of the school) - AjTheYandere, V0.57">
 
-**Database ID: #0294**
+**Database ID: #0293**
 
 First Name: Japanese
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Mitsukuri, Tsutomu (A talkative occultist).png" title="Mitsukuri, Tsutomu (A talkative occultist) - AjTheYandere, V0.57">
 
-**Database ID: #0396**
+**Database ID: #0394**
 
 First Name: Tsutomu
 

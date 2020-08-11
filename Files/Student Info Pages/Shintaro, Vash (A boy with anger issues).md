@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Shintaro, Vash (A boy with anger issues).png" title="Shintaro, Vash (A boy with anger issues) - AjTheYandere, V0.57">
 
-**Database ID: #0398**
+**Database ID: #0396**
 
 First Name: Vash
 

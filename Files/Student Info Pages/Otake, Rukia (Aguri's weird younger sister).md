@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Otake, Rukia (Aguri's weird younger sister).png" title="Otake, Rukia (Aguri's weird younger sister) - Aho-chan, V0.57">
 
-**Database ID: #0389**
+**Database ID: #0387**
 
 First Name: Rukia
 

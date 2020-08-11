@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Otake, Aguri (The ugly cutie).png" title="Otake, Aguri (The ugly cutie) - Aho-chan, V0.57">
 
-**Database ID: #0342**
+**Database ID: #0340**
 
 First Name: Aguri
 

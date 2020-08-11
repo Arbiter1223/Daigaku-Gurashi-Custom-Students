@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Izawa, Tsukiko (A quiet but strong girl).png" title="Izawa, Tsukiko (A quiet but strong girl) - Rando Studenta, V0.57">
 
-**Database ID: #0275**
+**Database ID: #0274**
 
 First Name: Tsukiko
 

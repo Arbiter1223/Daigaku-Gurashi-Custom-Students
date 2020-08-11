@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kimura, Tomosune (A shy, nerdy, occult-hating boy).png" title="Kimura, Tomosune (A shy, nerdy, occult-hating boy) - LowkeyHomo, V0.57">
 
-**Database ID: #0495**
+**Database ID: #0493**
 
 First Name: Tomosune
 

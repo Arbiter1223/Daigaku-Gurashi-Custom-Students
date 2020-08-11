@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Izumi, Aoki (A cheerful, friendly girl).png" title="Izumi, Aoki (A cheerful, friendly girl) - AjTheYandere, V0.57">
 
-**Database ID: #0700**
+**Database ID: #0698**
 
 First Name: Aoki
 

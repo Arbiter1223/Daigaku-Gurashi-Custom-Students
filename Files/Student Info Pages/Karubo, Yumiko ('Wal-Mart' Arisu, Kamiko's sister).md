@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Karubo, Yumiko ('Wal-Mart' Arisu, Kamiko's sister).png" title="Karubo, Yumiko ('Wal-Mart' Arisu, Kamiko's sister) - AjTheYandere and Arbiter1223, V0.57">
 
-**Database ID: #0316**
+**Database ID: #0315**
 
 First Name: Yumiko
 

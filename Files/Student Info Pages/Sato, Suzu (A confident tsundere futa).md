@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Sato, Suzu (A confident tsundere futa).png" title="Sato, Suzu (A confident tsundere futa) - AjTheYandere, V0.57">
 
-**Database ID: #0470**
+**Database ID: #0468**
 
 First Name: Suzu
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hino, Akane (A sweet and perverted demon girl).png" title="Hino, Akane (A sweet and perverted demon girl) - witcharies, V0.57">
 
-**Database ID: #0672**
+**Database ID: #0670**
 
 First Name: Akane
 

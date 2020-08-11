@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Gushiken, Daisuke (A lovely-dovey manga hater).png" title="Gushiken, Daisuke (A lovely-dovey manga hater) - AjTheYandere, V0.57">
 
-**Database ID: #0416**
+**Database ID: #0414**
 
 First Name: Daisuke
 
