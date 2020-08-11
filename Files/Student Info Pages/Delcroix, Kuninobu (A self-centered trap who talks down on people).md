@@ -24,5 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
-<a href="Miwa, AltKuninobu (An alternate version of Kuninobu).md"><img src="../../Files/Thumbs/Miwa, AltKuninobu (An alternate version of Kuninobu).png" height="100" width="100" title="Miwa, AltKuninobu (An alternate version of Kuninobu) - AjTheYandere, V0.57"></a><a href="Miwa, AltKuninobu (An alternate version of Kuninobu).md"> AltKuninobu - Alternate variant</a>
+<a href="Komatsu, Charlie (Aj's pet cat).md"><img src="../../Files/Thumbs/Komatsu, Charlie (Aj's pet cat).png" height="100" width="100" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.57"></a><a href="Komatsu, Charlie (Aj's pet cat).md"> Charlie - Alternate variant</a>
 
