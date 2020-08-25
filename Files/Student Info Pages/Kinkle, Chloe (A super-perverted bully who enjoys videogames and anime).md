@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime).png" title="Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime) - yogima, V0.57">
 
-**Database ID: #0711**
+**Database ID: #0710**
 
 First Name: Chloe
 

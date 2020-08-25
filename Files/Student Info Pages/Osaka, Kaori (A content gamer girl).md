@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Osaka, Kaori (A content gamer girl).png" title="Osaka, Kaori (A content gamer girl) - Emily, V0.57">
 
-**Database ID: #0741**
+**Database ID: #0740**
 
 First Name: Kaori
 

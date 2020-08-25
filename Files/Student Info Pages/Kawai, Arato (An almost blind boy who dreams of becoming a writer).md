@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kawai, Arato (An almost blind boy who dreams of becoming a writer).png" title="Kawai, Arato (An almost blind boy who dreams of becoming a writer) - Emily, V0.57">
 
-**Database ID: #0738**
+**Database ID: #0737**
 
 First Name: Arato
 

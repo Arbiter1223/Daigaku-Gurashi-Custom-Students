@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Takaoka, Ayame (A character who bears suspiciously good resemblance to Sailor Moon).png" title="Takaoka, Ayame (A character who bears suspiciously good resemblance to Sailor Moon) - Asominate, V0.57">
 
-**Database ID: #0737**
+**Database ID: #0736**
 
 First Name: Ayame
 

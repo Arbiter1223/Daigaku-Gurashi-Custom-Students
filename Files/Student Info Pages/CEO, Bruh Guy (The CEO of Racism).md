@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/CEO, Bruh Guy (The CEO of Racism).png" title="CEO, Bruh Guy (The CEO of Racism) - Thomas, V0.57">
 
-**Database ID: #0703**
+**Database ID: #0702**
 
 First Name: Bruh Guy
 

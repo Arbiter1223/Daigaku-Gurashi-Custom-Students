@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Obokari, Kamako (A dark but sweet ditzy demon futa).png" title="Obokari, Kamako (A dark but sweet ditzy demon futa) - Emily, V0.57">
 
-**Database ID: #0751**
+**Database ID: #0750**
 
 First Name: Kamako
 

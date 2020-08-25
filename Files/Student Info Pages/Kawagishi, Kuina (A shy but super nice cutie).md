@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kawagishi, Kuina (A shy but super nice cutie).png" title="Kawagishi, Kuina (A shy but super nice cutie) - Rando Studenta, V0.57">
 
-**Database ID: #0716**
+**Database ID: #0715**
 
 First Name: Kuina
 

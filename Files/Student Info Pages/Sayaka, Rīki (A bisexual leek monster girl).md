@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Sayaka, Rīki (A bisexual leek monster girl).png" title="Sayaka, Rīki (A bisexual leek monster girl) - brendon, V0.57">
 
-**Database ID: #0704**
+**Database ID: #0703**
 
 First Name: Rīki
 
