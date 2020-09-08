@@ -1,6 +1,6 @@
 # Torisawa, Kouumoto (A kind and cute bisexual girl)
 
-<img src="../../Files/Images/Torisawa, Kouumoto (A kind and cute bisexual girl).png" title="Torisawa, Kouumoto (A kind and cute bisexual girl) - marvinjean9, V0.57">
+<img src="../../Files/Images/Torisawa, Kouumoto (A kind and cute bisexual girl).png" title="Torisawa, Kouumoto (A kind and cute bisexual girl) - marvinjean9, V0.61">
 
 **Database ID: #0157**
 
@@ -12,13 +12,13 @@ Description: A kind and cute bisexual girl
 
 Author: marvinjean9
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 8/16/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Torisawa%2C%20Kouumoto%20(A%20kind%20and%20cute%20bisexual%20girl)%20-%20marvinjean9%2C%20V0.57.student">Torisawa, Kouumoto (A kind and cute bisexual girl) - marvinjean9, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Torisawa%2C%20Kouumoto%20(A%20kind%20and%20cute%20bisexual%20girl)%20-%20marvinjean9%2C%20V0.61.student">Torisawa, Kouumoto (A kind and cute bisexual girl) - marvinjean9, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

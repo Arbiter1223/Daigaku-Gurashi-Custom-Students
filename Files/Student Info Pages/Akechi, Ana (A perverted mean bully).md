@@ -1,6 +1,6 @@
 # Akechi, Ana (A perverted mean bully)
 
-<img src="../../Files/Images/Akechi, Ana (A perverted mean bully).png" title="Akechi, Ana (A perverted mean bully) - Bubger Kirg, V0.57">
+<img src="../../Files/Images/Akechi, Ana (A perverted mean bully).png" title="Akechi, Ana (A perverted mean bully) - Bubger Kirg, V0.61">
 
 **Database ID: #0222**
 
@@ -12,13 +12,13 @@ Description: A perverted mean bully
 
 Author: Bubger Kirg
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 8/28/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Akechi%2C%20Ana%20(A%20perverted%20mean%20bully)%20-%20Bubger%20Kirg%2C%20V0.57.student">Akechi, Ana (A perverted mean bully) - Bubger Kirg, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Akechi%2C%20Ana%20(A%20perverted%20mean%20bully)%20-%20Bubger%20Kirg%2C%20V0.61.student">Akechi, Ana (A perverted mean bully) - Bubger Kirg, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

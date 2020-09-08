@@ -1,6 +1,6 @@
 # Shiotani, Dom (A shy but sweet ram-guy)
 
-<img src="../../Files/Images/Shiotani, Dom (A shy but sweet ram-guy).png" title="Shiotani, Dom (A shy but sweet ram-guy) - Nightara, V0.57">
+<img src="../../Files/Images/Shiotani, Dom (A shy but sweet ram-guy).png" title="Shiotani, Dom (A shy but sweet ram-guy) - Nightara, V0.61">
 
 **Database ID: #0232**
 
@@ -12,13 +12,13 @@ Description: A shy but sweet ram-guy
 
 Author: Nightara
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 8/31/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shiotani%2C%20Dom%20(A%20shy%20but%20sweet%20ram-guy)%20-%20Nightara%2C%20V0.57.student">Shiotani, Dom (A shy but sweet ram-guy) - Nightara, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Shiotani%2C%20Dom%20(A%20shy%20but%20sweet%20ram-guy)%20-%20Nightara%2C%20V0.61.student">Shiotani, Dom (A shy but sweet ram-guy) - Nightara, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

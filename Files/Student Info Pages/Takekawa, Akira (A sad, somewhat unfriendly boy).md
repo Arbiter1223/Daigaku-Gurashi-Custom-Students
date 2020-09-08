@@ -1,6 +1,6 @@
 # Takekawa, Akira (A sad, somewhat unfriendly boy)
 
-<img src="../../Files/Images/Takekawa, Akira (A sad, somewhat unfriendly boy).png" title="Takekawa, Akira (A sad, somewhat unfriendly boy) - BenPupKao, V0.57">
+<img src="../../Files/Images/Takekawa, Akira (A sad, somewhat unfriendly boy).png" title="Takekawa, Akira (A sad, somewhat unfriendly boy) - BenPupKao, V0.61">
 
 **Database ID: #0337**
 
@@ -12,13 +12,13 @@ Description: A sad, somewhat unfriendly boy
 
 Author: BenPupKao
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 10/9/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Takekawa%2C%20Akira%20(A%20sad%2C%20somewhat%20unfriendly%20boy)%20-%20BenPupKao%2C%20V0.57.student">Takekawa, Akira (A sad, somewhat unfriendly boy) - BenPupKao, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Takekawa%2C%20Akira%20(A%20sad%2C%20somewhat%20unfriendly%20boy)%20-%20BenPupKao%2C%20V0.61.student">Takekawa, Akira (A sad, somewhat unfriendly boy) - BenPupKao, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Woo, Sun (An emotionless Korean idol)
 
-<img src="../../Files/Images/Woo, Sun (An emotionless Korean idol).png" title="Woo, Sun (An emotionless Korean idol) - Aho-chan, V0.57">
+<img src="../../Files/Images/Woo, Sun (An emotionless Korean idol).png" title="Woo, Sun (An emotionless Korean idol) - Aho-chan, V0.61">
 
 **Database ID: #0385**
 
@@ -12,13 +12,13 @@ Description: An emotionless Korean idol
 
 Author: Aho-chan
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 11/3/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Woo%2C%20Sun%20(An%20emotionless%20Korean%20idol)%20-%20Aho-chan%2C%20V0.57.student">Woo, Sun (An emotionless Korean idol) - Aho-chan, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Woo%2C%20Sun%20(An%20emotionless%20Korean%20idol)%20-%20Aho-chan%2C%20V0.61.student">Woo, Sun (An emotionless Korean idol) - Aho-chan, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

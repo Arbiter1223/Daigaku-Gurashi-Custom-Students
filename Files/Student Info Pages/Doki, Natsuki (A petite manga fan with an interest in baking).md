@@ -1,6 +1,6 @@
 # Doki, Natsuki (A petite manga fan with an interest in baking)
 
-<img src="../../Files/Images/Doki, Natsuki (A petite manga fan with an interest in baking).png" title="Doki, Natsuki (A petite manga fan with an interest in baking) - AjTheYandere, V0.57">
+<img src="../../Files/Images/Doki, Natsuki (A petite manga fan with an interest in baking).png" title="Doki, Natsuki (A petite manga fan with an interest in baking) - AjTheYandere, V0.61">
 
 **Database ID: #0656**
 
@@ -12,13 +12,13 @@ Description: A petite manga fan with an interest in baking
 
 Author: AjTheYandere
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 4/8/2019
 
 Created in version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Doki%2C%20Natsuki%20(A%20petite%20manga%20fan%20with%20an%20interest%20in%20baking)%20-%20AjTheYandere%2C%20V0.57.student">Doki, Natsuki (A petite manga fan with an interest in baking) - AjTheYandere, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Doki%2C%20Natsuki%20(A%20petite%20manga%20fan%20with%20an%20interest%20in%20baking)%20-%20AjTheYandere%2C%20V0.61.student">Doki, Natsuki (A petite manga fan with an interest in baking) - AjTheYandere, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

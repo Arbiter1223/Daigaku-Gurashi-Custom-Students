@@ -1,6 +1,6 @@
 # Fourth, July (A festive American girl)
 
-<img src="../../Files/Images/Fourth, July (A festive American girl).png" title="Fourth, July (A festive American girl) - Syberian Inc, V0.57">
+<img src="../../Files/Images/Fourth, July (A festive American girl).png" title="Fourth, July (A festive American girl) - Syberian Inc, V0.61">
 
 **Database ID: #0027**
 
@@ -12,17 +12,17 @@ Description: A festive American girl
 
 Author: Syberian Inc
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 6/24/2018
 
 Created in version: V0.25
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fourth%2C%20July%20(A%20festive%20American%20girl)%20-%20Syberian%20Inc%2C%20V0.57.student">Fourth, July (A festive American girl) - Syberian Inc, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Fourth%2C%20July%20(A%20festive%20American%20girl)%20-%20Syberian%20Inc%2C%20V0.61.student">Fourth, July (A festive American girl) - Syberian Inc, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Ui, Hotaru (July's festive girlfriend).md"><img src="../../Files/Thumbs/Ui, Hotaru (July's festive girlfriend).png" height="100" width="100" title="Ui, Hotaru (July's festive girlfriend) - Syberian Inc, V0.57"></a><a href="Ui, Hotaru (July's festive girlfriend).md"> Hotaru - Girlfriend</a>
+<a href="Ui, Hotaru (July's festive girlfriend).md"><img src="../../Files/Thumbs/Ui, Hotaru (July's festive girlfriend).png" height="100" width="100" title="Ui, Hotaru (July's festive girlfriend) - Syberian Inc, V0.61"></a><a href="Ui, Hotaru (July's festive girlfriend).md"> Hotaru - Girlfriend</a>
 

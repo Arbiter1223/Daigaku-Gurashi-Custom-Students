@@ -1,6 +1,6 @@
 # Tsuruga, Shizuko (A very confident, forward girl)
 
-<img src="../../Files/Images/Tsuruga, Shizuko (A very confident, forward girl).png" title="Tsuruga, Shizuko (A very confident, forward girl) - Heroic_Moron, V0.57">
+<img src="../../Files/Images/Tsuruga, Shizuko (A very confident, forward girl).png" title="Tsuruga, Shizuko (A very confident, forward girl) - Heroic_Moron, V0.61">
 
 **Database ID: #0109**
 
@@ -12,13 +12,13 @@ Description: A very confident, forward girl
 
 Author: Heroic_Moron
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 8/14/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tsuruga%2C%20Shizuko%20(A%20very%20confident%2C%20forward%20girl)%20-%20Heroic_Moron%2C%20V0.57.student">Tsuruga, Shizuko (A very confident, forward girl) - Heroic_Moron, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Tsuruga%2C%20Shizuko%20(A%20very%20confident%2C%20forward%20girl)%20-%20Heroic_Moron%2C%20V0.61.student">Tsuruga, Shizuko (A very confident, forward girl) - Heroic_Moron, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

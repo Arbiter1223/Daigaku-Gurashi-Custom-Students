@@ -1,6 +1,6 @@
 # Arakaki, Kaori (A kuudere genius)
 
-<img src="../../Files/Images/Arakaki, Kaori (A kuudere genius).png" title="Arakaki, Kaori (A kuudere genius) - Duck-chan, V0.57">
+<img src="../../Files/Images/Arakaki, Kaori (A kuudere genius).png" title="Arakaki, Kaori (A kuudere genius) - Duck-chan, V0.61">
 
 **Database ID: #0329**
 
@@ -12,13 +12,13 @@ Description: A kuudere genius
 
 Author: Duck-chan
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 10/4/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Arakaki%2C%20Kaori%20(A%20kuudere%20genius)%20-%20Duck-chan%2C%20V0.57.student">Arakaki, Kaori (A kuudere genius) - Duck-chan, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Arakaki%2C%20Kaori%20(A%20kuudere%20genius)%20-%20Duck-chan%2C%20V0.61.student">Arakaki, Kaori (A kuudere genius) - Duck-chan, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

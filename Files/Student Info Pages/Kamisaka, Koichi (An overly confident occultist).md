@@ -1,6 +1,6 @@
 # Kamisaka, Koichi (An overly confident occultist)
 
-<img src="../../Files/Images/Kamisaka, Koichi (An overly confident occultist).png" title="Kamisaka, Koichi (An overly confident occultist) - AjTheYandere, V0.57">
+<img src="../../Files/Images/Kamisaka, Koichi (An overly confident occultist).png" title="Kamisaka, Koichi (An overly confident occultist) - AjTheYandere, V0.61">
 
 **Database ID: #0368**
 
@@ -12,13 +12,13 @@ Description: An overly confident occultist
 
 Author: AjTheYandere
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 10/21/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kamisaka%2C%20Koichi%20(An%20overly%20confident%20occultist)%20-%20AjTheYandere%2C%20V0.57.student">Kamisaka, Koichi (An overly confident occultist) - AjTheYandere, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kamisaka%2C%20Koichi%20(An%20overly%20confident%20occultist)%20-%20AjTheYandere%2C%20V0.61.student">Kamisaka, Koichi (An overly confident occultist) - AjTheYandere, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

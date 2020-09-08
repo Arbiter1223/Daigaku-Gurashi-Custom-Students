@@ -1,6 +1,6 @@
 # Nobusawa, Nikki (A sweet, laughable girl)
 
-<img src="../../Files/Images/Nobusawa, Nikki (A sweet, laughable girl).png" title="Nobusawa, Nikki (A sweet, laughable girl) - Nightara, V0.57">
+<img src="../../Files/Images/Nobusawa, Nikki (A sweet, laughable girl).png" title="Nobusawa, Nikki (A sweet, laughable girl) - Nightara, V0.61">
 
 **Database ID: #0242**
 
@@ -12,13 +12,13 @@ Description: A sweet, laughable girl
 
 Author: Nightara
 
-Compatable game version: V0.57
+Compatable game version: V0.61
 
 First appearance: 9/2/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nobusawa%2C%20Nikki%20(A%20sweet%2C%20laughable%20girl)%20-%20Nightara%2C%20V0.57.student">Nobusawa, Nikki (A sweet, laughable girl) - Nightara, V0.57.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nobusawa%2C%20Nikki%20(A%20sweet%2C%20laughable%20girl)%20-%20Nightara%2C%20V0.61.student">Nobusawa, Nikki (A sweet, laughable girl) - Nightara, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
