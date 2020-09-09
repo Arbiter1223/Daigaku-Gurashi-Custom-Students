@@ -1,12 +1,12 @@
-# Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime)
+# Monroe, Chloe (A super-perverted bully who enjoys videogames and anime)
 
-<img src="../../Files/Images/Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime).png" title="Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime) - yogima, V0.61">
+<img src="../../Files/Images/Monroe, Chloe (A super-perverted bully who enjoys videogames and anime).png" title="Monroe, Chloe (A super-perverted bully who enjoys videogames and anime) - yogima, V0.61">
 
 **Database ID: #0710**
 
 First Name: Chloe
 
-Last Name: Kinkle
+Last Name: Monroe
 
 Description: A super-perverted bully who enjoys videogames and anime
 
@@ -18,7 +18,7 @@ First appearance: 1/4/2020
 
 Created in version: V0.57
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kinkle%2C%20Chloe%20(A%20super-perverted%20bully%20who%20enjoys%20videogames%20and%20anime)%20-%20yogima%2C%20V0.61.student">Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime) - yogima, V0.61.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Monroe%2C%20Chloe%20(A%20super-perverted%20bully%20who%20enjoys%20videogames%20and%20anime)%20-%20yogima%2C%20V0.61.student">Monroe, Chloe (A super-perverted bully who enjoys videogames and anime) - yogima, V0.61.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

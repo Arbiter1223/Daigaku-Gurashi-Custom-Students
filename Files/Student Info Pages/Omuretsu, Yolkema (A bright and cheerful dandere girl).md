@@ -24,5 +24,5 @@ Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gu
 
 ### Related Students
 
-<a href="Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime).md"><img src="../../Files/Thumbs/Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime).png" height="100" width="100" title="Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime) - yogima, V0.61"></a><a href="Kinkle, Chloe (A super-perverted bully who enjoys videogames and anime).md"> Chloe - Best friend</a>
+<a href="Monroe, Chloe (A super-perverted bully who enjoys videogames and anime).md"><img src="../../Files/Thumbs/Monroe, Chloe (A super-perverted bully who enjoys videogames and anime).png" height="100" width="100" title="Monroe, Chloe (A super-perverted bully who enjoys videogames and anime) - yogima, V0.61"></a><a href="Monroe, Chloe (A super-perverted bully who enjoys videogames and anime).md"> Chloe - Best friend</a>
 

@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.61
-Last Modified: 9/8/2020 6:40:48 PM
+Last Modified: 9/8/2020 7:16:55 PM
 ------------------------------------------------------
 FirstName|Audrey|
 Sex|0|
@@ -101,6 +101,6 @@ Diet|500|
 Moocher|True|
 WearModestDress%|40|
 ModestDress|24|13|1|
-Sadist|False|
+Sadist|True|
 EasilyStressed|False|
 (╯°□°）╯You ruined it!! You killed the magic!!

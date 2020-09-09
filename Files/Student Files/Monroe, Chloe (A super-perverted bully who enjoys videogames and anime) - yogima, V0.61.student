@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.61
-Last Modified: 9/8/2020 6:40:47 PM
+Last Modified: 9/8/2020 7:16:54 PM
 ------------------------------------------------------
 FirstName|Chloe|
 Sex|0|
@@ -17,7 +17,7 @@ HeadAccessory|0|0|16|0|0|
 Eyewear|0|
 Pantsu|4|
 Sexual Preference|True|False|True|
-Family Name|Kinkle|
+Family Name|Monroe|
 Snootiness|75|
 Gossips|0|
 Kindness|-80|
@@ -82,7 +82,7 @@ Schoolgirl_Shirt_Colour|1|
 Schoolgirl_Skirt_Colour|30|
 Schoolgirl_Skirt_Line_Colour|1|
 Eyewear_Colour|1|
-Stress%|0|
+Stress%|3|
 円|10351|
 FixedSexuality|True|
 Accent_Kansai|False|
@@ -101,6 +101,6 @@ Diet|500|
 Moocher|True|
 WearModestDress%|0|
 ModestDress|1|1|1|
-Sadist|False|
+Sadist|True|
 EasilyStressed|False|
 (╯°□°）╯You ruined it!! You killed the magic!!
