@@ -1,5 +1,5 @@
 Daigaku Gurashi V0.61
-Last Modified: 9/8/2020 6:40:42 PM
+Last Modified: 9/8/2020 7:01:47 PM
 ------------------------------------------------------
 FirstName|Arisu|
 Sex|0|
@@ -27,7 +27,7 @@ Dexterity|50|
 Yandere|False|
 RandomBodyLanguage|False|
 Tsundere|100|
-LoveyDovey|100|
+LoveyDovey|0|
 Slob|False|
 Masochist|False|
 HairTaste|99|
@@ -102,5 +102,5 @@ Moocher|False|
 WearModestDress%|0|
 ModestDress|1|1|1|
 Sadist|False|
-EasilyStressed|False|
+EasilyStressed|True|
 (╯°□°）╯You ruined it!! You killed the magic!!
