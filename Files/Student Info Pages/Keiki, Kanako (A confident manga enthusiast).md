@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Keiki, Kanako (A confident manga enthusiast).png" title="Keiki, Kanako (A confident manga enthusiast) - Rando Studenta, V0.61">
 
-**Database ID: #0793**
+**Database ID: #0792**
 
 First Name: Kanako
 

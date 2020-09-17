@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Ihara, Rikyu (A perverted videogame nerd).png" title="Ihara, Rikyu (A perverted videogame nerd) - Rando Studenta, V0.61">
 
-**Database ID: #0773**
+**Database ID: #0772**
 
 First Name: Rikyu
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Okabe, Teijo (A tsundere gamer boy).png" title="Okabe, Teijo (A tsundere gamer boy) - yogima, V0.61">
 
-**Database ID: #0755**
+**Database ID: #0754**
 
 First Name: Teijo
 

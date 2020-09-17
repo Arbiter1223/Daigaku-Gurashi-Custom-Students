@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Mitsubishi, Kikuko (An extremely shy and sporty girl).png" title="Mitsubishi, Kikuko (An extremely shy and sporty girl) - Rando Studenta, V0.61">
 
-**Database ID: #0775**
+**Database ID: #0774**
 
 First Name: Kikuko
 

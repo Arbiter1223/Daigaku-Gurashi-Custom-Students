@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Ekiguchi, Kyou (A very unfriendly baka).png" title="Ekiguchi, Kyou (A very unfriendly baka) - Rando Studenta, V0.61">
 
-**Database ID: #0770**
+**Database ID: #0769**
 
 First Name: Kyou
 

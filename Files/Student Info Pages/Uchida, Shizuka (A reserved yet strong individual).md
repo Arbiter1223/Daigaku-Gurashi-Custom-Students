@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Uchida, Shizuka (A reserved yet strong individual).png" title="Uchida, Shizuka (A reserved yet strong individual) - Rando Studenta, V0.61">
 
-**Database ID: #0782**
+**Database ID: #0781**
 
 First Name: Shizuka
 

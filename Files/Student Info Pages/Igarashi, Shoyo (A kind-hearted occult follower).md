@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Igarashi, Shoyo (A kind-hearted occult follower).png" title="Igarashi, Shoyo (A kind-hearted occult follower) - Rando Studenta, V0.61">
 
-**Database ID: #0772**
+**Database ID: #0771**
 
 First Name: Shoyo
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Otaka, Takeji (A snooty yet proficient scholar).png" title="Otaka, Takeji (A snooty yet proficient scholar) - Rando Studenta, V0.61">
 
-**Database ID: #0778**
+**Database ID: #0777**
 
 First Name: Takeji
 

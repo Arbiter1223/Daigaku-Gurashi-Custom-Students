@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Ui, Yori (A funny but tone-deaf girl).png" title="Ui, Yori (A funny but tone-deaf girl) - Rando Studenta, V0.61">
 
-**Database ID: #0783**
+**Database ID: #0782**
 
 First Name: Yori
 

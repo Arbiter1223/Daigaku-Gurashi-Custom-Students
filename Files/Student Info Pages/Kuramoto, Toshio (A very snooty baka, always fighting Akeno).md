@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Kuramoto, Toshio (A very snooty baka, always fighting Akeno).png" title="Kuramoto, Toshio (A very snooty baka, always fighting Akeno) - Tornado_Matty01, V0.61">
 
-**Database ID: #0766**
+**Database ID: #0765**
 
 First Name: Toshio
 

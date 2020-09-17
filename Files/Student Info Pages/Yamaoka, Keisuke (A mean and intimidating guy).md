@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yamaoka, Keisuke (A mean and intimidating guy).png" title="Yamaoka, Keisuke (A mean and intimidating guy) - Rando Studenta, V0.61">
 
-**Database ID: #0785**
+**Database ID: #0784**
 
 First Name: Keisuke
 

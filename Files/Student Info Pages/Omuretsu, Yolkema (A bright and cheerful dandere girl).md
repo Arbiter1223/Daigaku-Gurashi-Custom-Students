@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Omuretsu, Yolkema (A bright and cheerful dandere girl).png" title="Omuretsu, Yolkema (A bright and cheerful dandere girl) - yogima, V0.61">
 
-**Database ID: #0753**
+**Database ID: #0752**
 
 First Name: Yolkema
 

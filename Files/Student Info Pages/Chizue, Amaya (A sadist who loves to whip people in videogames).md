@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Chizue, Amaya (A sadist who loves to whip people in videogames).png" title="Chizue, Amaya (A sadist who loves to whip people in videogames) - Rando Studenta, V0.61">
 
-**Database ID: #0790**
+**Database ID: #0789**
 
 First Name: Amaya
 

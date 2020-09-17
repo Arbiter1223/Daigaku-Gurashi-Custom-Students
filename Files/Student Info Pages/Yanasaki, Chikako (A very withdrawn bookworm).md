@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Yanasaki, Chikako (A very withdrawn bookworm).png" title="Yanasaki, Chikako (A very withdrawn bookworm) - Rando Studenta, V0.61">
 
-**Database ID: #0786**
+**Database ID: #0785**
 
 First Name: Chikako
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Eiji, Yoshiyuki (A strong, modest athlete).png" title="Eiji, Yoshiyuki (A strong, modest athlete) - Rando Studenta, V0.61">
 
-**Database ID: #0791**
+**Database ID: #0790**
 
 First Name: Yoshiyuki
 

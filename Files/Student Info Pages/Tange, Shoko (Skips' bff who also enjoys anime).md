@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tange, Shoko (Skips' bff who also enjoys anime).png" title="Tange, Shoko (Skips' bff who also enjoys anime) - Dugle, V0.61">
 
-**Database ID: #0764**
+**Database ID: #0763**
 
 First Name: Shoko
 

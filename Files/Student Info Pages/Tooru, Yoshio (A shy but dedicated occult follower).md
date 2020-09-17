@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Tooru, Yoshio (A shy but dedicated occult follower).png" title="Tooru, Yoshio (A shy but dedicated occult follower) - Rando Studenta, V0.61">
 
-**Database ID: #0797**
+**Database ID: #0796**
 
 First Name: Yoshio
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Takamori, Kanzaburo (A very friendly baka who talks too much).png" title="Takamori, Kanzaburo (A very friendly baka who talks too much) - Rando Studenta, V0.61">
 
-**Database ID: #0795**
+**Database ID: #0794**
 
 First Name: Kanzaburo
 

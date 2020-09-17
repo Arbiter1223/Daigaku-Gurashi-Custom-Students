@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Sanjo, Hotaka (A super-tsundere bully).png" title="Sanjo, Hotaka (A super-tsundere bully) - Rando Studenta, V0.61">
 
-**Database ID: #0779**
+**Database ID: #0778**
 
 First Name: Hotaka
 

@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Hiro, Shizue (A student who likes to read).png" title="Hiro, Shizue (A student who likes to read) - Rando Studenta, V0.61">
 
-**Database ID: #0771**
+**Database ID: #0770**
 
 First Name: Shizue
 

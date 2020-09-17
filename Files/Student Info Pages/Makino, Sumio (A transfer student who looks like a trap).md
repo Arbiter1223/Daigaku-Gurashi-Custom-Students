@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Makino, Sumio (A transfer student who looks like a trap).png" title="Makino, Sumio (A transfer student who looks like a trap) - yogima, V0.61">
 
-**Database ID: #0789**
+**Database ID: #0788**
 
 First Name: Sumio
 

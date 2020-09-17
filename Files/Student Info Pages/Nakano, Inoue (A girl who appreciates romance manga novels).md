@@ -2,7 +2,7 @@
 
 <img src="../../Files/Images/Nakano, Inoue (A girl who appreciates romance manga novels).png" title="Nakano, Inoue (A girl who appreciates romance manga novels) - Rando Studenta, V0.61">
 
-**Database ID: #0777**
+**Database ID: #0776**
 
 First Name: Inoue
 
