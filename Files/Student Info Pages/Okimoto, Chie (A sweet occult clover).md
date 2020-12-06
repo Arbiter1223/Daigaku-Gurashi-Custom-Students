@@ -1,6 +1,6 @@
 # Okimoto, Chie (A sweet occult clover)
 
-<img src="../../Files/Images/Okimoto, Chie (A sweet occult clover).png" title="Okimoto, Chie (A sweet occult clover) - Nyanako, V0.61">
+<img src="../../Files/Images/Okimoto, Chie (A sweet occult clover).png" title="Okimoto, Chie (A sweet occult clover) - Nyanako, V0.69">
 
 **Database ID: #0175**
 
@@ -12,13 +12,13 @@ Description: A sweet occult clover
 
 Author: Nyanako
 
-Compatable game version: V0.61
+Compatable game version: V0.69
 
 First appearance: 8/18/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Okimoto%2C%20Chie%20(A%20sweet%20occult%20clover)%20-%20Nyanako%2C%20V0.61.student">Okimoto, Chie (A sweet occult clover) - Nyanako, V0.61.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Okimoto%2C%20Chie%20(A%20sweet%20occult%20clover)%20-%20Nyanako%2C%20V0.69.student">Okimoto, Chie (A sweet occult clover) - Nyanako, V0.69.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,6 +1,6 @@
 # Dog, The Fast (A very mean occult fanatic)
 
-<img src="../../Files/Images/Dog, The Fast (A very mean occult fanatic).png" title="Dog, The Fast (A very mean occult fanatic) - Syberian Inc, V0.61">
+<img src="../../Files/Images/Dog, The Fast (A very mean occult fanatic).png" title="Dog, The Fast (A very mean occult fanatic) - Syberian Inc, V0.69">
 
 **Database ID: #0014**
 
@@ -12,13 +12,13 @@ Description: A very mean occult fanatic
 
 Author: Syberian Inc
 
-Compatable game version: V0.61
+Compatable game version: V0.69
 
 First appearance: 6/6/2018
 
 Created in version: V0.25
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Dog%2C%20The%20Fast%20(A%20very%20mean%20occult%20fanatic)%20-%20Syberian%20Inc%2C%20V0.61.student">Dog, The Fast (A very mean occult fanatic) - Syberian Inc, V0.61.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Dog%2C%20The%20Fast%20(A%20very%20mean%20occult%20fanatic)%20-%20Syberian%20Inc%2C%20V0.69.student">Dog, The Fast (A very mean occult fanatic) - Syberian Inc, V0.69.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

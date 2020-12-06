@@ -1,6 +1,6 @@
 # Bakugo, Katsuki (A boy training to become a Pro Hero)
 
-<img src="../../Files/Images/Bakugo, Katsuki (A boy training to become a Pro Hero).png" title="Bakugo, Katsuki (A boy training to become a Pro Hero) - ClownPrinceOfLies, V0.61">
+<img src="../../Files/Images/Bakugo, Katsuki (A boy training to become a Pro Hero).png" title="Bakugo, Katsuki (A boy training to become a Pro Hero) - ClownPrinceOfLies, V0.69">
 
 **Database ID: #0051**
 
@@ -12,13 +12,13 @@ Description: A boy training to become a Pro Hero
 
 Author: ClownPrinceOfLies
 
-Compatable game version: V0.61
+Compatable game version: V0.69
 
 First appearance: 7/22/2018
 
 Created in version: V0.26
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Bakugo%2C%20Katsuki%20(A%20boy%20training%20to%20become%20a%20Pro%20Hero)%20-%20ClownPrinceOfLies%2C%20V0.61.student">Bakugo, Katsuki (A boy training to become a Pro Hero) - ClownPrinceOfLies, V0.61.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Bakugo%2C%20Katsuki%20(A%20boy%20training%20to%20become%20a%20Pro%20Hero)%20-%20ClownPrinceOfLies%2C%20V0.69.student">Bakugo, Katsuki (A boy training to become a Pro Hero) - ClownPrinceOfLies, V0.69.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

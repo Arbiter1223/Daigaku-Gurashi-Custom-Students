@@ -1,6 +1,6 @@
 # Higashiyama, Neo (A very friendly, outgoing neko guy)
 
-<img src="../../Files/Images/Higashiyama, Neo (A very friendly, outgoing neko guy).png" title="Higashiyama, Neo (A very friendly, outgoing neko guy) - Nightara, V0.61">
+<img src="../../Files/Images/Higashiyama, Neo (A very friendly, outgoing neko guy).png" title="Higashiyama, Neo (A very friendly, outgoing neko guy) - Nightara, V0.69">
 
 **Database ID: #0101**
 
@@ -12,13 +12,13 @@ Description: A very friendly, outgoing neko guy
 
 Author: Nightara
 
-Compatable game version: V0.61
+Compatable game version: V0.69
 
 First appearance: 8/13/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Higashiyama%2C%20Neo%20(A%20very%20friendly%2C%20outgoing%20neko%20guy)%20-%20Nightara%2C%20V0.61.student">Higashiyama, Neo (A very friendly, outgoing neko guy) - Nightara, V0.61.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Higashiyama%2C%20Neo%20(A%20very%20friendly%2C%20outgoing%20neko%20guy)%20-%20Nightara%2C%20V0.69.student">Higashiyama, Neo (A very friendly, outgoing neko guy) - Nightara, V0.69.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

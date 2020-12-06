@@ -1,6 +1,6 @@
 # Nakamura, Akira (A friendly bookworm)
 
-<img src="../../Files/Images/Nakamura, Akira (A friendly bookworm).png" title="Nakamura, Akira (A friendly bookworm) - Obese Cat, V0.61">
+<img src="../../Files/Images/Nakamura, Akira (A friendly bookworm).png" title="Nakamura, Akira (A friendly bookworm) - Obese Cat, V0.69">
 
 **Database ID: #0659**
 
@@ -12,13 +12,13 @@ Description: A friendly bookworm
 
 Author: Obese Cat
 
-Compatable game version: V0.61
+Compatable game version: V0.69
 
 First appearance: 4/13/2019
 
 Created in version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakamura%2C%20Akira%20(A%20friendly%20bookworm)%20-%20Obese%20Cat%2C%20V0.61.student">Nakamura, Akira (A friendly bookworm) - Obese Cat, V0.61.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakamura%2C%20Akira%20(A%20friendly%20bookworm)%20-%20Obese%20Cat%2C%20V0.69.student">Nakamura, Akira (A friendly bookworm) - Obese Cat, V0.69.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

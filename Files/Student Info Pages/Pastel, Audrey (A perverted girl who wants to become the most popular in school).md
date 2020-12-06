@@ -1,6 +1,6 @@
 # Pastel, Audrey (A perverted girl who wants to become the most popular in school)
 
-<img src="../../Files/Images/Pastel, Audrey (A perverted girl who wants to become the most popular in school).png" title="Pastel, Audrey (A perverted girl who wants to become the most popular in school) - yogima, V0.61">
+<img src="../../Files/Images/Pastel, Audrey (A perverted girl who wants to become the most popular in school).png" title="Pastel, Audrey (A perverted girl who wants to become the most popular in school) - yogima, V0.69">
 
 **Database ID: #0766**
 
@@ -12,13 +12,13 @@ Description: A perverted girl who wants to become the most popular in school
 
 Author: yogima
 
-Compatable game version: V0.61
+Compatable game version: V0.69
 
-First appearance: 7/24/2020
+First appearance: 7/24/2020 
 
 Created in version: V0.57
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Pastel%2C%20Audrey%20(A%20perverted%20girl%20who%20wants%20to%20become%20the%20most%20popular%20in%20school)%20-%20yogima%2C%20V0.61.student">Pastel, Audrey (A perverted girl who wants to become the most popular in school) - yogima, V0.61.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Pastel%2C%20Audrey%20(A%20perverted%20girl%20who%20wants%20to%20become%20the%20most%20popular%20in%20school)%20-%20yogima%2C%20V0.69.student">Pastel, Audrey (A perverted girl who wants to become the most popular in school) - yogima, V0.69.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

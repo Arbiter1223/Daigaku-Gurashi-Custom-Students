@@ -1,6 +1,6 @@
 # Ashia, Kuro (A sporty, friendly girl)
 
-<img src="../../Files/Images/Ashia, Kuro (A sporty, friendly girl).png" title="Ashia, Kuro (A sporty, friendly girl) - Nyanako, V0.61">
+<img src="../../Files/Images/Ashia, Kuro (A sporty, friendly girl).png" title="Ashia, Kuro (A sporty, friendly girl) - Nyanako, V0.69">
 
 **Database ID: #0173**
 
@@ -12,13 +12,13 @@ Description: A sporty, friendly girl
 
 Author: Nyanako
 
-Compatable game version: V0.61
+Compatable game version: V0.69
 
 First appearance: 8/18/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ashia%2C%20Kuro%20(A%20sporty%2C%20friendly%20girl)%20-%20Nyanako%2C%20V0.61.student">Ashia, Kuro (A sporty, friendly girl) - Nyanako, V0.61.student</a>
+Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ashia%2C%20Kuro%20(A%20sporty%2C%20friendly%20girl)%20-%20Nyanako%2C%20V0.69.student">Ashia, Kuro (A sporty, friendly girl) - Nyanako, V0.69.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
