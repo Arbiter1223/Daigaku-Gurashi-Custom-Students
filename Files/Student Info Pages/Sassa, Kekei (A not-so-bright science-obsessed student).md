@@ -1,8 +1,8 @@
 # Sassa, Kekei (A not-so-bright science-obsessed student)
 
-<img src="../../Files/Images/Sassa, Kekei (A not-so-bright science-obsessed student).png" title="Sassa, Kekei (A not-so-bright science-obsessed student) - BenPupKao, V0.69">
+<img src="../../Files/Images/Sassa, Kekei (A not-so-bright science-obsessed student).png" title="Sassa, Kekei (A not-so-bright science-obsessed student) - BenPupKao">
 
-**Database ID: #0475**
+**Database ID: #0476**
 
 First Name: Kekei
 
@@ -12,13 +12,15 @@ Description: A not-so-bright science-obsessed student
 
 Author: BenPupKao
 
-Compatable game version: V0.69
-
 First appearance: 11/6/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sassa%2C%20Kekei%20(A%20not-so-bright%20science-obsessed%20student)%20-%20BenPupKao%2C%20V0.69.student">Sassa, Kekei (A not-so-bright science-obsessed student) - BenPupKao, V0.69.student</a>
+### Additional information
+
+A not-so-bright science-obsessed student with a high vocabulary.
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Sassa%2C%20Kekei%20(A%20not-so-bright%20science-obsessed%20student)%20-%20BenPupKao.student">Sassa, Kekei (A not-so-bright science-obsessed student) - BenPupKao.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

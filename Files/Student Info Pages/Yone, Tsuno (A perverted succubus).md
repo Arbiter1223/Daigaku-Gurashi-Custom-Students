@@ -1,8 +1,8 @@
 # Yone, Tsuno (A perverted succubus)
 
-<img src="../../Files/Images/Yone, Tsuno (A perverted succubus).png" title="Yone, Tsuno (A perverted succubus) - Shadow, V0.69">
+<img src="../../Files/Images/Yone, Tsuno (A perverted succubus).png" title="Yone, Tsuno (A perverted succubus) - Shadow">
 
-**Database ID: #0106**
+**Database ID: #0107**
 
 First Name: Tsuno
 
@@ -12,13 +12,15 @@ Description: A perverted succubus
 
 Author: Shadow
 
-Compatable game version: V0.69
-
 First appearance: 8/14/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yone%2C%20Tsuno%20(A%20perverted%20succubus)%20-%20Shadow%2C%20V0.69.student">Yone, Tsuno (A perverted succubus) - Shadow, V0.69.student</a>
+### Additional information
+
+---No additional information available---
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yone%2C%20Tsuno%20(A%20perverted%20succubus)%20-%20Shadow.student">Yone, Tsuno (A perverted succubus) - Shadow.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

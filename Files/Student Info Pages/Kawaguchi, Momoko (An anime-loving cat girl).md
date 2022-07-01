@@ -1,8 +1,8 @@
 # Kawaguchi, Momoko (An anime-loving cat girl)
 
-<img src="../../Files/Images/Kawaguchi, Momoko (An anime-loving cat girl).png" title="Kawaguchi, Momoko (An anime-loving cat girl) - undercover fox, V0.69">
+<img src="../../Files/Images/Kawaguchi, Momoko (An anime-loving cat girl).png" title="Kawaguchi, Momoko (An anime-loving cat girl) - undercover fox">
 
-**Database ID: #0073**
+**Database ID: #0074**
 
 First Name: Momoko
 
@@ -12,13 +12,15 @@ Description: An anime-loving cat girl
 
 Author: undercover fox
 
-Compatable game version: V0.69
-
 First appearance: 7/30/2018
 
 Created in version: V0.26
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kawaguchi%2C%20Momoko%20(An%20anime-loving%20cat%20girl)%20-%20undercover%20fox%2C%20V0.69.student">Kawaguchi, Momoko (An anime-loving cat girl) - undercover fox, V0.69.student</a>
+### Additional information
+
+---No additional information available---
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kawaguchi%2C%20Momoko%20(An%20anime-loving%20cat%20girl)%20-%20undercover%20fox.student">Kawaguchi, Momoko (An anime-loving cat girl) - undercover fox.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

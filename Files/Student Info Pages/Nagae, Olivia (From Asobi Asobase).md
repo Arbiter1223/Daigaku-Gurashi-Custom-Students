@@ -1,8 +1,8 @@
 # Nagae, Olivia (From Asobi Asobase)
 
-<img src="../../Files/Images/Nagae, Olivia (From Asobi Asobase).png" title="Nagae, Olivia (From Asobi Asobase) - sansrika, V0.69">
+<img src="../../Files/Images/Nagae, Olivia (From Asobi Asobase).png" title="Nagae, Olivia (From Asobi Asobase) - sansrika">
 
-**Database ID: #0585**
+**Database ID: #0586**
 
 First Name: Olivia
 
@@ -12,13 +12,15 @@ Description: From Asobi Asobase
 
 Author: sansrika
 
-Compatable game version: V0.69
-
 First appearance: 12/27/2018
 
 Created in version: V0.29
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nagae%2C%20Olivia%20(From%20Asobi%20Asobase)%20-%20sansrika%2C%20V0.69.student">Nagae, Olivia (From Asobi Asobase) - sansrika, V0.69.student</a>
+### Additional information
+
+Based on the character from Asobi Asobase.
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nagae%2C%20Olivia%20(From%20Asobi%20Asobase)%20-%20sansrika.student">Nagae, Olivia (From Asobi Asobase) - sansrika.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

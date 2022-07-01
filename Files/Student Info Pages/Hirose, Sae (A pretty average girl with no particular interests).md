@@ -1,8 +1,8 @@
 # Hirose, Sae (A pretty average girl with no particular interests)
 
-<img src="../../Files/Images/Hirose, Sae (A pretty average girl with no particular interests).png" title="Hirose, Sae (A pretty average girl with no particular interests) - CookieBoi, V0.69">
+<img src="../../Files/Images/Hirose, Sae (A pretty average girl with no particular interests).png" title="Hirose, Sae (A pretty average girl with no particular interests) - CookieBoi">
 
-**Database ID: #0590**
+**Database ID: #0591**
 
 First Name: Sae
 
@@ -12,13 +12,15 @@ Description: A pretty average girl with no particular interests
 
 Author: CookieBoi
 
-Compatable game version: V0.69
-
 First appearance: 1/18/2018
 
-Created in version: V0.53
+Created in version: V0.30
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hirose%2C%20Sae%20(A%20pretty%20average%20girl%20with%20no%20particular%20interests)%20-%20CookieBoi%2C%20V0.69.student">Hirose, Sae (A pretty average girl with no particular interests) - CookieBoi, V0.69.student</a>
+### Additional information
+
+---No additional information available---
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hirose%2C%20Sae%20(A%20pretty%20average%20girl%20with%20no%20particular%20interests)%20-%20CookieBoi.student">Hirose, Sae (A pretty average girl with no particular interests) - CookieBoi.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

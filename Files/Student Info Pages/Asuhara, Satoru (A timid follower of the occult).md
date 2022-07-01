@@ -1,8 +1,8 @@
 # Asuhara, Satoru (A timid follower of the occult)
 
-<img src="../../Files/Images/Asuhara, Satoru (A timid follower of the occult).png" title="Asuhara, Satoru (A timid follower of the occult) - AjTheYandere, V0.69">
+<img src="../../Files/Images/Asuhara, Satoru (A timid follower of the occult).png" title="Asuhara, Satoru (A timid follower of the occult) - AjTheYandere">
 
-**Database ID: #0467**
+**Database ID: #0468**
 
 First Name: Satoru
 
@@ -12,13 +12,15 @@ Description: A timid follower of the occult
 
 Author: AjTheYandere
 
-Compatable game version: V0.69
-
 First appearance: 11/3/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Asuhara%2C%20Satoru%20(A%20timid%20follower%20of%20the%20occult)%20-%20AjTheYandere%2C%20V0.69.student">Asuhara, Satoru (A timid follower of the occult) - AjTheYandere, V0.69.student</a>
+### Additional information
+
+Part of the infamous "86 Students From Hell."
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Asuhara%2C%20Satoru%20(A%20timid%20follower%20of%20the%20occult)%20-%20AjTheYandere.student">Asuhara, Satoru (A timid follower of the occult) - AjTheYandere.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

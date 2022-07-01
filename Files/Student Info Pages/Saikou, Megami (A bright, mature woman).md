@@ -1,8 +1,8 @@
 # Saikou, Megami (A bright, mature woman)
 
-<img src="../../Files/Images/Saikou, Megami (A bright, mature woman).png" title="Saikou, Megami (A bright, mature woman) - Shadow and yogima, V0.69">
+<img src="../../Files/Images/Saikou, Megami (A bright, mature woman).png" title="Saikou, Megami (A bright, mature woman) - Shadow and yogima">
 
-**Database ID: #0194**
+**Database ID: #0195**
 
 First Name: Megami
 
@@ -12,13 +12,15 @@ Description: A bright, mature woman
 
 Author: Shadow and yogima
 
-Compatable game version: V0.69
-
 First appearance: 8/20/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Saikou%2C%20Megami%20(A%20bright%2C%20mature%20woman)%20-%20Shadow%20and%20yogima%2C%20V0.69.student">Saikou, Megami (A bright, mature woman) - Shadow and yogima, V0.69.student</a>
+### Additional information
+
+Based on the character from Yandere Simulator.
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Saikou%2C%20Megami%20(A%20bright%2C%20mature%20woman)%20-%20Shadow%20and%20yogima.student">Saikou, Megami (A bright, mature woman) - Shadow and yogima.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,8 +1,8 @@
 # Eiji, Yoshiyuki (A strong, modest athlete)
 
-<img src="../../Files/Images/Eiji, Yoshiyuki (A strong, modest athlete).png" title="Eiji, Yoshiyuki (A strong, modest athlete) - Rando Studenta, V0.69">
+<img src="../../Files/Images/Eiji, Yoshiyuki (A strong, modest athlete).png" title="Eiji, Yoshiyuki (A strong, modest athlete) - Rando Studenta">
 
-**Database ID: #0790**
+**Database ID: #0791**
 
 First Name: Yoshiyuki
 
@@ -12,13 +12,15 @@ Description: A strong, modest athlete
 
 Author: Rando Studenta
 
-Compatable game version: V0.69
-
 First appearance: 8/30/2020
 
 Created in version: V0.61
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Eiji%2C%20Yoshiyuki%20(A%20strong%2C%20modest%20athlete)%20-%20Rando%20Studenta%2C%20V0.69.student">Eiji, Yoshiyuki (A strong, modest athlete) - Rando Studenta, V0.69.student</a>
+### Additional information
+
+---No additional information available---
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Eiji%2C%20Yoshiyuki%20(A%20strong%2C%20modest%20athlete)%20-%20Rando%20Studenta.student">Eiji, Yoshiyuki (A strong, modest athlete) - Rando Studenta.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

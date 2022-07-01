@@ -1,8 +1,8 @@
 # Kaede, Lucy (A girl with Dissociative Identity Disorder)
 
-<img src="../../Files/Images/Kaede, Lucy (A girl with Dissociative Identity Disorder).png" title="Kaede, Lucy (A girl with Dissociative Identity Disorder) - Syberian Inc, V0.69">
+<img src="../../Files/Images/Kaede, Lucy (A girl with Dissociative Identity Disorder).png" title="Kaede, Lucy (A girl with Dissociative Identity Disorder) - Syberian Inc">
 
-**Database ID: #0046**
+**Database ID: #0047**
 
 First Name: Lucy
 
@@ -12,13 +12,15 @@ Description: A girl with Dissociative Identity Disorder
 
 Author: Syberian Inc
 
-Compatable game version: V0.69
-
 First appearance: 7/17/2018
 
 Created in version: V0.26
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kaede%2C%20Lucy%20(A%20girl%20with%20Dissociative%20Identity%20Disorder)%20-%20Syberian%20Inc%2C%20V0.69.student">Kaede, Lucy (A girl with Dissociative Identity Disorder) - Syberian Inc, V0.69.student</a>
+### Additional information
+
+Based on the character from Elfen Lied.
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kaede%2C%20Lucy%20(A%20girl%20with%20Dissociative%20Identity%20Disorder)%20-%20Syberian%20Inc.student">Kaede, Lucy (A girl with Dissociative Identity Disorder) - Syberian Inc.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

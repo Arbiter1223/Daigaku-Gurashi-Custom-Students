@@ -1,8 +1,8 @@
 # Hatakeyama, Karahashi (An athletic occult girl)
 
-<img src="../../Files/Images/Hatakeyama, Karahashi (An athletic occult girl).png" title="Hatakeyama, Karahashi (An athletic occult girl) - AjTheYandere, V0.69">
+<img src="../../Files/Images/Hatakeyama, Karahashi (An athletic occult girl).png" title="Hatakeyama, Karahashi (An athletic occult girl) - AjTheYandere">
 
-**Database ID: #0248**
+**Database ID: #0249**
 
 First Name: Karahashi
 
@@ -12,13 +12,15 @@ Description: An athletic occult girl
 
 Author: AjTheYandere
 
-Compatable game version: V0.69
-
 First appearance: 9/2/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hatakeyama%2C%20Karahashi%20(An%20athletic%20occult%20girl)%20-%20AjTheYandere%2C%20V0.69.student">Hatakeyama, Karahashi (An athletic occult girl) - AjTheYandere, V0.69.student</a>
+### Additional information
+
+An athletic occult girl who is secretly a ninja.
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Hatakeyama%2C%20Karahashi%20(An%20athletic%20occult%20girl)%20-%20AjTheYandere.student">Hatakeyama, Karahashi (An athletic occult girl) - AjTheYandere.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

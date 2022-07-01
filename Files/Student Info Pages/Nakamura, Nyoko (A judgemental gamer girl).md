@@ -1,8 +1,8 @@
 # Nakamura, Nyoko (A judgemental gamer girl)
 
-<img src="../../Files/Images/Nakamura, Nyoko (A judgemental gamer girl).png" title="Nakamura, Nyoko (A judgemental gamer girl) - witcharies, V0.69">
+<img src="../../Files/Images/Nakamura, Nyoko (A judgemental gamer girl).png" title="Nakamura, Nyoko (A judgemental gamer girl) - witcharies">
 
-**Database ID: #0668**
+**Database ID: #0669**
 
 First Name: Nyoko
 
@@ -12,13 +12,15 @@ Description: A judgemental gamer girl
 
 Author: witcharies
 
-Compatable game version: V0.69
-
 First appearance: 4/15/2019
 
 Created in version: V0.33
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakamura%2C%20Nyoko%20(A%20judgemental%20gamer%20girl)%20-%20witcharies%2C%20V0.69.student">Nakamura, Nyoko (A judgemental gamer girl) - witcharies, V0.69.student</a>
+### Additional information
+
+---No additional information available---
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Nakamura%2C%20Nyoko%20(A%20judgemental%20gamer%20girl)%20-%20witcharies.student">Nakamura, Nyoko (A judgemental gamer girl) - witcharies.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

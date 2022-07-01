@@ -1,8 +1,8 @@
 # Takemitsu, Izzy (A very sociable cutie)
 
-<img src="../../Files/Images/Takemitsu, Izzy (A very sociable cutie).png" title="Takemitsu, Izzy (A very sociable cutie) - Izzabella, V0.69">
+<img src="../../Files/Images/Takemitsu, Izzy (A very sociable cutie).png" title="Takemitsu, Izzy (A very sociable cutie) - Izzabella">
 
-**Database ID: #0221**
+**Database ID: #0222**
 
 First Name: Izzy
 
@@ -12,13 +12,15 @@ Description: A very sociable cutie
 
 Author: Izzabella
 
-Compatable game version: V0.69
-
 First appearance: 8/28/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Takemitsu%2C%20Izzy%20(A%20very%20sociable%20cutie)%20-%20Izzabella%2C%20V0.69.student">Takemitsu, Izzy (A very sociable cutie) - Izzabella, V0.69.student</a>
+### Additional information
+
+---No additional information available---
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Takemitsu%2C%20Izzy%20(A%20very%20sociable%20cutie)%20-%20Izzabella.student">Takemitsu, Izzy (A very sociable cutie) - Izzabella.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

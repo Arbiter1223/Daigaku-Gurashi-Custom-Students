@@ -1,8 +1,8 @@
 # TheYandere, Aj (A very antisocial guy)
 
-<img src="../../Files/Images/TheYandere, Aj (A very antisocial guy).png" title="TheYandere, Aj (A very antisocial guy) - AjTheYandere, V0.69">
+<img src="../../Files/Images/TheYandere, Aj (A very antisocial guy).png" title="TheYandere, Aj (A very antisocial guy) - AjTheYandere">
 
-**Database ID: #0243**
+**Database ID: #0244**
 
 First Name: Aj
 
@@ -12,17 +12,19 @@ Description: A very antisocial guy
 
 Author: AjTheYandere
 
-Compatable game version: V0.69
-
 First appearance: 9/2/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/TheYandere%2C%20Aj%20(A%20very%20antisocial%20guy)%20-%20AjTheYandere%2C%20V0.69.student">TheYandere, Aj (A very antisocial guy) - AjTheYandere, V0.69.student</a>
+### Additional information
+
+---No additional information available---
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/TheYandere%2C%20Aj%20(A%20very%20antisocial%20guy)%20-%20AjTheYandere.student">TheYandere, Aj (A very antisocial guy) - AjTheYandere.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Komatsu, Charlie (Aj's pet cat).md"><img src="../../Files/Thumbs/Komatsu, Charlie (Aj's pet cat).png" height="100" width="100" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V0.69"></a><a href="Komatsu, Charlie (Aj's pet cat).md"> Charlie - Pet</a>
+<a href="Komatsu, Charlie (Aj's pet cat).md"><img src="../../Files/Thumbs/Komatsu, Charlie (Aj's pet cat).png" height="100" width="100" title="Komatsu, Charlie (Aj's pet cat) - AjTheYandere, V1.00"></a><a href="Komatsu, Charlie (Aj's pet cat).md"> Charlie - Pet</a>
 

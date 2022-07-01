@@ -1,8 +1,8 @@
 # Kusaka, Tomiko (A shy, withdrawn girl)
 
-<img src="../../Files/Images/Kusaka, Tomiko (A shy, withdrawn girl).png" title="Kusaka, Tomiko (A shy, withdrawn girl) - AjTheYandere, V0.69">
+<img src="../../Files/Images/Kusaka, Tomiko (A shy, withdrawn girl).png" title="Kusaka, Tomiko (A shy, withdrawn girl) - AjTheYandere">
 
-**Database ID: #0390**
+**Database ID: #0391**
 
 First Name: Tomiko
 
@@ -12,13 +12,15 @@ Description: A shy, withdrawn girl
 
 Author: AjTheYandere
 
-Compatable game version: V0.69
-
 First appearance: 11/3/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kusaka%2C%20Tomiko%20(A%20shy%2C%20withdrawn%20girl)%20-%20AjTheYandere%2C%20V0.69.student">Kusaka, Tomiko (A shy, withdrawn girl) - AjTheYandere, V0.69.student</a>
+### Additional information
+
+Part of the infamous "86 Students From Hell."
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Kusaka%2C%20Tomiko%20(A%20shy%2C%20withdrawn%20girl)%20-%20AjTheYandere.student">Kusaka, Tomiko (A shy, withdrawn girl) - AjTheYandere.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

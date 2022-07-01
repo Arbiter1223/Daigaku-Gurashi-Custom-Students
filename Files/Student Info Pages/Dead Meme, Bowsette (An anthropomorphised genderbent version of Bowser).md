@@ -1,8 +1,8 @@
 # Dead Meme, Bowsette (An anthropomorphised genderbent version of Bowser)
 
-<img src="../../Files/Images/Dead Meme, Bowsette (An anthropomorphised genderbent version of Bowser).png" title="Dead Meme, Bowsette (An anthropomorphised genderbent version of Bowser) - AjTheYandere, V0.69">
+<img src="../../Files/Images/Dead Meme, Bowsette (An anthropomorphised genderbent version of Bowser).png" title="Dead Meme, Bowsette (An anthropomorphised genderbent version of Bowser) - AjTheYandere">
 
-**Database ID: #0701**
+**Database ID: #0702**
 
 First Name: Bowsette
 
@@ -12,13 +12,15 @@ Description: An anthropomorphised genderbent version of Bowser
 
 Author: AjTheYandere
 
-Compatable game version: V0.69
-
 First appearance: 9/2/2019
 
 Created in version: V0.41
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Dead%20Meme%2C%20Bowsette%20(An%20anthropomorphised%20genderbent%20version%20of%20Bowser)%20-%20AjTheYandere%2C%20V0.69.student">Dead Meme, Bowsette (An anthropomorphised genderbent version of Bowser) - AjTheYandere, V0.69.student</a>
+### Additional information
+
+Based off the Bowsette meme of 2018.
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Dead%20Meme%2C%20Bowsette%20(An%20anthropomorphised%20genderbent%20version%20of%20Bowser)%20-%20AjTheYandere.student">Dead Meme, Bowsette (An anthropomorphised genderbent version of Bowser) - AjTheYandere.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

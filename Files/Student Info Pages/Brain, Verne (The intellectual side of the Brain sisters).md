@@ -1,8 +1,8 @@
 # Brain, Verne (The intellectual side of the Brain sisters)
 
-<img src="../../Files/Images/Brain, Verne (The intellectual side of the Brain sisters).png" title="Brain, Verne (The intellectual side of the Brain sisters) - AjTheYandere, V0.69">
+<img src="../../Files/Images/Brain, Verne (The intellectual side of the Brain sisters).png" title="Brain, Verne (The intellectual side of the Brain sisters) - AjTheYandere">
 
-**Database ID: #0283**
+**Database ID: #0284**
 
 First Name: Verne
 
@@ -12,17 +12,19 @@ Description: The intellectual side of the Brain sisters
 
 Author: AjTheYandere
 
-Compatable game version: V0.69
-
 First appearance: 9/13/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Brain%2C%20Verne%20(The%20intellectual%20side%20of%20the%20Brain%20sisters)%20-%20AjTheYandere%2C%20V0.69.student">Brain, Verne (The intellectual side of the Brain sisters) - AjTheYandere, V0.69.student</a>
+### Additional information
+
+Verne is a girl who was literally born with only half a brain. While it is miraculous that she is able to live with this condition, she lacks all emotion and is purely intellectual in nature. Her sister Violet was born with a similar brain condition, except that the opposite hemisphere was missing instead.
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Brain%2C%20Verne%20(The%20intellectual%20side%20of%20the%20Brain%20sisters)%20-%20AjTheYandere.student">Brain, Verne (The intellectual side of the Brain sisters) - AjTheYandere.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
 ### Related Students
 
-<a href="Brain, Violet (The emotional side of the Brain sisters).md"><img src="../../Files/Thumbs/Brain, Violet (The emotional side of the Brain sisters).png" height="100" width="100" title="Brain, Violet (The emotional side of the Brain sisters) - AjTheYandere, V0.69"></a><a href="Brain, Violet (The emotional side of the Brain sisters).md"> Violet - Sister</a>
+<a href="Brain, Violet (The emotional side of the Brain sisters).md"><img src="../../Files/Thumbs/Brain, Violet (The emotional side of the Brain sisters).png" height="100" width="100" title="Brain, Violet (The emotional side of the Brain sisters) - AjTheYandere, V1.00"></a><a href="Brain, Violet (The emotional side of the Brain sisters).md"> Violet - Sister</a>
 

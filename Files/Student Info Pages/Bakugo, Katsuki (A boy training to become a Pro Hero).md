@@ -1,8 +1,8 @@
 # Bakugo, Katsuki (A boy training to become a Pro Hero)
 
-<img src="../../Files/Images/Bakugo, Katsuki (A boy training to become a Pro Hero).png" title="Bakugo, Katsuki (A boy training to become a Pro Hero) - ClownPrinceOfLies, V0.69">
+<img src="../../Files/Images/Bakugo, Katsuki (A boy training to become a Pro Hero).png" title="Bakugo, Katsuki (A boy training to become a Pro Hero) - ClownPrinceOfLies">
 
-**Database ID: #0051**
+**Database ID: #0052**
 
 First Name: Katsuki
 
@@ -12,13 +12,15 @@ Description: A boy training to become a Pro Hero
 
 Author: ClownPrinceOfLies
 
-Compatable game version: V0.69
-
 First appearance: 7/22/2018
 
 Created in version: V0.26
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Bakugo%2C%20Katsuki%20(A%20boy%20training%20to%20become%20a%20Pro%20Hero)%20-%20ClownPrinceOfLies%2C%20V0.69.student">Bakugo, Katsuki (A boy training to become a Pro Hero) - ClownPrinceOfLies, V0.69.student</a>
+### Additional information
+
+Katsuki is a former student from Class 1-A at U.A. High School. Now that he has graduated high school, he is continuing to train to become a Pro Hero. Based on the character from My Hero Academia.
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Bakugo%2C%20Katsuki%20(A%20boy%20training%20to%20become%20a%20Pro%20Hero)%20-%20ClownPrinceOfLies.student">Bakugo, Katsuki (A boy training to become a Pro Hero) - ClownPrinceOfLies.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

@@ -1,8 +1,8 @@
 # Yamaguchiya, Kairi (A perverted, athletic futa)
 
-<img src="../../Files/Images/Yamaguchiya, Kairi (A perverted, athletic futa).png" title="Yamaguchiya, Kairi (A perverted, athletic futa) - RainB, V0.69">
+<img src="../../Files/Images/Yamaguchiya, Kairi (A perverted, athletic futa).png" title="Yamaguchiya, Kairi (A perverted, athletic futa) - RainB">
 
-**Database ID: #0078**
+**Database ID: #0079**
 
 First Name: Kairi
 
@@ -12,13 +12,15 @@ Description: A perverted, athletic futa
 
 Author: RainB
 
-Compatable game version: V0.69
-
 First appearance: 8/2/2018
 
 Created in version: V0.26
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamaguchiya%2C%20Kairi%20(A%20perverted%2C%20athletic%20futa)%20-%20RainB%2C%20V0.69.student">Yamaguchiya, Kairi (A perverted, athletic futa) - RainB, V0.69.student</a>
+### Additional information
+
+---No additional information available---
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Yamaguchiya%2C%20Kairi%20(A%20perverted%2C%20athletic%20futa)%20-%20RainB.student">Yamaguchiya, Kairi (A perverted, athletic futa) - RainB.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

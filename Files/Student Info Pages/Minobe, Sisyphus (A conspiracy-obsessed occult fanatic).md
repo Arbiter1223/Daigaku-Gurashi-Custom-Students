@@ -1,8 +1,8 @@
 # Minobe, Sisyphus (A conspiracy-obsessed occult fanatic)
 
-<img src="../../Files/Images/Minobe, Sisyphus (A conspiracy-obsessed occult fanatic).png" title="Minobe, Sisyphus (A conspiracy-obsessed occult fanatic) - BenPupKao, V0.69">
+<img src="../../Files/Images/Minobe, Sisyphus (A conspiracy-obsessed occult fanatic).png" title="Minobe, Sisyphus (A conspiracy-obsessed occult fanatic) - BenPupKao">
 
-**Database ID: #0504**
+**Database ID: #0505**
 
 First Name: Sisyphus
 
@@ -12,13 +12,15 @@ Description: A conspiracy-obsessed occult fanatic
 
 Author: BenPupKao
 
-Compatable game version: V0.69
-
 First appearance: 11/15/2018
 
 Created in version: V0.28
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Minobe%2C%20Sisyphus%20(A%20conspiracy-obsessed%20occult%20fanatic)%20-%20BenPupKao%2C%20V0.69.student">Minobe, Sisyphus (A conspiracy-obsessed occult fanatic) - BenPupKao, V0.69.student</a>
+### Additional information
+
+Sisyphus is a conspiracy theorist who is obsessed with the occult. He believes the world is a simulation and researches his points to no avail. Sisyphus constantly loses sleep due to his never-ending research, and his parents are greatly concerned for his mental state.
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Minobe%2C%20Sisyphus%20(A%20conspiracy-obsessed%20occult%20fanatic)%20-%20BenPupKao.student">Minobe, Sisyphus (A conspiracy-obsessed occult fanatic) - BenPupKao.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

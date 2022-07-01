@@ -1,8 +1,8 @@
 # Miyazawa, Yotsuba (A timid athlete)
 
-<img src="../../Files/Images/Miyazawa, Yotsuba (A timid athlete).png" title="Miyazawa, Yotsuba (A timid athlete) - AjTheYandere, V0.69">
+<img src="../../Files/Images/Miyazawa, Yotsuba (A timid athlete).png" title="Miyazawa, Yotsuba (A timid athlete) - AjTheYandere">
 
-**Database ID: #0397**
+**Database ID: #0398**
 
 First Name: Yotsuba
 
@@ -12,13 +12,15 @@ Description: A timid athlete
 
 Author: AjTheYandere
 
-Compatable game version: V0.69
-
 First appearance: 11/3/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Miyazawa%2C%20Yotsuba%20(A%20timid%20athlete)%20-%20AjTheYandere%2C%20V0.69.student">Miyazawa, Yotsuba (A timid athlete) - AjTheYandere, V0.69.student</a>
+### Additional information
+
+Part of the infamous "86 Students From Hell."
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Miyazawa%2C%20Yotsuba%20(A%20timid%20athlete)%20-%20AjTheYandere.student">Miyazawa, Yotsuba (A timid athlete) - AjTheYandere.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 

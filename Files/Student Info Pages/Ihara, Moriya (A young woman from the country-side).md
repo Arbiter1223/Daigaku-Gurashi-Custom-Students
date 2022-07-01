@@ -1,8 +1,8 @@
 # Ihara, Moriya (A young woman from the country-side)
 
-<img src="../../Files/Images/Ihara, Moriya (A young woman from the country-side).png" title="Ihara, Moriya (A young woman from the country-side) - Nyanako, V0.69">
+<img src="../../Files/Images/Ihara, Moriya (A young woman from the country-side).png" title="Ihara, Moriya (A young woman from the country-side) - Nyanako">
 
-**Database ID: #0169**
+**Database ID: #0170**
 
 First Name: Moriya
 
@@ -12,13 +12,15 @@ Description: A young woman from the country-side
 
 Author: Nyanako
 
-Compatable game version: V0.69
-
 First appearance: 8/18/2018
 
 Created in version: V0.27
 
-Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ihara%2C%20Moriya%20(A%20young%20woman%20from%20the%20country-side)%20-%20Nyanako%2C%20V0.69.student">Ihara, Moriya (A young woman from the country-side) - Nyanako, V0.69.student</a>
+### Additional information
+
+Moriya is a super friendly, sporty girl from the countryside. She generally gets along with everyone excluding bully-types. While Moriya's friendliness and open mind shine through, she isn't incredibly smart...
+
+### Download link: <a href="https://raw.githubusercontent.com/Arbiter1223/Daigaku-Gurashi-Custom-Students/master/Files/Student%20Files/Ihara%2C%20Moriya%20(A%20young%20woman%20from%20the%20country-side)%20-%20Nyanako.student">Ihara, Moriya (A young woman from the country-side) - Nyanako.student</a>
 
 ### ---**To download, _right-click_ the link, and select _"Save as"_**---
 
