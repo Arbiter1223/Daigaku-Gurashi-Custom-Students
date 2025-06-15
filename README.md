@@ -257,7 +257,7 @@ If you haven't done so already, go check out the game Daigaku Gurashi! Click the
 
 <a href="Files/Student Info Pages/Yunokawa, Chiharu (A reclusive futanari).md"><img src="Files/Thumbs/Yunokawa, Chiharu (A reclusive futanari).png" height="100" width="100" title="Yunokawa, Chiharu (A reclusive futanari) - Rando Studenta"></a><a href="Files/Student Info Pages/Yunokawa, Chiharu (A reclusive futanari).md"> **#0116:** Yunokawa, Chiharu (A reclusive futanari) - Rando Studenta</a>
 
-<a href="Files/Student Info Pages/Michio, Cory (A friendly computer geek).md"><img src="Files/Thumbs/Michio, Cory (A friendly computer geek).png" height="100" width="100" title="Michio, Cory (A friendly computer geek) - Arbiter1223"></a><a href="Files/Student Info Pages/Michio, Cory (A friendly computer geek).md"> **#0117:** Michio, Cory (A friendly computer geek) - Arbiter1223</a>
+<a href="Files/Student Info Pages/1223, Arbiter (A friendly computer geek).md"><img src="Files/Thumbs/1223, Arbiter (A friendly computer geek).png" height="100" width="100" title="1223, Arbiter (A friendly computer geek) - Arbiter1223"></a><a href="Files/Student Info Pages/1223, Arbiter (A friendly computer geek).md"> **#0117:** 1223, Arbiter (A friendly computer geek) - Arbiter1223</a>
 
 <a href="Files/Student Info Pages/Kondo, Fumiko (A snooty, half-witted girl).md"><img src="Files/Thumbs/Kondo, Fumiko (A snooty, half-witted girl).png" height="100" width="100" title="Kondo, Fumiko (A snooty, half-witted girl) - Rando Studenta"></a><a href="Files/Student Info Pages/Kondo, Fumiko (A snooty, half-witted girl).md"> **#0118:** Kondo, Fumiko (A snooty, half-witted girl) - Rando Studenta</a>
 

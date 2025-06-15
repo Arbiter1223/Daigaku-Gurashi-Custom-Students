@@ -26,5 +26,5 @@ I see Rule 63 has finally caught up to me... I guess it was inevitable. ~~I have
 
 ### Related Students
 
-<a href="Michio, Cory (A friendly computer geek).md"><img src="../../Files/Thumbs/Michio, Cory (A friendly computer geek).png" height="100" width="100" title="Michio, Cory (A friendly computer geek) - Arbiter1223, V1.00"></a><a href="Michio, Cory (A friendly computer geek).md"> Cory - Male variant</a>
+<a href="1223, Arbiter (A friendly computer geek).md"><img src="../../Files/Thumbs/1223, Arbiter (A friendly computer geek).png" height="100" width="100" title="1223, Arbiter (A friendly computer geek) - Arbiter1223, V1.00"></a><a href="1223, Arbiter (A friendly computer geek).md"> Arbiter - Male variant</a>
 
